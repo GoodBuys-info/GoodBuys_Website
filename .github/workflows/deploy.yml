@@ -1,0 +1,108 @@
+name: Deploy to cPanel (Passenger)
+
+# Builds the Next.js standalone bundle, ships it to a cPanel account over SSH,
+# and restarts the Phusion Passenger Node app.
+# Required repository secrets (Settings → Secrets and variables → Actions):
+#   CPANEL_HOST         e.g. server123.web-hosting.com
+#   CPANEL_USER         cPanel username (the ssh login user)
+#   CPANEL_SSH_PORT     SSH port (Namecheap shared hosting is usually 21098)
+#   CPANEL_SSH_KEY      PRIVATE deploy key (PEM). Public half goes in the
+#                       account's ~/.ssh/authorized_keys (see deploy/README.md)
+#   CPANEL_APP_ROOT     Absolute app root, e.g. /home/<user>/goodbuys
+#   CPANEL_KNOWN_HOSTS  (recommended) pinned known_hosts line for CPANEL_HOST.
+#                       If unset, the host key is trusted on first use (TOFU).
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Never let two deploys race onto the same account.
+concurrency:
+  group: deploy-cpanel
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    # Optional: attach a GitHub Environment named "production" for required
+    # reviewers / protected secrets before this job can run.
+    # environment: production
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build (standalone)
+        run: npm run build
+        env:
+          NEXT_TELEMETRY_DISABLED: "1"
+          NODE_ENV: production
+
+      - name: Assemble standalone bundle
+        run: |
+          set -euo pipefail
+          # `output: "standalone"` deliberately omits static assets and public/,
+          # so Next expects you to copy them alongside the standalone server.
+          cp -R public .next/standalone/public
+          mkdir -p .next/standalone/.next
+          cp -R .next/static .next/standalone/.next/static
+
+      - name: Configure SSH
+        env:
+          SSH_KEY: ${{ secrets.CPANEL_SSH_KEY }}
+          KNOWN_HOSTS: ${{ secrets.CPANEL_KNOWN_HOSTS }}
+          HOST: ${{ secrets.CPANEL_HOST }}
+          PORT: ${{ secrets.CPANEL_SSH_PORT }}
+        run: |
+          set -euo pipefail
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          printf '%s\n' "$SSH_KEY" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          if [ -n "${KNOWN_HOSTS:-}" ]; then
+            printf '%s\n' "$KNOWN_HOSTS" > ~/.ssh/known_hosts
+          else
+            echo "::warning::CPANEL_KNOWN_HOSTS not set — trusting host key on first use (TOFU)."
+            ssh-keyscan -p "${PORT:-22}" "$HOST" >> ~/.ssh/known_hosts 2>/dev/null
+          fi
+          chmod 644 ~/.ssh/known_hosts
+
+      - name: Deploy over rsync
+        env:
+          HOST: ${{ secrets.CPANEL_HOST }}
+          USER: ${{ secrets.CPANEL_USER }}
+          PORT: ${{ secrets.CPANEL_SSH_PORT }}
+          APP_ROOT: ${{ secrets.CPANEL_APP_ROOT }}
+        run: |
+          set -euo pipefail
+          # --delete keeps the remote a mirror of the build, but we PRESERVE:
+          #   data/  → runtime contact-form submissions (app/api/contact)
+          #   tmp/   → Passenger restart marker dir
+          #   *.env / node app config the cPanel UI may manage
+          rsync -az --delete \
+            --exclude='data/' \
+            --exclude='tmp/' \
+            --exclude='.env' \
+            -e "ssh -i ~/.ssh/deploy_key -p ${PORT:-22} -o StrictHostKeyChecking=yes" \
+            .next/standalone/ \
+            "${USER}@${HOST}:${APP_ROOT}/"
+
+      - name: Restart Passenger
+        env:
+          HOST: ${{ secrets.CPANEL_HOST }}
+          USER: ${{ secrets.CPANEL_USER }}
+          PORT: ${{ secrets.CPANEL_SSH_PORT }}
+          APP_ROOT: ${{ secrets.CPANEL_APP_ROOT }}
+        run: |
+          set -euo pipefail
+          ssh -i ~/.ssh/deploy_key -p "${PORT:-22}" -o StrictHostKeyChecking=yes \
+            "${USER}@${HOST}" \
+            "mkdir -p '${APP_ROOT}/tmp' && touch '${APP_ROOT}/tmp/restart.txt'"
