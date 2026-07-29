@@ -9,21 +9,42 @@
 			"linkedIn": "https://www.linkedin.com/in/nshaghaghi/"
 		},
 		{
+			"name": "Raphael Kusuma",
+			"image": "Raphael.png",
+			"role": "Full Stack Mobile Developer",
+			"degree": "Masters of Science in Computer Science & Engineering",
+			"linkedIn": "https://www.linkedin.com/in/raphaelkusuma/"
+		},
+		{
+			"name": "Sangeeta Sheshachala",
+			"image": "Sangeeta.jpg",
+			"role": "Product Manager",
+			"degree": "Master of Science - Information Systems",
+			"linkedIn": "https://www.linkedin.com/in/sangeeta-sheshachala/"
+		},
+		{
+			"name": "Jemian Lam",
+			"image": "Jemian_Placeholder.jpg",
+			"role": "Full Stack Developer",
+			"degree": "Bachelor's of Science in Computer Science & Engineering",
+			"linkedIn": "https://www.linkedin.com/in/jemianlam/"
+		},
+		{
+			"name": "Samiksha Khare",
+			"image": "Samiksha.jpg",
+			"role": "Full Stack Developer",
+			"degree": "Masters of Science - Information Systems",
+			"linkedIn": "https://www.linkedin.com/in/samiksha-khare/"
+		}
+	],
+	"pastTeamMembers": [
+		{
 			"name": "Kallan Fraser",
 			"image": "Kallan.png",
 			"role": "Front & Backend Developer",
 			"degree": "Masters in Cybersecurity & Bachelors of Science in Computer Science",
 			"linkedIn": "https://www.linkedin.com/in/kallan-fraser-9899a529b"
 		},
-		{
-			"name": "Raphael Kusuma",
-			"image": "Raphael.png",
-			"role": "Full Stack Mobile Developer",
-			"degree": "Masters of Science in Computer Science & Engineering",
-			"linkedIn": "https://www.linkedin.com/in/raphaelkusuma/"
-		}
-	],
-	"pastTeamMembers": [
 		{
 			"name": "Suyash Jaju",
 			"image": "Suyash.png",
