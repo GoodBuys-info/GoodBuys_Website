@@ -47,6 +47,11 @@ jobs:
           NEXT_TELEMETRY_DISABLED: "1"
           NODE_ENV: production
 
+      - name: Generate news feed
+        # Writes public/data/news-preview.json (gitignored, so it must be built
+        # here). Non-fatal: a flaky RSS feed must not fail a production deploy.
+        run: npm run fetch:news || echo "::warning::news fetch failed — deploying without a fresh news-preview.json"
+
       - name: Assemble standalone bundle
         run: |
           set -euo pipefail
@@ -84,12 +89,16 @@ jobs:
         run: |
           set -euo pipefail
           # --delete keeps the remote a mirror of the build, but we PRESERVE:
-          #   data/  → runtime contact-form submissions (app/api/contact)
-          #   tmp/   → Passenger restart marker dir
+          #   /data/ → runtime contact-form submissions (app/api/contact)
+          #   /tmp/  → Passenger restart marker dir
           #   *.env / node app config the cPanel UI may manage
+          # NOTE: leading slash anchors the pattern to the app root. Without it,
+          # rsync excludes ANY dir named data/ — including public/data/, which
+          # holds company-labels.json, labels.json and news-preview.json and
+          # caused all /data/*.json to 404 in production.
           rsync -az --delete \
-            --exclude='data/' \
-            --exclude='tmp/' \
+            --exclude='/data/' \
+            --exclude='/tmp/' \
             --exclude='.env' \
             -e "ssh -i ~/.ssh/deploy_key -p ${PORT:-22} -o StrictHostKeyChecking=yes" \
             .next/standalone/ \
