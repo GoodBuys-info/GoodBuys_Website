@@ -10,6 +10,8 @@
 		"scrape:companies:dry": "DRY_RUN=1 npm run scrape:companies",
 		"fetch:news": "node ./scripts/fetch-news/run.js",
 		"fetch:news:dry": "DRY_RUN=1 npm run fetch:news",
+		"fetch:legal-news": "node ./scripts/fetch-legal-news/run.js",
+		"fetch:legal-news:dry": "DRY_RUN=1 npm run fetch:legal-news",
 		"generate:ecolabels": "node ./scripts/scrape-eco-labels/generate-eco-labels.js"
 	},
 	"repository": {
@@ -27,6 +29,7 @@
 		"fast-xml-parser": "^5.9.3",
 		"next": "^16.2.10",
 		"node-fetch": "^3.3.2",
+		"node-llama-cpp": "^3.20.0",
 		"p-limit": "^7.3.0",
 		"react": "^19.2.7",
 		"react-dom": "^19.2.7"

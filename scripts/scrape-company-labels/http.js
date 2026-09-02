@@ -12,7 +12,7 @@ const USER_AGENTS = [
 const hostPenalties = new Map();
 const hostStats = new Map();
 
-export async function fetchHtml(url, retryCount = 0) {
+export async function fetchHtml(url, retryCount = 0, extraHeaders = {}) {
 	const host = new URL(url).host;
 	const ua = USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
 
@@ -23,6 +23,7 @@ export async function fetchHtml(url, retryCount = 0) {
 				"User-Agent": ua,
 				Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
 				"Accept-Language": "en-US,en;q=0.5",
+				...extraHeaders,
 			},
 		});
 
@@ -56,7 +57,7 @@ export async function fetchHtml(url, retryCount = 0) {
 			hostPenalties.set(host, currentPenalty + 2);
 
 			await new Promise((r) => setTimeout(r, wait));
-			return fetchHtml(url, retryCount + 1);
+			return fetchHtml(url, retryCount + 1, extraHeaders);
 		}
 
 		return null;

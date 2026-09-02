@@ -1,0 +1,77 @@
+name: Fetch Legal News (Monthly)
+
+# Regenerates public/data/legal-news.json: for every company in the registry,
+# pulls lawsuit/complaint/settlement/investigation coverage from the approved
+# sources (EEOC, OECD Watch, Human Trafficking Search, NPR, Triple Pundit,
+# Reuters) plus federal court records via CourtListener, and commits the
+# result. Deliberately NOT run on every push like fetch:news — this does
+# ~600 targeted search requests plus local LLM inference over the
+# freeform-journalism candidates, too slow/wasteful to redo on every deploy.
+# The resulting commit lands on main and the existing push-triggered deploy
+# workflow ships it automatically.
+#
+# Optional repository secret:
+#   COURTLISTENER_API_TOKEN   Free account at courtlistener.com (Profile ->
+#                             API Token). Raises the CourtListener rate limit
+#                             for a full 205-company run; unset still works,
+#                             just more conservatively rate-limited.
+
+on:
+  schedule:
+    # 06:00 UTC on the 1st of every month.
+    - cron: "0 6 1 * *"
+  workflow_dispatch: {}
+
+# Never let a manual run race a scheduled one.
+concurrency:
+  group: fetch-legal-news
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Cache local LLM model
+        # node-llama-cpp downloads the ~2GB quantized GGUF into .models/ on
+        # first use (see scripts/fetch-legal-news/llm.js). Cache it so only
+        # the first-ever run pays the download cost.
+        uses: actions/cache@v4
+        with:
+          path: .models
+          key: legal-news-llm-model-qwen2.5-3b-instruct-q4_k_m
+
+      - name: Run legal news fetcher
+        run: npm run fetch:legal-news
+        env:
+          NODE_TELEMETRY_DISABLED: "1"
+          COURTLISTENER_API_TOKEN: ${{ secrets.COURTLISTENER_API_TOKEN }}
+
+      - name: Commit and push if changed
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet -- public/data/legal-news.json; then
+            echo "No changes to public/data/legal-news.json — nothing to commit."
+            exit 0
+          fi
+
+          git add public/data/legal-news.json
+          git commit -m "chore(legal-news): monthly refresh of company legal records"
+          git push origin HEAD:main

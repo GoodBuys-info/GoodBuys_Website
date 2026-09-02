@@ -203,6 +203,54 @@ Triple Pundit intermittently returns HTTP 403 to the axios client even with UA r
 
 ---
 
+## 6.6 — Legal News Fetcher
+
+A second sibling pipeline in `scripts/fetch-legal-news/`, keyed to the **company** registry (`company-labels.json`) rather than the label registry. Surfaces lawsuits, complaints, investigations, settlements, and regulatory/labor-rights/human-trafficking findings per company from the 6 originally-approved sources plus CourtListener (federal court records), rendered on `/LegalNews`.
+
+### Flow
+
+Company → per-source retrieval → company match (title-tier required) → legal-relevance keyword gate → status classification (deterministic or local-LLM, per source) → dedupe → atomic write. CourtListener bypasses the matcher/relevance-gate/classification steps entirely — see below. Meant to run **monthly** via `.github/workflows/legal-news.yml`, not on every deploy like `fetch-news` — retrieval alone is ~3 requests per company (615 for the current 205-company registry), plus local LLM inference on top.
+
+### Per-source retrieval is hybrid, not uniform
+
+Three sources support a real per-company query, confirmed by testing: EEOC newsroom (`GET /newsroom/search?keywords=<company>`), Human Trafficking Search via its per-query RSS feed (`/search/<term>/feed/rss2/`), and CourtListener via its `party_name` API filter. The other four don't — OECD Watch's filters are FacetWP AJAX only, NPR's search UI is client-rendered JS with nothing in the raw HTML, Triple Pundit's search endpoint hits the same Cloudflare block as §6.5, and Reuters returns 401 on a plain fetch. Those four are fetched **once** (full listing / RSS feed) and matched locally instead, same as the news fetcher.
+
+### CourtListener — added after the original 6 sources proved to badly under-cover large companies
+
+None of the original 6 sources is a general legal-case database — each covers a narrow slice (EEOC-litigated discrimination charges, a niche OECD complaints mechanism, human-trafficking news, general journalism). A company the size of Amazon came back with essentially one lawsuit. CourtListener (`scripts/fetch-legal-news/sources/courtlistener.js`, Free Law Project's free public API) fixes this with real, precisely party-attributed federal court cases via the `party_name` filter — confirmed: 3,400+ real dockets naming "Amazon.com, Inc." specifically, not a fuzzy text match.
+
+Three things make it a different shape from every other source, all handled in the adapter:
+
+- **No company-matcher pass.** `party_name` is already a precise structured filter, unlike EEOC/HTS keyword search (proven to be fuzzy relevance ranking during build — an HTS query for "Nestlé" once surfaced an unrelated Starbucks article). CourtListener candidates skip `matchArticle()` and the title-tier check entirely.
+- **No narrative summary.** A docket entry is case name + court + date + a nature-of-suit code — never a description of what happened. Getting real complaint text would need PACER access (paid) for most filings, so the UI shows structured fields in a visually distinct "Federal court filings" list instead of pretending there's a summary.
+- **Undifferentiated volume.** Every case ever docketed comes back, including the routine commercial litigation (patent, personal injury, insurance subrogation) any large company generates constantly — unrelated to labor/environmental/consumer-protection conduct. An `ALLOWLIST_KEYWORDS` substring match against `suitNature` (civil rights, anti-trust, labor, environmental, consumer credit, RICO, false claims) keeps only categories aligned with the site's actual ecolabel categories (checked against `labels.json`), dropping everything else — including the ~50% of very recent filings with no `suitNature` classified yet, since this pipeline leans precision-over-recall throughout (same trade-off as the title-tier guard above). Results are capped at `LEGAL_COURTLISTENER_CAP` (default 5) per company, newest first; the UI links out to the full unfiltered CourtListener result set for anyone who wants more.
+
+Status comes for free and is more reliable than the keyword-guessed status used elsewhere: `dateTerminated` present → Closed, absent → Active — a real structured court-record field, not an inference.
+
+One infrastructure note: CourtListener's Django REST Framework backend does content negotiation on `Accept` — the shared `fetchHtml`'s default header lists `text/html` first (for the scraping sources), which makes DRF return its browsable-API HTML page instead of JSON. The adapter overrides with an explicit `Accept: application/json` per request (a now-optional third `extraHeaders` param was added to `scrape-company-labels/http.js#fetchHtml` for this, backward-compatible with every other caller). Works unauthenticated for casual testing; a free `COURTLISTENER_API_TOKEN` (courtlistener.com account) raises the rate limit for a full 205-company run.
+
+### Company matcher
+
+Same three-bucket architecture as §6.5's news matcher (`scripts/fetch-legal-news/matcher.js`), keyed to company names rather than label aliases. Brand names collide with ordinary English more than ecolabel names do (`Target`, `Shell`, `Dove`, `Discover`), so a curated `DANGER_WORDS` set plus `rules/company-overrides.js` force a meaningful fraction of the registry into the AMBIGUOUS bucket.
+
+### Title-tier requirement — the key precision guard
+
+Both targeted-search sources turned out to be fuzzy relevance search, not literal substring match — an EEOC query for "Amazon" surfaced a press release about an unrelated Amazon *delivery contractor*, and an HTS query for "Nestlé" surfaced an article that never mentions Nestlé. Every candidate, from every source, is therefore re-verified against the shared matcher and **must have a title-tier hit** — a company mentioned only in the body (an incidental descriptor, not the article's subject) is dropped. This is the single guard that keeps company attribution accurate.
+
+### Extraction: deterministic where the prose is formal, local LLM where it isn't
+
+EEOC press releases and OECD Watch's own status field are formal/structured enough for keyword-rule classification (`classifier.js`). NPR, Triple Pundit, Human Trafficking Search, and Reuters are freeform journalism, where "the case was dismissed" doesn't appear in a predictable shape — those candidates go through a local, open-weight extraction pass (`llm.js`): `node-llama-cpp` running a quantized Qwen2.5-3B-Instruct model, constrained to a JSON schema (relevance / summary / status) via `createGrammarForJsonSchema`. No API key, no per-call cost, no external dependency beyond the model download (~2GB, cached across CI runs via `actions/cache`). Deliberately sequential — CPU-bound inference gets no benefit from concurrency.
+
+### Dedupe
+
+Same story covered by multiple outlets, or an EEOC case getting a follow-up press release, is deduped within each company by exact `sourceUrl` match, then by title-token Jaccard similarity (`dedupe.js`) — keeping whichever record has the longer summary, ties broken by recency.
+
+### Output
+
+`public/data/legal-news.json` — **committed to git**, unlike `news-preview.json`. Deliberate: regenerating it is expensive (hundreds of rate-limited requests plus local LLM inference), so it's rebuilt monthly by a scheduled workflow rather than on every push. That commit lands on `main` and the existing push-triggered deploy workflow ships it automatically.
+
+---
+
 ## 7 — Data Layer
 
 The data layer has some historical mess that's tracked as architectural debt rather than fixed in place.
