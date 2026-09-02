@@ -67,7 +67,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet -- public/data/legal-news.json; then
+          # git diff only detects changes to files git already tracks — on
+          # the very first run public/data/legal-news.json is untracked, so
+          # `git diff --quiet` reports "no changes" even though real data
+          # just got generated, and the commit/push below is silently
+          # skipped. git status --porcelain catches untracked files too.
+          if [ -z "$(git status --porcelain -- public/data/legal-news.json)" ]; then
             echo "No changes to public/data/legal-news.json — nothing to commit."
             exit 0
           fi
