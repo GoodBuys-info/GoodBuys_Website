@@ -97,6 +97,112 @@
 	width: 100%;
 }
 
+/* -------------------- NEWS DROPDOWN -------------------- */
+
+.nav-dropdown {
+	position: relative;
+	display: flex;
+	align-items: center;
+}
+
+.nav-dropdown-trigger {
+	display: flex;
+	align-items: center;
+	gap: 0.3rem;
+}
+
+.nav-dropdown-caret {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 1.1rem;
+	height: 1.1rem;
+	padding: 0;
+	background: transparent;
+	border: none;
+	cursor: pointer;
+	color: inherit;
+}
+
+.nav-dropdown-caret-icon {
+	width: 0;
+	height: 0;
+	border-left: 4px solid transparent;
+	border-right: 4px solid transparent;
+	border-top: 5px solid #f5f5f5;
+	transition: transform 0.18s ease-out;
+}
+
+.nav-dropdown-open .nav-dropdown-caret-icon {
+	transform: rotate(180deg);
+}
+
+.nav-dropdown-menu {
+	position: absolute;
+	/* Flush against the trigger — NOT top: calc(100% + gap). A gap here is a
+	   dead zone: moving the mouse straight down from "News" into it briefly
+	   hovers nothing, CSS :hover on .nav-dropdown drops, and the menu closes
+	   mid-travel — exactly the "moves around, only works via the caret" bug
+	   reported. Flush positioning means the cursor is always over either the
+	   trigger or this box, never neither. */
+	top: 100%;
+	left: 0;
+	min-width: 9rem;
+	/* Padding (not a margin/gap outside the box) supplies the visual
+	   breathing room, so the hit area stays continuous with the trigger
+	   above while the visible pill still looks spaced from the nav bar. */
+	padding-top: 0.6rem;
+
+	/* Intentionally NOT pointer-events: none by default. This box must stay
+	   hit-testable even while visually hidden (opacity: 0) — otherwise the
+	   moment the cursor crosses from the trigger into this box, hit-testing
+	   sees through to whatever's behind it, :hover on .nav-dropdown is lost,
+	   and the menu closes before the click can land. Same underlying bug as
+	   the gap above, just the pointer-events version of it. */
+	opacity: 0;
+	transition: opacity 0.12s ease-out;
+}
+
+.nav-dropdown-menu-inner {
+	display: flex;
+	flex-direction: column;
+
+	padding: 0.5rem;
+	border-radius: 12px;
+	background: rgba(2, 9, 0, 0.95);
+	backdrop-filter: blur(14px);
+	border: 1px solid rgba(3, 50, 13, 0.4);
+	box-shadow: 0 14px 34px rgba(0, 0, 0, 0.6);
+}
+
+.nav-dropdown-link {
+	display: block;
+	padding: 0.5rem 0.7rem;
+	border-radius: 8px;
+	color: #f5f5f5;
+	text-decoration: none;
+	font-size: 0.92rem;
+	font-weight: 600;
+	letter-spacing: 0.02em;
+	white-space: nowrap;
+	transition: background 0.15s ease-out, color 0.15s ease-out;
+}
+
+.nav-dropdown-link:hover {
+	background: rgba(74, 222, 128, 0.14);
+	color: #a5ffd3;
+}
+
+/* Desktop: hover reveals the submenu. Click-toggle (nav-dropdown-open) also
+   works here so keyboard/touch users who click the caret get the same
+   result without needing hover. */
+@media (min-width: 769px) {
+	.nav-dropdown:hover .nav-dropdown-menu,
+	.nav-dropdown-open .nav-dropdown-menu {
+		opacity: 1;
+	}
+}
+
 /* -------------------- MOBILE TOGGLE -------------------- */
 
 .nav-toggle {
@@ -230,5 +336,48 @@
 	/* simplify underline on touch screens */
 	.navigation-bar-button::after {
 		bottom: -0.2rem;
+	}
+
+	/* News dropdown: no hover on touch, so the panel lays out inline and the
+	   submenu expands in place (click-toggled) instead of floating absolutely. */
+	.nav-dropdown {
+		flex-direction: column;
+		align-items: flex-start;
+		width: 100%;
+	}
+
+	.nav-dropdown-trigger {
+		width: 100%;
+		justify-content: space-between;
+	}
+
+	.nav-dropdown-menu {
+		position: static;
+		width: 100%;
+		padding-top: 0;
+
+		max-height: 0;
+		opacity: 0;
+		overflow: hidden;
+		transition: max-height 0.18s ease-out, opacity 0.18s ease-out;
+	}
+
+	.nav-dropdown-menu-inner {
+		margin-top: 0.4rem;
+		padding: 0.3rem 0 0.3rem 0.9rem;
+		background: transparent;
+		border: none;
+		box-shadow: none;
+		backdrop-filter: none;
+	}
+
+	.nav-dropdown-open .nav-dropdown-menu {
+		max-height: 8rem;
+		opacity: 1;
+	}
+
+	.nav-dropdown-link {
+		font-size: 0.9rem;
+		padding: 0.4rem 0.6rem;
 	}
 }

@@ -12,3 +12,15 @@ goodbuys.db-wal
 /public/data/news-preview.host-stats.json.tmp
 CLAUDE.md
 /.claude
+
+# legal-news.json IS committed (see .github/workflows/legal-news.yml) —
+# regenerating it is expensive (targeted search + local LLM inference), so
+# unlike news-preview.json it isn't rebuilt on every deploy. Only its
+# transient write artifact and debug sidecar are ignored.
+/public/data/legal-news.json.tmp
+/public/data/legal-news.host-stats.json
+/public/data/legal-news.host-stats.json.tmp
+
+# node-llama-cpp's downloaded GGUF model cache (~2GB) — restored from
+# actions/cache in CI, never committed.
+/.models
