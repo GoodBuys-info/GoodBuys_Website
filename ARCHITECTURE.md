@@ -247,7 +247,7 @@ Same story covered by multiple outlets, or an EEOC case getting a follow-up pres
 
 ### Output
 
-`public/data/legal-news.json` — **committed to git**, unlike `news-preview.json`. Deliberate: regenerating it is expensive (hundreds of rate-limited requests plus local LLM inference), so it's rebuilt monthly by a scheduled workflow rather than on every push. That commit lands on `main` and the existing push-triggered deploy workflow ships it automatically.
+`public/data/legal-news.json` — **committed to git**, unlike `news-preview.json`. Deliberate: regenerating it is expensive (hundreds of rate-limited requests plus local LLM inference), so it's rebuilt monthly by a scheduled workflow rather than on every push. That commit lands on `main`, and the workflow explicitly dispatches `deploy.yml` to ship it (confirmed by testing: a plain push authored by the workflow's own `GITHUB_TOKEN` does *not* cascade into `deploy.yml`'s `on: push` trigger — GitHub's anti-recursion safeguard — so an explicit `gh workflow run deploy.yml` step is required rather than relying on the push alone).
 
 ---
 
