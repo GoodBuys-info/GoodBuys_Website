@@ -2,22 +2,27 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import Link from "next/link";
 import "../../styles/legal-news.css";
+import { IssueCard, CourtFilingRow, Pagination, companySlug } from "./_shared.jsx";
 
-const STATUS_LABELS = {
-	Active: "Active",
-	Filed: "Filed",
-	Settled: "Settled",
-	Dismissed: "Dismissed",
-	Closed: "Closed",
-	Unknown: "Unknown",
-};
+// Index-page preview: at most this many entries (news + court filings,
+// merged and sorted by date — `issues` is already sorted that way) show per
+// company here. The rest live on that company's own detail page
+// (/LegalNews/[company]), which is where real pagination belongs — a long
+// scroll of many companies is the wrong place for per-card page controls.
+const PREVIEW_LIMIT = 4;
+
+// How many companies per page, in alphabetical order (the list is already
+// sorted that way). A directory-style index, not an infinite scroll.
+const COMPANIES_PAGE_SIZE = 20;
 
 export default function LegalNews() {
 	const [records, setRecords] = useState([]);
 	const [isLoading, setIsLoading] = useState(true);
 	const [error, setError] = useState("");
 	const [filterValue, setFilterValue] = useState("");
+	const [page, setPage] = useState(1);
 
 	useEffect(() => {
 		const load = async () => {
@@ -60,6 +65,15 @@ export default function LegalNews() {
 		if (!term) return companies;
 		return companies.filter((c) => c.company.toLowerCase().includes(term));
 	}, [companies, filterValue]);
+
+	// Filtering (or the underlying data) changing out from under an existing
+	// page number could otherwise strand the user on a now-empty page.
+	useEffect(() => {
+		setPage(1);
+	}, [filterValue, records]);
+
+	const totalPages = Math.max(1, Math.ceil(filteredCompanies.length / COMPANIES_PAGE_SIZE));
+	const pagedCompanies = filteredCompanies.slice((page - 1) * COMPANIES_PAGE_SIZE, page * COMPANIES_PAGE_SIZE);
 
 	return (
 		<main id="legal-news">
@@ -116,11 +130,14 @@ export default function LegalNews() {
 								: "No companies match that filter."}
 						</p>
 					) : (
-						<div className="legal-news-companies">
-							{filteredCompanies.map((c) => (
-								<CompanySection key={c.company} company={c.company} issues={c.issues} />
-							))}
-						</div>
+						<>
+							<div className="legal-news-companies">
+								{pagedCompanies.map((c) => (
+									<CompanySection key={c.company} company={c.company} issues={c.issues} />
+								))}
+							</div>
+							<Pagination page={page} totalPages={totalPages} onPageChange={setPage} />
+						</>
 					)}
 				</section>
 			</div>
@@ -130,12 +147,16 @@ export default function LegalNews() {
 
 function CompanySection({ company, issues }) {
 	const newsIssues = issues.filter((i) => i.sourceId !== "courtlistener");
-	const courtFilings = issues.filter((i) => i.sourceId === "courtlistener");
+	const preview = issues.slice(0, PREVIEW_LIMIT); // already sorted by date desc
+	const hasMore = issues.length > PREVIEW_LIMIT;
+	const href = `/LegalNews/${companySlug(company)}`;
 
 	return (
 		<article className="legal-news-company">
 			<header className="legal-news-company-header">
-				<h2 className="legal-news-company-name">{company}</h2>
+				<Link href={href} className="legal-news-company-name-link">
+					<h2 className="legal-news-company-name">{company}</h2>
+				</Link>
 				{newsIssues.length > 0 && (
 					<p className="legal-news-company-count">
 						{newsIssues.length === 1 ? "1 legal issue on record" : `${newsIssues.length} legal issues on record`}
@@ -143,109 +164,21 @@ function CompanySection({ company, issues }) {
 				)}
 			</header>
 
-			{newsIssues.length > 0 && (
-				<div className="legal-news-issues">
-					{newsIssues.map((issue, idx) => (
-						<IssueCard key={issue.sourceUrl || idx} issue={issue} />
-					))}
-				</div>
-			)}
+			<div className="legal-news-preview-list">
+				{preview.map((item, idx) =>
+					item.sourceId === "courtlistener" ? (
+						<CourtFilingRow key={item.sourceUrl || idx} filing={item} showLabel />
+					) : (
+						<IssueCard key={item.sourceUrl || idx} issue={item} />
+					),
+				)}
+			</div>
 
-			{courtFilings.length > 0 && <CourtFilingsSection filings={courtFilings} />}
+			{hasMore && (
+				<Link href={href} className="legal-news-court-viewall">
+					View full legal history for {company} →
+				</Link>
+			)}
 		</article>
 	);
-}
-
-function CourtFilingsSection({ filings }) {
-	// totalMatchingCount is the same on every filing for this company —
-	// it's the raw CourtListener result count before the allowlist filter,
-	// so "view all" links to the complete unfiltered set, not just the
-	// relevant subset we chose to show.
-	const totalMatching = filings[0]?.totalMatchingCount;
-	const viewAllUrl = filings[0]?.viewAllUrl;
-
-	return (
-		<div className="legal-news-court-section">
-			<div className="legal-news-court-heading">
-				<span className="legal-news-court-title">Federal court filings</span>
-				<span className="legal-news-court-count">
-					{filings.length} of {totalMatching ?? filings.length} shown
-				</span>
-			</div>
-
-			<div className="legal-news-court-rows">
-				{filings.map((filing, idx) => (
-					<CourtFilingRow key={filing.sourceUrl || idx} filing={filing} />
-				))}
-			</div>
-
-			{viewAllUrl && (
-				<a href={viewAllUrl} target="_blank" rel="noopener noreferrer" className="legal-news-court-viewall">
-					View all {totalMatching} filings on CourtListener ↗
-				</a>
-			)}
-		</div>
-	);
-}
-
-function CourtFilingRow({ filing }) {
-	const { title, status, court, suitNatureLabel, publishedAt, sourceUrl } = filing;
-	const dateText = formatDate(publishedAt);
-	const statusLabel = STATUS_LABELS[status] || "Active";
-	const statusClass = `legal-news-status legal-news-status-${statusLabel.toLowerCase()}`;
-	const metaParts = [suitNatureLabel, court, dateText].filter(Boolean);
-
-	return (
-		<div className="legal-news-court-row">
-			<div className="legal-news-court-row-top">
-				<span className="legal-news-court-case">{title}</span>
-				<span className={statusClass}>{statusLabel}</span>
-			</div>
-			<div className="legal-news-court-row-bottom">
-				<span className="legal-news-court-meta">{metaParts.join(" · ")}</span>
-				{sourceUrl && (
-					<a href={sourceUrl} target="_blank" rel="noopener noreferrer" className="legal-news-issue-link">
-						View docket ↗
-					</a>
-				)}
-			</div>
-		</div>
-	);
-}
-
-function IssueCard({ issue }) {
-	const { summary, status, sourceName, sourceUrl, publishedAt } = issue;
-	const dateText = formatDate(publishedAt);
-	const statusLabel = STATUS_LABELS[status] || "Unknown";
-	const statusClass = `legal-news-status legal-news-status-${statusLabel.toLowerCase()}`;
-
-	return (
-		<div className="legal-news-issue-card">
-			<div className="legal-news-issue-top">
-				<span className={statusClass}>{statusLabel}</span>
-			</div>
-
-			{summary && <p className="legal-news-issue-summary">{summary}</p>}
-
-			<div className="legal-news-issue-footer">
-				<span className="legal-news-issue-source">
-					{sourceName}
-					{dateText && <span className="legal-news-issue-date"> • {dateText}</span>}
-				</span>
-
-				{sourceUrl && (
-					<a href={sourceUrl} target="_blank" rel="noopener noreferrer" className="legal-news-issue-link">
-						Read Source ↗
-					</a>
-				)}
-			</div>
-		</div>
-	);
-}
-
-function formatDate(iso) {
-	if (!iso) return "";
-	const d = new Date(iso);
-	if (!Number.isFinite(d.getTime())) return "";
-	return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
 }

@@ -108,20 +108,12 @@
 .nav-dropdown-trigger {
 	display: flex;
 	align-items: center;
-	gap: 0.3rem;
-}
-
-.nav-dropdown-caret {
-	display: inline-flex;
-	align-items: center;
-	justify-content: center;
-	width: 1.1rem;
-	height: 1.1rem;
-	padding: 0;
+	gap: 0.35rem;
 	background: transparent;
 	border: none;
+	padding: 0;
+	font: inherit;
 	cursor: pointer;
-	color: inherit;
 }
 
 .nav-dropdown-caret-icon {
@@ -166,6 +158,7 @@
 .nav-dropdown-menu-inner {
 	display: flex;
 	flex-direction: column;
+	gap: 0.15rem;
 
 	padding: 0.5rem;
 	border-radius: 12px;
@@ -372,7 +365,7 @@
 	}
 
 	.nav-dropdown-open .nav-dropdown-menu {
-		max-height: 8rem;
+		max-height: 10rem;
 		opacity: 1;
 	}
 

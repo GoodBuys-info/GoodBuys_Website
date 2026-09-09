@@ -83,7 +83,17 @@ export async function fetchForCompany(company) {
 	const results = Array.isArray(data.results) ? data.results : [];
 	const totalCount = typeof data.count === "number" ? data.count : results.length;
 
-	const relevant = results.filter((r) => isAllowlisted(r.suitNature));
+	// Two independent filters. `party_name` matches ANY named party in the
+	// docket, not just the case's title parties — confirmed by testing:
+	// searching "Adobe" surfaced "Ziff Davis, Inc. v. Google LLC", a 13-party
+	// publisher antitrust suit against Google where Adobe is a genuine
+	// co-plaintiff but not remotely the subject. Requiring the company to
+	// appear in the case's own TITLE (not just somewhere in the party list)
+	// is the same title-attribution guard already used for EEOC/HTS in
+	// matcher.js — legal case titles are strict "X v. Y" format, so a plain
+	// substring check is enough here without that guard's headline-word
+	// allowlist (built for News-style prose, not case captions).
+	const relevant = results.filter((r) => isAllowlisted(r.suitNature) && caseNameContainsCompany(r.caseName, company));
 	const capped = relevant.slice(0, ENV.COURTLISTENER_CAP);
 
 	const viewAllUrl = `${SITE_BASE}/?q=&type=r&party_name=${encodeURIComponent(company)}`;
@@ -109,6 +119,18 @@ export async function fetchForCompany(company) {
 	}));
 
 	return { records, totalCount };
+}
+
+function caseNameContainsCompany(caseName, company) {
+	const normalize = (s) =>
+		String(s || "")
+			.toLowerCase()
+			.replace(/[^a-z0-9\s]/g, " ")
+			.replace(/\s+/g, " ")
+			.trim();
+	const paddedTitle = ` ${normalize(caseName)} `;
+	const paddedCompany = ` ${normalize(company)} `;
+	return paddedTitle.includes(paddedCompany);
 }
 
 function isAllowlisted(suitNature) {

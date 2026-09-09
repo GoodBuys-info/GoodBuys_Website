@@ -45,24 +45,22 @@ export default function NavigationBar() {
 					Search
 				</Link>
 				<div className={`nav-dropdown ${isNewsOpen ? "nav-dropdown-open" : ""}`}>
-					<div className="nav-dropdown-trigger">
-						<Link href="/News" className="navigation-bar-button" onClick={handleClose}>
-							News
-						</Link>
-						<button
-							type="button"
-							className="nav-dropdown-caret"
-							onClick={handleNewsToggle}
-							aria-expanded={isNewsOpen}
-							aria-haspopup="true"
-							aria-label="Toggle News submenu"
-						>
-							<span className="nav-dropdown-caret-icon" />
-						</button>
-					</div>
+					<button
+						type="button"
+						className="navigation-bar-button nav-dropdown-trigger"
+						onClick={handleNewsToggle}
+						aria-expanded={isNewsOpen}
+						aria-haspopup="true"
+					>
+						News
+						<span className="nav-dropdown-caret-icon" />
+					</button>
 
 					<div className="nav-dropdown-menu">
 						<div className="nav-dropdown-menu-inner">
+							<Link href="/News" className="nav-dropdown-link" onClick={handleClose}>
+								General News
+							</Link>
 							<Link href="/LegalNews" className="nav-dropdown-link" onClick={handleClose}>
 								Legal News
 							</Link>
