@@ -3,17 +3,10 @@
 		{
 			"name": "Navid Shaghaghi",
 			"image": "Navid.png",
-			"role": "Superviser",
+			"role": "Faculty Research Project Supervisor",
 			"degree": null,
 			"bio": "Faculty in the Department of Computer Science & Engineering",
 			"linkedIn": "https://www.linkedin.com/in/nshaghaghi/"
-		},
-		{
-			"name": "Raphael Kusuma",
-			"image": "Raphael.png",
-			"role": "Full Stack Mobile Developer",
-			"degree": "Masters of Science in Computer Science & Engineering",
-			"linkedIn": "https://www.linkedin.com/in/raphaelkusuma/"
 		},
 		{
 			"name": "Sangeeta Sheshachala",
@@ -38,6 +31,13 @@
 		}
 	],
 	"pastTeamMembers": [
+		{
+			"name": "Raphael Kusuma",
+			"image": "Raphael.png",
+			"role": "Full Stack Mobile Developer",
+			"degree": "Masters of Science in Computer Science & Engineering",
+			"linkedIn": "https://www.linkedin.com/in/raphaelkusuma/"
+		},
 		{
 			"name": "Kallan Fraser",
 			"image": "Kallan.png",
