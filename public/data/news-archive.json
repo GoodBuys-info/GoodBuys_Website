@@ -116,6 +116,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "TWinFM",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMTkI0NFJ4MllRaS1MWjB4Vk9WU0llbVd2S25MaXJSNkY3SktLanlYcnVEcFBOU09LcF8tV3RLNTIyLWZ6THczUWxJVl9RT0toeDlOZFc5UE1QcF93UGN0Mnl1ZGxXUU42TFVTMzdraGYtVUtRR1Z2V1MtQzhMV2s?oc=5",
+    "urlSlug": null,
+    "title": "BRE Announces Winners Of BREEAM Awards 2026",
+    "summary": "",
+    "publishedAt": "2026-10-06T14:02:29.000Z",
+    "categories": [],
+    "guid": "CBMif0FVX3lxTFBMTkI0NFJ4MllRaS1MWjB4Vk9WU0llbVd2S25MaXJSNkY3SktLanlYcnVEcFBOU09LcF8tV3RLNTIyLWZ6THczUWxJVl9RT0toeDlOZFc5UE1QcF93UGN0Mnl1ZGxXUU42TFVTMzdraGYtVUtRR1Z2V1MtQzhMV2s",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-07T00:40:51.044Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "PR Newswire Canada",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMjJqWkdXUmxSX1hWa0liZW9pWlk2ZzZ4Y0FxX2dxR05VbGFmQkZCN3pJVlY3WVR0TGRJYmdWX09Fdno1SWtyX21VMUtZdWxCX0MzMEtVNmUyckNJRzAtX1RRQ0tEbDRNUmcxN2MzTFNtOVVxVTlEbk5NdVVJS0VwTzRWSnpVVXpncVFXNmxFWlhmMF9uaGJCcWZmN0NjSEZKaTlIV1d0QnFzU1c0dXZjbFVyVVkzeXBCM0NHdURjUjhYSnVtSWVkY1hsU1NmYjg?oc=5",
@@ -513,6 +536,29 @@
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "IntraFish",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU2ZSczkwMGVyREFZR1VYVjFWSW1SRThlUkc0QkQtZmd2eFVaazY0QmFNeEttaThCRlVDWENrcVhLc0lTVE9TY1lVNERnSWpsQmxRdGt4WlhiVE1sSWNmSTdIRUpQMGN2d2JBVVZ6Zml2cEp1RFdKOG5YNEdhcl95dmNxVS1nOUhkS2tXVGhTOXV0LXhjM1lZcjVUU3ZiYVZSUHd3Tkc3QmVjZUJNaVZfdS12WmUyc3NwMUE?oc=5",
+    "urlSlug": null,
+    "title": "ASC: Americans need 'alternatives to government' to know what food to trust",
+    "summary": "",
+    "publishedAt": "2026-10-02T05:24:41.000Z",
+    "categories": [],
+    "guid": "CBMiugFBVV95cUxPU2ZSczkwMGVyREFZR1VYVjFWSW1SRThlUkc0QkQtZmd2eFVaazY0QmFNeEttaThCRlVDWENrcVhLc0lTVE9TY1lVNERnSWpsQmxRdGt4WlhiVE1sSWNmSTdIRUpQMGN2d2JBVVZ6Zml2cEp1RFdKOG5YNEdhcl95dmNxVS1nOUhkS2tXVGhTOXV0LXhjM1lZcjVUU3ZiYVZSUHd3Tkc3QmVjZUJNaVZfdS12WmUyc3NwMUE",
+    "searchedLabel": "asc",
+    "matches": [
+      {
+        "labelId": "asc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ASC"
+      }
+    ],
+    "fetchedAt": "2026-10-07T00:40:51.044Z"
   },
   {
     "outletId": "google-news",
