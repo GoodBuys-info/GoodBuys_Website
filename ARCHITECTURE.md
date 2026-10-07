@@ -197,6 +197,18 @@ Two, mirroring the crawler's guards:
 
 Single flat JSON array at `public/data/news-preview.json` (gitignored). Each entry includes the full article metadata and a `matches` array with `labelId`, `bucket`, `tier`, `where`, and `matchedText`. Unmatched articles are written too — they're audit data for the pipeline, not user content. A sibling `news-preview.host-stats.json` tracks per-host fetch success/error counts for debugging outlet rate-limits.
 
+### Why the feed used to show 0-1 articles, and what changed
+
+Each deploy read only the latest window of five RSS feeds (about 77 articles) and kept those naming one of the 72 tracked ecolabels — roughly 0.5% of general sustainability coverage. Scanning 640 articles of paged history still found only 3 matches, so the matcher was not too strict; the input was too thin and nothing accumulated. Three changes:
+
+- **Per-label Google News search** (`google-news.js`). One query per label (`"<name>" when:14d`), run sequentially. Results are publisher headlines with the real outlet in `<source>`; links are `news.google.com` redirects and there is no body text, so matching runs on the headline alone and the shared matcher is the relevance gate. Retailer product pages are dropped before matching. Cards show the real publisher; the page header credits "Google News".
+- **A committed archive** (`public/data/news-archive.json`, matched articles only, newest 400). `news-preview.json` stays gitignored and is rebuilt every deploy, but now includes the archived matches, so the page no longer resets. Existing archive entries win over fresh copies of the same article, so an unchanged day produces a byte-identical file.
+- **A daily workflow** (`.github/workflows/news.yml`) that runs the fetch, commits the archive if it changed, and explicitly dispatches `deploy.yml` (a push by the default `GITHUB_TOKEN` does not trigger it). This is what makes the page's "updated daily" true.
+
+Paging (`?paged=N`) is enabled for Edie, Grist and Trellis (verified); `NEWS_PAGES` sets how many pages, default 2 daily, and a backfill can use 15.
+
+**Context guards.** `CONTEXT_REQUIRED` in `rules/label-overrides.js` demands extra words for labels that collide with something else. Observed false positives: "BSI and ISO launch global standard to tackle food waste" was tagged WRAP (here the apparel-factory certification, not WRAP the UK waste charity), and a Grist article on the EU climate law was tagged Gold Standard via the idiom.
+
 ### Known retrieval issue
 
 Triple Pundit intermittently returns HTTP 403 to the axios client even with UA rotation — looks like a Cloudflare TLS-fingerprint check. Curl with the same headers gets through; retries succeed variably. Flagged for a future pass; could be worked around by switching specific hosts to native `fetch()` or adding explicit backoff for 403 (currently only 429 retries). Not blocking — one dropped feed doesn't crash the run.
