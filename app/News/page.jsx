@@ -5,7 +5,12 @@ import { useEffect, useState } from "react";
 import EcoLabelLogo from "../../components/EcoLabelLogo";
 import "../../styles/news.css";
 
+// Matched articles accumulate over time (see scripts/fetch-news), so the feed
+// is paged rather than rendered as one long list.
+const PAGE_SIZE = 12;
+
 export default function News() {
+	const [page, setPage] = useState(1);
 	const [articles, setArticles] = useState([]);
 	const [labelsMap, setLabelsMap] = useState(new Map());
 	const [outletNames, setOutletNames] = useState([]);
@@ -28,7 +33,7 @@ export default function News() {
 				setArticles(Array.isArray(news) ? news : []);
 				setOutletNames(
 					Array.from(
-						new Set((Array.isArray(news) ? news : []).map((a) => a.outletName).filter(Boolean)),
+						new Set((Array.isArray(news) ? news : []).map((a) => a.aggregator || a.outletName).filter(Boolean)),
 					).sort(),
 				);
 			} catch (err) {
@@ -49,6 +54,13 @@ export default function News() {
 			const tb = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
 			return tb - ta;
 		});
+
+	const totalPages = Math.max(1, Math.ceil(matched.length / PAGE_SIZE));
+	const pageItems = matched.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
+	const goToPage = (n) => {
+		setPage(n);
+		window.scrollTo({ top: 0, behavior: "smooth" });
+	};
 
 	return (
 		<main id="news">
@@ -91,15 +103,35 @@ export default function News() {
 							No matched articles yet. The news fetcher runs periodically and new articles will appear
 							here as outlets publish stories that mention an ecolabel in our registry.
 						</p>
-					:	<div className="news-feed">
-							{matched.map((article, idx) => (
-								<ArticleCard
-									key={article.url || article.guid || idx}
-									article={article}
-									labelsMap={labelsMap}
-								/>
-							))}
-						</div>
+					:	<>
+							<div className="news-feed">
+								{pageItems.map((article, idx) => (
+									<ArticleCard
+										key={article.url || article.guid || idx}
+										article={article}
+										labelsMap={labelsMap}
+									/>
+								))}
+							</div>
+							{totalPages > 1 && (
+								<div className="news-pagination">
+									<button type="button" className="news-page-btn" disabled={page <= 1} onClick={() => goToPage(page - 1)}>
+										‹ Prev
+									</button>
+									<span className="news-page-indicator">
+										Page {page} of {totalPages}
+									</span>
+									<button
+										type="button"
+										className="news-page-btn"
+										disabled={page >= totalPages}
+										onClick={() => goToPage(page + 1)}
+									>
+										Next ›
+									</button>
+								</div>
+							)}
+						</>
 					}
 				</section>
 			</div>

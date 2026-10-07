@@ -27,7 +27,7 @@
 //                     prose set. Forces manual reclassification instead of
 //                     silently shipping false positives.
 
-import { FORCE_ACRONYM, FORCE_AMBIGUOUS, FORCE_SAFE, LABEL_ALIASES } from "./rules/label-overrides.js";
+import { FORCE_ACRONYM, FORCE_AMBIGUOUS, FORCE_SAFE, LABEL_ALIASES, CONTEXT_REQUIRED } from "./rules/label-overrides.js";
 
 export const BUCKETS = Object.freeze({ SAFE: "SAFE", AMBIGUOUS: "AMBIGUOUS", ACRONYM: "ACRONYM" });
 
@@ -188,6 +188,9 @@ function guardOverrideDrift(labelIdSet) {
 	for (const id of Object.keys(LABEL_ALIASES)) {
 		if (!labelIdSet.has(id)) missing.push({ which: "LABEL_ALIASES", id });
 	}
+	for (const id of Object.keys(CONTEXT_REQUIRED)) {
+		if (!labelIdSet.has(id)) missing.push({ which: "CONTEXT_REQUIRED", id });
+	}
 	if (!missing.length) return;
 
 	const lines = missing.map((m) => `  - ${m.which}: "${m.id}" (not in labels.json)`).join("\n");
@@ -257,7 +260,13 @@ export function matchArticle(article) {
 		matches.push(hit);
 	}
 
-	return matches;
+	// Context guard: a label whose name collides with something else only counts
+	// when the article also carries its context words (see CONTEXT_REQUIRED).
+	const text = `${article.title || ""} ${article.summary || ""}`;
+	return matches.filter((m) => {
+		const needed = CONTEXT_REQUIRED[m.labelId];
+		return !needed || needed.test(text);
+	});
 }
 
 function matchStructuredFields(article) {

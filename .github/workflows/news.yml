@@ -1,0 +1,76 @@
+name: Refresh Ecolabel News (Daily)
+
+# Keeps the General News page (/News) growing. A single RSS snapshot only holds
+# the latest ~10-25 items per outlet and ecolabels are rarely named in them, so
+# each run also searches Google News once per tracked ecolabel and merges every
+# article that names a label into the committed public/data/news-archive.json.
+# deploy.yml's own `fetch:news` step then rebuilds the page's feed from that
+# archive, so nothing accumulated here is lost on the next deploy.
+#
+# Why this workflow dispatches deploy.yml itself: a commit pushed with the
+# default GITHUB_TOKEN does not trigger other workflows (GitHub's recursion
+# guard), so deploy.yml's `on: push` never fires for it. Same pattern as
+# legal-news.yml.
+
+on:
+  schedule:
+    # 06:30 UTC every day.
+    - cron: "30 6 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: refresh-news
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch and merge news
+        run: npm run fetch:news
+        env:
+          NODE_TELEMETRY_DISABLED: "1"
+
+      - name: Commit archive if changed
+        id: commit
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # status --porcelain (not git diff) so the very first run, when the
+          # archive file is still untracked, is detected too.
+          if [ -z "$(git status --porcelain -- public/data/news-archive.json)" ]; then
+            echo "No new matched articles — nothing to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git add public/data/news-archive.json
+          git commit -m "chore(news): add newly matched ecolabel articles"
+          # Another workflow (legal-news, a merged PR) may have pushed meanwhile.
+          git pull --rebase origin main
+          git push origin HEAD:main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Trigger deploy
+        if: steps.commit.outputs.changed == 'true'
+        run: gh workflow run deploy.yml --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}

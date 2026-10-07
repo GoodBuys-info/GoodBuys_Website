@@ -10,7 +10,7 @@ import path from "path";
 
 import { PATHS } from "./config.js";
 
-const { OUTPUT_PATH, HOST_STATS_PATH } = PATHS;
+const { OUTPUT_PATH, HOST_STATS_PATH, ARCHIVE_PATH } = PATHS;
 
 export async function writePreview(articlesWithMatches) {
 	if (!Array.isArray(articlesWithMatches)) {
@@ -30,4 +30,24 @@ export async function writeHostStats(hostStats) {
 	await fs.writeFile(tmp, JSON.stringify(hostStats, null, 2), "utf8");
 	await fs.rename(tmp, HOST_STATS_PATH);
 	console.log(`Host stats → ${HOST_STATS_PATH}`);
+}
+
+export async function readArchive() {
+	try {
+		const parsed = JSON.parse(await fs.readFile(ARCHIVE_PATH, "utf8"));
+		return Array.isArray(parsed) ? parsed : [];
+	} catch {
+		return [];
+	}
+}
+
+export async function writeArchive(articles) {
+	if (!Array.isArray(articles)) {
+		throw new Error(`[news-io] writeArchive: expected array, got ${typeof articles}`);
+	}
+	await fs.mkdir(path.dirname(ARCHIVE_PATH), { recursive: true });
+	const tmp = ARCHIVE_PATH + ".tmp";
+	await fs.writeFile(tmp, JSON.stringify(articles, null, 2), "utf8");
+	await fs.rename(tmp, ARCHIVE_PATH);
+	console.log(`Archive  → ${ARCHIVE_PATH}`);
 }

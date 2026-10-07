@@ -74,6 +74,10 @@ function normaliseRssItem(item, { outletId, outletName }) {
 	const categories = Array.isArray(item.category) ? item.category.map(categoryToString).filter(Boolean) : [];
 	const guid = guidToString(item.guid);
 	const urlSlug = slugFromUrl(url);
+	// <source url="https://publisher">Publisher</source> — Google News sets this
+	// to the real outlet behind an aggregated link.
+	const sourceName = stripText(item.source) || null;
+	const sourceUrl = (item.source && typeof item.source === "object" && item.source["@_url"]) || null;
 
 	return {
 		outletId,
@@ -85,6 +89,8 @@ function normaliseRssItem(item, { outletId, outletName }) {
 		publishedAt,
 		categories,
 		guid,
+		sourceName,
+		sourceUrl,
 	};
 }
 
