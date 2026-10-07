@@ -1,6 +1,236 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Fresh Plaza",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGZ6NHN4cGVBMVBVU3V3RlRNcDV0eEw3RF9KTHRaMnAyQm0xRmItWnRaSEpCYldjeWx1bXdxZXJndnp6cnF4ZHZMSnVnMTd5XzI3QUtid0RlYkEzbHVFUTAzdFh3NDh4VFhLSVdMS09HU0ZwQW0zTDFKYjV0bEVIUUhSb3B2cGhITVBWaE5Oc0ZmNkhDdlh0N3QzcUoteXRyZHJxajlrUHh0eFFkRFdxTkt3V1Z1NGVqVGpGRkJWbF80UQ?oc=5",
+    "urlSlug": null,
+    "title": "Fair Trade Certified avocado program expands following acquisition",
+    "summary": "",
+    "publishedAt": "2026-10-07T12:27:25.000Z",
+    "categories": [],
+    "guid": "CBMiwgFBVV95cUxPdGZ6NHN4cGVBMVBVU3V3RlRNcDV0eEw3RF9KTHRaMnAyQm0xRmItWnRaSEpCYldjeWx1bXdxZXJndnp6cnF4ZHZMSnVnMTd5XzI3QUtid0RlYkEzbHVFUTAzdFh3NDh4VFhLSVdMS09HU0ZwQW0zTDFKYjV0bEVIUUhSb3B2cGhITVBWaE5Oc0ZmNkhDdlh0N3QzcUoteXRyZHJxajlrUHh0eFFkRFdxTkt3V1Z1NGVqVGpGRkJWbF80UQ",
+    "searchedLabel": "fair-trade",
+    "matches": [
+      {
+        "labelId": "fair-trade",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Fair Trade Certified"
+      }
+    ],
+    "fetchedAt": "2026-10-07T13:44:39.251Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "WWD",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON3d5ampMWXRkZW9YQWZFZC0yMjFYbDRoRGZWN21MblhCQlh6U2J6aktMNWEzazdDSzh6N3Y1TVpPekV6T0pXOHhhcURYV1RqcEVRdlA2cWJiY0Z0OHBoWjhNQ01FVU5KRktoTTZDSWRxU0dHcEtGQ1VBODBmeWNNMlR1TUFaR0twUDYzMGxZb2FzQzFuZl92dWwyS0RvN0FrdEt3bUttT05EbGNFaExKQk1CMTlfODI5?oc=5",
+    "urlSlug": null,
+    "title": "Better Cotton Initiative Touts Gains in Global Impact Report",
+    "summary": "",
+    "publishedAt": "2026-10-07T10:04:45.000Z",
+    "categories": [],
+    "guid": "CBMiuAFBVV95cUxON3d5ampMWXRkZW9YQWZFZC0yMjFYbDRoRGZWN21MblhCQlh6U2J6aktMNWEzazdDSzh6N3Y1TVpPekV6T0pXOHhhcURYV1RqcEVRdlA2cWJiY0Z0OHBoWjhNQ01FVU5KRktoTTZDSWRxU0dHcEtGQ1VBODBmeWNNMlR1TUFaR0twUDYzMGxZb2FzQzFuZl92dWwyS0RvN0FrdEt3bUttT05EbGNFaExKQk1CMTlfODI5",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Better Cotton"
+      }
+    ],
+    "fetchedAt": "2026-10-07T13:44:39.251Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Just Style",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PWENzNnZCYWdDdlZXNmVVMWlxQXRXdTVUNWlQcmtjWFV2MXlRVlRpODdoYm56dmY0YmtRSWpxbXg4dDNqdjI4WUFkNDVYWWdyOEpRcVhDRUR5NDVCTE84Zk45T3hka001Snc?oc=5",
+    "urlSlug": null,
+    "title": "‘Majority of’ BCI cotton growers slash chemical use, carbon footprint",
+    "summary": "",
+    "publishedAt": "2026-10-07T09:53:12.000Z",
+    "categories": [],
+    "guid": "CBMiakFVX3lxTE5PWENzNnZCYWdDdlZXNmVVMWlxQXRXdTVUNWlQcmtjWFV2MXlRVlRpODdoYm56dmY0YmtRSWpxbXg4dDNqdjI4WUFkNDVYWWdyOEpRcVhDRUR5NDVCTE84Zk45T3hka001Snc",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BCI"
+      }
+    ],
+    "fetchedAt": "2026-10-07T13:44:39.251Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "www.facilitiesmanagement-now.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXlkTU1pbU5OSWQ5c04ycDhGRWJEUFVWdUdTVGNDcllyRThRR3BWZC13RFdTOXU4bXRicXY2NkVQTUxMM2l4c0d3ejJHb2VLZUthOXdfdU1YaTRFV3lNZTJ0RW5SR2xDRHZMSjZYb1RJcVp0VGdqeUtUR0hTZE5vcWNCX1FwemIwZFN0cHkwSWwwSFBGczdQOGswNE5sMHA3YWFzOWNfQTFSSEh6VnVqZEhVb3FFWS1HSmF6Y0RFdVVpdw?oc=5",
+    "urlSlug": null,
+    "title": "BRE announces BREEAM Awards 2026 winners including in-use performance",
+    "summary": "",
+    "publishedAt": "2026-10-07T09:44:25.000Z",
+    "categories": [],
+    "guid": "CBMiwgFBVV95cUxOZXlkTU1pbU5OSWQ5c04ycDhGRWJEUFVWdUdTVGNDcllyRThRR3BWZC13RFdTOXU4bXRicXY2NkVQTUxMM2l4c0d3ejJHb2VLZUthOXdfdU1YaTRFV3lNZTJ0RW5SR2xDRHZMSjZYb1RJcVp0VGdqeUtUR0hTZE5vcWNCX1FwemIwZFN0cHkwSWwwSFBGczdQOGswNE5sMHA3YWFzOWNfQTFSSEh6VnVqZEhVb3FFWS1HSmF6Y0RFdVVpdw",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-07T13:44:39.251Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Harrogate Advertiser",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUUJQa3BCTkNNWHVUS2t3UlRJZG0yR1R0RU9SUGhES0lQcTIweG1BaExWU2xsX1VaSDg3WnBucm9VaUNBdDhGS2pMdkRWdl9Fdl9DVDlhQ1RFTzRyb3BMZFZsM2RFR2lHcWxWaE5qRG5oMlZVcHBjZndpTEt2SHJUbC1yelduQUZNcXJiby1zNW0xc3A2UERUeDR3ejlsX3p0aHBtYzJLNEstLWpBRXVvd0RuYWZxeUxnSHliQXYwNTh3dm10bmE3dmhCbVFmbGx0dkphM2RkSFNpLXI4ZndYSTU0NExGVlllRWJnUHFsR1J5eHJ6a0xV?oc=5",
+    "urlSlug": null,
+    "title": "B Corp success for Harrogate Organics Company striving to 'make a positive difference for people and planet'",
+    "summary": "",
+    "publishedAt": "2026-10-07T09:30:00.000Z",
+    "categories": [],
+    "guid": "CBMi9wFBVV95cUxPUUJQa3BCTkNNWHVUS2t3UlRJZG0yR1R0RU9SUGhES0lQcTIweG1BaExWU2xsX1VaSDg3WnBucm9VaUNBdDhGS2pMdkRWdl9Fdl9DVDlhQ1RFTzRyb3BMZFZsM2RFR2lHcWxWaE5qRG5oMlZVcHBjZndpTEt2SHJUbC1yelduQUZNcXJiby1zNW0xc3A2UERUeDR3ejlsX3p0aHBtYzJLNEstLWpBRXVvd0RuYWZxeUxnSHliQXYwNTh3dm10bmE3dmhCbVFmbGx0dkphM2RkSFNpLXI4ZndYSTU0NExGVlllRWJnUHFsR1J5eHJ6a0xV",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-07T13:44:39.251Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Reccessary",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMbUd2ak9LX3prNlpWUS1TRzd3N3FBVXVpZ1Z4STdFZXA0QnJTV3RLQmhBZnpUVlVGckxxVHVjUkJRU2NnQVVzUkdFYlBGZEpWeDRkUWJXMDl5ZFVuOVdnN1J1aVpuM1N2ejNUT3lTUm1IazlMX3c?oc=5",
+    "urlSlug": null,
+    "title": "Vietnam ranks 8th in LEED as green factories become supply chain standard",
+    "summary": "",
+    "publishedAt": "2026-10-07T08:35:56.000Z",
+    "categories": [],
+    "guid": "CBMidkFVX3lxTFBMbUd2ak9LX3prNlpWUS1TRzd3N3FBVXVpZ1Z4STdFZXA0QnJTV3RLQmhBZnpUVlVGckxxVHVjUkJRU2NnQVVzUkdFYlBGZEpWeDRkUWJXMDl5ZFVuOVdnN1J1aVpuM1N2ejNUT3lTUm1IazlMX3c",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-07T13:44:39.251Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Apparel Views",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0JpZ0VzZXU3UnZ5VE42S3NZWk5sbDdKYTBnakVUQmxvV3l5M3JHYk9kb3NwckFYdlFiajBlcXRONmZLM3Y4T05xeGtCTmlqV1ZrcjBnUlVQWUhyNXh5dmItVGRnWUpQdzZNX2NyWlM5Q1lNUlRLcUpHQVB6cnl6emNJQUVGWUN1SGVVcEpDb3ZZcGRYbHFVWjZ3V2N3MDctdHhXZEFDVGNPOHp4ellJYk1B?oc=5",
+    "urlSlug": null,
+    "title": "BCI’s first global impact report in five years reveals measurable progress at scale",
+    "summary": "",
+    "publishedAt": "2026-10-07T06:26:09.000Z",
+    "categories": [],
+    "guid": "CBMisgFBVV95cUxPQ0JpZ0VzZXU3UnZ5VE42S3NZWk5sbDdKYTBnakVUQmxvV3l5M3JHYk9kb3NwckFYdlFiajBlcXRONmZLM3Y4T05xeGtCTmlqV1ZrcjBnUlVQWUhyNXh5dmItVGRnWUpQdzZNX2NyWlM5Q1lNUlRLcUpHQVB6cnl6emNJQUVGWUN1SGVVcEpDb3ZZcGRYbHFVWjZ3V2N3MDctdHhXZEFDVGNPOHp4ellJYk1B",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BCI"
+      }
+    ],
+    "fetchedAt": "2026-10-07T13:44:39.251Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Architecture & Design",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVZVampYT0JiQXlwZXplZUxCTnFtMGNCeTZOUDlURFFIazgtX2FPZlVnWkpRemdid0dTMnY2NG4weWhMY0RJOE0yYzdkc3AzUVAwTGs1NFcxZDB2c0t6MHZWNUdBbkd3ckpjNy1JeW00OHZZaTRtTWtBbF9tczEwOHZGTkJPUUV3M3p3STlMeGlPdVlQLTh4Vmo4cVhwUlZxNmhaQzdqelBqYnpzcmZzeFI4SE5uZw?oc=5",
+    "urlSlug": null,
+    "title": "SAS products Cradle to Cradle (C2C) certified Silver",
+    "summary": "",
+    "publishedAt": "2026-10-07T06:10:56.000Z",
+    "categories": [],
+    "guid": "CBMitgFBVV95cUxPUVZVampYT0JiQXlwZXplZUxCTnFtMGNCeTZOUDlURFFIazgtX2FPZlVnWkpRemdid0dTMnY2NG4weWhMY0RJOE0yYzdkc3AzUVAwTGs1NFcxZDB2c0t6MHZWNUdBbkd3ckpjNy1JeW00OHZZaTRtTWtBbF9tczEwOHZGTkJPUUV3M3p3STlMeGlPdVlQLTh4Vmo4cVhwUlZxNmhaQzdqelBqYnpzcmZzeFI4SE5uZw",
+    "searchedLabel": "cradle-to-cradle",
+    "matches": [
+      {
+        "labelId": "cradle-to-cradle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Cradle to Cradle"
+      }
+    ],
+    "fetchedAt": "2026-10-07T13:44:39.251Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Ecotextile News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTnh3cG5VaEhHeDhEQ1l5RmF5ZXFHdENhNWdiWHpiTUk1cTlIQ1NtRnVMWVRHT2N5TGlKZXlVWHZpWWdQMXZuUkozRlZGVTh6THkzZFdwSFoxRGFqcC01N2ltVVhXR01iX2ZVcEE1cS1MbFVOYXE3aV9pdnlLY0I1U1ZXWVlVTnpQNmFaa2lqZDAydGFjNDM2ZGs1SDJPaVBU?oc=5",
+    "urlSlug": null,
+    "title": "BCI reports chart uneven cotton progress",
+    "summary": "",
+    "publishedAt": "2026-10-07T05:01:58.000Z",
+    "categories": [],
+    "guid": "CBMioAFBVV95cUxOTnh3cG5VaEhHeDhEQ1l5RmF5ZXFHdENhNWdiWHpiTUk1cTlIQ1NtRnVMWVRHT2N5TGlKZXlVWHZpWWdQMXZuUkozRlZGVTh6THkzZFdwSFoxRGFqcC01N2ltVVhXR01iX2ZVcEE1cS1MbFVOYXE3aV9pdnlLY0I1U1ZXWVlVTnpQNmFaa2lqZDAydGFjNDM2ZGs1SDJPaVBU",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BCI"
+      }
+    ],
+    "fetchedAt": "2026-10-07T13:44:39.251Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Business of Fashion",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZXJ3QXBaUmY0R0ZVLV85ajZXTjdHMnMxX0REYVNDaG9BR2tITVd2WnNXWHNsVWQ1dTJuU0RQZ3VWZ0c4dTFKbkVCbHEtMEhvb29FaGF2X2c5WTBqRHRNdEY0M0V4UkRBR0V5ajhGeFJIdXZRMHk3UGI0NWcyYmpnQ1N3eDdrMVU3NFRncHhOQUs2d3A5M05lRXhhYVN3cWI1NGd6STRkN05fUnI2d3hRbWh2cGdDTUtLcGYxNGdLTEE0QUozbWdUWnd4dnJqbnBwU3lOdmlRdWNpZlpfQXdKTHdXbkxDc25taGlR?oc=5",
+    "urlSlug": null,
+    "title": "Better Cotton Releases First Impact Report in Five Years as Scrutiny on Sustainability Schemes Grows",
+    "summary": "",
+    "publishedAt": "2026-10-07T00:30:00.000Z",
+    "categories": [],
+    "guid": "CBMi6wFBVV95cUxOZXJ3QXBaUmY0R0ZVLV85ajZXTjdHMnMxX0REYVNDaG9BR2tITVd2WnNXWHNsVWQ1dTJuU0RQZ3VWZ0c4dTFKbkVCbHEtMEhvb29FaGF2X2c5WTBqRHRNdEY0M0V4UkRBR0V5ajhGeFJIdXZRMHk3UGI0NWcyYmpnQ1N3eDdrMVU3NFRncHhOQUs2d3A5M05lRXhhYVN3cWI1NGd6STRkN05fUnI2d3hRbWh2cGdDTUtLcGYxNGdLTEE0QUozbWdUWnd4dnJqbnBwU3lOdmlRdWNpZlpfQXdKTHdXbkxDc25taGlR",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Better Cotton"
+      }
+    ],
+    "fetchedAt": "2026-10-07T13:44:39.251Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Breaking AC News",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0ZtRlh6Ni1BSEs4N3hzY09BRVFWRE01cmdyUDlGNlhNaVBfUnJuNFdfenBYNDNybk1nU2pTc2NtUlNoX3NaelVIMGZPZDIxWFVicFRnZlNZMS1aMW85STEtSXpNZEgzWTZMR2FRakM4OVo4M1QzWWtCTFBlbldzMWxxQjllTGo1YnNYckF1VkNCcUpGQnlnSFhWR01QYjZhQi1WU2FILWcwWkdKMGJXcXRqMnN3QkUwTEJGVC1hNURXQQ?oc=5",
