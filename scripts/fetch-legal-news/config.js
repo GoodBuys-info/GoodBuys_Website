@@ -50,6 +50,14 @@ export const ENV = {
 	// Get one at courtlistener.com (Profile -> API Token) and set it locally
 	// / as a CI secret; unset is fine for casual testing.
 	COURTLISTENER_API_TOKEN: process.env.COURTLISTENER_API_TOKEN || null,
+	// Rate-limit handling (see sources/courtlistener.js). Never honour a
+	// Retry-After longer than this; once CourtListener asks for more, stop
+	// querying it for the rest of the run and reuse last run's filings.
+	COURTLISTENER_MAX_RETRY_AFTER_SEC: parseInt(process.env.LEGAL_COURTLISTENER_MAX_RETRY_AFTER_SEC || "120", 10),
+	// Total wall-clock allowance for CourtListener calls in one run.
+	COURTLISTENER_BUDGET_MIN: parseInt(process.env.LEGAL_COURTLISTENER_BUDGET_MIN || "30", 10),
+	// Kill switch / test hook: behave as if CourtListener were throttled.
+	SKIP_COURTLISTENER: envFlag("LEGAL_SKIP_COURTLISTENER"),
 	// Cap on how many allowlist-passing filings we keep per company, newest
 	// first — CourtListener returns undifferentiated case volume (thousands
 	// for a company the size of Amazon), so this is a hard display/cost cap,

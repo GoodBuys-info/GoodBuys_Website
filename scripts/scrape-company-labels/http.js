@@ -12,7 +12,19 @@ const USER_AGENTS = [
 const hostPenalties = new Map();
 const hostStats = new Map();
 
-export async function fetchHtml(url, retryCount = 0, extraHeaders = {}) {
+// Hosts that told a caller (one that passed opts.maxRetryAfterSec) to back
+// off for longer than it was willing to wait. Callers check this to stop
+// querying the host for the rest of the run instead of sleeping on it.
+const throttledHosts = new Set();
+export function isHostThrottled(host) {
+	return throttledHosts.has(host);
+}
+
+// opts.maxRetryAfterSec (optional): refuse to honour a 429 Retry-After longer
+// than this. Without it the header is obeyed as-is — a monthly batch job once
+// slept on Retry-After values up to 82,561s (~23h) until GitHub's 6h job
+// limit cancelled it. Existing callers pass no opts and are unchanged.
+export async function fetchHtml(url, retryCount = 0, extraHeaders = {}, opts = {}) {
 	const host = new URL(url).host;
 	const ua = USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
 
@@ -49,7 +61,16 @@ export async function fetchHtml(url, retryCount = 0, extraHeaders = {}) {
 
 		// 429 Rate Limit Handling
 		if (status === 429 && retryCount < ENV.RETRIES) {
-			const wait = parseInt(err.response.headers["retry-after"] || "5", 10) * 1000;
+			const parsed = parseInt(err.response.headers["retry-after"] || "5", 10);
+			const waitSec = Number.isFinite(parsed) ? parsed : 5; // Retry-After can also be an HTTP-date
+			if (opts.maxRetryAfterSec != null && waitSec > opts.maxRetryAfterSec) {
+				console.warn(
+					`[429] ${host} asks for ${waitSec}s (cap ${opts.maxRetryAfterSec}s) — not waiting; treating host as throttled for this run.`,
+				);
+				throttledHosts.add(host);
+				return null;
+			}
+			const wait = waitSec * 1000;
 			console.warn(`[429] ${host} rate limit. Retrying in ${wait / 1000}s...`);
 
 			// Increase penalty
@@ -57,9 +78,10 @@ export async function fetchHtml(url, retryCount = 0, extraHeaders = {}) {
 			hostPenalties.set(host, currentPenalty + 2);
 
 			await new Promise((r) => setTimeout(r, wait));
-			return fetchHtml(url, retryCount + 1, extraHeaders);
+			return fetchHtml(url, retryCount + 1, extraHeaders, opts);
 		}
 
+		if (status === 429 && opts.maxRetryAfterSec != null) throttledHosts.add(host);
 		return null;
 	}
 }

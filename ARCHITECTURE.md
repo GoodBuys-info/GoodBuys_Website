@@ -241,6 +241,14 @@ Status comes for free and is more reliable than the keyword-guessed status used 
 
 One infrastructure note: CourtListener's Django REST Framework backend does content negotiation on `Accept` — the shared `fetchHtml`'s default header lists `text/html` first (for the scraping sources), which makes DRF return its browsable-API HTML page instead of JSON. The adapter overrides with an explicit `Accept: application/json` per request (a now-optional third `extraHeaders` param was added to `scrape-company-labels/http.js#fetchHtml` for this, backward-compatible with every other caller). Works unauthenticated for casual testing; a free `COURTLISTENER_API_TOKEN` (courtlistener.com account) raises the rate limit for a full 205-company run.
 
+**Rate-limit handling.** The first scheduled monthly run (Oct 1) was cancelled after 6h: unauthenticated CourtListener answered 429 with `Retry-After` values up to 82,561s (~23h), and the shared `fetchHtml` slept on them literally. Three guards now apply, all in the CourtListener path only (other sources are unchanged):
+
+- **Capped wait.** `fetchHtml` takes an optional 4th `opts.maxRetryAfterSec`; the adapter passes `LEGAL_COURTLISTENER_MAX_RETRY_AFTER_SEC` (default 120). A longer `Retry-After` is not waited out — the host is recorded as throttled (`isHostThrottled`) and the call returns `null`.
+- **Circuit breaker.** Once the host is throttled, or the run has spent `LEGAL_COURTLISTENER_BUDGET_MIN` (default 30) minutes on CourtListener, every remaining company is skipped instantly with `failed: true`. `LEGAL_SKIP_COURTLISTENER=1` forces the same path (kill switch / test hook).
+- **Carry-forward.** For companies marked `failed`, `run.js` reuses that company's CourtListener records from the previously committed `legal-news.json` (re-checked with the case-title guard) rather than publishing "no filings" — each run rebuilds the file from scratch, so without this a throttled month would wipe real data.
+
+The job also has `timeout-minutes: 180`. A free API token (`COURTLISTENER_API_TOKEN` secret) remains the real fix for throttling; these guards make the job degrade gracefully without it.
+
 ### Company matcher
 
 Same three-bucket architecture as §6.5's news matcher (`scripts/fetch-legal-news/matcher.js`), keyed to company names rather than label aliases. Brand names collide with ordinary English more than ecolabel names do (`Target`, `Shell`, `Dove`, `Discover`), so a curated `DANGER_WORDS` set plus `rules/company-overrides.js` force a meaningful fraction of the registry into the AMBIGUOUS bucket.
