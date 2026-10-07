@@ -860,55 +860,6 @@
     "fetchedAt": "2026-10-07T00:24:26.948Z"
   },
   {
-    "outletId": "edie",
-    "outletName": "Edie",
-    "url": "https://www.edie.net/bsi-and-iso-launch-global-standard-to-tackle-food-waste/",
-    "urlSlug": "bsi-and-iso-launch-global-standard-to-tackle-food-waste",
-    "title": "BSI and ISO launch global standard to tackle food waste",
-    "summary": "Developed with WRAP and other experts, the standard aims to help businesses across the food supply chain measure and reduce their food waste.",
-    "publishedAt": "2026-09-30T13:21:15.000Z",
-    "categories": [
-      "Circular economy",
-      "Compliance and standards",
-      "Energy",
-      "Reporting and disclosure",
-      "Strategy and delivery",
-      "Supply chain management",
-      "Waste Management",
-      "BSI",
-      "BSI standards",
-      "food",
-      "Food & drink",
-      "food and drink",
-      "Food waste",
-      "ISO",
-      "standards",
-      "supply chain",
-      "WRAP"
-    ],
-    "guid": "https://www.edie.net/?p=303538",
-    "sourceName": null,
-    "sourceUrl": null,
-    "matches": [
-      {
-        "labelId": "wrap",
-        "bucket": "ACRONYM",
-        "tier": "structured-field",
-        "where": "category",
-        "matchedText": "WRAP",
-        "sourceText": "WRAP"
-      },
-      {
-        "labelId": "wrap",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "summary",
-        "matchedText": "WRAP"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
     "outletId": "google-news",
     "outletName": "PR Newswire",
     "aggregator": "Google News",

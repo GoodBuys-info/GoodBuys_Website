@@ -56,7 +56,7 @@ export const CONTEXT_REQUIRED = {
 	// WRAP here is the apparel-factory certification (Worldwide Responsible
 	// Accredited Production). Observed false positive: "BSI and ISO launch
 	// global standard to tackle food waste" is about WRAP the UK waste charity.
-	wrap: /\b(factory|factories|apparel|garment|textile|sewing|labou?r|workers?|supply chain|manufactur\w*)\b/i,
+	wrap: /\b(factory|factories|apparel|garments?|textiles?|sewing|clothing|footwear)\b/i,
 	// "gold standard" is also a generic idiom ("the gold standard of ..."). Observed
 	// false positive: a Grist article on the EU climate law.
 	"gold-standard": /\b(carbon (offsets?|credits?|markets?|projects?)|voluntary carbon|offset projects?|carbon-credit)\b/i,
