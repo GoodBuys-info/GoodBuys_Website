@@ -31,6 +31,7 @@ import * as npr from "./sources/npr.js";
 import * as triplepundit from "./sources/triplepundit.js";
 import * as reuters from "./sources/reuters.js";
 import * as courtlistener from "./sources/courtlistener.js";
+import { caseNameContainsCompany } from "./sources/courtlistener.js";
 
 // EEOC and OECD Watch publish formal, structured filings — keyword rules
 // classify their status reliably. The rest is freeform journalism, where
@@ -90,6 +91,27 @@ async function main() {
 	console.log(`Querying CourtListener for ${searchCompanies.length} companies...`);
 	const courtlistenerByCompany = await Promise.all(courtlistenerTasks);
 	const courtlistenerRecords = courtlistenerByCompany.flatMap((r) => r.records);
+
+	// A company CourtListener could not answer for (throttled, out of time
+	// budget, network) keeps last run's filings instead of being published as
+	// "none" — every run rebuilds the file from scratch, so without this a bad
+	// night would silently wipe real data. Carried records are re-checked with
+	// the case-title guard because last run's data may predate it.
+	const failed = courtlistenerByCompany.map((r, i) => ({ r, company: searchCompanies[i] })).filter((x) => x.r.failed);
+	if (failed.length) {
+		const previous = await loadPreviousCourtFilings();
+		let carried = 0;
+		for (const { company } of failed) {
+			const keep = (previous.get(company) || []).filter((rec) => caseNameContainsCompany(rec.title, company));
+			courtlistenerRecords.push(...keep);
+			carried += keep.length;
+		}
+		const reasons = [...new Set(failed.map((x) => x.r.reason))].join("; ");
+		console.warn(
+			`[courtlistener] ${failed.length}/${searchCompanies.length} companies not fetched (${reasons}); ` +
+				`carried forward ${carried} filings from the previous run.`,
+		);
+	}
 	const courtlistenerTotalRaw = courtlistenerByCompany.reduce((sum, r) => sum + r.totalCount, 0);
 	console.log(`  -> ${courtlistenerTotalRaw} total filings found, ${courtlistenerRecords.length} kept after allowlist + cap`);
 
@@ -227,8 +249,24 @@ async function safeFetchCourtlistener(company) {
 		return await courtlistener.fetchForCompany(company);
 	} catch (err) {
 		console.warn(`[${courtlistener.SOURCE_ID}] FAIL for "${company}" — ${err.message || err}`);
-		return { records: [], totalCount: 0 };
+		return { records: [], totalCount: 0, failed: true, reason: "error" };
 	}
+}
+
+// Last run's CourtListener filings by company, from the committed output file.
+async function loadPreviousCourtFilings() {
+	const byCompany = new Map();
+	try {
+		const prev = JSON.parse(await fs.readFile(PATHS.OUTPUT_PATH, "utf8"));
+		for (const rec of Array.isArray(prev) ? prev : []) {
+			if (rec.sourceId !== courtlistener.SOURCE_ID) continue;
+			if (!byCompany.has(rec.company)) byCompany.set(rec.company, []);
+			byCompany.get(rec.company).push(rec);
+		}
+	} catch {
+		// no previous file: nothing to carry forward
+	}
+	return byCompany;
 }
 
 async function safeFetchAll(source) {

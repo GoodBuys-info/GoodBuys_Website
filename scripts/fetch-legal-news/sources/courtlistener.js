@@ -37,7 +37,7 @@
 // matcher.js is the same trade-off), so an unclassified case is excluded
 // rather than risking noise.
 
-import { fetchHtml, delayFor } from "../../scrape-company-labels/http.js";
+import { fetchHtml, delayFor, isHostThrottled } from "../../scrape-company-labels/http.js";
 import { ENV } from "../config.js";
 
 const API_BASE = "https://www.courtlistener.com/api/rest/v4/search/";
@@ -62,7 +62,24 @@ const ALLOWLIST_KEYWORDS = [
 	"false claims",
 ];
 
+const HOST = "www.courtlistener.com";
+let deadline = null; // set on the first call: Date.now() + COURTLISTENER_BUDGET_MIN
+
+// Why CourtListener should not be queried right now, or null if it's fine.
+// A skipped/failed company returns `failed: true` so the caller can keep
+// last run's filings for it instead of publishing "no filings".
+function skipReason() {
+	if (ENV.SKIP_COURTLISTENER) return "LEGAL_SKIP_COURTLISTENER is set";
+	if (isHostThrottled(HOST)) return "CourtListener is rate-limiting this run";
+	if (deadline && Date.now() > deadline) return `time budget of ${ENV.COURTLISTENER_BUDGET_MIN} min used up`;
+	return null;
+}
+
 export async function fetchForCompany(company) {
+	const reason = skipReason();
+	if (reason) return { records: [], totalCount: 0, failed: true, reason };
+	if (!deadline) deadline = Date.now() + ENV.COURTLISTENER_BUDGET_MIN * 60 * 1000;
+
 	const url = `${API_BASE}?type=r&party_name=${encodeURIComponent(company)}&order_by=dateFiled%20desc`;
 	const host = new URL(url).host;
 	await delayFor(host);
@@ -75,8 +92,10 @@ export async function fetchForCompany(company) {
 	// and the whole response silently looks like zero results.
 	const headers = { Accept: "application/json" };
 	if (ENV.COURTLISTENER_API_TOKEN) headers.Authorization = `Token ${ENV.COURTLISTENER_API_TOKEN}`;
-	const data = await fetchHtml(url, 0, headers);
-	if (!data || typeof data !== "object") return { records: [], totalCount: 0 };
+	const data = await fetchHtml(url, 0, headers, { maxRetryAfterSec: ENV.COURTLISTENER_MAX_RETRY_AFTER_SEC });
+	if (!data || typeof data !== "object") {
+		return { records: [], totalCount: 0, failed: true, reason: isHostThrottled(HOST) ? "rate-limited" : "no response" };
+	}
 
 	// axios auto-parses JSON responses; fetchHtml just hands back
 	// response.data, so `data` here is already the parsed object.
@@ -121,7 +140,7 @@ export async function fetchForCompany(company) {
 	return { records, totalCount };
 }
 
-function caseNameContainsCompany(caseName, company) {
+export function caseNameContainsCompany(caseName, company) {
 	const normalize = (s) =>
 		String(s || "")
 			.toLowerCase()

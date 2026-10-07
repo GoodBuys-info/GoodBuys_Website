@@ -41,6 +41,9 @@ permissions:
 jobs:
   fetch-and-commit:
     runs-on: ubuntu-latest
+    # A normal run takes ~1h. GitHub's default is 6h, which is how a throttled
+    # run once burned 6h of runner time before being cancelled.
+    timeout-minutes: 180
     steps:
       - name: Checkout
         uses: actions/checkout@v4
