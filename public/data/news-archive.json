@@ -1,6 +1,98 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Traders Union",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2dzZGZKYmFOeUdnVENrZFNHZ29jYU5zb0E4VmJuV2hqYlFoMDlzLVlWRHhSdm14c2IyQUJQZkwtczZ3ejFmS2dOb0s5a1U2S1B5WUJObU9Hc2xwTmFzWHl2NzZ3OXhxX3VzaTFLU05hQ1I3QzBpRTUtNmt0bGkyZHpyZTdWUzVOd3Q0N3hCVUZlZWRpT0RoZjRR?oc=5",
+    "urlSlug": null,
+    "title": "EU Ecolabel trust and product uptake rise across Europe",
+    "summary": "",
+    "publishedAt": "2026-10-08T10:24:56.000Z",
+    "categories": [],
+    "guid": "CBMimgFBVV95cUxPT2dzZGZKYmFOeUdnVENrZFNHZ29jYU5zb0E4VmJuV2hqYlFoMDlzLVlWRHhSdm14c2IyQUJQZkwtczZ3ejFmS2dOb0s5a1U2S1B5WUJObU9Hc2xwTmFzWHl2NzZ3OXhxX3VzaTFLU05hQ1I3QzBpRTUtNmt0bGkyZHpyZTdWUzVOd3Q0N3hCVUZlZWRpT0RoZjRR",
+    "searchedLabel": "eu-ecolabel",
+    "matches": [
+      {
+        "labelId": "eu-ecolabel",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "EU Ecolabel"
+      }
+    ],
+    "fetchedAt": "2026-10-08T13:53:03.033Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Knitting Industry",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12dDJxTllsblItcEc2dTEwZ1lXRjNFVHFIQWthQTdGdHBBVmNkb3FaZUpaTU1WdEh1bWMwblNMWV9PcDdoQlNOQWlMSzhwLXFpRUJjbGtPUGdMS2lQLUVqd3pQSC1aSVByY1NLNzQwOGFrMHBON2NQSjBPRFo?oc=5",
+    "urlSlug": null,
+    "title": "BCI reports progress in sustainable cotton",
+    "summary": "",
+    "publishedAt": "2026-10-08T08:01:25.000Z",
+    "categories": [],
+    "guid": "CBMifEFVX3lxTE12dDJxTllsblItcEc2dTEwZ1lXRjNFVHFIQWthQTdGdHBBVmNkb3FaZUpaTU1WdEh1bWMwblNMWV9PcDdoQlNOQWlMSzhwLXFpRUJjbGtPUGdMS2lQLUVqd3pQSC1aSVByY1NLNzQwOGFrMHBON2NQSjBPRFo",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BCI"
+      }
+    ],
+    "fetchedAt": "2026-10-08T13:53:03.033Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "TECHNOLOGY RESELLER",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTERteFlSenRoX0lSRXN0Yi1EUjVqMzZBOXBHTlhMelI0RFplQk45SU1hQW5hMmQyUERuSHZYbEhTY0VZdnFydzlNNEQtdVlINHpiNkpvYy1Tb2pkRXVUb1FMREdyWDVoTVdZWGM1WlVueXVEZzdYc2dsTUFPVGpMRA?oc=5",
+    "urlSlug": null,
+    "title": "Infinity Group achieves B Corp certification",
+    "summary": "",
+    "publishedAt": "2026-10-08T07:40:23.000Z",
+    "categories": [],
+    "guid": "CBMigAFBVV95cUxNTERteFlSenRoX0lSRXN0Yi1EUjVqMzZBOXBHTlhMelI0RFplQk45SU1hQW5hMmQyUERuSHZYbEhTY0VZdnFydzlNNEQtdVlINHpiNkpvYy1Tb2pkRXVUb1FMREdyWDVoTVdZWGM1WlVueXVEZzdYc2dsTUFPVGpMRA",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-08T13:53:03.033Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Seafoodnews",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRlk5eXpPTWtJNnFJVy15eENPeWJwaDhwYTMwckg0dHZia3lITU16Nll5SUNWZWpxajdWYi1INFgtb1Jlck1zZWlZalhub2RJNDBtY1dST19JQmtGYmhJMmJqbEV6SVJYLUtFYi1CTWE2SWZNQ24tZVJNQWxyM3RhSkNaYXNLZWFNVVZtQTdFNEdTZVNLblFYd1F3X3dxVWJmVnNjdk5xSG0yQmRmZUItM1UxOV9nYS1GbnNNekR3?oc=5",
+    "urlSlug": null,
+    "title": "Friend of the Sea Updates Labels to Meet Tougher EU Sustainability Claims Rules",
+    "summary": "",
+    "publishedAt": "2026-10-07T13:40:07.000Z",
+    "categories": [],
+    "guid": "CBMivgFBVV95cUxPRlk5eXpPTWtJNnFJVy15eENPeWJwaDhwYTMwckg0dHZia3lITU16Nll5SUNWZWpxajdWYi1INFgtb1Jlck1zZWlZalhub2RJNDBtY1dST19JQmtGYmhJMmJqbEV6SVJYLUtFYi1CTWE2SWZNQ24tZVJNQWxyM3RhSkNaYXNLZWFNVVZtQTdFNEdTZVNLblFYd1F3X3dxVWJmVnNjdk5xSG0yQmRmZUItM1UxOV9nYS1GbnNNekR3",
+    "searchedLabel": "friend-of-the-sea",
+    "matches": [
+      {
+        "labelId": "friend-of-the-sea",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Friend of the Sea"
+      }
+    ],
+    "fetchedAt": "2026-10-08T13:53:03.033Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Fresh Plaza",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGZ6NHN4cGVBMVBVU3V3RlRNcDV0eEw3RF9KTHRaMnAyQm0xRmItWnRaSEpCYldjeWx1bXdxZXJndnp6cnF4ZHZMSnVnMTd5XzI3QUtid0RlYkEzbHVFUTAzdFh3NDh4VFhLSVdMS09HU0ZwQW0zTDFKYjV0bEVIUUhSb3B2cGhITVBWaE5Oc0ZmNkhDdlh0N3QzcUoteXRyZHJxajlrUHh0eFFkRFdxTkt3V1Z1NGVqVGpGRkJWbF80UQ?oc=5",
@@ -435,6 +527,29 @@
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Lelezard",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNDBoM2xKaGUyZWhPNTBZUjVaWl9aZGwzOHoyczNfRld2ZUdTeTFSYS1za2NZUktIT2J2UkZLR2tGWEtMNjVvTmpvWkIwZFNRZUQ3V05EQ0RLMDFtbnJYbkN3RHRKLUxfQ251WXo2ekw1bE1IN1h5dEpiMHFBR3JwRFF1QllydmZYNnpLZXhGTkZ4eUNZQWlaUVBLWmlodHNXTmhENmlvRGJkLTNId0tJeTBRMDBhaUZrWVBEbUdEeFNvSVE?oc=5",
+    "urlSlug": null,
+    "title": "ENERGY-EFFICIENCY LEADERSHIP EARNS LG CANADA ITS SIXTH ENERGY STAR®CANADA AWARD",
+    "summary": "",
+    "publishedAt": "2026-10-06T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMiwwFBVV95cUxNNDBoM2xKaGUyZWhPNTBZUjVaWl9aZGwzOHoyczNfRld2ZUdTeTFSYS1za2NZUktIT2J2UkZLR2tGWEtMNjVvTmpvWkIwZFNRZUQ3V05EQ0RLMDFtbnJYbkN3RHRKLUxfQ251WXo2ekw1bE1IN1h5dEpiMHFBR3JwRFF1QllydmZYNnpLZXhGTkZ4eUNZQWlaUVBLWmlodHNXTmhENmlvRGJkLTNId0tJeTBRMDBhaUZrWVBEbUdEeFNvSVE",
+    "searchedLabel": "energy-star",
+    "matches": [
+      {
+        "labelId": "energy-star",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ENERGY STAR"
+      }
+    ],
+    "fetchedAt": "2026-10-08T13:53:03.033Z"
   },
   {
     "outletId": "google-news",
@@ -1045,6 +1160,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Eastern Progress",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZkNEdGkzMnhaX1RxdXVka1l2LTNHdHNCRG5VYjlERE53V29mWm1HOFlpNk43c2pzdl9jd2pCVXJ3MV83c2ZzZTFGZXpxWFUzNTJOY2stWmhiQjkwTzZvZGVhbHdFQ3pTTmhnMmFROGpqM0dub092M3RvVkd6QjBWQk9CSXQwcXZFejlJT3dzdTllTHBISUp6R2FtZGZfLS05QVpXSDBkX1duNkNuenBkX0s4MjNIMEJVczkybEFtdkwtR3BLWVlXNUkycnJLaXE2ZGFWVlhfY1V3dm5INHBuVHBZdzZTX3htWlNfelVGZ29lRHRNcTN3MHd5THA5S0Vya0xmYUZ5ZlpUWi1UdmV2cA?oc=5",
+    "urlSlug": null,
+    "title": "Lorissa's Organic Snacks Launches USDA Organic, Certified Top 9 Allergen Free Meat Sticks, Available Now at Target",
+    "summary": "",
+    "publishedAt": "2026-10-01T10:15:00.000Z",
+    "categories": [],
+    "guid": "CBMikAJBVV95cUxNZkNEdGkzMnhaX1RxdXVka1l2LTNHdHNCRG5VYjlERE53V29mWm1HOFlpNk43c2pzdl9jd2pCVXJ3MV83c2ZzZTFGZXpxWFUzNTJOY2stWmhiQjkwTzZvZGVhbHdFQ3pTTmhnMmFROGpqM0dub092M3RvVkd6QjBWQk9CSXQwcXZFejlJT3dzdTllTHBISUp6R2FtZGZfLS05QVpXSDBkX1duNkNuenBkX0s4MjNIMEJVczkybEFtdkwtR3BLWVlXNUkycnJLaXE2ZGFWVlhfY1V3dm5INHBuVHBZdzZTX3htWlNfelVGZ29lRHRNcTN3MHd5THA5S0Vya0xmYUZ5ZlpUWi1UdmV2cA",
+    "searchedLabel": "usda-organic",
+    "matches": [
+      {
+        "labelId": "usda-organic",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "USDA Organic"
+      }
+    ],
+    "fetchedAt": "2026-10-08T13:53:03.033Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "LBB - Little Black Book",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNnNGREFHZ1VCS0t3VEstNWtEQk1fdF9HVDlOLTZNejFNbm5leHZsRlRCaUpSaVB1Tkowc1owV3BXVEliSnRBZEZmYnRxT1hVcEhSVXdwUFNZOHk0RDRMeVdVUGVHcFhuQlZzVDlXdzE5bWNVVElDaF9GbmFrXy14TTYyVC12WUpKMEk5bDlWU25qX1pjeGNTam5YNC1ucnBidnlJTUxGRlp5YWl3MmVQZUMzTHBuZDlMQ1RzT210LUM?oc=5",
@@ -1088,6 +1226,29 @@
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The SeaTac Blog",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNHJ1Vkc4ZUlmaFJtMWZadGU0NEoydmZpWmstYjNyUTYteWRLRjBXNEVUUHBHdGhGNU9wMTc0RGkyVllnTVpWd0l3am5kaWlGRHFaZVJDRTFITGR1ZHZKMnNMYm5kS09vbHZOSzVDTEhReVBhYjQxZFc0RGZ2N1NTcG5Qb19OVzhXSTZpWkE2bkRGZDdfeVFodjFxMWViUlRKOVprYUI3SzhUSURzYmVhZmFCMVZ6aE1C?oc=5",
+    "urlSlug": null,
+    "title": "Time to upgrade your sprinkler timer? Consider replacing it with a WaterSense timer!",
+    "summary": "",
+    "publishedAt": "2026-09-30T21:54:03.000Z",
+    "categories": [],
+    "guid": "CBMiuAFBVV95cUxQNHJ1Vkc4ZUlmaFJtMWZadGU0NEoydmZpWmstYjNyUTYteWRLRjBXNEVUUHBHdGhGNU9wMTc0RGkyVllnTVpWd0l3am5kaWlGRHFaZVJDRTFITGR1ZHZKMnNMYm5kS09vbHZOSzVDTEhReVBhYjQxZFc0RGZ2N1NTcG5Qb19OVzhXSTZpWkE2bkRGZDdfeVFodjFxMWViUlRKOVprYUI3SzhUSURzYmVhZmFCMVZ6aE1C",
+    "searchedLabel": "watersense",
+    "matches": [
+      {
+        "labelId": "watersense",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "WaterSense"
+      }
+    ],
+    "fetchedAt": "2026-10-08T13:53:03.033Z"
   },
   {
     "outletId": "google-news",
@@ -1489,6 +1650,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Pulp and Paper Canada",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONW5HbFB6V0VneDZYY0t0OTVWNkl3aGM2Y0Fsb0VrREliaWFBZ1hvRE5uRzFTVjJvS0tuTkJPUG5ZSFZhX0ZLWk5va3VlTmpSNUZhVG5rUEw2VDNUNHI1SlBkelBIdlFDRU1Va2FmcVNxdndHU3ltUVpNVWJTdG02Q04wc1djNGg5?oc=5",
+    "urlSlug": null,
+    "title": "FSC Canada hires regional manager for Ontario",
+    "summary": "",
+    "publishedAt": "2026-09-28T19:44:17.000Z",
+    "categories": [],
+    "guid": "CBMiiAFBVV95cUxONW5HbFB6V0VneDZYY0t0OTVWNkl3aGM2Y0Fsb0VrREliaWFBZ1hvRE5uRzFTVjJvS0tuTkJPUG5ZSFZhX0ZLWk5va3VlTmpSNUZhVG5rUEw2VDNUNHI1SlBkelBIdlFDRU1Va2FmcVNxdndHU3ltUVpNVWJTdG02Q04wc1djNGg5",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-08T13:53:03.033Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "markets.businessinsider.com",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMEZHd2xzZFcybHRNbDVUb3kyTjlScXRPSnljZzVkaFhRUlMya3ZyTG5VblBXMU1LdFR0RzhTa2k1RlM3UFRRWkNKX1ZOZFlTR0hoV0VQVnc3Z0NOVlRHWlE3NlA5QkdlMU9XTGpNdF9WOGVJbnBQWFVLQzhOWjVtUXFMXzBJeG5PYjBudDJNODdRZmZ2UmZ3VXZBakl5T1Vqa1BWaUhnb2J2YXIyVURaMHVRNHgxTDA4YXI0ZDNGdFFUaEV3anlvMThGZDh5S2pWQWRqYUR2cmxJbk51azhrVjdCQjREWS1sYnNkRjd4VGJBdU9Iak1DRGNrRGNwZw?oc=5",
@@ -1532,6 +1716,52 @@
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Hospitality Ireland",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcHdTbEpaR1hQRXpOUWFERjIzVFBMWGpqUElseExNemNETUgxdkhNUGQ0c0JPWXlhS0NIYVAtNVNKaUx2am9WWDJPelVsYzh1bHRqQlNUR1hwVURXUGdMd2dULXIzRkZRRnljRlpzSzczcDNqWkhicFpVMUhzWDUxNk1nNVNZYmt6TWloR0RFbGxzMHBCSnZsdWl0Z1VRZjNHalhyTXBOUXhnUFF5Vk9LYTZQOG56N05BMXBwS2VFanNOcUZocWpxSHhkVTRRZXJVcmFUOHFBRTdvLXRM?oc=5",
+    "urlSlug": null,
+    "title": "Portmarnock Resort & Jameson Golf Links Achieves Green Key Sustainability Certification",
+    "summary": "",
+    "publishedAt": "2026-09-28T13:32:51.000Z",
+    "categories": [],
+    "guid": "CBMi3AFBVV95cUxOcHdTbEpaR1hQRXpOUWFERjIzVFBMWGpqUElseExNemNETUgxdkhNUGQ0c0JPWXlhS0NIYVAtNVNKaUx2am9WWDJPelVsYzh1bHRqQlNUR1hwVURXUGdMd2dULXIzRkZRRnljRlpzSzczcDNqWkhicFpVMUhzWDUxNk1nNVNZYmt6TWloR0RFbGxzMHBCSnZsdWl0Z1VRZjNHalhyTXBOUXhnUFF5Vk9LYTZQOG56N05BMXBwS2VFanNOcUZocWpxSHhkVTRRZXJVcmFUOHFBRTdvLXRM",
+    "searchedLabel": "green-key",
+    "matches": [
+      {
+        "labelId": "green-key",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Key"
+      }
+    ],
+    "fetchedAt": "2026-10-08T13:53:03.033Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "IndexBox",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEhjZUk2cXFLbTBQd2Z0OFk2TGlsZlU5U2JMTllXd2VJdF9ua0hRbFNtRDlPYW5ScEhLNjUwYzI5ZEw2bjBDTUNaT2JwMmhULWdSbWhraXVfOENVVzZXOUlVMHEwRXA5UG1mMFhqa1VXSm96Z2t6WFpNV0ZzZ0kxZWFUdVotamljWHNfR0VDOGtXcktscXc?oc=5",
+    "urlSlug": null,
+    "title": "USDA Organic Poultry and Egg Market Report: Prices, Production, and Retail Trends - News and Statistics",
+    "summary": "",
+    "publishedAt": "2026-09-28T13:30:23.000Z",
+    "categories": [],
+    "guid": "CBMilgFBVV95cUxNaEhjZUk2cXFLbTBQd2Z0OFk2TGlsZlU5U2JMTllXd2VJdF9ua0hRbFNtRDlPYW5ScEhLNjUwYzI5ZEw2bjBDTUNaT2JwMmhULWdSbWhraXVfOENVVzZXOUlVMHEwRXA5UG1mMFhqa1VXSm96Z2t6WFpNV0ZzZ0kxZWFUdVotamljWHNfR0VDOGtXcktscXc",
+    "searchedLabel": "usda-organic",
+    "matches": [
+      {
+        "labelId": "usda-organic",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "USDA Organic"
+      }
+    ],
+    "fetchedAt": "2026-10-08T13:53:03.033Z"
   },
   {
     "outletId": "google-news",
