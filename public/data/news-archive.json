@@ -1,6 +1,75 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "The South African",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVNmX05VamVlcjVHNUtfUVhrc1FlRXFPc1NUM1l5Zl9LN1NodW1JQ3U2OEQ1YWtYVnFrcFNSLVZzWW5FSXhIdVg2cnpwc0VFR1JZWW4zLVBSYTJBSGlCSUQxZWNhQnZLSTQ5bGEySFVKTHFIV1gzS0YxdnMwemYtZVlTVFctOUE3SnZpRlA4U1ZTTE1GMlROZU8tQlcxZk5LYTVQekdn?oc=5",
+    "urlSlug": null,
+    "title": "Four more Cape Town beaches in line to earn Blue Flag status",
+    "summary": "",
+    "publishedAt": "2026-10-10T12:49:51.000Z",
+    "categories": [],
+    "guid": "CBMipgFBVV95cUxOLVNmX05VamVlcjVHNUtfUVhrc1FlRXFPc1NUM1l5Zl9LN1NodW1JQ3U2OEQ1YWtYVnFrcFNSLVZzWW5FSXhIdVg2cnpwc0VFR1JZWW4zLVBSYTJBSGlCSUQxZWNhQnZLSTQ5bGEySFVKTHFIV1gzS0YxdnMwemYtZVlTVFctOUE3SnZpRlA4U1ZTTE1GMlROZU8tQlcxZk5LYTVQekdn",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-10T12:53:50.050Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "BusinessTech",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDF3dXNSUElZeU1GbjlVOWhjTW5iMy00aDJFWEc3RmM5dzlHTVlpQnBfazljMnBQWUUzZTNkY2pIUjZQSUd4MHdXbW1rdlE5ejJKaUZaT1A2MVBLQTFWbXJ3Y3p0YXF2SklfazgtcThwM2JLUy12WkNQMDNZV0xfMFdQcHVoOEdUWlV0WGc1QVE4cmZKNU9zMF85V2NWWDdCNGtzcTVqVnI2NkJ6bUdLRkR2VGhtM3pkMnZEYWNR?oc=5",
+    "urlSlug": null,
+    "title": "Eight Blue Flag beaches for Cape Town in 2026, with four more on the way",
+    "summary": "",
+    "publishedAt": "2026-10-10T11:01:13.000Z",
+    "categories": [],
+    "guid": "CBMivgFBVV95cUxOdDF3dXNSUElZeU1GbjlVOWhjTW5iMy00aDJFWEc3RmM5dzlHTVlpQnBfazljMnBQWUUzZTNkY2pIUjZQSUd4MHdXbW1rdlE5ejJKaUZaT1A2MVBLQTFWbXJ3Y3p0YXF2SklfazgtcThwM2JLUy12WkNQMDNZV0xfMFdQcHVoOEdUWlV0WGc1QVE4cmZKNU9zMF85V2NWWDdCNGtzcTVqVnI2NkJ6bUdLRkR2VGhtM3pkMnZEYWNR",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-10T12:53:50.050Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "BW Hotelier",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT3BsZUtpSDdoTkQxVmFHalNTRGpNUHR0UmtEQ2dMaDNmc2NLaGJKTHhBUnhyQmRCWVgwbDIyc1NQd3E4Vm04ZlBIR1Z1LTJnc2x1XzdXUEVmaE81UmN5MDZSMzZhRGhaQlRic3NTclB1cmJqSFZ3V0QxYUNoY09fQVF4dDR4blhKYXRxdS1JQVBHMHVwMWFVdjd6VU90bVBUWGNiX0VHNzA0dkNXRTJhcDFJN1h5VnFSQVlIenpBLUsyS3M?oc=5",
+    "urlSlug": null,
+    "title": "Mercure Kathmandu Sukedhara Heights becomes Nepal's first Green Key-certified hotel",
+    "summary": "",
+    "publishedAt": "2026-10-10T07:16:19.000Z",
+    "categories": [],
+    "guid": "CBMiwwFBVV95cUxPT3BsZUtpSDdoTkQxVmFHalNTRGpNUHR0UmtEQ2dMaDNmc2NLaGJKTHhBUnhyQmRCWVgwbDIyc1NQd3E4Vm04ZlBIR1Z1LTJnc2x1XzdXUEVmaE81UmN5MDZSMzZhRGhaQlRic3NTclB1cmJqSFZ3V0QxYUNoY09fQVF4dDR4blhKYXRxdS1JQVBHMHVwMWFVdjd6VU90bVBUWGNiX0VHNzA0dkNXRTJhcDFJN1h5VnFSQVlIenpBLUsyS3M",
+    "searchedLabel": "green-key",
+    "matches": [
+      {
+        "labelId": "green-key",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Key"
+      }
+    ],
+    "fetchedAt": "2026-10-10T12:53:50.050Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Edition.mv",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkODJlMmpSdTNOemJwTkJ4Q2M4dm1hQXZfTk9EcDZ3OGlvaUtocDFqZzRTUWVfYUF3M2s0N0hiTk1PYm1XRU90X1I3bFBuaG02OUNjZkNn?oc=5",
@@ -44,6 +113,29 @@
       }
     ],
     "fetchedAt": "2026-10-09T13:37:51.813Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Bristol24/7",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2NQbkIyNXZ0MkpzejVmdzBWZllPWGRzNG0wRHBidlllcGZDU3lKVFFkUnBWby1MbGVTamYxSkllT0dkbTZyUVlaTmc3WDRRdGVGTjVOZVVuSFRjcWNzeFh4Z19pV0h3M2I3Rkh5WjhQZFRZQUMycDQtRHNSdlR6eHdMdzlUTHVNUlNLRWxhTlBONkNMNWUwU09pTE0wdHRNbnQ4WUJzZ3V5YWVxTzItNldxY1VBelBxNGtwNWREQVNEcWxBM1E?oc=5",
+    "urlSlug": null,
+    "title": "Michelin-recommended ‘farm-to-table’ restaurant wins B-Corp status",
+    "summary": "",
+    "publishedAt": "2026-10-09T10:34:19.000Z",
+    "categories": [],
+    "guid": "CBMixgFBVV95cUxNd2NQbkIyNXZ0MkpzejVmdzBWZllPWGRzNG0wRHBidlllcGZDU3lKVFFkUnBWby1MbGVTamYxSkllT0dkbTZyUVlaTmc3WDRRdGVGTjVOZVVuSFRjcWNzeFh4Z19pV0h3M2I3Rkh5WjhQZFRZQUMycDQtRHNSdlR6eHdMdzlUTHVNUlNLRWxhTlBONkNMNWUwU09pTE0wdHRNbnQ4WUJzZ3V5YWVxTzItNldxY1VBelBxNGtwNWREQVNEcWxBM1E",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-10T12:53:50.050Z"
   },
   {
     "outletId": "google-news",
@@ -93,6 +185,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Retail News Asia",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4X0NXcWtMNks3UkIxSVF2WUY0ZVktbVZ2ay1zU3Jnc3NzTjJnVDhzNDJGS1NuMlhTcHAwdzJBNzZ1b1Faa2xoYW1wSFlBbmhhRHNxdVlER1E0NGZlREh1ZFlYY1l3VDZm?oc=5",
+    "urlSlug": null,
+    "title": "China BCI Cotton Prices Fall 0.96%",
+    "summary": "",
+    "publishedAt": "2026-10-09T09:41:43.000Z",
+    "categories": [],
+    "guid": "CBMiaEFVX3lxTFA4X0NXcWtMNks3UkIxSVF2WUY0ZVktbVZ2ay1zU3Jnc3NzTjJnVDhzNDJGS1NuMlhTcHAwdzJBNzZ1b1Faa2xoYW1wSFlBbmhhRHNxdVlER1E0NGZlREh1ZFlYY1l3VDZm",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BCI"
+      }
+    ],
+    "fetchedAt": "2026-10-10T12:53:50.050Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Perishable News",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbGJYU2NCZG1qLTZBOG9Zdm5NeUlFS3BtOHhhZkFqWlNucGFleUhXbXlQVWdDNXd6RHRmU3kwWkE5aUZqbHpRczkwZUdHOGtvRmJidlRqZFZKMmd0NjEzenlERmF3ZERMUXljLWs5QVJuZ2dwNmhmU3pnUkNPX0FjSW00V1Q1Rkt0NGFPenNWUllaTHg4SFFjTjF2bkRRUm5xNGhLZklVQUE3Z2oweWhiaGZMVlFjeGF3eG1RU25qc1FtSThCSkpYOGpxaDBncmFGRkY4WE9RaUVUQ3dzdzNja1lrYnZqWk1PLTR3UDlSd1dzMDJTNGZlQkM3UQ?oc=5",
@@ -136,6 +251,29 @@
       }
     ],
     "fetchedAt": "2026-10-09T13:37:51.813Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The News-Press",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVnFLaWtNU2hsbXprRWE5TzZNSVBFcHNUd29HMVl0Zktid0lfRkphT1JtcEdqOGtSWW83QjUteXV4S3RHRERuUEF4aGdKLUwzTkNrTDVOa3FBLUZ2OUlXZW9aQjBzbGt1ZU1WTlVVc2Z2VUpzdHhQUVA5WHkxaEtKanVVdWlMWDdBVzdnM2lrMHdhdGNZVmZkMlI1Ym9VZkE0R0tlbWlNRml3OUtrd29pS3kyc2NsM1JfelJIOWIzWGtlaUZubGhPalJ3aw?oc=5",
+    "urlSlug": null,
+    "title": "Why former Blue Angel Ray Sandelli wants your vote in Bonita Springs",
+    "summary": "",
+    "publishedAt": "2026-10-09T09:00:00.000Z",
+    "categories": [],
+    "guid": "CBMiywFBVV95cUxPVnFLaWtNU2hsbXprRWE5TzZNSVBFcHNUd29HMVl0Zktid0lfRkphT1JtcEdqOGtSWW83QjUteXV4S3RHRERuUEF4aGdKLUwzTkNrTDVOa3FBLUZ2OUlXZW9aQjBzbGt1ZU1WTlVVc2Z2VUpzdHhQUVA5WHkxaEtKanVVdWlMWDdBVzdnM2lrMHdhdGNZVmZkMlI1Ym9VZkE0R0tlbWlNRml3OUtrd29pS3kyc2NsM1JfelJIOWIzWGtlaUZubGhPalJ3aw",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-10-10T12:53:50.050Z"
   },
   {
     "outletId": "google-news",
