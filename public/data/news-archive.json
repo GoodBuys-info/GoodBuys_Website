@@ -1,6 +1,29 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "ET HospitalityWorld",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZkNyemN6SHphYVQ2ZlplQVA3SWI3TkR5RndOcTE5SVBWMGViaHNsR1V6UGxoQXJZY2dtdWJUMG9MX2ZTaXNOZjUxRkMzeGZIS1V2cTFCR3U5TjdrcGhoY2lJTGtfRS0xbnhVSlI5bjg4OHcwOHp3SnhXZjZ5cEg4TDJlV29CSTdsMUhpSnlvOXhwOEp1RElkSHlYSzNXWDhHR0xNdzZXTmRYSHhCX3doVUVnOUtZNk1Tb3Zmc1ozMDRvcW13ZHhWWG43RThjVUlqLWNSYUVR0gHaAUFVX3lxTE1ROE9YMTdtSXV6ZDlzUmNEZ09sRHZnYVZhaVBUck45aHpFSVpud1cxbzR0TGJJbUlGcF9xTVN0MXVMU0FwNmhFRTN6OGFYcHdVXzJBT3ZGU1FfX3lQYTIzWkdjeVlwVW9BamJjUGFFRV9iLUdCaDJZLUJSeU1tTDlOdjBKVW1Relhwa0pHN21NVzE4eWg4YVVfTGJnYlFic1F5ZTM5NTdQTkxaOTJDbDIzSENJdUZ2V1otcmtQRmotcTF2M3UwZXhIMHZNazhyR2F1dzQ0SVJwMlRR?oc=5",
+    "urlSlug": null,
+    "title": "Mercure Kathmandu Sukedhara Heights achieves Green Key Certification",
+    "summary": "",
+    "publishedAt": "2026-10-11T06:42:03.000Z",
+    "categories": [],
+    "guid": "CBMi1gFBVV95cUxPZkNyemN6SHphYVQ2ZlplQVA3SWI3TkR5RndOcTE5SVBWMGViaHNsR1V6UGxoQXJZY2dtdWJUMG9MX2ZTaXNOZjUxRkMzeGZIS1V2cTFCR3U5TjdrcGhoY2lJTGtfRS0xbnhVSlI5bjg4OHcwOHp3SnhXZjZ5cEg4TDJlV29CSTdsMUhpSnlvOXhwOEp1RElkSHlYSzNXWDhHR0xNdzZXTmRYSHhCX3doVUVnOUtZNk1Tb3Zmc1ozMDRvcW13ZHhWWG43RThjVUlqLWNSYUVR0gHaAUFVX3lxTE1ROE9YMTdtSXV6ZDlzUmNEZ09sRHZnYVZhaVBUck45aHpFSVpud1cxbzR0TGJJbUlGcF9xTVN0MXVMU0FwNmhFRTN6OGFYcHdVXzJBT3ZGU1FfX3lQYTIzWkdjeVlwVW9BamJjUGFFRV9iLUdCaDJZLUJSeU1tTDlOdjBKVW1Relhwa0pHN21NVzE4eWg4YVVfTGJnYlFic1F5ZTM5NTdQTkxaOTJDbDIzSENJdUZ2V1otcmtQRmotcTF2M3UwZXhIMHZNazhyR2F1dzQ0SVJwMlRR",
+    "searchedLabel": "green-key",
+    "matches": [
+      {
+        "labelId": "green-key",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Key"
+      }
+    ],
+    "fetchedAt": "2026-10-11T13:17:55.803Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "The South African",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVNmX05VamVlcjVHNUtfUVhrc1FlRXFPc1NUM1l5Zl9LN1NodW1JQ3U2OEQ1YWtYVnFrcFNSLVZzWW5FSXhIdVg2cnpwc0VFR1JZWW4zLVBSYTJBSGlCSUQxZWNhQnZLSTQ5bGEySFVKTHFIV1gzS0YxdnMwemYtZVlTVFctOUE3SnZpRlA4U1ZTTE1GMlROZU8tQlcxZk5LYTVQekdn?oc=5",
@@ -484,6 +507,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Comms Business",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQU9ETERRN2VhcF9KNGE4VEFCeGg4aEpKamNlR0k2TzJZTERxRVd4R2Yyc09lNDZTenVzdEhQMUlyN0wtbzNxY01kZk9ILWFpcFlJZjAwVDhCcGVVYjNiQkd3cHZkUFZSX0FwQXctNVBsT080d21KclFVYXIyVjhDa2FtWUhHbS10RVE?oc=5",
+    "urlSlug": null,
+    "title": "Infinity Group achieves B Corp status",
+    "summary": "",
+    "publishedAt": "2026-10-08T14:39:51.000Z",
+    "categories": [],
+    "guid": "CBMiigFBVV95cUxNQU9ETERRN2VhcF9KNGE4VEFCeGg4aEpKamNlR0k2TzJZTERxRVd4R2Yyc09lNDZTenVzdEhQMUlyN0wtbzNxY01kZk9ILWFpcFlJZjAwVDhCcGVVYjNiQkd3cHZkUFZSX0FwQXctNVBsT080d21KclFVYXIyVjhDa2FtWUhHbS10RVE",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-11T13:17:55.803Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Représentation de la Commission Européenne au Luxembourg",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNHVIRmJEamRpOGFIalQ0eTE0SWlkUHFtLU9oYVoyczJsWUpoVWxUOW15cFRsVU54TTNqQ0RLeHJMeGZLem8zNUdjVzZXbF9LVmJacDlmbm5YWjNTaGU4T3ZJYlM1MnVnZV94N0syYlNMUU9UVVNRSE5DSjgwZzFjSW44VzRMdlR4eXBrSVJhTWdRRHZneW1OTGVIRjlQeGt2M1B2NWhGY3duYVYtdkxUMWdpNnVpSjFXc2JCaFlPeF9LMHI4RzdabDFQZjBLNXUybEYtRU00cE40VlNxbnNjSXlzTnFpdEk?oc=5",
@@ -665,6 +711,29 @@
       }
     ],
     "fetchedAt": "2026-10-07T13:44:39.251Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Yahoo",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDV3Zmk5NFl0bnZEY05ienlxVVlHVUNmRGdKRUctYkdyaHpGeDFkbzZjRnZ3Rmd0OEh2Y1R5TllUQ2xzTjYyT2VMTlpWSWg0dFA4emhZeXJWb0RrTmYyeUxzYjlVREJ0ckw5LXNVQ2p5UGNRZ1dCUWIteWVzV3N6czh4UldMcC0zR05tZFBZcUtxNWhEVGRZ?oc=5",
+    "urlSlug": null,
+    "title": "‘Majority of’ BCI cotton growers slash chemical use, carbon footprint",
+    "summary": "",
+    "publishedAt": "2026-10-07T10:52:53.000Z",
+    "categories": [],
+    "guid": "CBMilwFBVV95cUxNNDV3Zmk5NFl0bnZEY05ienlxVVlHVUNmRGdKRUctYkdyaHpGeDFkbzZjRnZ3Rmd0OEh2Y1R5TllUQ2xzTjYyT2VMTlpWSWg0dFA4emhZeXJWb0RrTmYyeUxzYjlVREJ0ckw5LXNVQ2p5UGNRZ1dCUWIteWVzV3N6czh4UldMcC0zR05tZFBZcUtxNWhEVGRZ",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BCI"
+      }
+    ],
+    "fetchedAt": "2026-10-11T13:17:55.803Z"
   },
   {
     "outletId": "google-news",
@@ -1036,6 +1105,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Yahoo Finance",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOazZRVEtQbnFtdUdtcGVVQTk5SjFKbmxDaEtxcmpOTVRyZ1RpRTRHZF8tbmktU1dFZFZzbDE0VDQ0dk85dXRzRmZ0VHlBeE9PZllIbnNEQUxacGhHcG5ZdC1vSld2a0dwQmsyVjZTcDIzMG1US1ljbmp1aVJRczFTWnIyVjhVT0pnMlBOU1VEc3pTOGhmVHlKXy13?oc=5",
+    "urlSlug": null,
+    "title": "ENERGY-EFFICIENCY LEADERSHIP EARNS LG CANADA ITS SIXTH ENERGY STAR®CANADA AWARD",
+    "summary": "",
+    "publishedAt": "2026-10-06T14:01:00.000Z",
+    "categories": [],
+    "guid": "CBMimgFBVV95cUxOazZRVEtQbnFtdUdtcGVVQTk5SjFKbmxDaEtxcmpOTVRyZ1RpRTRHZF8tbmktU1dFZFZzbDE0VDQ0dk85dXRzRmZ0VHlBeE9PZllIbnNEQUxacGhHcG5ZdC1vSld2a0dwQmsyVjZTcDIzMG1US1ljbmp1aVJRczFTWnIyVjhVT0pnMlBOU1VEc3pTOGhmVHlKXy13",
+    "searchedLabel": "energy-star",
+    "matches": [
+      {
+        "labelId": "energy-star",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ENERGY STAR"
+      }
+    ],
+    "fetchedAt": "2026-10-11T13:17:55.803Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Bdaily",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExzSEhUSlYzYlNoVnJjLWJBdnBKTzRoUXZnMVMyMHVzN2JsMXlUYlcyRWJWMUlGcnNla2hzUEY5Y0VXZHVPbkJkWjItQXRURWZrUXl3b0pYeVk5WktqUmNlc0JpSFNiWHlJRkctbVpub243VmpQdEcwaGxKbXU4a09obldDWklDRmV0OGZ1N1dfYjJCMHc?oc=5",
@@ -1102,6 +1194,29 @@
       }
     ],
     "fetchedAt": "2026-10-08T13:53:03.033Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Sustainable Packaging News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWUtqbklibm1BM0RyWmtqbHN1WEFNdVYzVlZNRGo4VldIS0NYWVJSRERBeDdnSlRGdHhkWVo3VzlsSDY4Qy1MXzdQU0s0dFJNTzJqQ1F30gFgQVVfeXFMTkFoZGJNSjk2NW9SZE95dzBSTW1fb0pGMmtUMi1HSm5xV0lWYTBiUGprRHZ0SFo0MkJYeV9CU0tJQThDdGJmMTJBSkJoUmhkc19Pb3Bxd0xDZC0zb0Z2LXJD?oc=5",
+    "urlSlug": null,
+    "title": "CJ Biomaterials Secures BPI, TÜV AUSTRIA Certifications for New PHACT™ All-PHA Compound Designed for Home Compostable Cutlery",
+    "summary": "",
+    "publishedAt": "2026-10-06T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMiVkFVX3lxTFBwWUtqbklibm1BM0RyWmtqbHN1WEFNdVYzVlZNRGo4VldIS0NYWVJSRERBeDdnSlRGdHhkWVo3VzlsSDY4Qy1MXzdQU0s0dFJNTzJqQ1F30gFgQVVfeXFMTkFoZGJNSjk2NW9SZE95dzBSTW1fb0pGMmtUMi1HSm5xV0lWYTBiUGprRHZ0SFo0MkJYeV9CU0tJQThDdGJmMTJBSkJoUmhkc19Pb3Bxd0xDZC0zb0Z2LXJD",
+    "searchedLabel": "ok-compost",
+    "matches": [
+      {
+        "labelId": "ok-compost",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "TÜV AUSTRIA"
+      }
+    ],
+    "fetchedAt": "2026-10-11T13:17:55.803Z"
   },
   {
     "outletId": "google-news",
