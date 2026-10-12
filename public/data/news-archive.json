@@ -1,6 +1,246 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Forest Stewardship Council (FSC)",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORjdFU2VFLVRoSjZFbUhSQmxod1MtTFg5T3RYeTN6Uk9aSGlIZ09WTFlXSWNoUkJGN1lkVU1QbXpNd1VwRHZCeHFoX0toellNQkxzTFdURmR0NzE1SEFFcl9peE40UWU1TzFCMU1ObmkwRW1GckE5MHc4aGhpZGotVV9lVkh2cmRsV0paQ2M2dXZXZ0xoX1RoRmI4UDFzRjdTbmt2bzBmeG1qM1U?oc=5",
+    "urlSlug": null,
+    "title": "FSC welcomes Claudiu Luntraru as Country Manager for FSC Romania",
+    "summary": "",
+    "publishedAt": "2026-10-12T13:07:30.000Z",
+    "categories": [],
+    "guid": "CBMiqwFBVV95cUxORjdFU2VFLVRoSjZFbUhSQmxod1MtTFg5T3RYeTN6Uk9aSGlIZ09WTFlXSWNoUkJGN1lkVU1QbXpNd1VwRHZCeHFoX0toellNQkxzTFdURmR0NzE1SEFFcl9peE40UWU1TzFCMU1ObmkwRW1GckE5MHc4aGhpZGotVV9lVkh2cmRsV0paQ2M2dXZXZ0xoX1RoRmI4UDFzRjdTbmt2bzBmeG1qM1U",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-12T15:54:42.985Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Cape Town ETC",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVTR6dEhxbGVCOTljalNJTm56OHk1dFdlQVNFRnZScldDdWdXMjFhOEYySkZKSk1mUTlCNU83MVRabENWRUdPLUF6VzNwR29UTkYxLVhCU2NvbmFxQXRVMWExOWNWYjFCWTdUcUZhdVpJblB4NHNtY2Z6RHZTT2JFUTBYN2g3RTdDeElGazlJc05IcUlEU3pzbE9DaUlRRFk?oc=5",
+    "urlSlug": null,
+    "title": "8 Cape Town beaches retain blue flag status, with more on the way",
+    "summary": "",
+    "publishedAt": "2026-10-12T13:00:47.000Z",
+    "categories": [],
+    "guid": "CBMinwFBVV95cUxOVTR6dEhxbGVCOTljalNJTm56OHk1dFdlQVNFRnZScldDdWdXMjFhOEYySkZKSk1mUTlCNU83MVRabENWRUdPLUF6VzNwR29UTkYxLVhCU2NvbmFxQXRVMWExOWNWYjFCWTdUcUZhdVpJblB4NHNtY2Z6RHZTT2JFUTBYN2g3RTdDeElGazlJc05IcUlEU3pzbE9DaUlRRFk",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-12T15:54:42.985Z"
+  },
+  {
+    "outletId": "edie",
+    "outletName": "Edie",
+    "url": "https://www.edie.net/wrap-launches-uk-textile-collection-and-recycling-programme/",
+    "urlSlug": "wrap-launches-uk-textile-collection-and-recycling-programme",
+    "title": "WRAP launches UK textile collection and recycling programme",
+    "summary": "WRAP has launched a programme to redesign the UK’s post-consumer textile collection system, as falling prices for used clothing and rising collection and sorting costs put pressure on the sector.",
+    "publishedAt": "2026-10-12T10:28:28.000Z",
+    "categories": [
+      "Circular economy",
+      "Circular supply chains",
+      "Climate & nature",
+      "Collaboration and partnerships",
+      "Strategy and delivery",
+      "Waste Management",
+      "Circular Economy",
+      "climate action",
+      "collaboration",
+      "fashion",
+      "Primark",
+      "supply chains",
+      "tesco",
+      "textiles",
+      "textiles recycling",
+      "waste management",
+      "WRAP"
+    ],
+    "guid": "https://www.edie.net/?p=304590",
+    "sourceName": null,
+    "sourceUrl": null,
+    "matches": [
+      {
+        "labelId": "wrap",
+        "bucket": "ACRONYM",
+        "tier": "structured-field",
+        "where": "category",
+        "matchedText": "WRAP",
+        "sourceText": "WRAP"
+      },
+      {
+        "labelId": "wrap",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "WRAP"
+      },
+      {
+        "labelId": "wrap",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "summary",
+        "matchedText": "WRAP"
+      }
+    ],
+    "fetchedAt": "2026-10-12T15:54:42.985Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "SeafoodSource",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX3NXNnJydlhHZU1vWWlHX2hHSzZ1OEhkN3R3dUs0WHp4RW84emZTM1FXWFJUakZkQnFfMWctbUpMWGdKRkRuUG1ucmFTQnV0M2FCSTVCMDBYSkcwUVRtWS1HbDZfdFR1d2lrSVRsLUlMejVzdmlYeDJrWldhLUg2UEtaVndCRDZOMzBNb2o2Z1NpbGZMWTY3d0kwdENxRGRybm5XTHdYd0FKek5mbFYycGtxQm5FX1IybHhCVmg4U3Z4NDFORzJ6ZWFKUnVwcmdaU1ZUSUVzYzAtVE5hbG1GNXpsZzZuSnZNd2NoR0ZiVQ?oc=5",
+    "urlSlug": null,
+    "title": "ASC reveals strong year of farm-level improvements in latest Impact Report, targets deeper aquaculture impact moving forward",
+    "summary": "",
+    "publishedAt": "2026-10-12T10:01:49.000Z",
+    "categories": [],
+    "guid": "CBMi7wFBVV95cUxPX3NXNnJydlhHZU1vWWlHX2hHSzZ1OEhkN3R3dUs0WHp4RW84emZTM1FXWFJUakZkQnFfMWctbUpMWGdKRkRuUG1ucmFTQnV0M2FCSTVCMDBYSkcwUVRtWS1HbDZfdFR1d2lrSVRsLUlMejVzdmlYeDJrWldhLUg2UEtaVndCRDZOMzBNb2o2Z1NpbGZMWTY3d0kwdENxRGRybm5XTHdYd0FKek5mbFYycGtxQm5FX1IybHhCVmg4U3Z4NDFORzJ6ZWFKUnVwcmdaU1ZUSUVzYzAtVE5hbG1GNXpsZzZuSnZNd2NoR0ZiVQ",
+    "searchedLabel": "asc",
+    "matches": [
+      {
+        "labelId": "asc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ASC"
+      }
+    ],
+    "fetchedAt": "2026-10-12T15:54:42.985Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "False Bay Echo",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONXNhYjkwTU5aUmlVMWhWLTdzeDVfbUR1VnRFU3dvSDI3ZkRmN25ndnd4RG1SWWlCbU1hbkxpUEYwTE5iTWhhcEIyVDlITU1lUFNLQ1lzZi16a1IySWtfYjJzSzZoNDA4TnVHd0RrSmtTLVNBMzFOVnAtSVJFc0dXM2RfVzR0d1RDSGR3eWRZVUhQUVFFeVd0Qmw5R0otS29sRGc?oc=5",
+    "urlSlug": null,
+    "title": "Muizenberg and Fish Hoek beaches retain Blue Flag status",
+    "summary": "",
+    "publishedAt": "2026-10-12T09:21:15.000Z",
+    "categories": [],
+    "guid": "CBMiogFBVV95cUxONXNhYjkwTU5aUmlVMWhWLTdzeDVfbUR1VnRFU3dvSDI3ZkRmN25ndnd4RG1SWWlCbU1hbkxpUEYwTE5iTWhhcEIyVDlITU1lUFNLQ1lzZi16a1IySWtfYjJzSzZoNDA4TnVHd0RrSmtTLVNBMzFOVnAtSVJFc0dXM2RfVzR0d1RDSGR3eWRZVUhQUVFFeVd0Qmw5R0otS29sRGc",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-12T15:54:42.985Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Global Sources",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxONExkMUxlMHVmV1VzV2xlanYtYThxZjBqaVl1N21GbVlFbWRWRFA3ZGRNZ3NKcHBzYVJvTDdmSjZpUUZmaWJ0Q1VGSUU5V3pUTEZIdXJFUW1pQ2oxWFRiSVhLendFZ3dDSFJySW5jN3RqZmo1MHBWeF9zUmNZUzlTVUx5UTFhc3NzTVZZZWZ6c1FtNnM3V2FhQlZ6cklpNndDMk9rckt5WFB0RHZTNHBjaTFydmNzN3dSa0hKellVTkdWdjJRRE81U2tYMUY3b051RENfUWZSR0E5UGxzV25HMTJlNkFEUVdWZGdER2Y5bWh5TDhpX3JCSEI4eFBWUzhuUE9DR0thN0ZUQQ?oc=5",
+    "urlSlug": null,
+    "title": "Cradle to Cradle and Boston Consulting Group study highlights economic potential of unused European smartphones",
+    "summary": "",
+    "publishedAt": "2026-10-12T08:55:42.000Z",
+    "categories": [],
+    "guid": "CBMiigJBVV95cUxONExkMUxlMHVmV1VzV2xlanYtYThxZjBqaVl1N21GbVlFbWRWRFA3ZGRNZ3NKcHBzYVJvTDdmSjZpUUZmaWJ0Q1VGSUU5V3pUTEZIdXJFUW1pQ2oxWFRiSVhLendFZ3dDSFJySW5jN3RqZmo1MHBWeF9zUmNZUzlTVUx5UTFhc3NzTVZZZWZ6c1FtNnM3V2FhQlZ6cklpNndDMk9rckt5WFB0RHZTNHBjaTFydmNzN3dSa0hKellVTkdWdjJRRE81U2tYMUY3b051RENfUWZSR0E5UGxzV25HMTJlNkFEUVdWZGdER2Y5bWh5TDhpX3JCSEI4eFBWUzhuUE9DR0thN0ZUQQ",
+    "searchedLabel": "cradle-to-cradle",
+    "matches": [
+      {
+        "labelId": "cradle-to-cradle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Cradle to Cradle"
+      }
+    ],
+    "fetchedAt": "2026-10-12T15:54:42.985Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Fibre2Fashion",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS1RkUE00YjQ0eERrUEZEU3pyNEdPNHRLS1drcW00c2hsNlQwRVltcV9SbTkwZXRqVkxZd2JOMVp3bUEyc1FTRXlNQWpiN3Z0bUNXd2xlenoxaThhU093OWpzSVhUUlR3LVBIVW1QSXVvNk5FUXF5Rk9tbG9HRHp3emdKaXhPaWZOR1VIM3lKcWhfT0kzUDI5bC1sOVhaeUc0Z3A2YkxPSVdKVlU5MXR5eWtRenBsUnRtV3h4RzEwRGFIdGNiVWRIMEg4bURiMWl6dlhlN0JnZw?oc=5",
+    "urlSlug": null,
+    "title": "OEKO-TEX launches 'Trust in Every Thread' campaign film",
+    "summary": "",
+    "publishedAt": "2026-10-12T08:44:52.000Z",
+    "categories": [],
+    "guid": "CBMi1wFBVV95cUxNS1RkUE00YjQ0eERrUEZEU3pyNEdPNHRLS1drcW00c2hsNlQwRVltcV9SbTkwZXRqVkxZd2JOMVp3bUEyc1FTRXlNQWpiN3Z0bUNXd2xlenoxaThhU093OWpzSVhUUlR3LVBIVW1QSXVvNk5FUXF5Rk9tbG9HRHp3emdKaXhPaWZOR1VIM3lKcWhfT0kzUDI5bC1sOVhaeUc0Z3A2YkxPSVdKVlU5MXR5eWtRenBsUnRtV3h4RzEwRGFIdGNiVWRIMEg4bURiMWl6dlhlN0JnZw",
+    "searchedLabel": "oeko-tex",
+    "matches": [
+      {
+        "labelId": "oeko-tex",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Oeko-Tex"
+      }
+    ],
+    "fetchedAt": "2026-10-12T15:54:42.985Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "2oceansvibe News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGpuZjVuM3kwMUQ2V0k5S0NiWDFpMm1fdkUtMHZrMEgzZDZXZ3JubzN3OWNWLUkyb0poT1FyMl8tZkttdmNYVENsc0hXc1FYRDhQNUJBYnptbnE0d2hQajdTLXpxd3g2UWNIR3ZfcFBaY2Q5VkNCMDYwLUZYck5VdVpCVVZYT3FURHZrSU0zbGY0UXJmS2xFTEV0UWVaN0R5dU9uT2JtLWhCVDVhaUE?oc=5",
+    "urlSlug": null,
+    "title": "4 More Cape Town Beaches Edge Closer To Blue Flag Status",
+    "summary": "",
+    "publishedAt": "2026-10-12T08:13:25.000Z",
+    "categories": [],
+    "guid": "CBMirgFBVV95cUxNdGpuZjVuM3kwMUQ2V0k5S0NiWDFpMm1fdkUtMHZrMEgzZDZXZ3JubzN3OWNWLUkyb0poT1FyMl8tZkttdmNYVENsc0hXc1FYRDhQNUJBYnptbnE0d2hQajdTLXpxd3g2UWNIR3ZfcFBaY2Q5VkNCMDYwLUZYck5VdVpCVVZYT3FURHZrSU0zbGY0UXJmS2xFTEV0UWVaN0R5dU9uT2JtLWhCVDVhaUE",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-12T15:54:42.985Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Sydenham Current",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWjYxYk9aOV9Lcjl1RkVXc0NEUkJHUGFvSFcyZ29Od1VJR3JfYzZlbEZTeEZjN3dDTERXdThncTE4N1pjNE5Ea2xVUXBJQ3lOMy1Qd1k2NEVpakR2Mm4ybmFqbmhQem9maDJMZWlEUEJQdk92OHktaEROeXFOMU9BMHJlbHJXUEhYNzg5S0JuMldBT0wxdV9NdG9HOGtxX01iNHZuVEt0VXotRjYt?oc=5",
+    "urlSlug": null,
+    "title": "Maple City Homes named ENERGY STAR builder of the year for small size",
+    "summary": "",
+    "publishedAt": "2026-10-12T05:59:00.000Z",
+    "categories": [],
+    "guid": "CBMirAFBVV95cUxNWjYxYk9aOV9Lcjl1RkVXc0NEUkJHUGFvSFcyZ29Od1VJR3JfYzZlbEZTeEZjN3dDTERXdThncTE4N1pjNE5Ea2xVUXBJQ3lOMy1Qd1k2NEVpakR2Mm4ybmFqbmhQem9maDJMZWlEUEJQdk92OHktaEROeXFOMU9BMHJlbHJXUEhYNzg5S0JuMldBT0wxdV9NdG9HOGtxX01iNHZuVEt0VXotRjYt",
+    "searchedLabel": "energy-star",
+    "matches": [
+      {
+        "labelId": "energy-star",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ENERGY STAR"
+      }
+    ],
+    "fetchedAt": "2026-10-12T15:54:42.985Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "ET HospitalityWorld",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZkNyemN6SHphYVQ2ZlplQVA3SWI3TkR5RndOcTE5SVBWMGViaHNsR1V6UGxoQXJZY2dtdWJUMG9MX2ZTaXNOZjUxRkMzeGZIS1V2cTFCR3U5TjdrcGhoY2lJTGtfRS0xbnhVSlI5bjg4OHcwOHp3SnhXZjZ5cEg4TDJlV29CSTdsMUhpSnlvOXhwOEp1RElkSHlYSzNXWDhHR0xNdzZXTmRYSHhCX3doVUVnOUtZNk1Tb3Zmc1ozMDRvcW13ZHhWWG43RThjVUlqLWNSYUVR0gHaAUFVX3lxTE1ROE9YMTdtSXV6ZDlzUmNEZ09sRHZnYVZhaVBUck45aHpFSVpud1cxbzR0TGJJbUlGcF9xTVN0MXVMU0FwNmhFRTN6OGFYcHdVXzJBT3ZGU1FfX3lQYTIzWkdjeVlwVW9BamJjUGFFRV9iLUdCaDJZLUJSeU1tTDlOdjBKVW1Relhwa0pHN21NVzE4eWg4YVVfTGJnYlFic1F5ZTM5NTdQTkxaOTJDbDIzSENJdUZ2V1otcmtQRmotcTF2M3UwZXhIMHZNazhyR2F1dzQ0SVJwMlRR?oc=5",
@@ -2294,6 +2534,52 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Cleaning & Maintenance",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnJZT05uYVFfUDRuQmNQZ0RfclJNc3Ztelp6ZEFaMklZQVY1bjVuNzEzLXgwNXZSMUZscmU3Y2tSVzJHdTNUQWF1YWRjTmNsblg2V1JjU1JObUw5NWdocUhnd0ZtTzRhaTBkUG9zRUN5VGJYQ2x4VEhySWREbk5NUEpMZHFGbEFhdWJPQW5BdF9QaEZKaHk1YV9DazE2SVZ0U1E?oc=5",
+    "urlSlug": null,
+    "title": "Cleanology celebrates becoming B Corp and gaining EcoVadis silver medal",
+    "summary": "",
+    "publishedAt": "2026-09-29T07:00:10.000Z",
+    "categories": [],
+    "guid": "CBMiogFBVV95cUxQSnJZT05uYVFfUDRuQmNQZ0RfclJNc3Ztelp6ZEFaMklZQVY1bjVuNzEzLXgwNXZSMUZscmU3Y2tSVzJHdTNUQWF1YWRjTmNsblg2V1JjU1JObUw5NWdocUhnd0ZtTzRhaTBkUG9zRUN5VGJYQ2x4VEhySWREbk5NUEpMZHFGbEFhdWJPQW5BdF9QaEZKaHk1YV9DazE2SVZ0U1E",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-12T15:54:42.985Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Food Business Middle East & Africa",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdU1CUjJoUFdYbkJRb0JwUnZoMjNNMmJBSlZmUnVkRnBiby1KUUJrSllhQWxQTjFtTm9SSW1QN3RXRTFoOU5KbmNzYlBDUGFpdkRPSnRITDVOaHpsMXUteE1MQjh4M0lsUUhtMktwUEVNWlk3bWc1ZHBiclRkYWxUaFI2dGxCQVZYSU90Z3JHOTBiR1ZEY180UF8zSkc?oc=5",
+    "urlSlug": null,
+    "title": "illycaffè secures B Corp recertification under new V2 standards",
+    "summary": "",
+    "publishedAt": "2026-09-29T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMinAFBVV95cUxQdU1CUjJoUFdYbkJRb0JwUnZoMjNNMmJBSlZmUnVkRnBiby1KUUJrSllhQWxQTjFtTm9SSW1QN3RXRTFoOU5KbmNzYlBDUGFpdkRPSnRITDVOaHpsMXUteE1MQjh4M0lsUUhtMktwUEVNWlk3bWc1ZHBiclRkYWxUaFI2dGxCQVZYSU90Z3JHOTBiR1ZEY180UF8zSkc",
+    "searchedLabel": "rainforest-alliance",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-12T15:54:42.985Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Data Portuaria",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnRJSDRxMVd2S1dZa2VKci1oQ0RJMG41dF8wNm1SVHdMSDBkYmJjZnBjUkctYlFmMlItS3IzaFh1eXlyYlhwWHhueFkzVmozYTJGYjNzRGNmQWk0TEN3Zld2WW1VUjZGTkF5Tk1sYkNucmxscmJzUHlsLXZ2dFdCVjZSYWlhNDljUXhRVl9HNTY2dmR2bzFEXzk0dlNRTGI0dGo2em8tLVQ2ZHhvUFpKaXpoQ2c3dkowTFNYTQ?oc=5",
@@ -2406,6 +2692,29 @@
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Yahoo Finance UK",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEo5c0ltZHdOTnhNSFNlYjF2SlEzeWRxbTJGYUxYZGpWZkEzMy00bTUyT042RDN2Smk4d1pGRGRQREtqU0t1azJsa09UazFqU1ozSTB0SDR4SlVHbWs5N0RLWTlvTHdZOHdzWkFYTFJwVWVPcmlxd0VFdlZsQnhuMlBLcnp5bTFxR2YtM2RPRQ?oc=5",
+    "urlSlug": null,
+    "title": "Akropole Alfa, managed by Akropolis Group, upgrades its BREEAM sustainability rating to Excellent",
+    "summary": "",
+    "publishedAt": "2026-09-28T15:55:00.000Z",
+    "categories": [],
+    "guid": "CBMijwFBVV95cUxNOEo5c0ltZHdOTnhNSFNlYjF2SlEzeWRxbTJGYUxYZGpWZkEzMy00bTUyT042RDN2Smk4d1pGRGRQREtqU0t1azJsa09UazFqU1ozSTB0SDR4SlVHbWs5N0RLWTlvTHdZOHdzWkFYTFJwVWVPcmlxd0VFdlZsQnhuMlBLcnp5bTFxR2YtM2RPRQ",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-12T15:54:42.985Z"
   },
   {
     "outletId": "google-news",
