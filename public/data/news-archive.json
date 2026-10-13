@@ -1,6 +1,351 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Gulf News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSENSRFQ5MFhlTVFsZ0Z1cGQ2a3RfU0dDM3JJSzhtQmxUandSVlBwYUpQN2ptWW5BQjVqLXIwenV6R3hRMVl6bG1VSHlKLV9jWVRQWGZLMlZ2Tm1iaUdma0N0VGRqa1FxTl93V2tMc29welVmYjJNSWRvRkVLVHhIaXlGUUJCT1lwRVl4TGRxYVp0Q2dOS2ozZVFOSDM5TE4wLWUtWFdtXzhiODktVGhWamFod21RVTZvdERHTkJsNG5xalB3dE1mb3IxNUxMRzNsNjhGUm9qNmNMaW5JM0syMjZPTEVUZ1RWYXdKLdIB7AFBVV95cUxOSENSRFQ5MFhlTVFsZ0Z1cGQ2a3RfU0dDM3JJSzhtQmxUandSVlBwYUpQN2ptWW5BQjVqLXIwenV6R3hRMVl6bG1VSHlKLV9jWVRQWGZLMlZ2Tm1iaUdma0N0VGRqa1FxTl93V2tMc29welVmYjJNSWRvRkVLVHhIaXlGUUJCT1lwRVl4TGRxYVp0Q2dOS2ozZVFOSDM5TE4wLWUtWFdtXzhiODktVGhWamFod21RVTZvdERHTkJsNG5xalB3dE1mb3IxNUxMRzNsNjhGUm9qNmNMaW5JM0syMjZPTEVUZ1RWYXdKLQ?oc=5",
+    "urlSlug": null,
+    "title": "Abu Dhabi school achieves historic LEED platinum certification, setting sustainability benchmark",
+    "summary": "",
+    "publishedAt": "2026-10-13T10:09:06.000Z",
+    "categories": [],
+    "guid": "CBMi7AFBVV95cUxOSENSRFQ5MFhlTVFsZ0Z1cGQ2a3RfU0dDM3JJSzhtQmxUandSVlBwYUpQN2ptWW5BQjVqLXIwenV6R3hRMVl6bG1VSHlKLV9jWVRQWGZLMlZ2Tm1iaUdma0N0VGRqa1FxTl93V2tMc29welVmYjJNSWRvRkVLVHhIaXlGUUJCT1lwRVl4TGRxYVp0Q2dOS2ozZVFOSDM5TE4wLWUtWFdtXzhiODktVGhWamFod21RVTZvdERHTkJsNG5xalB3dE1mb3IxNUxMRzNsNjhGUm9qNmNMaW5JM0syMjZPTEVUZ1RWYXdKLdIB7AFBVV95cUxOSENSRFQ5MFhlTVFsZ0Z1cGQ2a3RfU0dDM3JJSzhtQmxUandSVlBwYUpQN2ptWW5BQjVqLXIwenV6R3hRMVl6bG1VSHlKLV9jWVRQWGZLMlZ2Tm1iaUdma0N0VGRqa1FxTl93V2tMc29welVmYjJNSWRvRkVLVHhIaXlGUUJCT1lwRVl4TGRxYVp0Q2dOS2ozZVFOSDM5TE4wLWUtWFdtXzhiODktVGhWamFod21RVTZvdERHTkJsNG5xalB3dE1mb3IxNUxMRzNsNjhGUm9qNmNMaW5JM0syMjZPTEVUZ1RWYXdKLQ",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "WWD",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE1yeXB0THpwNVd0ZWZMLWtCbFZIbXVjR0RuMFBMWUNnbnNDNlpfQ0dvWHlIbU5ST2RrN0U5TzhkRlRreTVXWkNpOE84NmNhXzhVNlBueTh5cDAxU0NPTFQ1MVNaMUlBbVUwbFhob1p5RmNPRTd3T1d4eF9Ta1l3VUVkLTNDcW1tRVFPc1pmRFA2YVV3TlByOUd2OS1ONGZyMlVnSWkyWnhiV3A2QWFZVWNRMzU?oc=5",
+    "urlSlug": null,
+    "title": "How People and Planet Intersect in BCI’s Regenerative Standards System",
+    "summary": "",
+    "publishedAt": "2026-10-13T09:02:30.000Z",
+    "categories": [],
+    "guid": "CBMitAFBVV95cUxOZE1yeXB0THpwNVd0ZWZMLWtCbFZIbXVjR0RuMFBMWUNnbnNDNlpfQ0dvWHlIbU5ST2RrN0U5TzhkRlRreTVXWkNpOE84NmNhXzhVNlBueTh5cDAxU0NPTFQ1MVNaMUlBbVUwbFhob1p5RmNPRTd3T1d4eF9Ta1l3VUVkLTNDcW1tRVFPc1pmRFA2YVV3TlByOUd2OS1ONGZyMlVnSWkyWnhiV3A2QWFZVWNRMzU",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BCI"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Fordaq",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HNU1UMzVuV1J0UkhZbEcyZC16aEhkMVhieWoxWDc2TDRFR3Z3QXBkSUF6aTdKWDA1T0M0REtGc3hjQzMzTDFvMVJjRmhRM2h6SDJaXzRJVUhrU1J0MHB5bDNhQVZiYnNER0VocHBrYmEyNGpuSGc1LXVB?oc=5",
+    "urlSlug": null,
+    "title": "PEFC amends trademark rules to align with EU EmpCo requirements",
+    "summary": "",
+    "publishedAt": "2026-10-13T08:07:44.000Z",
+    "categories": [],
+    "guid": "CBMiekFVX3lxTE9HNU1UMzVuV1J0UkhZbEcyZC16aEhkMVhieWoxWDc2TDRFR3Z3QXBkSUF6aTdKWDA1T0M0REtGc3hjQzMzTDFvMVJjRmhRM2h6SDJaXzRJVUhrU1J0MHB5bDNhQVZiYnNER0VocHBrYmEyNGpuSGc1LXVB",
+    "searchedLabel": "pefc",
+    "matches": [
+      {
+        "labelId": "pefc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "PEFC"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "- Beer Today",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wclRiUkhLaktBeTA4LUZCUVlEV2pzS0xvNldWM2JCSVBSV3IzTXAzRVRsRl9oRkxTeEprZlMwOXhkUVR5QWt1TV9xSUVzSU0tWU9PWDJSRWNWWkpLLUVfRkZ6MTl5RXQ4YWc?oc=5",
+    "urlSlug": null,
+    "title": "B Corp certification for Tap Social Movement",
+    "summary": "",
+    "publishedAt": "2026-10-13T07:51:28.000Z",
+    "categories": [],
+    "guid": "CBMiakFVX3lxTE8wclRiUkhLaktBeTA4LUZCUVlEV2pzS0xvNldWM2JCSVBSV3IzTXAzRVRsRl9oRkxTeEprZlMwOXhkUVR5QWt1TV9xSUVzSU0tWU9PWDJSRWNWWkpLLUVfRkZ6MTl5RXQ4YWc",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Fashion United",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa1NtaS1oVld6LVV4c3BpYktqVWJOUVhWVUlJY1NfVHBNMHdfdmg2bEVEQjlkS3ZmMWgzLXdyakV5azdFU05Ja3JWV2otZDhMUmxkTzhhcVNVTVVzWU5ENWtEQ3F3Y0lJTU1ubzZkcDhUYzBKMkdEY1lhVWhYbjdlVmlQenQ3NUZid3hmTTZEQ28zeHZMb24wajRGaU1HTGltR2ZBVDAyMUM1M3R5eVBNb1JDTGc?oc=5",
+    "urlSlug": null,
+    "title": "Better Cotton Initiative is now regenerative standard system",
+    "summary": "",
+    "publishedAt": "2026-10-13T06:43:58.000Z",
+    "categories": [],
+    "guid": "CBMitAFBVV95cUxPa1NtaS1oVld6LVV4c3BpYktqVWJOUVhWVUlJY1NfVHBNMHdfdmg2bEVEQjlkS3ZmMWgzLXdyakV5azdFU05Ja3JWV2otZDhMUmxkTzhhcVNVTVVzWU5ENWtEQ3F3Y0lJTU1ubzZkcDhUYzBKMkdEY1lhVWhYbjdlVmlQenQ3NUZid3hmTTZEQ28zeHZMb24wajRGaU1HTGltR2ZBVDAyMUM1M3R5eVBNb1JDTGc",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Better Cotton"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "WWD",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQczNEMV9PdFlEY2IwazdnQmNqc3U3eVEzenVzY18wb2R6Uzh5MXpUT0dmVzJ6UEF0QmJPQmJwTVNrMzF5empDX0RVM0ZRYWQxTWhKdjdJcjRFMEF6cUwzNWtjNHBuYlRnOGl4cnN2Ym1ZakxHdXB1ZUpDZkhnVXU0T0J0UXd0Zmw5eTYybjFEZFNfSGpCR0E3V1JvU0JNSnVDa3hiNFl2RmtZRWlkblpYOGpsZVk?oc=5",
+    "urlSlug": null,
+    "title": "Better Cotton Initiative Becomes a Regenerative Standards System",
+    "summary": "",
+    "publishedAt": "2026-10-13T06:02:13.000Z",
+    "categories": [],
+    "guid": "CBMitAFBVV95cUxQczNEMV9PdFlEY2IwazdnQmNqc3U3eVEzenVzY18wb2R6Uzh5MXpUT0dmVzJ6UEF0QmJPQmJwTVNrMzF5empDX0RVM0ZRYWQxTWhKdjdJcjRFMEF6cUwzNWtjNHBuYlRnOGl4cnN2Ym1ZakxHdXB1ZUpDZkhnVXU0T0J0UXd0Zmw5eTYybjFEZFNfSGpCR0E3V1JvU0JNSnVDa3hiNFl2RmtZRWlkblpYOGpsZVk",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Better Cotton"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Ecotextile News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk1XX1h4RXVoWHFJRTNqTkliZkxWQVpoNnFFTzloRExxY1lRblNLZTlpSzZXeEUxQlBPMFo0eU1lSDlHZzRyRW9SSVoyR2VKOWVTamxJQkx6cE5CdlBwaE12X2VENUVMd1JselNqTzRGOUlJVHEzWmVIRFlhQ0p6ME1PY3dycHlfWC0xZk0xZTNUOEt6MkFUYk82NUFWZ2hNUy1XWG9MWkp2M014?oc=5",
+    "urlSlug": null,
+    "title": "Better Cotton Initiative adopts regenerative system",
+    "summary": "",
+    "publishedAt": "2026-10-13T05:20:06.000Z",
+    "categories": [],
+    "guid": "CBMirAFBVV95cUxPNk1XX1h4RXVoWHFJRTNqTkliZkxWQVpoNnFFTzloRExxY1lRblNLZTlpSzZXeEUxQlBPMFo0eU1lSDlHZzRyRW9SSVoyR2VKOWVTamxJQkx6cE5CdlBwaE12X2VENUVMd1JselNqTzRGOUlJVHEzWmVIRFlhQ0p6ME1PY3dycHlfWC0xZk0xZTNUOEt6MkFUYk82NUFWZ2hNUy1XWG9MWkp2M014",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Better Cotton"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Home Textiles Today",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFgyempidjhXd29CNlJTMEJ4Nnc5MjZyRVF5MjNVUFRUVFZMRGFlS0ZidlBIeGxjY05ySUdDRTZJUkljLWtvS0JhYlpmSDJhMVFfYjJic1Z6X1VhMlYwSDZvSEk3SXVYVEhUQWI1cnFLR3lZQWxQYjJoNHM4TC0yaWN4ZmZGWXctaWhaVHR4cmZfRXZlUWliTHBYTnRMVGRyTFE?oc=5",
+    "urlSlug": null,
+    "title": "BCI shifts status from ‘sustainable’ to ‘regenerative’",
+    "summary": "",
+    "publishedAt": "2026-10-13T05:09:24.000Z",
+    "categories": [],
+    "guid": "CBMiogFBVV95cUxPeFgyempidjhXd29CNlJTMEJ4Nnc5MjZyRVF5MjNVUFRUVFZMRGFlS0ZidlBIeGxjY05ySUdDRTZJUkljLWtvS0JhYlpmSDJhMVFfYjJic1Z6X1VhMlYwSDZvSEk3SXVYVEhUQWI1cnFLR3lZQWxQYjJoNHM4TC0yaWN4ZmZGWXctaWhaVHR4cmZfRXZlUWliTHBYTnRMVGRyTFE",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BCI"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Insider Media Ltd",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX1BEOHRVdUJMX29ZWDE1cjU4OWMxZ1hzejBMZ25xUDFjVlE0SW5uMnV1YlV3UnNidnhJeDVCdjNBcnVITEFRSUZ6dDBjOFUzMDBpME80bWZqWl9vMXdLMnlyRzZKaVhRWWVLQ3JQY3lURG1fNU1JRkFuZXlkd0VwckJqMEtxR1k3N2VCMXRrZ25vYlE3VUl1QmlwX3BoZw?oc=5",
+    "urlSlug": null,
+    "title": "Social enterprise brewery gains B Corp certification",
+    "summary": "",
+    "publishedAt": "2026-10-13T05:00:00.000Z",
+    "categories": [],
+    "guid": "CBMingFBVV95cUxQX1BEOHRVdUJMX29ZWDE1cjU4OWMxZ1hzejBMZ25xUDFjVlE0SW5uMnV1YlV3UnNidnhJeDVCdjNBcnVITEFRSUZ6dDBjOFUzMDBpME80bWZqWl9vMXdLMnlyRzZKaVhRWWVLQ3JQY3lURG1fNU1JRkFuZXlkd0VwckJqMEtxR1k3N2VCMXRrZ25vYlE3VUl1QmlwX3BoZw",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Wood Central",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XOGdYTVMxXzh1OWdzSmMtX210MHc5ci1aUmEtckIwLTd2cGZIejh1VDhRbUNPZGRXUng4MGJ5RTU3ZE9SemJKMGFhYlBnektCbzZLU1RvOUpUenQzMTF6RW5XTksxOEw1QVE?oc=5",
+    "urlSlug": null,
+    "title": "PEFC Urges the UN to Help Build Demand for Sustainable Timber",
+    "summary": "",
+    "publishedAt": "2026-10-13T03:06:36.000Z",
+    "categories": [],
+    "guid": "CBMiakFVX3lxTE1XOGdYTVMxXzh1OWdzSmMtX210MHc5ci1aUmEtckIwLTd2cGZIejh1VDhRbUNPZGRXUng4MGJ5RTU3ZE9SemJKMGFhYlBnektCbzZLU1RvOUpUenQzMTF6RW5XTksxOEw1QVE",
+    "searchedLabel": "pefc",
+    "matches": [
+      {
+        "labelId": "pefc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "PEFC"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "WWD",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQME5ETUdWREkwXzF4aXRsaTRQbk1TdGo3bnNvNGNEWTVaaG9TSk5RRGVsUUs1Y0FCRWlERVdzNExkUjBMNy1SSGxadE92TnpkRE1rUzdpVjFBbXljQkJKQm95ODBEVVhKYzNubDRPQlNNcl9hZUNUQi1YREN0V0FKNFA5c3lZR2tGajlpZFNXRS1Kd0lpbWVVSDlsUWFsbnl3RTdacDRub0tEUU5ERmlyS2RfRFNicU1rZmZ1Zg?oc=5",
+    "urlSlug": null,
+    "title": "Oeko-Tex Launches ‘Trust in Every Thread’ as EU Rules Tighten",
+    "summary": "",
+    "publishedAt": "2026-10-13T00:00:05.000Z",
+    "categories": [],
+    "guid": "CBMivAFBVV95cUxQME5ETUdWREkwXzF4aXRsaTRQbk1TdGo3bnNvNGNEWTVaaG9TSk5RRGVsUUs1Y0FCRWlERVdzNExkUjBMNy1SSGxadE92TnpkRE1rUzdpVjFBbXljQkJKQm95ODBEVVhKYzNubDRPQlNNcl9hZUNUQi1YREN0V0FKNFA5c3lZR2tGajlpZFNXRS1Kd0lpbWVVSDlsUWFsbnl3RTdacDRub0tEUU5ERmlyS2RfRFNicU1rZmZ1Zg",
+    "searchedLabel": "oeko-tex",
+    "matches": [
+      {
+        "labelId": "oeko-tex",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Oeko-Tex"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Golfdom magazine",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUEtTnJwNGs4N2E2YVVMajNzb01iYk9VX0NPNHNLWEdKbUwtdGc4TG5yNko3S2xOSlEtVTdWOHlJRGdNbDVLTGtCRkxuQVJtb1NpMm1FZW1CS0tEYkdNVi1NcWN3VE5nVnNLczZ0RkJFX2c0RDZvdlVoeGhocGJHemVfN3BPQW9vZ1RXRGZia05CZEswb1BPaldZWnU?oc=5",
+    "urlSlug": null,
+    "title": "Audubon International launches new Club Amenities certification program",
+    "summary": "",
+    "publishedAt": "2026-10-12T18:33:24.000Z",
+    "categories": [],
+    "guid": "CBMinAFBVV95cUxNMUEtTnJwNGs4N2E2YVVMajNzb01iYk9VX0NPNHNLWEdKbUwtdGc4TG5yNko3S2xOSlEtVTdWOHlJRGdNbDVLTGtCRkxuQVJtb1NpMm1FZW1CS0tEYkdNVi1NcWN3VE5nVnNLczZ0RkJFX2c0RDZvdlVoeGhocGJHemVfN3BPQW9vZ1RXRGZia05CZEswb1BPaldZWnU",
+    "searchedLabel": "audubon-international",
+    "matches": [
+      {
+        "labelId": "audubon-international",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Audubon International"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "CapeTowner",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXJwVEZrR21yYTY0eHNsaDZUWlZjM1VxUkxzUi1sWTNxZ2ZtcFp6cFF5M3hjYkxtMUlJRDhCRlRnSkdsQXVoYU9BYk9QQm1KN0k1UlBrRTVlcXIzMFVXOTFFbnFQVTFNakZ3ZVluNHhaek81bjEtTXR2aU1OVkVsMU8tTTVVb0tlNGtJbklDM1dzUk5rVUhzaU5oTTBEMFdDOFY2em1UcmlhSVVkbmpZTmxsaDRhZ3Y2?oc=5",
+    "urlSlug": null,
+    "title": "8 Cape Town beaches retain Blue Flag status as four join pilot programme",
+    "summary": "",
+    "publishedAt": "2026-10-12T18:00:00.000Z",
+    "categories": [],
+    "guid": "CBMiuAFBVV95cUxQOXJwVEZrR21yYTY0eHNsaDZUWlZjM1VxUkxzUi1sWTNxZ2ZtcFp6cFF5M3hjYkxtMUlJRDhCRlRnSkdsQXVoYU9BYk9QQm1KN0k1UlBrRTVlcXIzMFVXOTFFbnFQVTFNakZ3ZVluNHhaek81bjEtTXR2aU1OVkVsMU8tTTVVb0tlNGtJbklDM1dzUk5rVUhzaU5oTTBEMFdDOFY2em1UcmlhSVVkbmpZTmxsaDRhZ3Y2",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "FashionNetwork USA",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUktCWGtORXFiU3BBaUFmNzF6NGgzR09CZU14RXBqeWd2a0FTU00yMGRBYS1Sd3dpTmNIUjY1TWNmQXoyb2tjNWQ3alh3Ri1WS0pPVnF5SjJtRy13bk8tZVY4ak4tZGFTdllsYjFvTkxTNjFSa1lPbWRheWktWkZ2TkJWMHpZaEwtdU4yQTZhWTBkaERidVFOVWVMZ1NtQ0FoVzF2VnVncEVkNWRCaHJVQmNtXzNNZU5WUkwydld0VVBsdXNUSFhBc3FaMmp5dklFOEl2TVVOZi1VM1Q1Sk56X2lEd1U1VGtaaUVKVkhDbmxJd1FJZHc?oc=5",
+    "urlSlug": null,
+    "title": "The Better Cotton Initiative is reshaping its model to establish itself as a benchmark for regenerative agriculture",
+    "summary": "",
+    "publishedAt": "2026-10-12T17:22:29.000Z",
+    "categories": [],
+    "guid": "CBMi9gFBVV95cUxPUktCWGtORXFiU3BBaUFmNzF6NGgzR09CZU14RXBqeWd2a0FTU00yMGRBYS1Sd3dpTmNIUjY1TWNmQXoyb2tjNWQ3alh3Ri1WS0pPVnF5SjJtRy13bk8tZVY4ak4tZGFTdllsYjFvTkxTNjFSa1lPbWRheWktWkZ2TkJWMHpZaEwtdU4yQTZhWTBkaERidVFOVWVMZ1NtQ0FoVzF2VnVncEVkNWRCaHJVQmNtXzNNZU5WUkwydld0VVBsdXNUSFhBc3FaMmp5dklFOEl2TVVOZi1VM1Q1Sk56X2lEd1U1VGtaaUVKVkhDbmxJd1FJZHc",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Better Cotton"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Retail News Asia",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORW1oY3B5allOSWxZdUMxR0pTQUVFSm9qMUdSTWRxUUdoNExYbjZkblAwUF91OXhPZ1M0TlI5ZWFqZ3NkTjlSUnR2WGNXQzNjLTgtR2JNLTRXWEwxWWRwLTRuUkZrN2lhN0ZuM3g4Nk5DcnpxYjNXRlNrU2J0Xy12cUFFMGJYRXM?oc=5",
+    "urlSlug": null,
+    "title": "Oeko-Tex Records 13 Percent Rise in Made in Green Demand",
+    "summary": "",
+    "publishedAt": "2026-10-12T17:14:23.000Z",
+    "categories": [],
+    "guid": "CBMihwFBVV95cUxORW1oY3B5allOSWxZdUMxR0pTQUVFSm9qMUdSTWRxUUdoNExYbjZkblAwUF91OXhPZ1M0TlI5ZWFqZ3NkTjlSUnR2WGNXQzNjLTgtR2JNLTRXWEwxWWRwLTRuUkZrN2lhN0ZuM3g4Nk5DcnpxYjNXRlNrU2J0Xy12cUFFMGJYRXM",
+    "searchedLabel": "gots",
+    "matches": [
+      {
+        "labelId": "oeko-tex",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Oeko-Tex"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Forest Stewardship Council (FSC)",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORjdFU2VFLVRoSjZFbUhSQmxod1MtTFg5T3RYeTN6Uk9aSGlIZ09WTFlXSWNoUkJGN1lkVU1QbXpNd1VwRHZCeHFoX0toellNQkxzTFdURmR0NzE1SEFFcl9peE40UWU1TzFCMU1ObmkwRW1GckE5MHc4aGhpZGotVV9lVkh2cmRsV0paQ2M2dXZXZ0xoX1RoRmI4UDFzRjdTbmt2bzBmeG1qM1U?oc=5",
@@ -560,6 +905,29 @@
       }
     ],
     "fetchedAt": "2026-10-09T13:37:51.813Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Grande Consumo",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80YjNXQzBZZ2IwVHptTlk0LVg5b2lmVVVYZDg1MFdFa2dCLS1sNTZrVTlSX3FMaV93V01vOFFJaEt3M2hRNzNlRlBJLXEzb2o2V2xKV2lvSFRZTXpBa2J6Mg?oc=5",
+    "urlSlug": null,
+    "title": "EU Ecolabel gains trust",
+    "summary": "",
+    "publishedAt": "2026-10-09T08:34:51.000Z",
+    "categories": [],
+    "guid": "CBMiYEFVX3lxTE80YjNXQzBZZ2IwVHptTlk0LVg5b2lmVVVYZDg1MFdFa2dCLS1sNTZrVTlSX3FMaV93V01vOFFJaEt3M2hRNzNlRlBJLXEzb2o2V2xKV2lvSFRZTXpBa2J6Mg",
+    "searchedLabel": "eu-ecolabel",
+    "matches": [
+      {
+        "labelId": "eu-ecolabel",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "EU Ecolabel"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
   },
   {
     "outletId": "google-news",
@@ -2271,6 +2639,29 @@
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "GlobeNewswire",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNejh4WXktQUdEOWkzbWgxa3RHTlhNT0ZZcld1NEd1YkZScWF0T3RmQ3lGenVEVktteHVPQjFGUllvNEUyTUNmTUZ2UHdkUWNNeldEX01RS0ZlYm10SjByeHJVZUhxaVNQRmM4ZWJWRVF3RjV5ZC1Wa3NqQlBYUDl3VGNQNGl5bGxzUTZqWVVnTU9fLVY3ZUtReEx1NEFhVDJPalRxdVJKU3hpSVRxMU84WlY3Mmo5Y256WmhTeXlkNmZMbWxSWmRtTC1IWnlWY0tlSC0wY19IWkpvM1cxZWxHenpjQmRsaDQtc1hnaGpJQ1B4RDMtekYzaFZpSll5cU9NWC1pSlBLdmFGeG1RTlZXaFpWMDE2aU1ZZnpaVVNLWW5TUDN0YXZv?oc=5",
+    "urlSlug": null,
+    "title": "CJ Biomaterials Secures BPI, TÜV AUSTRIA Certifications for",
+    "summary": "",
+    "publishedAt": "2026-09-30T13:03:00.000Z",
+    "categories": [],
+    "guid": "CBMipwJBVV95cUxNejh4WXktQUdEOWkzbWgxa3RHTlhNT0ZZcld1NEd1YkZScWF0T3RmQ3lGenVEVktteHVPQjFGUllvNEUyTUNmTUZ2UHdkUWNNeldEX01RS0ZlYm10SjByeHJVZUhxaVNQRmM4ZWJWRVF3RjV5ZC1Wa3NqQlBYUDl3VGNQNGl5bGxzUTZqWVVnTU9fLVY3ZUtReEx1NEFhVDJPalRxdVJKU3hpSVRxMU84WlY3Mmo5Y256WmhTeXlkNmZMbWxSWmRtTC1IWnlWY0tlSC0wY19IWkpvM1cxZWxHenpjQmRsaDQtc1hnaGpJQ1B4RDMtekYzaFZpSll5cU9NWC1pSlBLdmFGeG1RTlZXaFpWMDE2aU1ZZnpaVVNLWW5TUDN0YXZv",
+    "searchedLabel": "ok-compost",
+    "matches": [
+      {
+        "labelId": "ok-compost",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "TÜV AUSTRIA"
+      }
+    ],
+    "fetchedAt": "2026-10-13T14:30:06.577Z"
   },
   {
     "outletId": "google-news",
