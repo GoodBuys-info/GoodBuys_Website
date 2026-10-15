@@ -1,6 +1,259 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "openPR.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbHZXZ0IwMG1La2dVdDYtQmJfLS1UbnpUdi13QWJKQWJoUnI4WFFaR3FveE1maC1iWnBKMUlmV083azVsZ0EzbjJrbTNLa1lZcVNkRzRrMG1jYkZ3SDNteVk3M2NRWkVRd21JaHpaQ3pFa1NaMTNjMlIxOGgxVGJlS3RmeU5NNjlhbU1qd0VTclhHRmd5WXgtUGQxajl0UQ?oc=5",
+    "urlSlug": null,
+    "title": "BRC, BSCI, BPI and OK Compost: What Foodservice Packaging Buyers Need to Know and What Grizzlies Can Offer",
+    "summary": "",
+    "publishedAt": "2026-10-15T10:20:26.000Z",
+    "categories": [],
+    "guid": "CBMingFBVV95cUxNbHZXZ0IwMG1La2dVdDYtQmJfLS1UbnpUdi13QWJKQWJoUnI4WFFaR3FveE1maC1iWnBKMUlmV083azVsZ0EzbjJrbTNLa1lZcVNkRzRrMG1jYkZ3SDNteVk3M2NRWkVRd21JaHpaQ3pFa1NaMTNjMlIxOGgxVGJlS3RmeU5NNjlhbU1qd0VTclhHRmd5WXgtUGQxajl0UQ",
+    "searchedLabel": "ok-compost",
+    "matches": [
+      {
+        "labelId": "ok-compost",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "OK Compost"
+      }
+    ],
+    "fetchedAt": "2026-10-15T11:55:47.659Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Forest Stewardship Council (FSC)",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lUi1iSHN1NVhkcDRTNlNxMVhGeE9XSXBoVjlSY3VaTGNpUy1ydTFyTzBLY2h5VmI2eTFad0lxTGJtNXZJRWg5dEdfVFppNENIQ0NnZXZ6dG9ucFpuajdwYUhkdjFab2x5QTZv?oc=5",
+    "urlSlug": null,
+    "title": "FSC at the Global Bioeconomy Summit 2026",
+    "summary": "",
+    "publishedAt": "2026-10-15T09:41:52.000Z",
+    "categories": [],
+    "guid": "CBMia0FVX3lxTE1lUi1iSHN1NVhkcDRTNlNxMVhGeE9XSXBoVjlSY3VaTGNpUy1ydTFyTzBLY2h5VmI2eTFad0lxTGJtNXZJRWg5dEdfVFppNENIQ0NnZXZ6dG9ucFpuajdwYUhkdjFab2x5QTZv",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-15T11:55:47.659Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Forest Stewardship Council (FSC)",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjlKWlVITE5wVEw1UFNCLVBSOTZqY0ZRWF9KYkZKREhDNnBDWkt4TXZPemZ4WjZISE5uaFpzTUZlcEU3Slh3djBPT0wxNElMWV81eFVxNG4xR2kxZUIxWnZNbHNTLXhRaGFOb0FBRkhWdkttUk03ZmZna05mcUFoMGNxN0FEYVBGNEJYSTJQQ3lwZWhtbFJsQ0RhWlk4Q3dFYnk5SjZadmRIZ0RILU9SMm9iQXYzMEd3N3Y0djVIRVA?oc=5",
+    "urlSlug": null,
+    "title": "FSC International addresses concerns over forest management and certification in Europe",
+    "summary": "",
+    "publishedAt": "2026-10-15T09:33:45.000Z",
+    "categories": [],
+    "guid": "CBMiwAFBVV95cUxQYjlKWlVITE5wVEw1UFNCLVBSOTZqY0ZRWF9KYkZKREhDNnBDWkt4TXZPemZ4WjZISE5uaFpzTUZlcEU3Slh3djBPT0wxNElMWV81eFVxNG4xR2kxZUIxWnZNbHNTLXhRaGFOb0FBRkhWdkttUk03ZmZna05mcUFoMGNxN0FEYVBGNEJYSTJQQ3lwZWhtbFJsQ0RhWlk4Q3dFYnk5SjZadmRIZ0RILU9SMm9iQXYzMEd3N3Y0djVIRVA",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-15T11:55:47.659Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "SeafoodSource",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTktFcDl5Q1FIbHBEM3pCTXkzU21NSldVS3lfOEpUTUxlSjJqek5ReUdobGRqYjJWcjhRVmQ2XzQ4a2xLU3A0MS1SYTQ1cEk3UnVCZ25WRFZSdC1DanMxd2xFeVlxdXU0cWpyQ0F5V2ZhMWp6WVRNNUtOSWlUZzMxdHNuMFljTUY2U3pENlRlQW8xUHN0c0hCak5DTUhHV1plT3hZeUdVUUpZYUJxZGtMb3hhNHp1OWt1MVpySWhwMjdpc3l2YlhZalduaEVDak04NFpyaGJjcUdSZjBCdUlGRnJ0VF8?oc=5",
+    "urlSlug": null,
+    "title": "MSC report finds structural shifts in market as sustainability, supply constraints reshaping Nordic seafood sourcing",
+    "summary": "",
+    "publishedAt": "2026-10-15T09:00:00.000Z",
+    "categories": [],
+    "guid": "CBMi5AFBVV95cUxQTktFcDl5Q1FIbHBEM3pCTXkzU21NSldVS3lfOEpUTUxlSjJqek5ReUdobGRqYjJWcjhRVmQ2XzQ4a2xLU3A0MS1SYTQ1cEk3UnVCZ25WRFZSdC1DanMxd2xFeVlxdXU0cWpyQ0F5V2ZhMWp6WVRNNUtOSWlUZzMxdHNuMFljTUY2U3pENlRlQW8xUHN0c0hCak5DTUhHV1plT3hZeUdVUUpZYUJxZGtMb3hhNHp1OWt1MVpySWhwMjdpc3l2YlhZalduaEVDak04NFpyaGJjcUdSZjBCdUlGRnJ0VF8",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-10-15T11:55:47.659Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Chosunbiz",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVFNNbV9nQnFJNTI1UmoyX1ZZbFRJYlRCeXNJUEZuTF82Rk04M0RHenpNYzZIQ2x3TG1UUnpweXdmRUlaZmkzR3lhcUdhdnRhbG50bGNIa0VhQmR3ZTBuMFo1YmhLa19HdG4tYVRYbDJISFI0T1NMZmJiN044dWVtRXdieU9EUlVRY0RtYWpPWjhKcVXSAZMBQVVfeXFMTlRTTW1fZ0JxSTUyNVJqMl9WWWxUSWJUQnlzSVBGbkxfNkZNODNER3p6TWM2SENsd0xtVFJ6cHl3ZkVJWmZpM0d5YXFHYXZ0YWxudGxjSGtFYUJkd2UwbjBaNWJoS2tfR3RuLWFUWGwySEhSNE9TTGZiYjdOOHVlbUV3YnlPRFJVUWNEbWFqT1o4SnFV?oc=5",
+    "urlSlug": null,
+    "title": "Aromatica becomes first Korea-listed firm to earn global B Corp - CHOSUNBIZ",
+    "summary": "",
+    "publishedAt": "2026-10-15T06:57:00.000Z",
+    "categories": [],
+    "guid": "CBMikwFBVV95cUxOVFNNbV9nQnFJNTI1UmoyX1ZZbFRJYlRCeXNJUEZuTF82Rk04M0RHenpNYzZIQ2x3TG1UUnpweXdmRUlaZmkzR3lhcUdhdnRhbG50bGNIa0VhQmR3ZTBuMFo1YmhLa19HdG4tYVRYbDJISFI0T1NMZmJiN044dWVtRXdieU9EUlVRY0RtYWpPWjhKcVXSAZMBQVVfeXFMTlRTTW1fZ0JxSTUyNVJqMl9WWWxUSWJUQnlzSVBGbkxfNkZNODNER3p6TWM2SENsd0xtVFJ6cHl3ZkVJWmZpM0d5YXFHYXZ0YWxudGxjSGtFYUJkd2UwbjBaNWJoS2tfR3RuLWFUWGwySEhSNE9TTGZiYjdOOHVlbUV3YnlPRFJVUWNEbWFqT1o4SnFV",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-15T11:55:47.659Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Insider Media Ltd",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSGU5ZzRaWndOYzJ3Tm9QRzNmMVFiV2ZXbjd3cFpSWWkzazNxc3l1TTBzR1BCOVBKeE5nRmVSM2l3ajROc0NBbEdpaE5CYUVENUREOGZHci0zVkRVblo5QXFndXJCZ1U2NUxLOGhYUm05aXc3Qmo1QjFUYnh3bm5la1JVSzZOSFYyUDVOSUQwdXN2NmF0LUE?oc=5",
+    "urlSlug": null,
+    "title": "Lodestar Accounting secures B Corp certification",
+    "summary": "",
+    "publishedAt": "2026-10-15T05:00:00.000Z",
+    "categories": [],
+    "guid": "CBMilgFBVV95cUxPSGU5ZzRaWndOYzJ3Tm9QRzNmMVFiV2ZXbjd3cFpSWWkzazNxc3l1TTBzR1BCOVBKeE5nRmVSM2l3ajROc0NBbEdpaE5CYUVENUREOGZHci0zVkRVblo5QXFndXJCZ1U2NUxLOGhYUm05aXc3Qmo1QjFUYnh3bm5la1JVSzZOSFYyUDVOSUQwdXN2NmF0LUE",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-15T11:55:47.659Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "C2C Journal",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTNlblpuTDUxYnh0VEdZYkhfWlU3bHVrSWRiUTJUUUtwNlVwdFMzYXVYaVdRR1AyVE0zd0ItNnJaVFVfV3htNGtSTWJTOGFGWm42QmJ6Q01ubFFaOTEtZDJRYnhFOV9lNWw0a2stNkkzLVBoZ0NHUWZ6QW9CaUpkalFETUFZR2FQcm9SNG9mdmllcFpPMnFTVWN4ekY?oc=5",
+    "urlSlug": null,
+    "title": "The Ultimate Green-Washing: The False Promise of LEED Certification",
+    "summary": "",
+    "publishedAt": "2026-10-14T18:56:13.000Z",
+    "categories": [],
+    "guid": "CBMinAFBVV95cUxPMTNlblpuTDUxYnh0VEdZYkhfWlU3bHVrSWRiUTJUUUtwNlVwdFMzYXVYaVdRR1AyVE0zd0ItNnJaVFVfV3htNGtSTWJTOGFGWm42QmJ6Q01ubFFaOTEtZDJRYnhFOV9lNWw0a2stNkkzLVBoZ0NHUWZ6QW9CaUpkalFETUFZR2FQcm9SNG9mdmllcFpPMnFTVWN4ekY",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-15T11:55:47.659Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Laundry & Cleaning Today",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcmk3WmFMZUlHbmRrdEtZWTE4UGVHTmI4RXA3LWNENFZ2ZjRVbUU2cmFaX0pZdXc5MXNVcndhZ25pVFYtNHd4RGQ2OVJMbWNfUDNrLTRUdFZHZXhLRkpRTUdLcEFVaDNQWmM4OWlkaWRfZUxsQmtpb0NnRmQzOWlHOHAyU0RJdkFucEE?oc=5",
+    "urlSlug": null,
+    "title": "Project Re:claim gains GRS certification for UK polyester textile recycling",
+    "summary": "",
+    "publishedAt": "2026-10-14T18:31:05.000Z",
+    "categories": [],
+    "guid": "CBMiigFBVV95cUxQcmk3WmFMZUlHbmRrdEtZWTE4UGVHTmI4RXA3LWNENFZ2ZjRVbUU2cmFaX0pZdXc5MXNVcndhZ25pVFYtNHd4RGQ2OVJMbWNfUDNrLTRUdFZHZXhLRkpRTUdLcEFVaDNQWmM4OWlkaWRfZUxsQmtpb0NnRmQzOWlHOHAyU0RJdkFucEE",
+    "searchedLabel": "global-recycled-standard",
+    "matches": [
+      {
+        "labelId": "global-recycled-standard",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "GRS"
+      }
+    ],
+    "fetchedAt": "2026-10-15T11:55:47.659Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Seafoodnews",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOalZtSUQxeW9ldEh3WlQ5ckpCQjJZa2s0ODZXbzBVZlRoSjdMdExobWtha012aFdLTVhzY3FuQUY4cy11TDdCT0xQcnJSZUdSUk0zMjJGWVJGSzFTc2NwNmZxaFFtTFpEQkZVRGNUb0RHbk13ZV9CZjFIV3N3bmFaaTZtRjlRLVNmdWc0QVd4Nk8zUDdGVFBwSnNJdUFuMGtiYldFblFB?oc=5",
+    "urlSlug": null,
+    "title": "ASC Steps up Vietnam Support Ahead of New Farm Standard Shift",
+    "summary": "",
+    "publishedAt": "2026-10-14T14:27:43.000Z",
+    "categories": [],
+    "guid": "CBMipgFBVV95cUxOalZtSUQxeW9ldEh3WlQ5ckpCQjJZa2s0ODZXbzBVZlRoSjdMdExobWtha012aFdLTVhzY3FuQUY4cy11TDdCT0xQcnJSZUdSUk0zMjJGWVJGSzFTc2NwNmZxaFFtTFpEQkZVRGNUb0RHbk13ZV9CZjFIV3N3bmFaaTZtRjlRLVNmdWc0QVd4Nk8zUDdGVFBwSnNJdUFuMGtiYldFblFB",
+    "searchedLabel": "asc",
+    "matches": [
+      {
+        "labelId": "asc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ASC"
+      }
+    ],
+    "fetchedAt": "2026-10-15T11:55:47.659Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Perishable News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWHhnWDdKR0lQVnVhRll5T2tRTjJyckRfZkc3ZXVqQUMtOTJSRkpHUHVRaUNDYVd0ZGlTSEd0d0x6WEpxRU9xSVVmZ1hNWFc3OXUwYVFTRkRfM2pwUENPbnJjZFdDRjhmRDg3N213UWZROGQ5MHQzdVRQTGxPSER5UzVaQzZxS0VibWxPbm5tdUd3bkRJOW9MX2FZLUxhV0hob3VhWVp0cXRNQk8yRC1GRGxkNlpkXzhkZmo5NW05OHo1R0RVRkZr?oc=5",
+    "urlSlug": null,
+    "title": "From Pitches to Progress: ASC Champions Practical Change a Global Shrimp Forum 2026",
+    "summary": "",
+    "publishedAt": "2026-10-14T12:56:15.000Z",
+    "categories": [],
+    "guid": "CBMixwFBVV95cUxNWHhnWDdKR0lQVnVhRll5T2tRTjJyckRfZkc3ZXVqQUMtOTJSRkpHUHVRaUNDYVd0ZGlTSEd0d0x6WEpxRU9xSVVmZ1hNWFc3OXUwYVFTRkRfM2pwUENPbnJjZFdDRjhmRDg3N213UWZROGQ5MHQzdVRQTGxPSER5UzVaQzZxS0VibWxPbm5tdUd3bkRJOW9MX2FZLUxhV0hob3VhWVp0cXRNQk8yRC1GRGxkNlpkXzhkZmo5NW05OHo1R0RVRkZr",
+    "searchedLabel": "asc",
+    "matches": [
+      {
+        "labelId": "asc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ASC"
+      }
+    ],
+    "fetchedAt": "2026-10-15T11:55:47.659Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Breaking Travel News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUnBQT3IydkRHRVd2OUhzTjJJM3JQZFRwT2dNOFRhU1QzTjh3VTVKUzZKdUtGd0M1VXBESFQzM09DbGRubk5OSlNIcUIyU0M5N0V4TDZVeG9UYmluSjZoQ1ZzYklGclRYTkE4VnhDU3hYUnNHbzFNV2dndWVrNVo4RzRaVWpFaENsU3kwdnVYWVV0RE0welNRMERBVlA4RkdNRmp6bVc3RnRuZ09LekpsSnhTVXRTSHF2SW9NVzFGdDVNQQ?oc=5",
+    "urlSlug": null,
+    "title": "Brazil Increases Blue Flag Beach Certifications by 25%, Cementing Its Leadership in South America",
+    "summary": "",
+    "publishedAt": "2026-10-14T10:48:32.000Z",
+    "categories": [],
+    "guid": "CBMiwgFBVV95cUxOUnBQT3IydkRHRVd2OUhzTjJJM3JQZFRwT2dNOFRhU1QzTjh3VTVKUzZKdUtGd0M1VXBESFQzM09DbGRubk5OSlNIcUIyU0M5N0V4TDZVeG9UYmluSjZoQ1ZzYklGclRYTkE4VnhDU3hYUnNHbzFNV2dndWVrNVo4RzRaVWpFaENsU3kwdnVYWVV0RE0welNRMERBVlA4RkdNRmp6bVc3RnRuZ09LekpsSnhTVXRTSHF2SW9NVzFGdDVNQQ",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-15T11:55:47.659Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Global Agriculture",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcTlsczhUcVlpc2RJOE1QLTA0aC10dnM3WmFuTWdkR3NQQzBsOVNWRFlJblkyUld2bHJ0ek9rRUtrazI1bVJXdUdfMG9INmUxcFE0eHA1VzBqNENvRUI4UGZKN2xzSm5nY0Q2U3lKZlJPLThidTNfY3lrbXJYZGlUUjdYWmlzcmwxYjBCTkUwZ3dCdkx2YzJkZWo5YngyUVlZZFpqcnJ0b3pvekJnNE5mUjlFVmdpNlY1Z0QyWkNTbjlSRFpFblNvOUYxV1JJSTloY18tSnI2S3Q4ZDF3dlE?oc=5",
@@ -67,6 +320,29 @@
       }
     ],
     "fetchedAt": "2026-10-14T12:15:33.792Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Data Centre Solutions",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0p1ZlFzTFJ1V0loeDJTNEF2Zi0tYjgzcG0ya25LY1hJZTFQQUlFT1hPMnFyQncyemZibTR1WVFHUFk5SzB6WUdRazYwa3R5eEJfdTVHOFBIMGtuVlplQW1IX0VrS3QwTUNMRzNwdDZLZUZoaVVIaTBJQWNIU19adUNpYktjR2dwMlJVZQ?oc=5",
+    "urlSlug": null,
+    "title": "Infinity Group achieves B Corp certification",
+    "summary": "",
+    "publishedAt": "2026-10-14T09:36:31.000Z",
+    "categories": [],
+    "guid": "CBMijAFBVV95cUxOc0p1ZlFzTFJ1V0loeDJTNEF2Zi0tYjgzcG0ya25LY1hJZTFQQUlFT1hPMnFyQncyemZibTR1WVFHUFk5SzB6WUdRazYwa3R5eEJfdTVHOFBIMGtuVlplQW1IX0VrS3QwTUNMRzNwdDZLZUZoaVVIaTBJQWNIU19adUNpYktjR2dwMlJVZQ",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-15T11:55:47.659Z"
   },
   {
     "outletId": "google-news",
@@ -596,6 +872,29 @@
       }
     ],
     "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Atlantic Sun",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFBoRmI4aXFwOHpnZ2F5dXc3OWU5QXktcS0zYU9sQ0ZNQWF0MWhYTE9QeVJhUVBwSmpON3NmRWd4eWw0Z1VpbDJldG9wN0ZiSWRDM21wbUl0cHhUX1E2M2NUc0RUTmFkT3QtOEhFRUk3d2RkMDBzRXNjMjBqMndCdWthUmVfcWRsOTZ1YW01bmpKdGk1TGt2Q2hwOWtLSDhkTzI0bmhGZFVwQ0RNRjFBRlNEQmdDdw?oc=5",
+    "urlSlug": null,
+    "title": "8 Cape Town beaches retain Blue Flag status as four join pilot programme",
+    "summary": "",
+    "publishedAt": "2026-10-12T18:00:00.000Z",
+    "categories": [],
+    "guid": "CBMitgFBVV95cUxOVFBoRmI4aXFwOHpnZ2F5dXc3OWU5QXktcS0zYU9sQ0ZNQWF0MWhYTE9QeVJhUVBwSmpON3NmRWd4eWw0Z1VpbDJldG9wN0ZiSWRDM21wbUl0cHhUX1E2M2NUc0RUTmFkT3QtOEhFRUk3d2RkMDBzRXNjMjBqMndCdWthUmVfcWRsOTZ1YW01bmpKdGk1TGt2Q2hwOWtLSDhkTzI0bmhGZFVwQ0RNRjFBRlNEQmdDdw",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-15T11:55:47.659Z"
   },
   {
     "outletId": "google-news",
@@ -1963,6 +2262,29 @@
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Textile World",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQU50VmpFMDBhM2xkNmJSMDMzbFc3U0hsTVBqY0VxU2tsTm01MTJ5ZGoxem5MbExRZW5BQW00NnpaZW1aSDMyekh0MUNHc3VnMm5BdTdqeXJGYk1tTTkydk9vOUoyM3J1ZzFuTlQwSEh3T2c0dTFSUDZSMm8wRFJzUmp2Y3dJUGN4Q0l6d3BLdTVFdlNQOVpBZnhZa1BGNWt2MkozT2tfOTRkSXQ1eWtlVUNyTU1GemVYWUJjTEF5alNNTE03NjE1S0huMllKZ3Y4enM1U2h1bHdDWVU?oc=5",
+    "urlSlug": null,
+    "title": "Milliken Achieves Cradle To Cradle Certified® Silver Version 5.0 For Global Carpet Portfolio",
+    "summary": "",
+    "publishedAt": "2026-10-06T14:49:39.000Z",
+    "categories": [],
+    "guid": "CBMi2wFBVV95cUxNQU50VmpFMDBhM2xkNmJSMDMzbFc3U0hsTVBqY0VxU2tsTm01MTJ5ZGoxem5MbExRZW5BQW00NnpaZW1aSDMyekh0MUNHc3VnMm5BdTdqeXJGYk1tTTkydk9vOUoyM3J1ZzFuTlQwSEh3T2c0dTFSUDZSMm8wRFJzUmp2Y3dJUGN4Q0l6d3BLdTVFdlNQOVpBZnhZa1BGNWt2MkozT2tfOTRkSXQ1eWtlVUNyTU1GemVYWUJjTEF5alNNTE03NjE1S0huMllKZ3Y4enM1U2h1bHdDWVU",
+    "searchedLabel": "cradle-to-cradle",
+    "matches": [
+      {
+        "labelId": "cradle-to-cradle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Cradle to Cradle"
+      }
+    ],
+    "fetchedAt": "2026-10-15T11:55:47.659Z"
   },
   {
     "outletId": "google-news",
