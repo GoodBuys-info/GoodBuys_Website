@@ -1,6 +1,121 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Mossel Bay Advertiser",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSFhNYVVsOE1iZlhXbjFRTU8tUDVKTmVqUndGUVBJYjV3SlpkY21mMWRrbUF2bUhXdmQwMkZNZ1FZSWczd2xOZUpBeDV1VGJyM1duM0JsNVIxR0lxMHhpeG1nUnFaWF9EMVlwVEdhOThjU1dWUk5idzYtOG5VMnhsdWpqZmtBUnVNbm0yUGlPdnY4Sk96bTV5aVVMdjdzQzJFWTZWaGdSYm52Mm94SlZUMGxaWVMtUTJ2a0JmcHlUdnZ5eS1ielZsamloOVk?oc=5",
+    "urlSlug": null,
+    "title": "Mossel Bay opts out of 2026/27 Blue Flag status for beaches",
+    "summary": "",
+    "publishedAt": "2026-10-17T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMizAFBVV95cUxOSFhNYVVsOE1iZlhXbjFRTU8tUDVKTmVqUndGUVBJYjV3SlpkY21mMWRrbUF2bUhXdmQwMkZNZ1FZSWczd2xOZUpBeDV1VGJyM1duM0JsNVIxR0lxMHhpeG1nUnFaWF9EMVlwVEdhOThjU1dWUk5idzYtOG5VMnhsdWpqZmtBUnVNbm0yUGlPdnY4Sk96bTV5aVVMdjdzQzJFWTZWaGdSYm52Mm94SlZUMGxaWVMtUTJ2a0JmcHlUdnZ5eS1ielZsamloOVk",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-17T11:04:57.945Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Instagram",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HcC1wb0FIeHJxVjRZSkZ1RjNMY3FTQUUxVTlhNWZxOUxHc2tjMUNDMmRjN09IZldxWE91eFljMjBMNWRFZnVQbWpIQkZvOGFzNFE?oc=5",
+    "urlSlug": null,
+    "title": "Two hake species, one shared stock - are we managing the right fish? Dr Carola Kirchner, Independent Fisheries Management Scientist BSc(US), BScHon(UCT), MBA(UCT), PhD(NMMU) Namibia and South Africa both have Marine Stewardship Council-certifi",
+    "summary": "",
+    "publishedAt": "2026-10-17T03:00:45.000Z",
+    "categories": [],
+    "guid": "CBMiUkFVX3lxTE1HcC1wb0FIeHJxVjRZSkZ1RjNMY3FTQUUxVTlhNWZxOUxHc2tjMUNDMmRjN09IZldxWE91eFljMjBMNWRFZnVQbWpIQkZvOGFzNFE",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Marine Stewardship Council"
+      }
+    ],
+    "fetchedAt": "2026-10-17T11:04:57.945Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Chivas",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdElxRldPNTI1dnVGdHZ2YkVDQ0ZzRDJoTlVaUS1MRVUzdFp0LWszTDdiTWZVUzZKUUl5UFN3eGZlbmN6dFhmWGQxY0Z0MXlsTkM2T0ZlR3B6eHZoV2FSSUdETGZqNmhuMHg1eW1YSEdUNjBEcjRaM2l1NXRaTElveTJ5bTFoNXhjYkZlNWphWVpvWTB5RWI2S0VlaVAxZU0tUFUxTnFram5ZRnlTYlZXNXNBZjhhWDMycUd3b1A5QkpfMndwY2taWWhBVE5kQmNDc0E?oc=5",
+    "urlSlug": null,
+    "title": "Estadio AKRON Unveils Plaque Celebrating Its LEED Operations & Maintenance Gold Certification",
+    "summary": "",
+    "publishedAt": "2026-10-16T19:55:02.000Z",
+    "categories": [],
+    "guid": "CBMi0gFBVV95cUxPdElxRldPNTI1dnVGdHZ2YkVDQ0ZzRDJoTlVaUS1MRVUzdFp0LWszTDdiTWZVUzZKUUl5UFN3eGZlbmN6dFhmWGQxY0Z0MXlsTkM2T0ZlR3B6eHZoV2FSSUdETGZqNmhuMHg1eW1YSEdUNjBEcjRaM2l1NXRaTElveTJ5bTFoNXhjYkZlNWphWVpvWTB5RWI2S0VlaVAxZU0tUFUxTnFram5ZRnlTYlZXNXNBZjhhWDMycUd3b1A5QkpfMndwY2taWWhBVE5kQmNDc0E",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-17T11:04:57.945Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Bizcommunity",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ05yUWV2eXdld25pTzc2M19Pak9zSEtvNUZQV204TnA5UXBHQ1UxUUpHbUNPNlZ2LXBBWTcyQ2Fkc1Y5S0t0MVAxeVJidGlDQkpOaXNUazVBdzNuMENPd3BidEpNWG1FRnY0U0hndm9QOFI3SDRzblhIUVNFVXdDdFZJTEoxWW9iZFpaVWJJaEZVU1EtemstNjE4OXhhcmJx?oc=5",
+    "urlSlug": null,
+    "title": "8 Cape Town beaches secure Blue Flag status for 2026/27",
+    "summary": "",
+    "publishedAt": "2026-10-16T15:15:01.000Z",
+    "categories": [],
+    "guid": "CBMioAFBVV95cUxQZ05yUWV2eXdld25pTzc2M19Pak9zSEtvNUZQV204TnA5UXBHQ1UxUUpHbUNPNlZ2LXBBWTcyQ2Fkc1Y5S0t0MVAxeVJidGlDQkpOaXNUazVBdzNuMENPd3BidEpNWG1FRnY0U0hndm9QOFI3SDRzblhIUVNFVXdDdFZJTEoxWW9iZFpaVWJJaEZVU1EtemstNjE4OXhhcmJx",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-17T11:04:57.945Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Textile Today",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdExGTGZpMEJiWEEtYmE4OWdNdUlfcEhRUlJnaE5pc1NmbWsxX1FGdVJfOGZuVnhJMGZrYV9lYTVSZVVKUVRzNnJTWjVqenBXTm9PTU9QdGVBSEJzTnFPYkNFeVNIZXF2MEdiMkFvZEdTakl2d183MGp2aUZiRWFjcHo3SnRhT010b3U3ZDRoTWRqVkRGRy1VVzl0V0ZHQ25IeDJJU3lHSGJ1TmNIbER6aXYzb3pDcmlzb3R3YldiM1RuQQ?oc=5",
+    "urlSlug": null,
+    "title": "HAMS Garments earns global green recognition for highest-scoring LEED Platinum Certification",
+    "summary": "",
+    "publishedAt": "2026-10-16T12:29:01.000Z",
+    "categories": [],
+    "guid": "CBMiwgFBVV95cUxNdExGTGZpMEJiWEEtYmE4OWdNdUlfcEhRUlJnaE5pc1NmbWsxX1FGdVJfOGZuVnhJMGZrYV9lYTVSZVVKUVRzNnJTWjVqenBXTm9PTU9QdGVBSEJzTnFPYkNFeVNIZXF2MEdiMkFvZEdTakl2d183MGp2aUZiRWFjcHo3SnRhT010b3U3ZDRoTWRqVkRGRy1VVzl0V0ZHQ25IeDJJU3lHSGJ1TmNIbER6aXYzb3pDcmlzb3R3YldiM1RuQQ",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-17T11:04:57.945Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Undercurrent News",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQekJtZmxpZjdVTW5TcW1Ja1dKQmoyWS10bDJfNUtabF9zTjVHNnJZTTlOUDdPTms2ck9zd3hSQV9ZaEh4UVBwS2lNa0lSUzY0Q3E0YndmN3hENUZVWk41MDFtY2JBSzhUcW5KYU1ZOW5lekZTV1hscEUtMnlWWXpvbEVuN3V1ZUNCdnlNUURROWx6eHk4a3c2QjRVTmpvUElmc3BYNHZNcWFhYmhzRHkxNUVR?oc=5",
@@ -159,6 +274,29 @@
       }
     ],
     "fetchedAt": "2026-10-16T11:47:00.147Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "newsroom.ing.be",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWDA0eVVTQWJMdkFORHFPYm5xVWFvTlBwMTBOaEcxNnM4VkhUa3VrUzVzaHFiTWdtZzRGd0o0S2k2UW1URm9FVzNaNGZYQlhJRWtXNkdta2lWNEFwaW5tcExXaWpNbDI3TVdqeUZmajlCUkFxRU9YeGtCd3dKVHJUbEotNE13cktLQXc?oc=5",
+    "urlSlug": null,
+    "title": "The Marnix receives final BREEAM Outstanding certification",
+    "summary": "",
+    "publishedAt": "2026-10-16T06:30:00.000Z",
+    "categories": [],
+    "guid": "CBMiigFBVV95cUxPWDA0eVVTQWJMdkFORHFPYm5xVWFvTlBwMTBOaEcxNnM4VkhUa3VrUzVzaHFiTWdtZzRGd0o0S2k2UW1URm9FVzNaNGZYQlhJRWtXNkdta2lWNEFwaW5tcExXaWpNbDI3TVdqeUZmajlCUkFxRU9YeGtCd3dKVHJUbEotNE13cktLQXc",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-17T11:04:57.945Z"
   },
   {
     "outletId": "google-news",
@@ -438,6 +576,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "헤럴드경제",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXdFRYNzUwYm9lc2FMU2JmZ1Y4czJEakxrdVBCQm16SzFvUmJWM3c1YjYxTjZXMTRJaGpoNTh1V2ZMV3Frb05zbzdyZWxxZjBORk45SmF3?oc=5",
+    "urlSlug": null,
+    "title": "Aromatica becomes first listed Korean company to earn B Corp certification",
+    "summary": "",
+    "publishedAt": "2026-10-15T07:53:58.000Z",
+    "categories": [],
+    "guid": "CBMiVkFVX3lxTFBXdFRYNzUwYm9lc2FMU2JmZ1Y4czJEakxrdVBCQm16SzFvUmJWM3c1YjYxTjZXMTRJaGpoNTh1V2ZMV3Frb05zbzdyZWxxZjBORk45SmF3",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-17T11:04:57.945Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Chosunbiz",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVFNNbV9nQnFJNTI1UmoyX1ZZbFRJYlRCeXNJUEZuTF82Rk04M0RHenpNYzZIQ2x3TG1UUnpweXdmRUlaZmkzR3lhcUdhdnRhbG50bGNIa0VhQmR3ZTBuMFo1YmhLa19HdG4tYVRYbDJISFI0T1NMZmJiN044dWVtRXdieU9EUlVRY0RtYWpPWjhKcVXSAZMBQVVfeXFMTlRTTW1fZ0JxSTUyNVJqMl9WWWxUSWJUQnlzSVBGbkxfNkZNODNER3p6TWM2SENsd0xtVFJ6cHl3ZkVJWmZpM0d5YXFHYXZ0YWxudGxjSGtFYUJkd2UwbjBaNWJoS2tfR3RuLWFUWGwySEhSNE9TTGZiYjdOOHVlbUV3YnlPRFJVUWNEbWFqT1o4SnFV?oc=5",
@@ -642,6 +803,29 @@
       }
     ],
     "fetchedAt": "2026-10-15T11:55:47.659Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Yahoo Finance",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wYjZaQTA3UzZFc3JaMngxSU5iUXJhb0pnRktEVFVzaHdTSUE2clZFRk5MVmJwRXFFbW00dUhtOEQ4eGpCMzFlSnc4d3hXNW91clNBeXpqX2FMZjBoTWVLYWRDMHF0V3JUa3pUN3poWDVXd3RRQ1dpMXJJT2RvYXc?oc=5",
+    "urlSlug": null,
+    "title": "Better Cotton acquires AI Co:Farm to support regenerative standards shift",
+    "summary": "",
+    "publishedAt": "2026-10-14T11:07:35.000Z",
+    "categories": [],
+    "guid": "CBMif0FVX3lxTE0wYjZaQTA3UzZFc3JaMngxSU5iUXJhb0pnRktEVFVzaHdTSUE2clZFRk5MVmJwRXFFbW00dUhtOEQ4eGpCMzFlSnc4d3hXNW91clNBeXpqX2FMZjBoTWVLYWRDMHF0V3JUa3pUN3poWDVXd3RRQ1dpMXJJT2RvYXc",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Better Cotton"
+      }
+    ],
+    "fetchedAt": "2026-10-17T11:04:57.945Z"
   },
   {
     "outletId": "google-news",
@@ -1010,6 +1194,29 @@
       }
     ],
     "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Gulf News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTnZ1alNjTU1GTUc0Z0FmOHZhZ0tyV1pFZ0p2TWZnVGlOU0JMeElaRWxseDIyRDM1dW05bXZpNHU0VVF2TDF0VUhKaFpNQWs4NlVVV1ZONGlRX3ZCTUxUT0xFNWtrZlZfcHIzWFFQSkdwZExYNExMU25SMUJjVzktZTRicGNYMTB6UHoyTXNGS2tEQ2ZPMjhRNHA1ZGdBa3hXWGJERjZfbXZwM2JXU3djQTVSS0dvNkE1d3paemtEc1lSMGV3OHcwOWR0VWZ4S2xnbFNiTV92V2tkUQ?oc=5",
+    "urlSlug": null,
+    "title": "Abu Dhabi school achieves historic LEED platinum certification, setting sustainability benchmark",
+    "summary": "",
+    "publishedAt": "2026-10-13T10:09:06.000Z",
+    "categories": [],
+    "guid": "CBMi2gFBVV95cUxOTnZ1alNjTU1GTUc0Z0FmOHZhZ0tyV1pFZ0p2TWZnVGlOU0JMeElaRWxseDIyRDM1dW05bXZpNHU0VVF2TDF0VUhKaFpNQWs4NlVVV1ZONGlRX3ZCTUxUT0xFNWtrZlZfcHIzWFFQSkdwZExYNExMU25SMUJjVzktZTRicGNYMTB6UHoyTXNGS2tEQ2ZPMjhRNHA1ZGdBa3hXWGJERjZfbXZwM2JXU3djQTVSS0dvNkE1d3paemtEc1lSMGV3OHcwOWR0VWZ4S2xnbFNiTV92V2tkUQ",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-17T11:04:57.945Z"
   },
   {
     "outletId": "google-news",
@@ -1503,6 +1710,29 @@
       }
     ],
     "fetchedAt": "2026-10-12T15:54:42.985Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Fibre2Fashion",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUlYxLTRuUm1TNWZwM00zQ0JvcS1XbXVsZ0FDaUk5Sl9TcVVMRVVDQ191ZzE5TGdIRHZVVWQzX0diV3JJWHl1enhRT01ELXVoOUh6elA3WklVdXFVVVNPNTdmVXBtMjd2ZU5ubjROaC1FcGFMRHp0QmpWM0ZWY0daLUU0d1hVOUI1eGxpZTdfZXpMRGFHNm5UZWNHMEQ3VVJvSVE3MXhQc2RIeE55ODd1aUVBS0RzdjdfNy1QWmkwVGFCdw?oc=5",
+    "urlSlug": null,
+    "title": "OEKO-TEX launches 'Trust in Every Thread' campaign film",
+    "summary": "",
+    "publishedAt": "2026-10-12T09:27:18.000Z",
+    "categories": [],
+    "guid": "CBMiwgFBVV95cUxPUlYxLTRuUm1TNWZwM00zQ0JvcS1XbXVsZ0FDaUk5Sl9TcVVMRVVDQ191ZzE5TGdIRHZVVWQzX0diV3JJWHl1enhRT01ELXVoOUh6elA3WklVdXFVVVNPNTdmVXBtMjd2ZU5ubjROaC1FcGFMRHp0QmpWM0ZWY0daLUU0d1hVOUI1eGxpZTdfZXpMRGFHNm5UZWNHMEQ3VVJvSVE3MXhQc2RIeE55ODd1aUVBS0RzdjdfNy1QWmkwVGFCdw",
+    "searchedLabel": "oeko-tex",
+    "matches": [
+      {
+        "labelId": "oeko-tex",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Oeko-Tex"
+      }
+    ],
+    "fetchedAt": "2026-10-17T11:04:57.945Z"
   },
   {
     "outletId": "google-news",
