@@ -1,6 +1,75 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "hrtoday.in",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOanIwVkRBUi1VTDBNaHVHVF9XVEUzalp2am5OSFg4cXpNcGJXNktxUTRFNVJFNkNQVDVJNkMzV29Kd0ktZ2doTmJoUXF5VHZodGJsQnR0eGJKd0Q2RDRONnhWc0NMWXhDV0hKbXkwV0FtTVlQTkRpUzB0S3dCZExGU0NFSFM5eE94cEt5Qmh1TklJQXRkOUtF?oc=5",
+    "urlSlug": null,
+    "title": "Narendra Mohan Elevated to Country Director – India at Rainforest Alliance",
+    "summary": "",
+    "publishedAt": "2026-10-18T05:51:03.000Z",
+    "categories": [],
+    "guid": "CBMilwFBVV95cUxOanIwVkRBUi1VTDBNaHVHVF9XVEUzalp2am5OSFg4cXpNcGJXNktxUTRFNVJFNkNQVDVJNkMzV29Kd0ktZ2doTmJoUXF5VHZodGJsQnR0eGJKd0Q2RDRONnhWc0NMWXhDV0hKbXkwV0FtTVlQTkRpUzB0S3dCZExGU0NFSFM5eE94cEt5Qmh1TklJQXRkOUtF",
+    "searchedLabel": "rainforest-alliance",
+    "matches": [
+      {
+        "labelId": "rainforest-alliance",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Rainforest Alliance"
+      }
+    ],
+    "fetchedAt": "2026-10-18T11:35:27.602Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Western Telegraph",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNGlnMlJVMlQxeDVsRmFIUHhsRUFPdEhjYWFiS0pkakdoY0lBNlNMOUlVOVJvWVRSajFjbndRTnl0N2Q3aXozbTBsakxCNWFkeENnNndXdEtUODZmS2RMejY4RmZIMDc2MTItZkkteTA5TjgtMWtzcktLQkRZMlg4cVRsMk1ZSTFYSTN6R1hsMkNXZGc0b090SHgxdVY0TnVicmprUWN1bnI?oc=5",
+    "urlSlug": null,
+    "title": "Luxury 11-bedroom estate close to 'Blue Flag' beach on sale for £800,000",
+    "summary": "",
+    "publishedAt": "2026-10-18T05:00:00.000Z",
+    "categories": [],
+    "guid": "CBMiqAFBVV95cUxPNGlnMlJVMlQxeDVsRmFIUHhsRUFPdEhjYWFiS0pkakdoY0lBNlNMOUlVOVJvWVRSajFjbndRTnl0N2Q3aXozbTBsakxCNWFkeENnNndXdEtUODZmS2RMejY4RmZIMDc2MTItZkkteTA5TjgtMWtzcktLQkRZMlg4cVRsMk1ZSTFYSTN6R1hsMkNXZGc0b090SHgxdVY0TnVicmprUWN1bnI",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-18T11:35:27.602Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Citizen",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUVFWTDBaN09mRkEySkh6Rk1HQkl0T3R6TDhYdzk1dHVnQ1lvYTRhODM0VVN4NWE0bjNtZ2lGRGR6ZEdXMXBmX0U0Y0JnRFBLV1JQTm5ydm01ZUFTVkJJUndROWVpYXdfRFNIWEtwNTdiZktJZ0FJek9RanpTcEVueU93Q19TVHA4RXItUWVLQzNTckhjT0ZhWVl1S0RSQzFCTWFWdzNETUVXQQ?oc=5",
+    "urlSlug": null,
+    "title": "Mossel Bay opts out of Blue Flag programme for beaches - LNN - Network News",
+    "summary": "",
+    "publishedAt": "2026-10-17T13:49:23.000Z",
+    "categories": [],
+    "guid": "CBMiqgFBVV95cUxOUVFWTDBaN09mRkEySkh6Rk1HQkl0T3R6TDhYdzk1dHVnQ1lvYTRhODM0VVN4NWE0bjNtZ2lGRGR6ZEdXMXBmX0U0Y0JnRFBLV1JQTm5ydm01ZUFTVkJJUndROWVpYXdfRFNIWEtwNTdiZktJZ0FJek9RanpTcEVueU93Q19TVHA4RXItUWVLQzNTckhjT0ZhWVl1S0RSQzFCTWFWdzNETUVXQQ",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-18T11:35:27.602Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Mossel Bay Advertiser",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSFhNYVVsOE1iZlhXbjFRTU8tUDVKTmVqUndGUVBJYjV3SlpkY21mMWRrbUF2bUhXdmQwMkZNZ1FZSWczd2xOZUpBeDV1VGJyM1duM0JsNVIxR0lxMHhpeG1nUnFaWF9EMVlwVEdhOThjU1dWUk5idzYtOG5VMnhsdWpqZmtBUnVNbm0yUGlPdnY4Sk96bTV5aVVMdjdzQzJFWTZWaGdSYm52Mm94SlZUMGxaWVMtUTJ2a0JmcHlUdnZ5eS1ielZsamloOVk?oc=5",
