@@ -1,6 +1,75 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "The Music Universe",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWE3MlhpdkpJY1VDejZiZE1MemFmRFdDNE1KeFhrVzZGRGpRWHhISkVXelJFWF9NUmF3RzE0V0dRT21RaEVqVFlqRmp6a3VLWE1ocW1XRk5HSFVXVnptOTd6aENMSWszajFrdW85UXU0WGEycFJqS0NlQlBtMGVneXpWM0xhbGQ3?oc=5",
+    "urlSlug": null,
+    "title": "Aaron Tippin reimagines ‘My Blue Angel’ with Sam Grow",
+    "summary": "",
+    "publishedAt": "2026-10-19T12:30:17.000Z",
+    "categories": [],
+    "guid": "CBMiiAFBVV95cUxQOWE3MlhpdkpJY1VDejZiZE1MemFmRFdDNE1KeFhrVzZGRGpRWHhISkVXelJFWF9NUmF3RzE0V0dRT21RaEVqVFlqRmp6a3VLWE1ocW1XRk5HSFVXVnptOTd6aENMSWszajFrdW85UXU0WGEycFJqS0NlQlBtMGVneXpWM0xhbGQ3",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-10-19T13:49:21.137Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Seafoodnews",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUjktdkdwMzdBbVdsZFA3WE02UGNUUHNudG1idmlLWV82SUNGYkI4UTFZYVl3RTlYZ3M1V1JmYnVqbVI5b0pJdXhpNElUTmNRTF91SFdmRExjZ2NLeXlQYVdxc0tTRmZVekZEa2xqdnhNcF9FbXRRMy1RWkY2UFB4cmRwWkJyVnU5QWdiVDlCWkhwbFhvT0tndHI5enhpcWdoVjg3ZExxYTRZaXQ0WXhZeU1KU3dyRUw2QUdHZDVzQ0JxV2FV?oc=5",
+    "urlSlug": null,
+    "title": "MSC Says Sustainability has Become a Mainstream Expectation for US Seafood Consumers",
+    "summary": "",
+    "publishedAt": "2026-10-19T12:24:12.000Z",
+    "categories": [],
+    "guid": "CBMixAFBVV95cUxQUjktdkdwMzdBbVdsZFA3WE02UGNUUHNudG1idmlLWV82SUNGYkI4UTFZYVl3RTlYZ3M1V1JmYnVqbVI5b0pJdXhpNElUTmNRTF91SFdmRExjZ2NLeXlQYVdxc0tTRmZVekZEa2xqdnhNcF9FbXRRMy1RWkY2UFB4cmRwWkJyVnU5QWdiVDlCWkhwbFhvT0tndHI5enhpcWdoVjg3ZExxYTRZaXQ0WXhZeU1KU3dyRUw2QUdHZDVzQ0JxV2FV",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-10-19T13:49:21.137Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Nation Newspaper",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONk1KZ1VpbDlkS2wtTHU4SXBOVjdnSmtNUzVvaVNNa0ZGRTRBUDlNTU14ZDBSdWpxTWc4ZERDVnpXdWpuQ2JxemxxV0V0dk1vLVB2VFYzM1R2c1diaWpWb21fS2pLOWZVYTNUV3ozS1NYN1gzT2M5OUtfN29IQ0p5NTU4ZzgxdWlta0pSYmFqbUp2TWlRM1E40gGcAUFVX3lxTE4zZE5ZNmZRYzFoNXNFMGVzN0VKdXVzN1IxeDRGU1NuV05mNGtWcmk5c2REYWJ3aUJ2TmxtVmpOOEpiOUJkdXVIYnpSaDYyYlF4MHM3VWUyLWZvc0lDT09DNHlUM1drYUtxVGRySllOclMyZVk1aWZrUHBtWUVPbnQ2TmtjYm9oaUhLRFV0cGUwMlY2a1llM1RpQXRCVg?oc=5",
+    "urlSlug": null,
+    "title": "AMCE earns LEED Silver certification for sustainable building",
+    "summary": "",
+    "publishedAt": "2026-10-19T10:50:11.000Z",
+    "categories": [],
+    "guid": "CBMilwFBVV95cUxONk1KZ1VpbDlkS2wtTHU4SXBOVjdnSmtNUzVvaVNNa0ZGRTRBUDlNTU14ZDBSdWpxTWc4ZERDVnpXdWpuQ2JxemxxV0V0dk1vLVB2VFYzM1R2c1diaWpWb21fS2pLOWZVYTNUV3ozS1NYN1gzT2M5OUtfN29IQ0p5NTU4ZzgxdWlta0pSYmFqbUp2TWlRM1E40gGcAUFVX3lxTE4zZE5ZNmZRYzFoNXNFMGVzN0VKdXVzN1IxeDRGU1NuV05mNGtWcmk5c2REYWJ3aUJ2TmxtVmpOOEpiOUJkdXVIYnpSaDYyYlF4MHM3VWUyLWZvc0lDT09DNHlUM1drYUtxVGRySllOclMyZVk1aWZrUHBtWUVPbnQ2TmtjYm9oaUhLRFV0cGUwMlY2a1llM1RpQXRCVg",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-19T13:49:21.137Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "hrtoday.in",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOanIwVkRBUi1VTDBNaHVHVF9XVEUzalp2am5OSFg4cXpNcGJXNktxUTRFNVJFNkNQVDVJNkMzV29Kd0ktZ2doTmJoUXF5VHZodGJsQnR0eGJKd0Q2RDRONnhWc0NMWXhDV0hKbXkwV0FtTVlQTkRpUzB0S3dCZExGU0NFSFM5eE94cEt5Qmh1TklJQXRkOUtF?oc=5",
@@ -3162,6 +3231,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Centre College",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMlo3czdwclM3M1NadzdlWjFQN2tNVnNPeFdlZmpidzRucUllUVM2a3Z1MlpLNktzU3hlYlNkTUtyTFlUSGljSHpVYS00VlMxbTczWnV1UlVSRWtaVlpWUzF3X1RfdnZoeUdtYWRibm9YYmxnc2doeUNkUURzaGtqcnhYNmdSeHlLYXRDTlhEQjFYUQ?oc=5",
+    "urlSlug": null,
+    "title": "Champions Hall earns LEED Gold certification for sustainability achievement",
+    "summary": "",
+    "publishedAt": "2026-10-06T12:00:00.000Z",
+    "categories": [],
+    "guid": "CBMikgFBVV95cUxOMlo3czdwclM3M1NadzdlWjFQN2tNVnNPeFdlZmpidzRucUllUVM2a3Z1MlpLNktzU3hlYlNkTUtyTFlUSGljSHpVYS00VlMxbTczWnV1UlVSRWtaVlpWUzF3X1RfdnZoeUdtYWRibm9YYmxnc2doeUNkUURzaGtqcnhYNmdSeHlLYXRDTlhEQjFYUQ",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-19T13:49:21.137Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "EquityBulls",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByU3FncnhpVUMwcEZ3aE5hOWFocUltcDFBU201al9QMzlPT3hTc2p4UzB2TzR3UVdRWm93b3ZCekJMMTd0clpvbEEwLUpGU3BJbno2VTlQenR6SlhxQWVz?oc=5",
@@ -3228,6 +3320,29 @@
       }
     ],
     "fetchedAt": "2026-10-11T13:17:55.803Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "EquityBulls",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmJveTR2MlpkUHQzdmttTzVndjY1Rl9XcjQzY2lEMzBmRG1WNDkwcnJHSWxYOVVIZzlHZVhwOVM1bTZHQ2ZPZVpLX1NhbEJPeFVRQ3dmeUVJZktLUlBwRHVmd3E2UVo4RnV2T0MzN3RaWnA0Z1VzcWRSNmVKdkZMMEZiaTdfWGt0TkdMbEl5U1dzNkpIdFVRYmY1aTViOUVhM0lHcHlVVWxidVVfOEZ4N1hpMzdOTGRZMC1aag?oc=5",
+    "urlSlug": null,
+    "title": "Mukka Proteins Ltd receives USDA NOP - Inputs Attestation from ECOCERT S.A.S., France",
+    "summary": "",
+    "publishedAt": "2026-10-06T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMivAFBVV95cUxNYmJveTR2MlpkUHQzdmttTzVndjY1Rl9XcjQzY2lEMzBmRG1WNDkwcnJHSWxYOVVIZzlHZVhwOVM1bTZHQ2ZPZVpLX1NhbEJPeFVRQ3dmeUVJZktLUlBwRHVmd3E2UVo4RnV2T0MzN3RaWnA0Z1VzcWRSNmVKdkZMMEZiaTdfWGt0TkdMbEl5U1dzNkpIdFVRYmY1aTViOUVhM0lHcHlVVWxidVVfOEZ4N1hpMzdOTGRZMC1aag",
+    "searchedLabel": "ecocert",
+    "matches": [
+      {
+        "labelId": "ecocert",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Ecocert"
+      }
+    ],
+    "fetchedAt": "2026-10-19T13:49:21.137Z"
   },
   {
     "outletId": "google-news",
