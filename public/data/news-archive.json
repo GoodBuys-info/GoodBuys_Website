@@ -1,6 +1,236 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "The Independent",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2V3Z3BqY3c0NGZ3cldDanZTNlFKNU13Z0xLaVc3S2pISFJOUWVFOHJBblJGMFJNeWtzeDNqMDhMbXRwcWNJMjh6OHpfRWlmMFVjVnE1YzRweVdJX0hPa3d0RFNOTDNMc19PRVFTcVlqZ1plblFaWnNQckdsVDNCR2dTei1OcEdSb3FWQTlCMUhMLTRQTFg3OW1nWDdiZmhQUGc?oc=5",
+    "urlSlug": null,
+    "title": "Brazil now has 75 Blue Flag beaches – these are some of the most beautiful",
+    "summary": "",
+    "publishedAt": "2026-10-20T10:33:00.000Z",
+    "categories": [],
+    "guid": "CBMiogFBVV95cUxOS2V3Z3BqY3c0NGZ3cldDanZTNlFKNU13Z0xLaVc3S2pISFJOUWVFOHJBblJGMFJNeWtzeDNqMDhMbXRwcWNJMjh6OHpfRWlmMFVjVnE1YzRweVdJX0hPa3d0RFNOTDNMc19PRVFTcVlqZ1plblFaWnNQckdsVDNCR2dTei1OcEdSb3FWQTlCMUhMLTRQTFg3OW1nWDdiZmhQUGc",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-20T11:58:36.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Romania Journal",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX3RwRkxvbWczNWZGQmlKeVNsSjFUVFg3Ym80SUtDajE2TEJFZ0w0a0hmc2ZEUC1wR0hYcTU4QUNZMllpUThmaFRvZTRTMzRRdXJmNUxwYk50c3cwckNZSFhUOFlQaEh1YjdaTWJfdUE4d3o1NWdEYUVDRmtqdWdYNnJwUENydG9CQmNydmVLUHFMcFcyZDR5RzNFbDdaOTjSAaQBQVVfeXFMTXNYSDJNM2N1cTZkNFYwYmx5Xy1iSzlyTXNVTUJrenRoVU5rRGJDY1Y5TDhtRWlnbVU5RFBZZ3FZbXpDdVFjYWZxR0d4bkdUR19hc2xha3J1OGU5YzRrbmhkbFc0dXFRUXJ5cGpiX3NvLVJzVmZySDFaSkZkSXVXOTBzRE9teUFJX0xsRG1UTXpUcTZ5X2J4SFB0YWhsUFF5SUNoS3k?oc=5",
+    "urlSlug": null,
+    "title": "FSC Romania: How to Protect Forests and Build Public Trust",
+    "summary": "",
+    "publishedAt": "2026-10-20T10:03:29.000Z",
+    "categories": [],
+    "guid": "CBMinwFBVV95cUxQX3RwRkxvbWczNWZGQmlKeVNsSjFUVFg3Ym80SUtDajE2TEJFZ0w0a0hmc2ZEUC1wR0hYcTU4QUNZMllpUThmaFRvZTRTMzRRdXJmNUxwYk50c3cwckNZSFhUOFlQaEh1YjdaTWJfdUE4d3o1NWdEYUVDRmtqdWdYNnJwUENydG9CQmNydmVLUHFMcFcyZDR5RzNFbDdaOTjSAaQBQVVfeXFMTXNYSDJNM2N1cTZkNFYwYmx5Xy1iSzlyTXNVTUJrenRoVU5rRGJDY1Y5TDhtRWlnbVU5RFBZZ3FZbXpDdVFjYWZxR0d4bkdUR19hc2xha3J1OGU5YzRrbmhkbFc0dXFRUXJ5cGpiX3NvLVJzVmZySDFaSkZkSXVXOTBzRE9teUFJX0xsRG1UTXpUcTZ5X2J4SFB0YWhsUFF5SUNoS3k",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-20T11:58:36.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Dealroom",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaXZpVVFjcEVILTkycXFmRERtNEQzQmNUdnRfYXdSMU9RdXcxYVlJNWVHclV0ZUtuSDBJNTRyc2JEX0RER3ZnU3c0NVVvRUprTnhMWGhIeFdOazNYSXg5dWN5Y2lvYVdOV3pPdjVSaXQ4eUJ2Vm0wNF84S0swOTg2Z2RGSEs4emJhb0VEUnlTQnBlMWNhUjFvaFZoS2N0d21KalM4S3Z2RkhIZw?oc=5",
+    "urlSlug": null,
+    "title": "Tokyo's Ethical Spirits lands B Corp status, closes AMJ Capital-led round",
+    "summary": "",
+    "publishedAt": "2026-10-20T09:58:45.000Z",
+    "categories": [],
+    "guid": "CBMiqgFBVV95cUxOaXZpVVFjcEVILTkycXFmRERtNEQzQmNUdnRfYXdSMU9RdXcxYVlJNWVHclV0ZUtuSDBJNTRyc2JEX0RER3ZnU3c0NVVvRUprTnhMWGhIeFdOazNYSXg5dWN5Y2lvYVdOV3pPdjVSaXQ4eUJ2Vm0wNF84S0swOTg2Z2RGSEs4emJhb0VEUnlTQnBlMWNhUjFvaFZoS2N0d21KalM4S3Z2RkhIZw",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-20T11:58:36.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "NewsBreak: Local News & Alerts",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWk2b2dKR0hqVk9RaTJGT0ZOZG83dEFwNjVCM2RmNGZDN0NzZG9oVTYyZE5pX3NQM25hMlZXWlJ0U0NaLUl6cXdtbnU0WTlqRjhiSWItYVhDbmJ4b1FhLUN1MDVpMlpBcHpoc3RBY2owYWI0UjMtWjNuM0piakxvMnNMcG9PN0V4VnZ1TXZhMEhjZ0hBc21n?oc=5",
+    "urlSlug": null,
+    "title": "blue angel Jacksonville Florida",
+    "summary": "",
+    "publishedAt": "2026-10-20T06:38:32.000Z",
+    "categories": [],
+    "guid": "CBMilwFBVV95cUxNMWk2b2dKR0hqVk9RaTJGT0ZOZG83dEFwNjVCM2RmNGZDN0NzZG9oVTYyZE5pX3NQM25hMlZXWlJ0U0NaLUl6cXdtbnU0WTlqRjhiSWItYVhDbmJ4b1FhLUN1MDVpMlpBcHpoc3RBY2owYWI0UjMtWjNuM0piakxvMnNMcG9PN0V4VnZ1TXZhMEhjZ0hBc21n",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-10-20T11:58:36.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "openPR.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2V3dzhsTU9Gd2dHOTNRSXhCMDFvaWx5cVJYQmdEUEJMVHJHcHRxc2xHRHl4eTBtS3FfUk95WERkVDBmY084cHNuaFVYcUJLa3h6RnkwdkJaWEFYZlRXQ2E5S3VZLWFLdllibnVpVDRBMlZtTWY2RTNjMDhOVlpINnRsZU1KNXJIa3d6Yl9wLV9GWTBKNWNkSmF4d3lNQQ?oc=5",
+    "urlSlug": null,
+    "title": "Sustainable Merino Wool Base Layer for Outdoor and Travel Use from WOOLCANO with RWS Certification",
+    "summary": "",
+    "publishedAt": "2026-10-20T01:32:33.000Z",
+    "categories": [],
+    "guid": "CBMingFBVV95cUxPa2V3dzhsTU9Gd2dHOTNRSXhCMDFvaWx5cVJYQmdEUEJMVHJHcHRxc2xHRHl4eTBtS3FfUk95WERkVDBmY084cHNuaFVYcUJLa3h6RnkwdkJaWEFYZlRXQ2E5S3VZLWFLdllibnVpVDRBMlZtTWY2RTNjMDhOVlpINnRsZU1KNXJIa3d6Yl9wLV9GWTBKNWNkSmF4d3lNQQ",
+    "searchedLabel": "rws",
+    "matches": [
+      {
+        "labelId": "rws",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "RWS"
+      }
+    ],
+    "fetchedAt": "2026-10-20T11:58:36.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Cargo Facts",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSzZkU1p5WVRmQU1XeHpLV2hfSFpYZHpUcDZCeHo1Ui1VYUFkanV1SXcxR3NuNDN3dkhHbEc1VE0wVlc2N01vdVdfSUljeTVBbFloVlVxRlRFeTR3czliNVN0ZElWeUlsX1VHR2RZdWdjN2t6NzhDanJLbFZBaXgyRDczNnc5MDJJLWxBcTdndUV3M3NvbWhFcFpQU2xiWjY2NEI2M2tSOU9Ya0FReFZ5LXBGQ1J3UFdLVndVZEE2NEg?oc=5",
+    "urlSlug": null,
+    "title": "Cargo Wings Express becomes only EASA TCO-certified Tunisian freighter operator",
+    "summary": "",
+    "publishedAt": "2026-10-19T21:45:20.000Z",
+    "categories": [],
+    "guid": "CBMiwAFBVV95cUxNSzZkU1p5WVRmQU1XeHpLV2hfSFpYZHpUcDZCeHo1Ui1VYUFkanV1SXcxR3NuNDN3dkhHbEc1VE0wVlc2N01vdVdfSUljeTVBbFloVlVxRlRFeTR3czliNVN0ZElWeUlsX1VHR2RZdWdjN2t6NzhDanJLbFZBaXgyRDczNnc5MDJJLWxBcTdndUV3M3NvbWhFcFpQU2xiWjY2NEI2M2tSOU9Ya0FReFZ5LXBGQ1J3UFdLVndVZEE2NEg",
+    "searchedLabel": "tco-certified",
+    "matches": [
+      {
+        "labelId": "tco-certified",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "TCO Certified"
+      }
+    ],
+    "fetchedAt": "2026-10-20T11:58:36.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "TheGWW.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FV0xoSVpPR0w1b3NnSW1Bcmt5MmVjcmJvbGQ3Vy01QklYTFl6aXFyRC12ZHJDYzBBWHkwRmxBQVNZMnNTYUhNWDBEVFd4c2pKSnRYalpLeFdpUm5wdWVLVG1sLW84cHNYR3FvUTBYVUZ6Tk15Q0N3?oc=5",
+    "urlSlug": null,
+    "title": "Common Side Effects Season 2 Release Date Revealed as Teaser Goes Deeper Into the Blue Angel Mystery",
+    "summary": "",
+    "publishedAt": "2026-10-19T21:44:25.000Z",
+    "categories": [],
+    "guid": "CBMid0FVX3lxTE5FV0xoSVpPR0w1b3NnSW1Bcmt5MmVjcmJvbGQ3Vy01QklYTFl6aXFyRC12ZHJDYzBBWHkwRmxBQVNZMnNTYUhNWDBEVFd4c2pKSnRYalpLeFdpUm5wdWVLVG1sLW84cHNYR3FvUTBYVUZ6Tk15Q0N3",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-10-20T11:58:36.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Oxford Mail",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR1p6UUV6VmRSTUZXa096RG5xZzFqTFhzTmwzVzBEdGNYN0VRck9IY0kyQlNEWEM3NTRjNF9la1NqekwySVpzV3k4eWdXRjNWd3RQSHhSNlA4djFjYXN4LUZiVWNqYW16NTVQbGZlVGNRYlV6elZ3M2haOWRMMkd4bm14a1JCLW03R2pxR09xRlZkQXEwTnBnTW15X3g4ejlU?oc=5",
+    "urlSlug": null,
+    "title": "Award-winning brewery achieves B Corp certification for impact",
+    "summary": "",
+    "publishedAt": "2026-10-19T19:00:00.000Z",
+    "categories": [],
+    "guid": "CBMioAFBVV95cUxQR1p6UUV6VmRSTUZXa096RG5xZzFqTFhzTmwzVzBEdGNYN0VRck9IY0kyQlNEWEM3NTRjNF9la1NqekwySVpzV3k4eWdXRjNWd3RQSHhSNlA4djFjYXN4LUZiVWNqYW16NTVQbGZlVGNRYlV6elZ3M2haOWRMMkd4bm14a1JCLW03R2pxR09xRlZkQXEwTnBnTW15X3g4ejlU",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-20T11:58:36.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "IndexBox",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWtxQTBteDhiN1JMOGd4TGh4R3VBYmNtcnMzY0VFZEZ1QTF5VGxuTDlTbkNXT3FVMHBwNkR0NzljenZlSFpxQWVhTllXSnpYSm5VMlJ6ZGlSUXBLVndfdXl6SGsydkp5bjFUc0MwZl9NNEljdTVGU3NmZkg2VHphUkI5MHI1OFY2YUxka3Zrc21jR25oY09DUEVHWEFXN2ZMc1NKZzh6Zzl3TDE3Q3c?oc=5",
+    "urlSlug": null,
+    "title": "USDA Organic Poultry and Eggs Report: Slaughter, Egg Production & Prices - News and Statistics",
+    "summary": "",
+    "publishedAt": "2026-10-19T15:40:50.000Z",
+    "categories": [],
+    "guid": "CBMirgFBVV95cUxQbWtxQTBteDhiN1JMOGd4TGh4R3VBYmNtcnMzY0VFZEZ1QTF5VGxuTDlTbkNXT3FVMHBwNkR0NzljenZlSFpxQWVhTllXSnpYSm5VMlJ6ZGlSUXBLVndfdXl6SGsydkp5bjFUc0MwZl9NNEljdTVGU3NmZkg2VHphUkI5MHI1OFY2YUxka3Zrc21jR25oY09DUEVHWEFXN2ZMc1NKZzh6Zzl3TDE3Q3c",
+    "searchedLabel": "usda-organic",
+    "matches": [
+      {
+        "labelId": "usda-organic",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "USDA Organic"
+      }
+    ],
+    "fetchedAt": "2026-10-20T11:58:36.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "SussexWorld",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeWdmTmNtZDJuZV9JVEZBaTRTMVd3bGdLQkRoRjV5UkFTM0k4NkpqWVFqUGgzRWFmSS1YcE5CMEJ5cTFXR3RJSUxrWHVVbnhGYy1xcDh6VU9fVDBtNFBVUDFHWVZQTlppRFM0a3VVS29UTDFXOXR6MFpkR01KUHYzeFQxeEdyczdkVGQyMUQ1ZVpweUdMM0FYOE9wQ3hhOVdOTmlBNE5LdnlsN0ZSSEx6UWtDbkk?oc=5",
+    "urlSlug": null,
+    "title": "Worthing agency Fresh Egg joins growing Sussex B Corp community",
+    "summary": "",
+    "publishedAt": "2026-10-19T14:10:00.000Z",
+    "categories": [],
+    "guid": "CBMitAFBVV95cUxPeWdmTmNtZDJuZV9JVEZBaTRTMVd3bGdLQkRoRjV5UkFTM0k4NkpqWVFqUGgzRWFmSS1YcE5CMEJ5cTFXR3RJSUxrWHVVbnhGYy1xcDh6VU9fVDBtNFBVUDFHWVZQTlppRFM0a3VVS29UTDFXOXR6MFpkR01KUHYzeFQxeEdyczdkVGQyMUQ1ZVpweUdMM0FYOE9wQ3hhOVdOTmlBNE5LdnlsN0ZSSEx6UWtDbkk",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-20T11:58:36.296Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "The Music Universe",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWE3MlhpdkpJY1VDejZiZE1MemFmRFdDNE1KeFhrVzZGRGpRWHhISkVXelJFWF9NUmF3RzE0V0dRT21RaEVqVFlqRmp6a3VLWE1ocW1XRk5HSFVXVnptOTd6aENMSWszajFrdW85UXU0WGEycFJqS0NlQlBtMGVneXpWM0xhbGQ3?oc=5",
@@ -113,6 +343,29 @@
       }
     ],
     "fetchedAt": "2026-10-18T11:35:27.602Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "safariindia.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ENkVIeTRvTDNwU0d1ZFV1eENzQlVPWk5Sb1ZuUzlMVEl3XzdwcW9KMGhkUmxpQm1RZGJ5LTF2anBraHRaQ2xkNmFMQ19rd3BRaVFzUFdfNjdPenh2Q0g4WDRwU21DbGZ1ZDV2OUFSQ1BzRUJwa2NXSjg4ejlqYUU?oc=5",
+    "urlSlug": null,
+    "title": "Novotel Hyderabad Airport Renews Green Key Certification for Third Year",
+    "summary": "",
+    "publishedAt": "2026-10-17T13:54:28.000Z",
+    "categories": [],
+    "guid": "CBMif0FVX3lxTE9ENkVIeTRvTDNwU0d1ZFV1eENzQlVPWk5Sb1ZuUzlMVEl3XzdwcW9KMGhkUmxpQm1RZGJ5LTF2anBraHRaQ2xkNmFMQ19rd3BRaVFzUFdfNjdPenh2Q0g4WDRwU21DbGZ1ZDV2OUFSQ1BzRUJwa2NXSjg4ejlqYUU",
+    "searchedLabel": "green-key",
+    "matches": [
+      {
+        "labelId": "green-key",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Key"
+      }
+    ],
+    "fetchedAt": "2026-10-20T11:58:36.296Z"
   },
   {
     "outletId": "google-news",
