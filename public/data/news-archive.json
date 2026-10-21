@@ -1,6 +1,236 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Property Reporter",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMmhfVU5iclJuaUFETFR4ZlpOanFZOGNGbmlKTEtmNVRQbGVoRkhValcwY21DVWdnR3BvSzAzQU1lTmdtb2dnMHhzTDhHRmhNV1N3WnFqVmxaT0Z3cTJmXy0zZjVMR18zbmZmTTZURHBjT3M0VUY0SG9qWjkxcXNfOXQ0cXRrQzZ1OXU2cFMxdk5faDg?oc=5",
+    "urlSlug": null,
+    "title": "Puma adds BREEAM to development finance framework",
+    "summary": "",
+    "publishedAt": "2026-10-21T08:47:13.000Z",
+    "categories": [],
+    "guid": "CBMikwFBVV95cUxQMmhfVU5iclJuaUFETFR4ZlpOanFZOGNGbmlKTEtmNVRQbGVoRkhValcwY21DVWdnR3BvSzAzQU1lTmdtb2dnMHhzTDhHRmhNV1N3WnFqVmxaT0Z3cTJmXy0zZjVMR18zbmZmTTZURHBjT3M0VUY0SG9qWjkxcXNfOXQ0cXRrQzZ1OXU2cFMxdk5faDg",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "openPR.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0JjUlRNbVBSM3lUWjg1TS02Sk90ek5rYkQyazZNN2xGaUdjZEViT1NPVHAwRklMSWV0ZlRDcWJCaU5jOVdQcVZYVUNWS1pQcDZVZXNnNXZDV2UxY0tnNnVDSWtZSnU4Mjd3dnNPU0ZXYWFEdkNJRUZlUE4taF9aaUdZMUloVVMwUGxWNG80cWFIdw?oc=5",
+    "urlSlug": null,
+    "title": "Textile Recycling Market Is Going to Boom |• Worn Again Technologies • TerraCycle • Recycled Fiber Solutions",
+    "summary": "",
+    "publishedAt": "2026-10-21T06:27:42.000Z",
+    "categories": [],
+    "guid": "CBMikgFBVV95cUxON0JjUlRNbVBSM3lUWjg1TS02Sk90ek5rYkQyazZNN2xGaUdjZEViT1NPVHAwRklMSWV0ZlRDcWJCaU5jOVdQcVZYVUNWS1pQcDZVZXNnNXZDV2UxY0tnNnVDSWtZSnU4Mjd3dnNPU0ZXYWFEdkNJRUZlUE4taF9aaUdZMUloVVMwUGxWNG80cWFIdw",
+    "searchedLabel": "terracycle",
+    "matches": [
+      {
+        "labelId": "terracycle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "TerraCycle"
+      }
+    ],
+    "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Tasmanian Country",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRmJqQ3VCSzZpUExCOWJoUnhPWE9RSEF5MFktLWdPU0RYY1N6ZHA2QVRiSlhzZFY5OGpwT1p0MEhnbHAyLVhHdFlmUVBCRlgteElURTdSY3lKa3l4enJWTUdHZk9XcWkxTlN6bkxQalc4QkV2a0VmOUEzM3c1b3lwMUFmd0NyX1p3MF9QR2dHV1BleWJHYjJqeVQzZ2wydjhSdGZ6eUdHSENYcm53SklEVDlnOVFhSVNPdDJV?oc=5",
+    "urlSlug": null,
+    "title": "Tasmanian abalone industry gets Marine Stewardship Council certification",
+    "summary": "",
+    "publishedAt": "2026-10-21T02:01:09.000Z",
+    "categories": [],
+    "guid": "CBMiuwFBVV95cUxPRmJqQ3VCSzZpUExCOWJoUnhPWE9RSEF5MFktLWdPU0RYY1N6ZHA2QVRiSlhzZFY5OGpwT1p0MEhnbHAyLVhHdFlmUVBCRlgteElURTdSY3lKa3l4enJWTUdHZk9XcWkxTlN6bkxQalc4QkV2a0VmOUEzM3c1b3lwMUFmd0NyX1p3MF9QR2dHV1BleWJHYjJqeVQzZ2wydjhSdGZ6eUdHSENYcm53SklEVDlnOVFhSVNPdDJV",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Marine Stewardship Council"
+      }
+    ],
+    "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "That Eric Alper",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczJ6VVlaZ0E5VE13X1ZkbmlPeTg1UEQ0TUhYVmlZX1hlRHhMOVN1SDJBdEpOR2JKaE5pVjlrZlFhdlVIZkJFaHNXZEpyallqWURnbmY5OEh4cDNMR0FqWlpEMHhBY3l3Y2E3dHFlX3l0YlFUZlV0RHhyYk1TT0k3Z3pFdmN0VjF0eGtmNGFCZUlQZ0QxVU1VRzlVbHVoZUd0NkUtNmEwbkFaVkltUzhmZmsydE5uZXFPRl9qQWItQ1daMFBXS0E?oc=5",
+    "urlSlug": null,
+    "title": "Aaron Tippin and Sam Grow Revive “My Blue Angel” With a Powerful Message About Fentanyl",
+    "summary": "",
+    "publishedAt": "2026-10-20T17:20:49.000Z",
+    "categories": [],
+    "guid": "CBMixgFBVV95cUxQczJ6VVlaZ0E5VE13X1ZkbmlPeTg1UEQ0TUhYVmlZX1hlRHhMOVN1SDJBdEpOR2JKaE5pVjlrZlFhdlVIZkJFaHNXZEpyallqWURnbmY5OEh4cDNMR0FqWlpEMHhBY3l3Y2E3dHFlX3l0YlFUZlV0RHhyYk1TT0k3Z3pFdmN0VjF0eGtmNGFCZUlQZ0QxVU1VRzlVbHVoZUd0NkUtNmEwbkFaVkltUzhmZmsydE5uZXFPRl9qQWItQ1daMFBXS0E",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Tissue Online North America",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2dPYVIzbEJWQ21aM1hKUU5aYVNLZF9PUVpHMWZlN3JSbFduSER4RkhnbjJhQTQydlVHSmZnWkFScER4UVRSN0g5Uzdhd05vWEIwbnJHa3dGdE03WWYxQUJST3ItQW13c1d5Q19nZk9wQ1dtRWgwVTR4amM2V0FDM2c4VlE3TTlTMnV4Y2JUSTVHNS10a1JCeXNzMXhmaG8tUjlLSVE4bHd4ZUNONUl6ZWVtMlVRTTN6SE1Dd25QUjQ1QQ?oc=5",
+    "urlSlug": null,
+    "title": "Sofidel receives FSC® Italy award for its contribution to responsible forest management",
+    "summary": "",
+    "publishedAt": "2026-10-20T17:00:17.000Z",
+    "categories": [],
+    "guid": "CBMiwgFBVV95cUxNZ2dPYVIzbEJWQ21aM1hKUU5aYVNLZF9PUVpHMWZlN3JSbFduSER4RkhnbjJhQTQydlVHSmZnWkFScER4UVRSN0g5Uzdhd05vWEIwbnJHa3dGdE03WWYxQUJST3ItQW13c1d5Q19nZk9wQ1dtRWgwVTR4amM2V0FDM2c4VlE3TTlTMnV4Y2JUSTVHNS10a1JCeXNzMXhmaG8tUjlLSVE4bHd4ZUNONUl6ZWVtMlVRTTN6SE1Dd25QUjQ1QQ",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Fishing Daily",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbS1ORXVBanhDMWZWQjN4VFRBYS1BcEdUZkJuNFNzdU9pZmtnWGUzcnpOOXhEY0lJSmpMX2JaNVJWYVdOaF9yeFVtTjFvZnJlOWJ1RGR0NjBJVkVsQXBGaFhHQk5ueXdGWUZXRnNEbHpPaTlIN1BMS3drdkNMX3RQejd6N18xdUFYUDl4NWM0MGtvVVVDS3VDZTVvWlpsWGFoQU9XMWw3SzR1a1p2dHlENG1SRVRpRXFHTVNLMGpzTGg1ZnhJ?oc=5",
+    "urlSlug": null,
+    "title": "Nordic Retailers Shift Herring Sourcing to MSC-Certified Fisheries",
+    "summary": "",
+    "publishedAt": "2026-10-20T15:45:06.000Z",
+    "categories": [],
+    "guid": "CBMixAFBVV95cUxQbS1ORXVBanhDMWZWQjN4VFRBYS1BcEdUZkJuNFNzdU9pZmtnWGUzcnpOOXhEY0lJSmpMX2JaNVJWYVdOaF9yeFVtTjFvZnJlOWJ1RGR0NjBJVkVsQXBGaFhHQk5ueXdGWUZXRnNEbHpPaTlIN1BMS3drdkNMX3RQejd6N18xdUFYUDl4NWM0MGtvVVVDS3VDZTVvWlpsWGFoQU9XMWw3SzR1a1p2dHlENG1SRVRpRXFHTVNLMGpzTGg1ZnhJ",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "EIN Presswire",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQW9mbDF0RHotMS1xdGxud05EZFlJRFhPQ1Y0N0JNekgydVZ4OF92cUF4S1ZVWHB5R1luckFtM3dhSkpSQ2ZnU3E0dUpMZUFHNFJJS2lDNnJ6RGMxd2ZGUjVyLUVCU0d5NWV3NmE2YXJmNjJVOXdEckptclhEa2hWd2RzbUhGdUhxNmlkQlhhVWo1QzBGNG5CdnR6V25CSmtZU2o5R19CaGpWYVFkVTFKRWxaYw?oc=5",
+    "urlSlug": null,
+    "title": "GoGreen Hemp Earns USDA Organic Certification for Its CBD Topicals",
+    "summary": "",
+    "publishedAt": "2026-10-20T13:15:00.000Z",
+    "categories": [],
+    "guid": "CBMiswFBVV95cUxQQW9mbDF0RHotMS1xdGxud05EZFlJRFhPQ1Y0N0JNekgydVZ4OF92cUF4S1ZVWHB5R1luckFtM3dhSkpSQ2ZnU3E0dUpMZUFHNFJJS2lDNnJ6RGMxd2ZGUjVyLUVCU0d5NWV3NmE2YXJmNjJVOXdEckptclhEa2hWd2RzbUhGdUhxNmlkQlhhVWo1QzBGNG5CdnR6V25CSmtZU2o5R19CaGpWYVFkVTFKRWxaYw",
+    "searchedLabel": "usda-organic",
+    "matches": [
+      {
+        "labelId": "usda-organic",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "USDA Organic"
+      }
+    ],
+    "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "BroadwayWorld",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmsyaTRRemF4MTBURG0xdGVGZ3hEX3BiWWF1U3NKbi1pMnMxRjNVeU5zTXhROExhaVM3ckxrTlVrbktKRHpzbTIwS3JSNTQ0S2piVzIwekpXd2w1OG5tZ0pUZVBWOHo4YzBsalJXQzdSTkJNblJPMXlCSlFSbktkb3lBM2s1OThaWk1SWEVLeHNwZzFpQ05GQ1RpOVZjdUJBZDJhT0NTN3Rub3M?oc=5",
+    "urlSlug": null,
+    "title": "Aaron Tippin Reimagines MY BLUE ANGEL WITH SAM GROW",
+    "summary": "",
+    "publishedAt": "2026-10-20T13:05:47.000Z",
+    "categories": [],
+    "guid": "CBMiqwFBVV95cUxQSmsyaTRRemF4MTBURG0xdGVGZ3hEX3BiWWF1U3NKbi1pMnMxRjNVeU5zTXhROExhaVM3ckxrTlVrbktKRHpzbTIwS3JSNTQ0S2piVzIwekpXd2w1OG5tZ0pUZVBWOHo4YzBsalJXQzdSTkJNblJPMXlCSlFSbktkb3lBM2s1OThaWk1SWEVLeHNwZzFpQ05GQ1RpOVZjdUJBZDJhT0NTN3Rub3M",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "EU Perspectives",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRFFsY3JlNTF0NXhMdElRcFRJRHRIVTRJV0lIb2JCOXEwdzVlN3A4a2llODZCckluRVVqXzE0eklhMl9nd2JPUWtnRTlaZHhIM0tscW83TFNWeVdBc0xwTzlmNDZEcDhoN2Myb1Q1MDhXWXdncGNsSElUWFRaSVdnUXZpRlo5OTh1OVlBN0pId0NkME9UOW1FcFNnRFJlclRLTHhWV2lB?oc=5",
+    "urlSlug": null,
+    "title": "Court stripped imports of EU organic logo. Deal lets them win it back",
+    "summary": "",
+    "publishedAt": "2026-10-20T13:05:18.000Z",
+    "categories": [],
+    "guid": "CBMipgFBVV95cUxQRFFsY3JlNTF0NXhMdElRcFRJRHRIVTRJV0lIb2JCOXEwdzVlN3A4a2llODZCckluRVVqXzE0eklhMl9nd2JPUWtnRTlaZHhIM0tscW83TFNWeVdBc0xwTzlmNDZEcDhoN2Myb1Q1MDhXWXdncGNsSElUWFRaSVdnUXZpRlo5OTh1OVlBN0pId0NkME9UOW1FcFNnRFJlclRLTHhWV2lB",
+    "searchedLabel": "eu-organic",
+    "matches": [
+      {
+        "labelId": "eu-organic",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "EU Organic Logo"
+      }
+    ],
+    "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "PBSA News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YUlRLVVJiVzlFQ3FOazloa1Z5b0lkc2l4SGE3dXVSRHFyQ1BZc2ZPbDQyNXlGa3JDVGhLaHlKSlVBemcySlNFT2ZBWVFraXJaUkNIODJqM1RJTTkybVNKX2VLRVVvOXEyTllqdXpCVUZkMlhES3FkYmRzX25hQQ?oc=5",
+    "urlSlug": null,
+    "title": "Puma Property Finance partners with BREEAM",
+    "summary": "",
+    "publishedAt": "2026-10-20T12:39:47.000Z",
+    "categories": [],
+    "guid": "CBMifkFVX3lxTE9YUlRLVVJiVzlFQ3FOazloa1Z5b0lkc2l4SGE3dXVSRHFyQ1BZc2ZPbDQyNXlGa3JDVGhLaHlKSlVBemcySlNFT2ZBWVFraXJaUkNIODJqM1RJTTkybVNKX2VLRVVvOXEyTllqdXpCVUZkMlhES3FkYmRzX25hQQ",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "The Independent",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2V3Z3BqY3c0NGZ3cldDanZTNlFKNU13Z0xLaVc3S2pISFJOUWVFOHJBblJGMFJNeWtzeDNqMDhMbXRwcWNJMjh6OHpfRWlmMFVjVnE1YzRweVdJX0hPa3d0RFNOTDNMc19PRVFTcVlqZ1plblFaWnNQckdsVDNCR2dTei1OcEdSb3FWQTlCMUhMLTRQTFg3OW1nWDdiZmhQUGc?oc=5",
@@ -21,6 +251,29 @@
       }
     ],
     "fetchedAt": "2026-10-20T11:58:36.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Romania Journal",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1hIMk0zY3VxNmQ0VjBibHlfLWJLOXJNc1VNQmt6dGhVTmtEYkNjVjlMOG1FaWdtVTlEUFlncVltekN1UWNhZnFHR3huR1RHX2FzbGFrcnU4ZTljNGtuaGRsVzR1cVFRcnlwamJfc28tUnNWZnJIMVpKRmRJdVc5MHNET215QUlfTGxEbVRNelRxNnlfYnhIUHRhaGxQUXlJQ2hLedIBpAFBVV95cUxNc1hIMk0zY3VxNmQ0VjBibHlfLWJLOXJNc1VNQmt6dGhVTmtEYkNjVjlMOG1FaWdtVTlEUFlncVltekN1UWNhZnFHR3huR1RHX2FzbGFrcnU4ZTljNGtuaGRsVzR1cVFRcnlwamJfc28tUnNWZnJIMVpKRmRJdVc5MHNET215QUlfTGxEbVRNelRxNnlfYnhIUHRhaGxQUXlJQ2hLeQ?oc=5",
+    "urlSlug": null,
+    "title": "FSC Romania: How to Protect Forests and Build Public Trust",
+    "summary": "",
+    "publishedAt": "2026-10-20T10:20:42.000Z",
+    "categories": [],
+    "guid": "CBMipAFBVV95cUxNc1hIMk0zY3VxNmQ0VjBibHlfLWJLOXJNc1VNQmt6dGhVTmtEYkNjVjlMOG1FaWdtVTlEUFlncVltekN1UWNhZnFHR3huR1RHX2FzbGFrcnU4ZTljNGtuaGRsVzR1cVFRcnlwamJfc28tUnNWZnJIMVpKRmRJdVc5MHNET215QUlfTGxEbVRNelRxNnlfYnhIUHRhaGxQUXlJQ2hLedIBpAFBVV95cUxNc1hIMk0zY3VxNmQ0VjBibHlfLWJLOXJNc1VNQmt6dGhVTmtEYkNjVjlMOG1FaWdtVTlEUFlncVltekN1UWNhZnFHR3huR1RHX2FzbGFrcnU4ZTljNGtuaGRsVzR1cVFRcnlwamJfc28tUnNWZnJIMVpKRmRJdVc5MHNET215QUlfTGxEbVRNelRxNnlfYnhIUHRhaGxQUXlJQ2hLeQ",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-21T12:12:15.836Z"
   },
   {
     "outletId": "google-news",
@@ -67,6 +320,29 @@
       }
     ],
     "fetchedAt": "2026-10-20T11:58:36.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Development Finance Today",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQXF1ZWlXOUhuVHN4dnpFdzdJcEhLa2Y4bDFJZkxFVzRKT3pqYkRJTXhFeEE5QnQxSmtHcVRFU3RKVXZBY1ptcjRqWk11NkQwdnZwLUJBR215d01xVkd6dnZvOUpISjFHMGRZa0F3Vy1ZZ2tyY1d5bG9OMHRPb2lnLUlPcThlQWFYV1NWeDFhcVhVeFNTQ3c?oc=5",
+    "urlSlug": null,
+    "title": "Puma partners with BREEAM on Impact Lending Framework",
+    "summary": "",
+    "publishedAt": "2026-10-20T07:15:00.000Z",
+    "categories": [],
+    "guid": "CBMilgFBVV95cUxNQXF1ZWlXOUhuVHN4dnpFdzdJcEhLa2Y4bDFJZkxFVzRKT3pqYkRJTXhFeEE5QnQxSmtHcVRFU3RKVXZBY1ptcjRqWk11NkQwdnZwLUJBR215d01xVkd6dnZvOUpISjFHMGRZa0F3Vy1ZZ2tyY1d5bG9OMHRPb2lnLUlPcThlQWFYV1NWeDFhcVhVeFNTQ3c",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-21T12:12:15.836Z"
   },
   {
     "outletId": "google-news",
@@ -300,6 +576,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "South Wales Argus",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPODVJT1JxbVBKNFFCOUIzSWE2d0JicmRjWnVPci0xdGk3VUNUZTBDRXRWck5IWmZ3XzJxU043bWpjUlJwVFNVTHVoQVhSR19VV05yU1NXcTQ4YWd1cXFJTUhSZGc2UEZUVzNjaXczUFNPWVNRcE1Td3ZELUVLY2ZELTdDbnlpWEZnY3J2eFZMNWFjZmw4VnJ4ZU96Q1AwZXVYbmFxZTM4SQ?oc=5",
+    "urlSlug": null,
+    "title": "Luxury 11-bedroom estate close to 'Blue Flag' beach on sale for £800,000",
+    "summary": "",
+    "publishedAt": "2026-10-18T10:00:00.000Z",
+    "categories": [],
+    "guid": "CBMipwFBVV95cUxPODVJT1JxbVBKNFFCOUIzSWE2d0JicmRjWnVPci0xdGk3VUNUZTBDRXRWck5IWmZ3XzJxU043bWpjUlJwVFNVTHVoQVhSR19VV05yU1NXcTQ4YWd1cXFJTUhSZGc2UEZUVzNjaXczUFNPWVNRcE1Td3ZELUVLY2ZELTdDbnlpWEZnY3J2eFZMNWFjZmw4VnJ4ZU96Q1AwZXVYbmFxZTM4SQ",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "hrtoday.in",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOanIwVkRBUi1VTDBNaHVHVF9XVEUzalp2am5OSFg4cXpNcGJXNktxUTRFNVJFNkNQVDVJNkMzV29Kd0ktZ2doTmJoUXF5VHZodGJsQnR0eGJKd0Q2RDRONnhWc0NMWXhDV0hKbXkwV0FtTVlQTkRpUzB0S3dCZExGU0NFSFM5eE94cEt5Qmh1TklJQXRkOUtF?oc=5",
@@ -481,6 +780,29 @@
       }
     ],
     "fetchedAt": "2026-10-17T11:04:57.945Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Bergen Record",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUkV2Mk92TjkyTWZNejNDNUJpcGZPTmRxdDQ1a1JySzdlUmN1OW9vUmVzci16TkpQMVZzYlNCdk82OHNrVFktUWNwTlJGX3dPY2JSdi1JdHoteE9EZzU0c1doSjRMTVVSbmtqVHJrLS1nZWRkYnJTYXp3clpxcnNadUlDbUNyZkJkS1RwYi01Z05GdmZuSUpTNzJvUFpxVldlSW9QT0xvTVR2Q2NoZkJTZUdjTWNwdlVVc3pWNXQwcm05em0xaHZ0Wks3TW9vZXdTMUtwUXVNdHpGVmk2blIzeQ?oc=5",
+    "urlSlug": null,
+    "title": "FSC Certified Excellence: How CAIMEI Emerged as a China Best Book Printing Solution Provider",
+    "summary": "",
+    "publishedAt": "2026-10-16T13:26:40.000Z",
+    "categories": [],
+    "guid": "CBMi4AFBVV95cUxPUkV2Mk92TjkyTWZNejNDNUJpcGZPTmRxdDQ1a1JySzdlUmN1OW9vUmVzci16TkpQMVZzYlNCdk82OHNrVFktUWNwTlJGX3dPY2JSdi1JdHoteE9EZzU0c1doSjRMTVVSbmtqVHJrLS1nZWRkYnJTYXp3clpxcnNadUlDbUNyZkJkS1RwYi01Z05GdmZuSUpTNzJvUFpxVldlSW9QT0xvTVR2Q2NoZkJTZUdjTWNwdlVVc3pWNXQwcm05em0xaHZ0Wks3TW9vZXdTMUtwUXVNdHpGVmk2blIzeQ",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-21T12:12:15.836Z"
   },
   {
     "outletId": "google-news",
