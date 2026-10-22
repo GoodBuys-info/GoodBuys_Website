@@ -1,6 +1,259 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Business Cornwall",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNenB1RWZsMm5fYjUzbVFsbF95eFlHdHYxN2RxMmpvLWp1eFZMWTMxU3NZdWZ1NF9HNF9rVkZJWFROOGt4b25XVVJwdTBEXzRSZ25qR0hnajcwXzBtdWxQWkE0dUI2YTFUQnI4Q0gyOEFYTHhhSjFROTVCc2o1LWROY1RZaU5rNUN3S1BRUjVhbW5vT3l4aUF2VDRQbUdsNzZNMUhwZC0tLVo5NHJoRGprTzRxZ3d1aE4wZ25KQzl1eTlLQXIzUlpR?oc=5",
+    "urlSlug": null,
+    "title": "Holiday business becomes a B Corp",
+    "summary": "",
+    "publishedAt": "2026-10-22T09:29:45.000Z",
+    "categories": [],
+    "guid": "CBMixwFBVV95cUxNenB1RWZsMm5fYjUzbVFsbF95eFlHdHYxN2RxMmpvLWp1eFZMWTMxU3NZdWZ1NF9HNF9rVkZJWFROOGt4b25XVVJwdTBEXzRSZ25qR0hnajcwXzBtdWxQWkE0dUI2YTFUQnI4Q0gyOEFYTHhhSjFROTVCc2o1LWROY1RZaU5rNUN3S1BRUjVhbW5vT3l4aUF2VDRQbUdsNzZNMUhwZC0tLVo5NHJoRGprTzRxZ3d1aE4wZ25KQzl1eTlLQXIzUlpR",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-22T12:16:19.458Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Business Journals",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORi1ySVlPdktsSVkxT1NKaGdiTFhlWmlLMDlLUmdxNUVhaW9qRzNuNHBtNE5GWEpQMGxMV05QUVBuSWpMREk1ZUlKYVBBUGdvTzVzQVRxbXlMVE9OVDN1NDFWTFFHanZldVdDNTYtaEtfcmthbGg1ZGl3M0l3YTFLSXJHbFF5VVRiUjJFQTZfQldMekQ2YUxJRVZRV3FxNmJzLW9z?oc=5",
+    "urlSlug": null,
+    "title": "Park Hotels’ Hilton resorts in Hawaii secure LEED Silver certifications",
+    "summary": "",
+    "publishedAt": "2026-10-22T07:08:00.000Z",
+    "categories": [],
+    "guid": "CBMiowFBVV95cUxORi1ySVlPdktsSVkxT1NKaGdiTFhlWmlLMDlLUmdxNUVhaW9qRzNuNHBtNE5GWEpQMGxMV05QUVBuSWpMREk1ZUlKYVBBUGdvTzVzQVRxbXlMVE9OVDN1NDFWTFFHanZldVdDNTYtaEtfcmthbGg1ZGl3M0l3YTFLSXJHbFF5VVRiUjJFQTZfQldMekQ2YUxJRVZRV3FxNmJzLW9z",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-22T12:16:19.458Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "HeraldLIVE",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeWlPSWFEdnZveF9rV0p6VFlOZkdMSER6NFRsUjJyaTJpbFc5eHdUcE9HamNhYjlXNko0OFhjREhvQXBTQ2FHQVZDMFVLNC15bm1jSE5HWG83TVQtODhCaHZUZk5oNk5GMFA1VmxwM2ktMHViMUVVel9wb0JESTJFdVRUVFFTX091UW8wWE5ZRFlTZnZYWVhNT0J5M2xiVGFQdXBJaWxHWmNPRUNUVFZ6cg?oc=5",
+    "urlSlug": null,
+    "title": "Nelson Mandela Bay beaches retain Blue Flag status ahead of summer season",
+    "summary": "",
+    "publishedAt": "2026-10-22T05:26:36.000Z",
+    "categories": [],
+    "guid": "CBMisAFBVV95cUxNeWlPSWFEdnZveF9rV0p6VFlOZkdMSER6NFRsUjJyaTJpbFc5eHdUcE9HamNhYjlXNko0OFhjREhvQXBTQ2FHQVZDMFVLNC15bm1jSE5HWG83TVQtODhCaHZUZk5oNk5GMFA1VmxwM2ktMHViMUVVel9wb0JESTJFdVRUVFFTX091UW8wWE5ZRFlTZnZYWVhNT0J5M2xiVGFQdXBJaWxHWmNPRUNUVFZ6cg",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-22T12:16:19.458Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "PBSA News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0ktSWFabHh2MXRZVFZiaTJsR0xOUVJGVmRiQm56R1dqQUJsbG9QcjdlWHI3UHplY1pzR0N3cWJrZk1jOXBUd2xPQUtMcF8tNzhtWkd5SFN6eWI3akVZVTB5clBPbW1aQWNwWk1WcWJKd1ZIc0w3ZHBYaUtzVmNkaVp0bXdPRlM0NUFZaHUwWQ?oc=5",
+    "urlSlug": null,
+    "title": "SHED’s Campus Living PBSA certified as BREEAM Excellent",
+    "summary": "",
+    "publishedAt": "2026-10-22T04:03:41.000Z",
+    "categories": [],
+    "guid": "CBMijwFBVV95cUxQN0ktSWFabHh2MXRZVFZiaTJsR0xOUVJGVmRiQm56R1dqQUJsbG9QcjdlWHI3UHplY1pzR0N3cWJrZk1jOXBUd2xPQUtMcF8tNzhtWkd5SFN6eWI3akVZVTB5clBPbW1aQWNwWk1WcWJKd1ZIc0w3ZHBYaUtzVmNkaVp0bXdPRlM0NUFZaHUwWQ",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-22T12:16:19.458Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Golf Wire",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xSTFPblQ4VTFLZ1pzRldSQ0NVZy0zcUsxaXQ2bFQ2bmNqeVVWVXNHNDdzb2hrZG95OHlyZnJMbHVyQzcxSDVMWGtta1RPalJnQXQ4RElqaHZKbTJNaUQ0MjNmTXp2cndXM0JLWEZncC1lRV9iTU9acEtycUM?oc=5",
+    "urlSlug": null,
+    "title": "Audubon International Introduces New Green Communities Program",
+    "summary": "",
+    "publishedAt": "2026-10-21T16:56:55.000Z",
+    "categories": [],
+    "guid": "CBMifEFVX3lxTE4xSTFPblQ4VTFLZ1pzRldSQ0NVZy0zcUsxaXQ2bFQ2bmNqeVVWVXNHNDdzb2hrZG95OHlyZnJMbHVyQzcxSDVMWGtta1RPalJnQXQ4RElqaHZKbTJNaUQ0MjNmTXp2cndXM0JLWEZncC1lRV9iTU9acEtycUM",
+    "searchedLabel": "audubon-international",
+    "matches": [
+      {
+        "labelId": "audubon-international",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Audubon International"
+      }
+    ],
+    "fetchedAt": "2026-10-22T12:16:19.458Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "ESG Dive",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRFdNYlA4ODVXUmRTQXRxcTZiNnBoUDVaRG94Q3FRc3R4YmhNbWlLdzlZaDd6Ri1tdXgxcXhpeUJBT0xKeko3NkZra2ZEekEwTXVicEtEelU5dkhvQ3hpSkVvLVZCQXo3b2dmbmpkVUFuamg2QWcyZ3BwdEtwYVc0UTRtN2hpX2FZUDFXOTVNNW56dk5WRWlZSTlR?oc=5",
+    "urlSlug": null,
+    "title": "B Lab names first CEO to lead B Corp Certification",
+    "summary": "",
+    "publishedAt": "2026-10-21T16:54:17.000Z",
+    "categories": [],
+    "guid": "CBMimgFBVV95cUxPRFdNYlA4ODVXUmRTQXRxcTZiNnBoUDVaRG94Q3FRc3R4YmhNbWlLdzlZaDd6Ri1tdXgxcXhpeUJBT0xKeko3NkZra2ZEekEwTXVicEtEelU5dkhvQ3hpSkVvLVZCQXo3b2dmbmpkVUFuamg2QWcyZ3BwdEtwYVc0UTRtN2hpX2FZUDFXOTVNNW56dk5WRWlZSTlR",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-22T12:16:19.458Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Kuwait Times",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTVRwSEdsM0htd1M4UWtwbHU3MDYxZnFLTEZNZ1RCV3pIZEU1R2R5SDhwalh2VVpRXzl4LXdxNllYNWJjMFRuY1dDUUNrVkw1OENiMVR1bzRUdnpzM2dOaTByV1ZrdEdVbnFFdHlQVGhhTVNyR1JJMmt1NEZ3WWpBWmhMT25HLWJDYWZrUkRzeG52YTNfTUhVSXBOYUJvMk9BYkdyUnVUdlo1dDhDbDZWWC03UlZ2bDRJcjZSSVczdUJEM0FteHktRE5zSjBOS2Roc1M3Q3ZoZ9IB1wFBVV95cUxPTVRwSEdsM0htd1M4UWtwbHU3MDYxZnFLTEZNZ1RCV3pIZEU1R2R5SDhwalh2VVpRXzl4LXdxNllYNWJjMFRuY1dDUUNrVkw1OENiMVR1bzRUdnpzM2dOaTByV1ZrdEdVbnFFdHlQVGhhTVNyR1JJMmt1NEZ3WWpBWmhMT25HLWJDYWZrUkRzeG52YTNfTUhVSXBOYUJvMk9BYkdyUnVUdlo1dDhDbDZWWC03UlZ2bDRJcjZSSVczdUJEM0FteHktRE5zSjBOS2Roc1M3Q3ZoZw?oc=5",
+    "urlSlug": null,
+    "title": "Gulf Bank achieves LEED Platinum certification for Sabah Al-Ahmad Residential City Branch",
+    "summary": "",
+    "publishedAt": "2026-10-21T15:20:00.000Z",
+    "categories": [],
+    "guid": "CBMi1wFBVV95cUxPTVRwSEdsM0htd1M4UWtwbHU3MDYxZnFLTEZNZ1RCV3pIZEU1R2R5SDhwalh2VVpRXzl4LXdxNllYNWJjMFRuY1dDUUNrVkw1OENiMVR1bzRUdnpzM2dOaTByV1ZrdEdVbnFFdHlQVGhhTVNyR1JJMmt1NEZ3WWpBWmhMT25HLWJDYWZrUkRzeG52YTNfTUhVSXBOYUJvMk9BYkdyUnVUdlo1dDhDbDZWWC03UlZ2bDRJcjZSSVczdUJEM0FteHktRE5zSjBOS2Roc1M3Q3ZoZ9IB1wFBVV95cUxPTVRwSEdsM0htd1M4UWtwbHU3MDYxZnFLTEZNZ1RCV3pIZEU1R2R5SDhwalh2VVpRXzl4LXdxNllYNWJjMFRuY1dDUUNrVkw1OENiMVR1bzRUdnpzM2dOaTByV1ZrdEdVbnFFdHlQVGhhTVNyR1JJMmt1NEZ3WWpBWmhMT25HLWJDYWZrUkRzeG52YTNfTUhVSXBOYUJvMk9BYkdyUnVUdlo1dDhDbDZWWC03UlZ2bDRJcjZSSVczdUJEM0FteHktRE5zSjBOS2Roc1M3Q3ZoZw",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-22T12:16:19.458Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "EurobuildCEE",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFhJckt1Qjd2SU9oTWdOQmN4NWVZdml3ZzNhZ2toNHlEZkxJc0k0T2Z2WGVHVGtkczk1NkFtZnpFeG1zSG1RbThMRk04TUpnbHZMVzZ0ODh6RmUzTmpRcUh0d1RXMHluaWlIcDFVRm5uNEx3Rml3ZWNpQXh0UnFpVHhNbi1FOHpsRV91Nkk1LTBGU2lfUWk1dWM4QQ?oc=5",
+    "urlSlug": null,
+    "title": "Nowe Bielawy retail parks renew BREEAM Excellent ratings",
+    "summary": "",
+    "publishedAt": "2026-10-21T13:31:46.000Z",
+    "categories": [],
+    "guid": "CBMimwFBVV95cUxPWFhJckt1Qjd2SU9oTWdOQmN4NWVZdml3ZzNhZ2toNHlEZkxJc0k0T2Z2WGVHVGtkczk1NkFtZnpFeG1zSG1RbThMRk04TUpnbHZMVzZ0ODh6RmUzTmpRcUh0d1RXMHluaWlIcDFVRm5uNEx3Rml3ZWNpQXh0UnFpVHhNbi1FOHpsRV91Nkk1LTBGU2lfUWk1dWM4QQ",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-22T12:16:19.458Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "LBB - Little Black Book",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjNfV1NXWXNkUnVabkxlbnFWUFR1MFVoMmUzU1BZX0EwYW9GYnZlMGpMdGZYeEdmQV9XVGpCclM2RXNkbTVXMUdCZXp6c0pqOUVNcGhfVnh2QTl2UUpqZHl2dlBVYjI3RjVyZGMyXzN5ai1ybHg2aFh2b2NCV2VjREFCSWx2T3p5NVhVRVduVQ?oc=5",
+    "urlSlug": null,
+    "title": "Entire Residence Network Now B Corp Certified – Here’s What It Took — LBB",
+    "summary": "",
+    "publishedAt": "2026-10-21T13:07:49.000Z",
+    "categories": [],
+    "guid": "CBMijwFBVV95cUxPZjNfV1NXWXNkUnVabkxlbnFWUFR1MFVoMmUzU1BZX0EwYW9GYnZlMGpMdGZYeEdmQV9XVGpCclM2RXNkbTVXMUdCZXp6c0pqOUVNcGhfVnh2QTl2UUpqZHl2dlBVYjI3RjVyZGMyXzN5ai1ybHg2aFh2b2NCV2VjREFCSWx2T3p5NVhVRVduVQ",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-22T12:16:19.458Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Yahoo Finance",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRFRvSGZ2V1lmVzhURUlMcHJrQTEzZTVjWHFXZ0hENWRRMWMtLU80a0ltcEl5dkMwQXBtaVo3WmEyTnktUlV5S0w0Q3ZKcTdZRXBPRWdHbHhocWZ3YWJqLVZoMThqRE54WTRTakxhZ3ktRFNnWWhDV0o3cDV6dURxbXhSQUZSNjNpb1hmYXVtdWpEcHdDX0ZGenVYbktuR2Ri?oc=5",
+    "urlSlug": null,
+    "title": "Residence Earns Rare Distinction: B Corp Certification Across All Nine Companies in Its Network",
+    "summary": "",
+    "publishedAt": "2026-10-21T13:00:00.000Z",
+    "categories": [],
+    "guid": "CBMioAFBVV95cUxNRFRvSGZ2V1lmVzhURUlMcHJrQTEzZTVjWHFXZ0hENWRRMWMtLU80a0ltcEl5dkMwQXBtaVo3WmEyTnktUlV5S0w0Q3ZKcTdZRXBPRWdHbHhocWZ3YWJqLVZoMThqRE54WTRTakxhZ3ktRFNnWWhDV0o3cDV6dURxbXhSQUZSNjNpb1hmYXVtdWpEcHdDX0ZGenVYbktuR2Ri",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-22T12:16:19.458Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Intermediary",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdnh5RUdXSk9yN3REYnA1LVNIQ05QVmhtT0RTcGJ6TDBZaHhmZnRBUFJpaDZSVktRcTFOUU96NkFoWm9kMnEwWjh6cUZlVVRvbHdzR0w0YjFLc2xmc0V1ZDRKVEVXekR4VW5Kd2hWWHV4WmNBTnJVLU5SYkI5ck03SjBlOVF0R3lyUFhWUnMxRVJ6UU9UallHSEI0QXBkckM1RlVwUUFFcGRDSlh1bTl1dkpBaXB6ODVYTVE?oc=5",
+    "urlSlug": null,
+    "title": "Puma Property Finance partners with BREEAM on enhanced Impact Lending Framework",
+    "summary": "",
+    "publishedAt": "2026-10-21T09:24:44.000Z",
+    "categories": [],
+    "guid": "CBMiugFBVV95cUxOdnh5RUdXSk9yN3REYnA1LVNIQ05QVmhtT0RTcGJ6TDBZaHhmZnRBUFJpaDZSVktRcTFOUU96NkFoWm9kMnEwWjh6cUZlVVRvbHdzR0w0YjFLc2xmc0V1ZDRKVEVXekR4VW5Kd2hWWHV4WmNBTnJVLU5SYkI5ck03SjBlOVF0R3lyUFhWUnMxRVJ6UU9UallHSEI0QXBkckM1RlVwUUFFcGRDSlh1bTl1dkpBaXB6ODVYTVE",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-22T12:16:19.458Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Property Reporter",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMmhfVU5iclJuaUFETFR4ZlpOanFZOGNGbmlKTEtmNVRQbGVoRkhValcwY21DVWdnR3BvSzAzQU1lTmdtb2dnMHhzTDhHRmhNV1N3WnFqVmxaT0Z3cTJmXy0zZjVMR18zbmZmTTZURHBjT3M0VUY0SG9qWjkxcXNfOXQ0cXRrQzZ1OXU2cFMxdk5faDg?oc=5",
@@ -228,6 +481,29 @@
       }
     ],
     "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Yahoo",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFkxbHNrZjNyTXVjQzBWeUFfQnJrN0l4RW16VC1YRS1Kcm03S25vWlRrQUNLNFVsZHN1d1pMWEx0VnBMYkc1RTg2NkkyLUhNZDVKR0RETjFacDExS2pZcm8xQ1hVLTVMRlpCVUVlY3dBRHJVVnVSQmhHSmRlZkZ0WVk3S2wwakowWTE4SHJYOA?oc=5",
+    "urlSlug": null,
+    "title": "Brazil now has 75 Blue Flag beaches – these are some of the most beautiful",
+    "summary": "",
+    "publishedAt": "2026-10-20T10:54:57.000Z",
+    "categories": [],
+    "guid": "CBMijwFBVV95cUxONFkxbHNrZjNyTXVjQzBWeUFfQnJrN0l4RW16VC1YRS1Kcm03S25vWlRrQUNLNFVsZHN1d1pMWEx0VnBMYkc1RTg2NkkyLUhNZDVKR0RETjFacDExS2pZcm8xQ1hVLTVMRlpCVUVlY3dBRHJVVnVSQmhHSmRlZkZ0WVk3S2wwakowWTE4SHJYOA",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-22T12:16:19.458Z"
   },
   {
     "outletId": "google-news",
