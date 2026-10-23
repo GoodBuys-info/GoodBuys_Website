@@ -1,6 +1,213 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Forest Stewardship Council",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0JKSDJGZXdyLUlBbmVUbTRFX2dpdkoxdmREenR6ZTU5Q3A2dkxIZlBfc2ZsRlFDSTVueVBoaENFajdKYVRZWEFTUlZmRERpNkFLc0ZLVE4ySFBlVGZodFpJTHIzdndzOGEtcXZKMU5JQ2o5UXg2dzA1OTY5M0x3RjVOb04tVUx0UnJLU1YxSkNFOTJ3NTVOUUNrZXFWcThOYVhUdEdaQVJ1clZyX1EtbWVKZWFKUQ?oc=5",
+    "urlSlug": null,
+    "title": "Updated ASI assessment shows FSC’s alignment with the EU Deforestation Regulation",
+    "summary": "",
+    "publishedAt": "2026-10-23T09:27:26.000Z",
+    "categories": [],
+    "guid": "CBMitgFBVV95cUxNM0JKSDJGZXdyLUlBbmVUbTRFX2dpdkoxdmREenR6ZTU5Q3A2dkxIZlBfc2ZsRlFDSTVueVBoaENFajdKYVRZWEFTUlZmRERpNkFLc0ZLVE4ySFBlVGZodFpJTHIzdndzOGEtcXZKMU5JQ2o5UXg2dzA1OTY5M0x3RjVOb04tVUx0UnJLU1YxSkNFOTJ3NTVOUUNrZXFWcThOYVhUdEdaQVJ1clZyX1EtbWVKZWFKUQ",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-23T11:57:04.879Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Caring Times",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWRlY1BRQ1R2dDQ2eTN4UlVSa2ZCSUZlMmRsMHAwWF9Ec3pfckxuaVMydHZZc2hWWW5xWS1yZ2RZb0VoRUswczhXazVlYng2UVBaRkVvS1ZVc1luNmR2Qjg2aDJmV1hsRGJuT3l5WUQ0MExRcnM3S0hQd19qekpnV2hxbEhOTlRCRFFkM1hMVU90LXpDeEM4VnFlVE0xUUFyaHEyN3R3ZlI4WnM?oc=5",
+    "urlSlug": null,
+    "title": "Puma Property Finance partners with BREEAM on enhanced Impact Lending Framework",
+    "summary": "",
+    "publishedAt": "2026-10-23T09:00:30.000Z",
+    "categories": [],
+    "guid": "CBMiqwFBVV95cUxPTWRlY1BRQ1R2dDQ2eTN4UlVSa2ZCSUZlMmRsMHAwWF9Ec3pfckxuaVMydHZZc2hWWW5xWS1yZ2RZb0VoRUswczhXazVlYng2UVBaRkVvS1ZVc1luNmR2Qjg2aDJmV1hsRGJuT3l5WUQ0MExRcnM3S0hQd19qekpnV2hxbEhOTlRCRFFkM1hMVU90LXpDeEM4VnFlVE0xUUFyaHEyN3R3ZlI4WnM",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-23T11:57:04.879Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Consultancy.uk",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRmpVNEIxZmItTkk1RmlvMk9FZ2hRQUpLNE1JSTZGTDU3d3BZaFRhQUVNMEZ6NFhlVFRMdUF6dkE4N0Q2WndGbUtIUklGbV9lcnNFWm02dEZVdFoxV2o0emV6R0pmTUNucjJFdkpjOEhreHZJVGtOeEw3OEgyLVFNbGJMNnlfZnMtUF9uLXdxTV82Y1EtRjBFVU5rR0NNeUZhXzZsZUVfRVRka1lMZnB2WWFPMmozMXp0QXdzcFA1eUNWM1XSAcMBQVVfeXFMUEZqVTRCMWZiLU5JNUZpbzJPRWdoUUFKSzRNSUk2Rkw1N3dwWWhUYUFFTTBGejRYZVRUTHVBenZBODdENlp3Rm1LSFJJRm1fZXJzRVptNnRGVXRaMVdqNHplekdKZk1DbnIyRXZKYzhIa3h2SVRrTnhMNzhIMi1RTWxiTDZ5X2ZzLVBfbi13cU1fNmNRLUYwRVVOa0dDTXlGYV82bGVFX0VUZGtZTGZwdllhTzJqMzF6dEF3c3BQNXlDVjNV?oc=5",
+    "urlSlug": null,
+    "title": "Cambridge Management Consulting becomes B Corp while passing £1 million charity mark",
+    "summary": "",
+    "publishedAt": "2026-10-23T05:31:56.000Z",
+    "categories": [],
+    "guid": "CBMiwwFBVV95cUxQRmpVNEIxZmItTkk1RmlvMk9FZ2hRQUpLNE1JSTZGTDU3d3BZaFRhQUVNMEZ6NFhlVFRMdUF6dkE4N0Q2WndGbUtIUklGbV9lcnNFWm02dEZVdFoxV2o0emV6R0pmTUNucjJFdkpjOEhreHZJVGtOeEw3OEgyLVFNbGJMNnlfZnMtUF9uLXdxTV82Y1EtRjBFVU5rR0NNeUZhXzZsZUVfRVRka1lMZnB2WWFPMmozMXp0QXdzcFA1eUNWM1XSAcMBQVVfeXFMUEZqVTRCMWZiLU5JNUZpbzJPRWdoUUFKSzRNSUk2Rkw1N3dwWWhUYUFFTTBGejRYZVRUTHVBenZBODdENlp3Rm1LSFJJRm1fZXJzRVptNnRGVXRaMVdqNHplekdKZk1DbnIyRXZKYzhIa3h2SVRrTnhMNzhIMi1RTWxiTDZ5X2ZzLVBfbi13cU1fNmNRLUYwRVVOa0dDTXlGYV82bGVFX0VUZGtZTGZwdllhTzJqMzF6dEF3c3BQNXlDVjNV",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-23T11:57:04.879Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Supermarket News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ19hdGk5cG9JUFZIenlheGJTdnpWa1lwNXNhVnRuMlpxMFVKYUQ5aGdjYWVlY1E1MXBORW1ZMWlFOGZ6TFNSNVhabTBEcTZJMWptai1RZWREbVhQRVFHcXlfNGhRdV9aZDVfWFBlNjZoRzFaLWtSN1ctQ3ZBR3JyczA2cDY2Nl84M2xpLUFBWHdiWk8tTWxjMW5OQQ?oc=5",
+    "urlSlug": null,
+    "title": "Unique FOS ID & Certification Labels From Friend of the Sea",
+    "summary": "",
+    "publishedAt": "2026-10-22T22:18:41.000Z",
+    "categories": [],
+    "guid": "CBMimwFBVV95cUxQZ19hdGk5cG9JUFZIenlheGJTdnpWa1lwNXNhVnRuMlpxMFVKYUQ5aGdjYWVlY1E1MXBORW1ZMWlFOGZ6TFNSNVhabTBEcTZJMWptai1RZWREbVhQRVFHcXlfNGhRdV9aZDVfWFBlNjZoRzFaLWtSN1ctQ3ZBR3JyczA2cDY2Nl84M2xpLUFBWHdiWk8tTWxjMW5OQQ",
+    "searchedLabel": "friend-of-the-sea",
+    "matches": [
+      {
+        "labelId": "friend-of-the-sea",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Friend of the Sea"
+      }
+    ],
+    "fetchedAt": "2026-10-23T11:57:04.879Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Packer",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYkdLRkh3Q1plZFllLURTT2pYMUhmSmZKT3lLUFF0bzIzbE1tSGlBdVRaZE1YTjVkUC1hcUhwMURGNFBtNWd0ZnE2TUJpcG9seFJvTmk2V3ZyQVJYaG13Y1lvMUpVRmgzNDNPTEpwck00eThueHViM0tYZm56TkI5RUNEamJxbzExdzNaaHNmTTAyYXpMWDUxcVpHY3hhc0pvM3N3azV1bWl3cHpEbjlwbXJ3?oc=5",
+    "urlSlug": null,
+    "title": "FairFruit Sets 2035 Target to Expand Fair Trade Certified Produce in Guatemala and Peru",
+    "summary": "",
+    "publishedAt": "2026-10-22T20:11:00.000Z",
+    "categories": [],
+    "guid": "CBMisgFBVV95cUxPYkdLRkh3Q1plZFllLURTT2pYMUhmSmZKT3lLUFF0bzIzbE1tSGlBdVRaZE1YTjVkUC1hcUhwMURGNFBtNWd0ZnE2TUJpcG9seFJvTmk2V3ZyQVJYaG13Y1lvMUpVRmgzNDNPTEpwck00eThueHViM0tYZm56TkI5RUNEamJxbzExdzNaaHNmTTAyYXpMWDUxcVpHY3hhc0pvM3N3azV1bWl3cHpEbjlwbXJ3",
+    "searchedLabel": "fair-trade",
+    "matches": [
+      {
+        "labelId": "fair-trade",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Fair Trade Certified"
+      }
+    ],
+    "fetchedAt": "2026-10-23T11:57:04.879Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Business Biscuit",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTkM0R1JtRWlOaTh3ZWVnVndqcFZTMzgxMDhiWWxWU1RTMUE1aGFVRF84czF2RGl4bDhYRlRqRGltQ3B2RGpRbEZqOVpFOS1TNXBfelFZR1hFZHVsZTJZRkwzakhhZGwybUZKa0E2NzBnbFBDMmFKaGxIZVh6LW9KdXdSVGx4WlFvUFZzYUl1SGpiWXhUeE93MFhnd3ZFU2txZVE0RnhaMlNMeGk0UDNQX3dFeWNCbVQ4X3EwMm01cWRRLUJKMXB0cUR0WQ?oc=5",
+    "urlSlug": null,
+    "title": "Triodos Bank secures B Corp recertification under new stricter rules",
+    "summary": "",
+    "publishedAt": "2026-10-22T19:41:46.000Z",
+    "categories": [],
+    "guid": "CBMiywFBVV95cUxNTkM0R1JtRWlOaTh3ZWVnVndqcFZTMzgxMDhiWWxWU1RTMUE1aGFVRF84czF2RGl4bDhYRlRqRGltQ3B2RGpRbEZqOVpFOS1TNXBfelFZR1hFZHVsZTJZRkwzakhhZGwybUZKa0E2NzBnbFBDMmFKaGxIZVh6LW9KdXdSVGx4WlFvUFZzYUl1SGpiWXhUeE93MFhnd3ZFU2txZVE0RnhaMlNMeGk0UDNQX3dFeWNCbVQ4X3EwMm01cWRRLUJKMXB0cUR0WQ",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-23T11:57:04.879Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Forest Stewardship Council",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KUjJkT2xZZ3dOdWJFOEFfQ2pXakNSV2xyMVlldTRKdUhyZE9YTWYtSXhCSjY0Z3dEcHJKZGJIM2RJcU9Xd1E?oc=5",
+    "urlSlug": null,
+    "title": "FSC at COP31",
+    "summary": "",
+    "publishedAt": "2026-10-22T16:24:38.000Z",
+    "categories": [],
+    "guid": "CBMiRkFVX3lxTE1KUjJkT2xZZ3dOdWJFOEFfQ2pXakNSV2xyMVlldTRKdUhyZE9YTWYtSXhCSjY0Z3dEcHJKZGJIM2RJcU9Xd1E",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-23T11:57:04.879Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "FF News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObzVMRVpJdU5NR2l6VVg5VWthY3I1a1dfMnFQcm01NDZKWm5Fc21TTEhGUXE3ZkxUZExNWFp6cElidU9UYnJQZXZzbWxFYy1pOVVSd1FJMzhibHlmbDMwa1hIR0kwd0VONEpzVTNzWnlaaHl1TmtPb0h2WHNzNkJJekFOZkdhZnktaUpnVmkxOTZOcmpGV2FoWVBtdlJfbXdDZUJwVl9oa0I?oc=5",
+    "urlSlug": null,
+    "title": "Triodos Bank Leads Financial Sector with B Corp Recertification Under Stricter New Standards",
+    "summary": "",
+    "publishedAt": "2026-10-22T16:21:11.000Z",
+    "categories": [],
+    "guid": "CBMiqAFBVV95cUxObzVMRVpJdU5NR2l6VVg5VWthY3I1a1dfMnFQcm01NDZKWm5Fc21TTEhGUXE3ZkxUZExNWFp6cElidU9UYnJQZXZzbWxFYy1pOVVSd1FJMzhibHlmbDMwa1hIR0kwd0VONEpzVTNzWnlaaHl1TmtPb0h2WHNzNkJJekFOZkdhZnktaUpnVmkxOTZOcmpGV2FoWVBtdlJfbXdDZUJwVl9oa0I",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-23T11:57:04.879Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Woodstock Independent",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUzhTZWVkVEpUOW43U1VTamF2TFZ0cldPanhnY3puYVQ0ei1EdktSZkhaMlcyclhpZU80UWZqMlM3Vzd2TmNFam1mQ1ozNU1xRTJQTXFaRlhHVjJBY3JNQWhod2lyZ0JpR2VzQUZKYUVqMjNiR1RiTkVkRS05bEFnNU8talRqc3FDUDNIVDdiZU1zR3ptdnc0cUtCbktNS2lfOUJVWVBzRVlhSk9vV2I2d2hjaHpLSHVIRWRB?oc=5",
+    "urlSlug": null,
+    "title": "Find the only Certified Naturally Grown Christmas trees in the Midwest",
+    "summary": "",
+    "publishedAt": "2026-10-22T14:28:25.000Z",
+    "categories": [],
+    "guid": "CBMiuwFBVV95cUxPUzhTZWVkVEpUOW43U1VTamF2TFZ0cldPanhnY3puYVQ0ei1EdktSZkhaMlcyclhpZU80UWZqMlM3Vzd2TmNFam1mQ1ozNU1xRTJQTXFaRlhHVjJBY3JNQWhod2lyZ0JpR2VzQUZKYUVqMjNiR1RiTkVkRS05bEFnNU8talRqc3FDUDNIVDdiZU1zR3ptdnc0cUtCbktNS2lfOUJVWVBzRVlhSk9vV2I2d2hjaHpLSHVIRWRB",
+    "searchedLabel": "certified-naturally-grown",
+    "matches": [
+      {
+        "labelId": "certified-naturally-grown",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Certified Naturally Grown"
+      }
+    ],
+    "fetchedAt": "2026-10-23T11:57:04.879Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Business Cornwall",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNenB1RWZsMm5fYjUzbVFsbF95eFlHdHYxN2RxMmpvLWp1eFZMWTMxU3NZdWZ1NF9HNF9rVkZJWFROOGt4b25XVVJwdTBEXzRSZ25qR0hnajcwXzBtdWxQWkE0dUI2YTFUQnI4Q0gyOEFYTHhhSjFROTVCc2o1LWROY1RZaU5rNUN3S1BRUjVhbW5vT3l4aUF2VDRQbUdsNzZNMUhwZC0tLVo5NHJoRGprTzRxZ3d1aE4wZ25KQzl1eTlLQXIzUlpR?oc=5",
@@ -90,6 +297,29 @@
       }
     ],
     "fetchedAt": "2026-10-22T12:16:19.458Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Atuna",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYWRRTFoydndOTFVaWUtDOUlOMG5ubDBhaU1CUFNMQ0xtSk5SVEE2VmNyckJNVGRTMVhlaXd1RWRDQVFlU1k3bFVkS3lkdlFFYk4tWk5MVVZlVkZHUVJTdzBMVlFWY3l6NTVxYkc4XzdneVZWNW5JZmtqV1M3aDkwSE1HS2stZw?oc=5",
+    "urlSlug": null,
+    "title": "Nordic Demand For MSC Tuna Quadrupled in Five Years",
+    "summary": "",
+    "publishedAt": "2026-10-21T17:46:38.000Z",
+    "categories": [],
+    "guid": "CBMihgFBVV95cUxNYWRRTFoydndOTFVaWUtDOUlOMG5ubDBhaU1CUFNMQ0xtSk5SVEE2VmNyckJNVGRTMVhlaXd1RWRDQVFlU1k3bFVkS3lkdlFFYk4tWk5MVVZlVkZHUVJTdzBMVlFWY3l6NTVxYkc4XzdneVZWNW5JZmtqV1M3aDkwSE1HS2stZw",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-10-23T11:57:04.879Z"
   },
   {
     "outletId": "google-news",
@@ -1470,6 +1700,29 @@
       }
     ],
     "fetchedAt": "2026-10-16T11:47:00.147Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Tourism Update",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMm56QXMydlAwR3c1Qld3UXJoMWpDYXlGaG9FcHRVOG1pT0Vra3k4YXo0RWlYOTZsdG96SmF1QTlhcGRKT2pVckdMTlBhdWJLN2xvV0plSTNBWTJRQXZGMmtsWEFPRGo1R3NPRS0wczF4WXItVWdGcjJvU1NJNkN3VFBqNA?oc=5",
+    "urlSlug": null,
+    "title": "Eight CPT beaches earn Blue Flag status",
+    "summary": "",
+    "publishedAt": "2026-10-15T13:40:00.000Z",
+    "categories": [],
+    "guid": "CBMigwFBVV95cUxOMm56QXMydlAwR3c1Qld3UXJoMWpDYXlGaG9FcHRVOG1pT0Vra3k4YXo0RWlYOTZsdG96SmF1QTlhcGRKT2pVckdMTlBhdWJLN2xvV0plSTNBWTJRQXZGMmtsWEFPRGo1R3NPRS0wczF4WXItVWdGcjJvU1NJNkN3VFBqNA",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-23T11:57:04.879Z"
   },
   {
     "outletId": "google-news",
