@@ -1,6 +1,98 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "lincolnjournal.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNVWhkQ3lfS25nSlBScHJCUnN2Sk1RV282WFZ1cm1KdDc0N2hrY1NFVmItOEwyTGVVenpHc0ZVRVJLbTlDQ1JRWVdNS1FGODl0TTVFdHBFUF9Da1IyakViNHFRRDRscGFSSkJVZDJ6SmUyOVpkVUh3cEpOZi0tZnR4Tm8tRUEzNmNkU1h1Ym9rNGxFclUxeW1KSS1wQUxhd1JWaFlEXzlEQl95dHlxb3VhT3l6OURacEc0dUEzeGxBYk00RVhJVElfOW50ck5pYzRsN3JNMWxwU0ozY2dnSjB6Qlg5V2liak5ra3FnNUFoQ3V1dDBnSzBfbWNTc0E3d2ZzT0QxemJZS0tnWGJXcC1hb244WExqd01PZWM5eXdtYw?oc=5",
+    "urlSlug": null,
+    "title": "AROMATICA Earns B Corp Certification, Setting a New Standard for Responsible Beauty",
+    "summary": "",
+    "publishedAt": "2026-10-24T05:10:03.000Z",
+    "categories": [],
+    "guid": "CBMinwJBVV95cUxNVWhkQ3lfS25nSlBScHJCUnN2Sk1RV282WFZ1cm1KdDc0N2hrY1NFVmItOEwyTGVVenpHc0ZVRVJLbTlDQ1JRWVdNS1FGODl0TTVFdHBFUF9Da1IyakViNHFRRDRscGFSSkJVZDJ6SmUyOVpkVUh3cEpOZi0tZnR4Tm8tRUEzNmNkU1h1Ym9rNGxFclUxeW1KSS1wQUxhd1JWaFlEXzlEQl95dHlxb3VhT3l6OURacEc0dUEzeGxBYk00RVhJVElfOW50ck5pYzRsN3JNMWxwU0ozY2dnSjB6Qlg5V2liak5ra3FnNUFoQ3V1dDBnSzBfbWNTc0E3d2ZzT0QxemJZS0tnWGJXcC1hb244WExqd01PZWM5eXdtYw",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-24T11:25:45.503Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Urban Milwaukee",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXpURGFFZ2pZbnhkT0x5RlVGZUJzNzBlY204R1JxSmNkbWZUbWNwMFUwdDdWM19IVm56SmU2NmtaZDUtYnNCbzh1dlFpM0QxZi1qQW04U3dNdzZsbFFEN2dxd1daNC1GbXBwTURPY1g2ejhDeEY1OXAwZG9WUWZxZ3pzZXRXNDRpRmE5UUtFZFJ5SlJtZU5iNFhxUE5EVTlXamc?oc=5",
+    "urlSlug": null,
+    "title": "Milwaukee Earns LEED Gold For Citywide Sustainability Efforts",
+    "summary": "",
+    "publishedAt": "2026-10-23T22:20:00.000Z",
+    "categories": [],
+    "guid": "CBMiogFBVV95cUxOWXpURGFFZ2pZbnhkT0x5RlVGZUJzNzBlY204R1JxSmNkbWZUbWNwMFUwdDdWM19IVm56SmU2NmtaZDUtYnNCbzh1dlFpM0QxZi1qQW04U3dNdzZsbFFEN2dxd1daNC1GbXBwTURPY1g2ejhDeEY1OXAwZG9WUWZxZ3pzZXRXNDRpRmE5UUtFZFJ5SlJtZU5iNFhxUE5EVTlXamc",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-24T11:25:45.503Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Cotton Grower",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczVRYkJaUUZiU3R4M0JjYncyRzZhZ2pESVZ0Q2l3M2RKbUc2cEhlLXFuQWMwQ1ZpSFhneThjR0EyWS1GeF9EMVhENV9OeHNVeUtGbHZLczNXUF9vaUdVRFAtR1p4eWFqTmdUcGlneGtXRDU0LS15SzB0OTlacG5QSHhEaHV6aC1mclhOTXBmeFpLRHZhSE1hMWdndzJkaE1wNXQ2ZUIwTmhWdU9hZWRVMmFXNVdsMXp2Wnc?oc=5",
+    "urlSlug": null,
+    "title": "BCI’s ‘Cotton and Beyond’ Event Spotlights Regenerative Ag",
+    "summary": "",
+    "publishedAt": "2026-10-23T16:11:16.000Z",
+    "categories": [],
+    "guid": "CBMiugFBVV95cUxOczVRYkJaUUZiU3R4M0JjYncyRzZhZ2pESVZ0Q2l3M2RKbUc2cEhlLXFuQWMwQ1ZpSFhneThjR0EyWS1GeF9EMVhENV9OeHNVeUtGbHZLczNXUF9vaUdVRFAtR1p4eWFqTmdUcGlneGtXRDU0LS15SzB0OTlacG5QSHhEaHV6aC1mclhOTXBmeFpLRHZhSE1hMWdndzJkaE1wNXQ2ZUIwTmhWdU9hZWRVMmFXNVdsMXp2Wnc",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BCI"
+      }
+    ],
+    "fetchedAt": "2026-10-24T11:25:45.503Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Materia Rinnovabile | Renewable Matter",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaWhuNDY5em9EN1dDeE53ZnJsUWM3MHVXbVhISjdOaTBwX3oxdVRPZjhrenJGNlJFZERZcm1JRm15OVIyLUxxT0JWMTN2OTdJTmFuQU1OQkYyNVBFbzZsWHVqTzMxemR6bS1MSG9TWkV0cjFHZXdsRmxqZ2VhbURucEZ6LXUyTmRhRFNsTUJQekVmM3RqcUtfNFZib3RfSUI3?oc=5",
+    "urlSlug": null,
+    "title": "EU Ecolabel: consumer confidence meets the new anti-greenwashing rules",
+    "summary": "",
+    "publishedAt": "2026-10-23T13:12:16.000Z",
+    "categories": [],
+    "guid": "CBMioAFBVV95cUxNaWhuNDY5em9EN1dDeE53ZnJsUWM3MHVXbVhISjdOaTBwX3oxdVRPZjhrenJGNlJFZERZcm1JRm15OVIyLUxxT0JWMTN2OTdJTmFuQU1OQkYyNVBFbzZsWHVqTzMxemR6bS1MSG9TWkV0cjFHZXdsRmxqZ2VhbURucEZ6LXUyTmRhRFNsTUJQekVmM3RqcUtfNFZib3RfSUI3",
+    "searchedLabel": "eu-ecolabel",
+    "matches": [
+      {
+        "labelId": "eu-ecolabel",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "EU Ecolabel"
+      }
+    ],
+    "fetchedAt": "2026-10-24T11:25:45.503Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Forest Stewardship Council",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0JKSDJGZXdyLUlBbmVUbTRFX2dpdkoxdmREenR6ZTU5Q3A2dkxIZlBfc2ZsRlFDSTVueVBoaENFajdKYVRZWEFTUlZmRERpNkFLc0ZLVE4ySFBlVGZodFpJTHIzdndzOGEtcXZKMU5JQ2o5UXg2dzA1OTY5M0x3RjVOb04tVUx0UnJLU1YxSkNFOTJ3NTVOUUNrZXFWcThOYVhUdEdaQVJ1clZyX1EtbWVKZWFKUQ?oc=5",
@@ -371,6 +463,29 @@
     "outletId": "google-news",
     "outletName": "Kuwait Times",
     "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTEo1d0xvOWNMdUZQSHFiUDRYUzBfTC1fRXRWdy1uaExhaHViMjR5NzdWajFIZHB1VGxZbzNVMnQ2QnBOQjN2UmpMUDVKRjBna2ZRZzJvTGZ2ZEJvdjkzZmV0MVBoem00Q0IyOTNNMFhXdmFoTEFhMXp3MzVtbm9EdWxBUnJ2SHc3M19QbUEyU2dYZlZMaUZIaE1RMEdXcjlEOWV4eXc4X1pfWDhGNFhtOFNyeG85bVpiNHpHSTlXQTNlVnd2YnFBRklQQmlKVnBHY2Jj0gHXAUFVX3lxTE9NVHBIR2wzSG13UzhRa3BsdTcwNjFmcUtMRk1nVEJXekhkRTVHZHlIOHBqWHZVWlFfOXgtd3E2WVg1YmMwVG5jV0NRQ2tWTDU4Q2IxVHVvNFR2enMzZ05pMHJXVmt0R1VucUV0eVBUaGFNU3JHUkkya3U0RndZakFaaExPbkctYkNhZmtSRHN4bnZhM19NSFVJcE5hQm8yT0FiR3JSdVR2WjV0OENsNlZYLTdSVnZsNElyNlJJVzN1QkQzQW14eS1ETnNKME5LZGhzUzdDdmhn?oc=5",
+    "urlSlug": null,
+    "title": "Gulf Bank achieves LEED Platinum certification for Sabah Al-Ahmad Residential City Branch",
+    "summary": "",
+    "publishedAt": "2026-10-21T15:38:36.000Z",
+    "categories": [],
+    "guid": "CBMi0wFBVV95cUxNTEo1d0xvOWNMdUZQSHFiUDRYUzBfTC1fRXRWdy1uaExhaHViMjR5NzdWajFIZHB1VGxZbzNVMnQ2QnBOQjN2UmpMUDVKRjBna2ZRZzJvTGZ2ZEJvdjkzZmV0MVBoem00Q0IyOTNNMFhXdmFoTEFhMXp3MzVtbm9EdWxBUnJ2SHc3M19QbUEyU2dYZlZMaUZIaE1RMEdXcjlEOWV4eXc4X1pfWDhGNFhtOFNyeG85bVpiNHpHSTlXQTNlVnd2YnFBRklQQmlKVnBHY2Jj0gHXAUFVX3lxTE9NVHBIR2wzSG13UzhRa3BsdTcwNjFmcUtMRk1nVEJXekhkRTVHZHlIOHBqWHZVWlFfOXgtd3E2WVg1YmMwVG5jV0NRQ2tWTDU4Q2IxVHVvNFR2enMzZ05pMHJXVmt0R1VucUV0eVBUaGFNU3JHUkkya3U0RndZakFaaExPbkctYkNhZmtSRHN4bnZhM19NSFVJcE5hQm8yT0FiR3JSdVR2WjV0OENsNlZYLTdSVnZsNElyNlJJVzN1QkQzQW14eS1ETnNKME5LZGhzUzdDdmhn",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-24T11:25:45.503Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Kuwait Times",
+    "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTVRwSEdsM0htd1M4UWtwbHU3MDYxZnFLTEZNZ1RCV3pIZEU1R2R5SDhwalh2VVpRXzl4LXdxNllYNWJjMFRuY1dDUUNrVkw1OENiMVR1bzRUdnpzM2dOaTByV1ZrdEdVbnFFdHlQVGhhTVNyR1JJMmt1NEZ3WWpBWmhMT25HLWJDYWZrUkRzeG52YTNfTUhVSXBOYUJvMk9BYkdyUnVUdlo1dDhDbDZWWC03UlZ2bDRJcjZSSVczdUJEM0FteHktRE5zSjBOS2Roc1M3Q3ZoZ9IB1wFBVV95cUxPTVRwSEdsM0htd1M4UWtwbHU3MDYxZnFLTEZNZ1RCV3pIZEU1R2R5SDhwalh2VVpRXzl4LXdxNllYNWJjMFRuY1dDUUNrVkw1OENiMVR1bzRUdnpzM2dOaTByV1ZrdEdVbnFFdHlQVGhhTVNyR1JJMmt1NEZ3WWpBWmhMT25HLWJDYWZrUkRzeG52YTNfTUhVSXBOYUJvMk9BYkdyUnVUdlo1dDhDbDZWWC03UlZ2bDRJcjZSSVczdUJEM0FteHktRE5zSjBOS2Roc1M3Q3ZoZw?oc=5",
     "urlSlug": null,
     "title": "Gulf Bank achieves LEED Platinum certification for Sabah Al-Ahmad Residential City Branch",
@@ -504,6 +619,29 @@
       }
     ],
     "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Eastern Herald",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2tQTUJVUVlMSTNKX1NCTlN6WUpKNnJ5MjBoc1pjNmdaWXhiWlpmNHowYkZxSkxEc3NYS19wMEh3c1VvVWZQVkZua1lnSHVVOHY0bzJGN1JqSjhtZmxTdWhlVkd6Y2VBTkItYnZQOXBGZUpwNUZpbGZkeGRtWFQ5Smh1U2hVTnRmQldlYnZaMU50UFlfYU5ka29mNFd2VEYyV3pTT1llZEM3RUNGQktGdlAxRGRBUQ?oc=5",
+    "urlSlug": null,
+    "title": "Baltic RE Group’s property “The Icon” received BREEAM Excellent certification",
+    "summary": "",
+    "publishedAt": "2026-10-21T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMitgFBVV95cUxQR2tQTUJVUVlMSTNKX1NCTlN6WUpKNnJ5MjBoc1pjNmdaWXhiWlpmNHowYkZxSkxEc3NYS19wMEh3c1VvVWZQVkZua1lnSHVVOHY0bzJGN1JqSjhtZmxTdWhlVkd6Y2VBTkItYnZQOXBGZUpwNUZpbGZkeGRtWFQ5Smh1U2hVTnRmQldlYnZaMU50UFlfYU5ka29mNFd2VEYyV3pTT1llZEM3RUNGQktGdlAxRGRBUQ",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-24T11:25:45.503Z"
   },
   {
     "outletId": "google-news",
@@ -688,6 +826,29 @@
       }
     ],
     "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "BTR News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XVEtwaTE2NUdNb2IzSnJ0U2ZCVVlBUV9QclN3SDluWDNyeUpmdkc1encyMmppTklEUko4dU5uVWVQcnR1Tlg1ZUJhWVRwMUpMNVBNQktpeG8wQjFlVDBSQmQ5ZVQwcHRQcjluaUdaVlRLbndydTRIMWQ4czg?oc=5",
+    "urlSlug": null,
+    "title": "Puma Property Finance partners with BREEAM",
+    "summary": "",
+    "publishedAt": "2026-10-20T12:39:59.000Z",
+    "categories": [],
+    "guid": "CBMifEFVX3lxTE5XVEtwaTE2NUdNb2IzSnJ0U2ZCVVlBUV9QclN3SDluWDNyeUpmdkc1encyMmppTklEUko4dU5uVWVQcnR1Tlg1ZUJhWVRwMUpMNVBNQktpeG8wQjFlVDBSQmQ5ZVQwcHRQcjluaUdaVlRLbndydTRIMWQ4czg",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-24T11:25:45.503Z"
   },
   {
     "outletId": "google-news",
@@ -3044,6 +3205,29 @@
       }
     ],
     "fetchedAt": "2026-10-12T15:54:42.985Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Fibre2Fashion",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb3V5Y2JuYUU0X1ZrVGhpVnhJQ2s4cjA5ZjJ3NTYtTVVuRVVaZnMtdFJQRTViX3FEQk9GYTZOMFRfa182SG02U1ota0ltRmdBYy1YdWVKc0J1NkN0SC1RM3pqUDNRbVZVUnl6MFhtTjFSSG1YTnhJSU12NmxQOXRNVTJraVJQUnBLUUdoMUVseFhGc2haX0YxRVVfOWt1d3Z5ZGpNbG5NNE5od1h4bzhDN1g3VXplOTgwRGY1X2RVQWt6XzgtdUhVUEtEcw?oc=5",
+    "urlSlug": null,
+    "title": "OEKO-TEX launches 'Trust in Every Thread' campaign film",
+    "summary": "",
+    "publishedAt": "2026-10-12T08:27:55.000Z",
+    "categories": [],
+    "guid": "CBMiywFBVV95cUxPb3V5Y2JuYUU0X1ZrVGhpVnhJQ2s4cjA5ZjJ3NTYtTVVuRVVaZnMtdFJQRTViX3FEQk9GYTZOMFRfa182SG02U1ota0ltRmdBYy1YdWVKc0J1NkN0SC1RM3pqUDNRbVZVUnl6MFhtTjFSSG1YTnhJSU12NmxQOXRNVTJraVJQUnBLUUdoMUVseFhGc2haX0YxRVVfOWt1d3Z5ZGpNbG5NNE5od1h4bzhDN1g3VXplOTgwRGY1X2RVQWt6XzgtdUhVUEtEcw",
+    "searchedLabel": "oeko-tex",
+    "matches": [
+      {
+        "labelId": "oeko-tex",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Oeko-Tex"
+      }
+    ],
+    "fetchedAt": "2026-10-24T11:25:45.503Z"
   },
   {
     "outletId": "google-news",
