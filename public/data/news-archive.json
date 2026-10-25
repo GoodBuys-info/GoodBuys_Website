@@ -1,6 +1,29 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Carroll County Mirror-Democrat",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPazMxV0Q2STliY3oxVkoyTmlkcWpiRHVyc3pjT0tXekVYQjRLZnh6NjFnT0YydG9tcUlIRFo4dXJpc183OUVfblV1LU9Cbjl6X2FYUFdNOVhndnlLb2lBRmp5TTBZOFVuSmx4YXdQdG1Xai1qbzc2b2NKQ1FocUJzVGQ4b2RWR19RUEFkUmtqTnY3U1l2ZlRnUm9obzJjLUdheFc5eG9RU3FMaUt3UlFjb0RmNFlOUU0?oc=5",
+    "urlSlug": null,
+    "title": "Sustainable Merino Wool Base Layer for Outdoor and Travel Use from WOOLCANO with RWS Certification",
+    "summary": "",
+    "publishedAt": "2026-10-24T17:13:38.000Z",
+    "categories": [],
+    "guid": "CBMitwFBVV95cUxPazMxV0Q2STliY3oxVkoyTmlkcWpiRHVyc3pjT0tXekVYQjRLZnh6NjFnT0YydG9tcUlIRFo4dXJpc183OUVfblV1LU9Cbjl6X2FYUFdNOVhndnlLb2lBRmp5TTBZOFVuSmx4YXdQdG1Xai1qbzc2b2NKQ1FocUJzVGQ4b2RWR19RUEFkUmtqTnY3U1l2ZlRnUm9obzJjLUdheFc5eG9RU3FMaUt3UlFjb0RmNFlOUU0",
+    "searchedLabel": "rws",
+    "matches": [
+      {
+        "labelId": "rws",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "RWS"
+      }
+    ],
+    "fetchedAt": "2026-10-25T11:56:11.153Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "lincolnjournal.com",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNVWhkQ3lfS25nSlBScHJCUnN2Sk1RV282WFZ1cm1KdDc0N2hrY1NFVmItOEwyTGVVenpHc0ZVRVJLbTlDQ1JRWVdNS1FGODl0TTVFdHBFUF9Da1IyakViNHFRRDRscGFSSkJVZDJ6SmUyOVpkVUh3cEpOZi0tZnR4Tm8tRUEzNmNkU1h1Ym9rNGxFclUxeW1KSS1wQUxhd1JWaFlEXzlEQl95dHlxb3VhT3l6OURacEc0dUEzeGxBYk00RVhJVElfOW50ck5pYzRsN3JNMWxwU0ozY2dnSjB6Qlg5V2liak5ra3FnNUFoQ3V1dDBnSzBfbWNTc0E3d2ZzT0QxemJZS0tnWGJXcC1hb244WExqd01PZWM5eXdtYw?oc=5",
@@ -21,6 +44,29 @@
       }
     ],
     "fetchedAt": "2026-10-24T11:25:45.503Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Carroll County Mirror-Democrat",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVR2azRuWUEzdlJ0bDJGMzJ1X0JHYm9xRE1tOC04MzJTNVowVFdVMWVCYkVuLTNvVnNGbi1VUlRCaHAtQjVwRExKYlVyUUdXYXZvZjBhZ0FSTnhTZWcycmlpQUtURElFb1dDV1RyLVJfM29MVFpiRzViajNBUDZ3dmE0djVFTDdfSEYtNmY1cVFUOU5ib3BUNnp6QjFuZTUxNzlHUlpCYVk4WjBRSjNZdWQtZzNQdW8?oc=5",
+    "urlSlug": null,
+    "title": "AROMATICA Earns B Corp Certification, Setting a New Standard for Responsible Beauty",
+    "summary": "",
+    "publishedAt": "2026-10-24T05:10:03.000Z",
+    "categories": [],
+    "guid": "CBMitwFBVV95cUxQYVR2azRuWUEzdlJ0bDJGMzJ1X0JHYm9xRE1tOC04MzJTNVowVFdVMWVCYkVuLTNvVnNGbi1VUlRCaHAtQjVwRExKYlVyUUdXYXZvZjBhZ0FSTnhTZWcycmlpQUtURElFb1dDV1RyLVJfM29MVFpiRzViajNBUDZ3dmE0djVFTDdfSEYtNmY1cVFUOU5ib3BUNnp6QjFuZTUxNzlHUlpCYVk4WjBRSjNZdWQtZzNQdW8",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-25T11:56:11.153Z"
   },
   {
     "outletId": "google-news",
@@ -1631,6 +1677,29 @@
       }
     ],
     "fetchedAt": "2026-10-16T11:47:00.147Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Yahoo Sports",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVVBJSG5jeDBabWUtSnB0OUc2M1FNY2ZYSUVJMTBuM2dzb0N1dEIyVFNSRXQ1dXZkS2drdVNlT3dBQURCTUc1anI1UHV2ZFhjWm50WGdXNllCbVVXTUxpYk9XbUQxSUVQc3NXWGNtZW5YMnZ3VWc5YUo0b3NDSXc5OVpJb29GN1pzV243TlBEWVRaTEE?oc=5",
+    "urlSlug": null,
+    "title": "Estadio AKRON Unveils Plaque Celebrating Its LEED Operations & Maintenance Gold Certification",
+    "summary": "",
+    "publishedAt": "2026-10-16T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMikwFBVV95cUxNVVBJSG5jeDBabWUtSnB0OUc2M1FNY2ZYSUVJMTBuM2dzb0N1dEIyVFNSRXQ1dXZkS2drdVNlT3dBQURCTUc1anI1UHV2ZFhjWm50WGdXNllCbVVXTUxpYk9XbUQxSUVQc3NXWGNtZW5YMnZ3VWc5YUo0b3NDSXc5OVpJb29GN1pzV243TlBEWVRaTEE",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-25T11:56:11.153Z"
   },
   {
     "outletId": "google-news",
