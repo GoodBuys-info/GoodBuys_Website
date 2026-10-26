@@ -1,5 +1,80 @@
 [
   {
+    "outletId": "edie",
+    "outletName": "Edie",
+    "url": "https://www.edie.net/egypts-largest-solar-pv-project-and-triodos-banks-renewed-b-corp-certification-the-sustainability-success-stories-of-the-week/",
+    "urlSlug": "egypts-largest-solar-pv-project-and-triodos-banks-renewed-b-corp-certification-the-sustainability-success-stories-of-the-week",
+    "title": "Egypt’s largest solar PV project and Triodos Bank’s renewed B Corp certification: The sustainability success stories of the week",
+    "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week. In this week's edition, Egypt’s largest solar PV project and much more.",
+    "publishedAt": "2026-10-26T01:48:42.000Z",
+    "categories": [
+      "Circular economy",
+      "Climate & nature",
+      "Energy",
+      "Finance",
+      "Green buildings",
+      "Net-zero strategy",
+      "Policy",
+      "Renewables",
+      "Social sustainability",
+      "Strategy and delivery",
+      "Transport",
+      "Waste Management",
+      "Africa",
+      "B Corp",
+      "certification",
+      "Circular Economy",
+      "Clean energy investment",
+      "education",
+      "Egypt",
+      "electric vehicles",
+      "energy",
+      "EV charging",
+      "Members Insight",
+      "Mobility",
+      "policy",
+      "recycling",
+      "renewables",
+      "resources",
+      "solar panels",
+      "strategy delivery",
+      "success stories",
+      "sustainability leadership",
+      "The built environment",
+      "Triodos Bank",
+      "waste management"
+    ],
+    "guid": "https://www.edie.net/?p=306189",
+    "sourceName": null,
+    "sourceUrl": null,
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "structured-field",
+        "where": "category",
+        "matchedText": "B Corp",
+        "sourceText": "B Corp"
+      },
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "structured-field",
+        "where": "urlSlug",
+        "matchedText": "B Corp Certification",
+        "sourceText": "egypts-largest-solar-pv-project-and-triodos-banks-renewed-b-corp-certification-the-sustainability-success-stories-of-the-week"
+      },
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-26T13:27:44.944Z"
+  },
+  {
     "outletId": "google-news",
     "outletName": "Carroll County Mirror-Democrat",
     "aggregator": "Google News",
@@ -21,6 +96,29 @@
       }
     ],
     "fetchedAt": "2026-10-25T11:56:11.153Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "EIN Presswire",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVlBub0ctdThyeXFydmVSNXg2OHNrVVBFU0JUOEhCYzVuSE1SMkFHVVVRMjFadkthaFJSSFNMcmE4TWxPcjF1ZW5OVTZ5RUp0VTU4cXMwdjROdFpoTWpYM25CdzdKRF9fTW8wRFRtUjBMNnZGaFlRb251YWE4Y2JwekNlc2x5eXZaRkVkc3hhNnNvbTl1eGVjMDlpVENlZVJWTWl3TkY4VHVUc0hnNDc3VUk4Vk85MnBBYllZcHJZUGRLdDJ0STRfb195VHBXOFBHcHAxUE1PUGt4cHpMeEE?oc=5",
+    "urlSlug": null,
+    "title": "Sustainable Merino Wool Base Layer for Outdoor and Travel Use from WOOLCANO with RWS Certification",
+    "summary": "",
+    "publishedAt": "2026-10-24T17:13:00.000Z",
+    "categories": [],
+    "guid": "CBMi3gFBVV95cUxOVlBub0ctdThyeXFydmVSNXg2OHNrVVBFU0JUOEhCYzVuSE1SMkFHVVVRMjFadkthaFJSSFNMcmE4TWxPcjF1ZW5OVTZ5RUp0VTU4cXMwdjROdFpoTWpYM25CdzdKRF9fTW8wRFRtUjBMNnZGaFlRb251YWE4Y2JwekNlc2x5eXZaRkVkc3hhNnNvbTl1eGVjMDlpVENlZVJWTWl3TkY4VHVUc0hnNDc3VUk4Vk85MnBBYllZcHJZUGRLdDJ0STRfb195VHBXOFBHcHAxUE1PUGt4cHpMeEE",
+    "searchedLabel": "rws",
+    "matches": [
+      {
+        "labelId": "rws",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "RWS"
+      }
+    ],
+    "fetchedAt": "2026-10-26T13:27:44.944Z"
   },
   {
     "outletId": "google-news",
@@ -67,6 +165,29 @@
       }
     ],
     "fetchedAt": "2026-10-25T11:56:11.153Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "WBOC TV",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPb0d0NDdSbS1tblJIcWRaQ2ZHWlF4RTRiU3dUbXB1REhwd3diNFdXQURXalJFaEZNUDVYeDR6MzdvWkpjY1lfZDR2dzNnbE5iUGtqZEU1WUlZVmF5cFpGa3h2bXJ1MnBZc04yaTBhV0ZFM0dLek1jaWZmXzVabUpaUURjaHNlWmhCbV9kU3U4ZWszUlFxM1VRWDc2blBwbko3d2VFRTZ0cVFIaldsYkwxbFNBSE1oQXk4cmo2MjBhUm5oQkN6eHBqQTRWbWRUZkk0OFZpb0RTT04wS1d4TFdXVVF3VVlNVVM2WllhQmdYV2hSZnEyeU1KTFlPVFpZTTIzdFQxb3l2Rlk3LU1zU1FlU0FR?oc=5",
+    "urlSlug": null,
+    "title": "AROMATICA Earns B Corp Certification, Setting a New Standard for Responsible Beauty",
+    "summary": "",
+    "publishedAt": "2026-10-24T05:10:03.000Z",
+    "categories": [],
+    "guid": "CBMikgJBVV95cUxPb0d0NDdSbS1tblJIcWRaQ2ZHWlF4RTRiU3dUbXB1REhwd3diNFdXQURXalJFaEZNUDVYeDR6MzdvWkpjY1lfZDR2dzNnbE5iUGtqZEU1WUlZVmF5cFpGa3h2bXJ1MnBZc04yaTBhV0ZFM0dLek1jaWZmXzVabUpaUURjaHNlWmhCbV9kU3U4ZWszUlFxM1VRWDc2blBwbko3d2VFRTZ0cVFIaldsYkwxbFNBSE1oQXk4cmo2MjBhUm5oQkN6eHBqQTRWbWRUZkk0OFZpb0RTT04wS1d4TFdXVVF3VVlNVVM2WllhQmdYV2hSZnEyeU1KTFlPVFpZTTIzdFQxb3l2Rlk3LU1zU1FlU0FR",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-26T13:27:44.944Z"
   },
   {
     "outletId": "google-news",
@@ -205,6 +326,29 @@
       }
     ],
     "fetchedAt": "2026-10-23T11:57:04.879Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Consultancy.uk",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONGJONDhZNDJ2Y0wtMWhLcmRTaHNuQ1UtSkZBWnB4R0Q3RFUyQ0gybzFvSm1kMkdPV0hoaEdtSG9IOUF5bzZqZS04RlMzandsODhrQmtUbWhtejR2N0xSaS1XX0ZfdDlmYWdHNDNyUHpyaEVnaGFqQ01lNkRPZWlCZm9EOHNDYTRSWVRIbm0zZjlrWXgtZnVFNjBBV29xNHQ4OWhLbGZOQmVrMjNoalRMX1FhaXNTUm5ZQ2NESzZn0gHDAUFVX3lxTFBGalU0QjFmYi1OSTVGaW8yT0VnaFFBSks0TUlJNkZMNTd3cFloVGFBRU0wRno0WGVUVEx1QXp2QTg3RDZad0ZtS0hSSUZtX2Vyc0VabTZ0RlV0WjFXajR6ZXpHSmZNQ25yMkV2SmM4SGt4dklUa054TDc4SDItUU1sYkw2eV9mcy1QX24td3FNXzZjUS1GMEVVTmtHQ015RmFfNmxlRV9FVGRrWUxmcHZZYU8yajMxenRBd3NwUDV5Q1YzVQ?oc=5",
+    "urlSlug": null,
+    "title": "Cambridge Management Consulting becomes B Corp while passing £1 million charity mark",
+    "summary": "",
+    "publishedAt": "2026-10-23T04:05:39.000Z",
+    "categories": [],
+    "guid": "CBMivgFBVV95cUxONGJONDhZNDJ2Y0wtMWhLcmRTaHNuQ1UtSkZBWnB4R0Q3RFUyQ0gybzFvSm1kMkdPV0hoaEdtSG9IOUF5bzZqZS04RlMzandsODhrQmtUbWhtejR2N0xSaS1XX0ZfdDlmYWdHNDNyUHpyaEVnaGFqQ01lNkRPZWlCZm9EOHNDYTRSWVRIbm0zZjlrWXgtZnVFNjBBV29xNHQ4OWhLbGZOQmVrMjNoalRMX1FhaXNTUm5ZQ2NESzZn0gHDAUFVX3lxTFBGalU0QjFmYi1OSTVGaW8yT0VnaFFBSks0TUlJNkZMNTd3cFloVGFBRU0wRno0WGVUVEx1QXp2QTg3RDZad0ZtS0hSSUZtX2Vyc0VabTZ0RlV0WjFXajR6ZXpHSmZNQ25yMkV2SmM4SGt4dklUa054TDc4SDItUU1sYkw2eV9mcy1QX24td3FNXzZjUS1GMEVVTmtHQ015RmFfNmxlRV9FVGRrWUxmcHZZYU8yajMxenRBd3NwUDV5Q1YzVQ",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-26T13:27:44.944Z"
   },
   {
     "outletId": "google-news",
@@ -2786,6 +2930,29 @@
     "outletId": "google-news",
     "outletName": "Fashion United",
     "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNak1yeE0wNGIwczg2dWs5N0hENTdoZ3pDcVNJcHZZdVc2TXZFSXR6QU9idUxldndYOExXeVdPX0xacTVsbUNMNlhsV2p1R2RNV214Y2dLYVlGV3ZJdURTa3hJN1NwWHM4NVVoNmZZNnJxM0x6dndiaU1vTEsxdld6eDRiYUhTYlZVdkF6MmU1R0RzZGt0c19FMlRfNUF2WVFWQ0VZWHZoelhFSlZvRVY0Q0lJRQ?oc=5",
+    "urlSlug": null,
+    "title": "Better Cotton Initiative is now regenerative standard system",
+    "summary": "",
+    "publishedAt": "2026-10-13T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMiswFBVV95cUxNak1yeE0wNGIwczg2dWs5N0hENTdoZ3pDcVNJcHZZdVc2TXZFSXR6QU9idUxldndYOExXeVdPX0xacTVsbUNMNlhsV2p1R2RNV214Y2dLYVlGV3ZJdURTa3hJN1NwWHM4NVVoNmZZNnJxM0x6dndiaU1vTEsxdld6eDRiYUhTYlZVdkF6MmU1R0RzZGt0c19FMlRfNUF2WVFWQ0VZWHZoelhFSlZvRVY0Q0lJRQ",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Better Cotton"
+      }
+    ],
+    "fetchedAt": "2026-10-26T13:27:44.944Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Fashion United",
+    "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa1NtaS1oVld6LVV4c3BpYktqVWJOUVhWVUlJY1NfVHBNMHdfdmg2bEVEQjlkS3ZmMWgzLXdyakV5azdFU05Ja3JWV2otZDhMUmxkTzhhcVNVTVVzWU5ENWtEQ3F3Y0lJTU1ubzZkcDhUYzBKMkdEY1lhVWhYbjdlVmlQenQ3NUZid3hmTTZEQ28zeHZMb24wajRGaU1HTGltR2ZBVDAyMUM1M3R5eVBNb1JDTGc?oc=5",
     "urlSlug": null,
     "title": "Better Cotton Initiative is now regenerative standard system",
@@ -2942,6 +3109,29 @@
       }
     ],
     "fetchedAt": "2026-10-13T14:30:06.577Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "FashionNetwork - The World's Fashion Business News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRVhfVEdGWlZfcVZzZ3B1UjVIcklveWZZdmlENGxGdUNBRFJUSHlDTk1qaXdZbEd2Z2ZfckhZRlVWY3UyeDFNdUhFUUZIYVN1eXI1NU1QcHVuX19mRWZVMURxb05kUkIyMzJPNDVtVDYySGdvQ2lEdnNmSXRYQ2xJclktckdHQklXeGhrQkVZQ1BKMk42WDZUNkRlOWtMUkZsa0ZQdXotc0NPZnBYa2w4aUFRbFlDTjZwLTFPTWlGUnJILXQ2dWw2Z1ZhcTV4Zi1NSFR2R1VHYVRHTmVfaXJrUGpONGhMbXFzaUh5ZjRUdmtGU1FFdGc?oc=5",
+    "urlSlug": null,
+    "title": "The Better Cotton Initiative is reshaping its model to establish itself as a benchmark for regenerative agriculture",
+    "summary": "",
+    "publishedAt": "2026-10-12T21:59:00.000Z",
+    "categories": [],
+    "guid": "CBMi9gFBVV95cUxNRVhfVEdGWlZfcVZzZ3B1UjVIcklveWZZdmlENGxGdUNBRFJUSHlDTk1qaXdZbEd2Z2ZfckhZRlVWY3UyeDFNdUhFUUZIYVN1eXI1NU1QcHVuX19mRWZVMURxb05kUkIyMzJPNDVtVDYySGdvQ2lEdnNmSXRYQ2xJclktckdHQklXeGhrQkVZQ1BKMk42WDZUNkRlOWtMUkZsa0ZQdXotc0NPZnBYa2w4aUFRbFlDTjZwLTFPTWlGUnJILXQ2dWw2Z1ZhcTV4Zi1NSFR2R1VHYVRHTmVfaXJrUGpONGhMbXFzaUh5ZjRUdmtGU1FFdGc",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Better Cotton"
+      }
+    ],
+    "fetchedAt": "2026-10-26T13:27:44.944Z"
   },
   {
     "outletId": "google-news",
