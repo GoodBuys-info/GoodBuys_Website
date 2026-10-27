@@ -1,5 +1,143 @@
 [
   {
+    "outletId": "google-news",
+    "outletName": "SeafoodSource",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzBQUzZDdkxOeXA1UWVaUFF3d1VONEZwd0pTcWNxUnd4ZG5lQ1I5dFZKc0RUSDRseFFjYkdyUEVvUkExcEhwY09kcWZyWXAxRHJNd3prU2dRcmdSeGV5bmZ6dk8yZWNhX0dmaFNYTHNmSE5scVBNajBJUzJfUkFTYml1UW5PRWxIV1ZLaFNYX2hGbkFhNHR3VHZwVDM4SmJMVGppdV9RUG4zTkhVQzMzSlZ1SlZTUQ?oc=5",
+    "urlSlug": null,
+    "title": "New MSC finance model suggests certification, sustainability can unlock fishery value",
+    "summary": "",
+    "publishedAt": "2026-10-27T09:45:00.000Z",
+    "categories": [],
+    "guid": "CBMitgFBVV95cUxQYzBQUzZDdkxOeXA1UWVaUFF3d1VONEZwd0pTcWNxUnd4ZG5lQ1I5dFZKc0RUSDRseFFjYkdyUEVvUkExcEhwY09kcWZyWXAxRHJNd3prU2dRcmdSeGV5bmZ6dk8yZWNhX0dmaFNYTHNmSE5scVBNajBJUzJfUkFTYml1UW5PRWxIV1ZLaFNYX2hGbkFhNHR3VHZwVDM4SmJMVGppdV9RUG4zTkhVQzMzSlZ1SlZTUQ",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-10-27T12:34:22.554Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Bristol24/7",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRnhIZ3V2ZmhsX29KenhWaEpvWTRTd0l0X0ZPWmhteEJMZUVrSVNiNGtOWWQ5Vy1MTHVLWVV2RE5iRklIbFRzdXQxMmY5NjhtZTdhUV9ISWV5YTF2YkRneDNLSEwydzB4aFRqR3pRNlVqUGV3SHVxVTRVbS1wT0pvMzl5ZEI2RWxMdTVtUjdiUTZaUnp1T0p1V0gwZm5fY2V2VHhiMUtsMHdQWjI4Z3pjTnFGUFlGdXl4SmtraGk2WQ?oc=5",
+    "urlSlug": null,
+    "title": "Ethical bank secures B-Corp recertification under stricter new criteria",
+    "summary": "",
+    "publishedAt": "2026-10-26T17:43:36.000Z",
+    "categories": [],
+    "guid": "CBMivwFBVV95cUxNRnhIZ3V2ZmhsX29KenhWaEpvWTRTd0l0X0ZPWmhteEJMZUVrSVNiNGtOWWQ5Vy1MTHVLWVV2RE5iRklIbFRzdXQxMmY5NjhtZTdhUV9ISWV5YTF2YkRneDNLSEwydzB4aFRqR3pRNlVqUGV3SHVxVTRVbS1wT0pvMzl5ZEI2RWxMdTVtUjdiUTZaUnp1T0p1V0gwZm5fY2V2VHhiMUtsMHdQWjI4Z3pjTnFGUFlGdXl4SmtraGk2WQ",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-27T12:34:22.554Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Hub News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHNRUlRlR1duRHItZkh4ZUd1ZEVELUFLVEtPSklmRVdYdVRweXhQdXFkeG45Sm9KYnlDSlk3OWRhakFBUGRoRm44WDdvclhtUExBYXZoeW1YTzlwc1FRNnp5R1hkMHFDdElGZzdtdDI1MjdPbDlWMkc0WlRseWJNd05EZ0tYbTk0YWlucVVFUQ?oc=5",
+    "urlSlug": null,
+    "title": "Meghalaya bamboo forests secure international FSC certification",
+    "summary": "",
+    "publishedAt": "2026-10-26T17:24:02.000Z",
+    "categories": [],
+    "guid": "CBMijwFBVV95cUxPTHNRUlRlR1duRHItZkh4ZUd1ZEVELUFLVEtPSklmRVdYdVRweXhQdXFkeG45Sm9KYnlDSlk3OWRhakFBUGRoRm44WDdvclhtUExBYXZoeW1YTzlwc1FRNnp5R1hkMHFDdElGZzdtdDI1MjdPbDlWMkc0WlRseWJNd05EZ0tYbTk0YWlucVVFUQ",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-27T12:34:22.554Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Breaking AC News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVUJkTW5OZGtFUGV5WExTdktvcXhacDRsd083YzJQWFNuNWRfZDZFaEJmdW41SDg0Z3pJYjFINEE3WjJleWx0VGlwc0lSZFF4QWRRcVN0R3NCazVqZ2FndmVMZDlnM1VLMHlMSjMwV2ZWLXhVTi1LSWpCaV92RXBNS1VsRmtQSm1ZX3ZIdkNHUS1CMzNhWDZDTUlHZmljb0xBUG1qUWFOUTJqNnRZNjRSenNFdU1ITnI5UGJsbV9nNXllU2ZNZnhaNUYtMVRkM1E?oc=5",
+    "urlSlug": null,
+    "title": "Organic, Fairtrade, B Corp: What Each Coffee Label Actually Does (and Doesn’t) Do for Farmers",
+    "summary": "",
+    "publishedAt": "2026-10-26T10:57:13.000Z",
+    "categories": [],
+    "guid": "CBMizwFBVV95cUxPVUJkTW5OZGtFUGV5WExTdktvcXhacDRsd083YzJQWFNuNWRfZDZFaEJmdW41SDg0Z3pJYjFINEE3WjJleWx0VGlwc0lSZFF4QWRRcVN0R3NCazVqZ2FndmVMZDlnM1VLMHlMSjMwV2ZWLXhVTi1LSWpCaV92RXBNS1VsRmtQSm1ZX3ZIdkNHUS1CMzNhWDZDTUlHZmljb0xBUG1qUWFOUTJqNnRZNjRSenNFdU1ITnI5UGJsbV9nNXllU2ZNZnhaNUYtMVRkM1E",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-27T12:34:22.554Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "헤럴드경제",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZQW1LamxfaU5hMERDVS05elhLajA5LWhEQmZhNWhhd0hWaDVOWF84ZDlEM1dsM080Z1hZT0FPUHhmV190MDRUTUdZZ05qaFc2cGVJTUpjYw?oc=5",
+    "urlSlug": null,
+    "title": "Jeju Shinhwa World earns Green Key certification for 3rd consecutive year",
+    "summary": "",
+    "publishedAt": "2026-10-26T06:27:22.000Z",
+    "categories": [],
+    "guid": "CBMiV0FVX3lxTE9ZQW1LamxfaU5hMERDVS05elhLajA5LWhEQmZhNWhhd0hWaDVOWF84ZDlEM1dsM080Z1hZT0FPUHhmV190MDRUTUdZZ05qaFc2cGVJTUpjYw",
+    "searchedLabel": "green-key",
+    "matches": [
+      {
+        "labelId": "green-key",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Key"
+      }
+    ],
+    "fetchedAt": "2026-10-27T12:34:22.554Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "edie",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaVFNS2xmcGlJMHlDMUJYNENMS21XUzFDb2dBbmtwejlFa3l3U3BnNmUyZzJ6S2RvSkpLY2JsZmUtT2xBb2lETkJiOGlrUThlUGRsN1RHSmJFZEN4elBNdm1yWnZOWEl6cDlhZ1V0Qm5FU2wzdlctZlk5RlQ5d0s0UmVCSVVTa1duSVVzaHlJNWh6VnBlblpDY0JJZUQzd3BPSURUZ29yNkJJemZiSFR6TVhOQnQyZlI0d0xyVlFJMm5MTFFnOXk3R3ByUXMwX1NJYzBnYUw1Q3dyQ0pkdmRlMtIB7AFBVV95cUxQODFfSVAycmFiXzZPWXVNdENEbmREcjkxeHU2d29rNnRuTWx6Z3JZMzBWS1E1Rk8wY1dXcFpkb0FUS3JWNGZIQXA2U3ktckowWkg2ems1dzBuTHk5WTAwWGozM1ByeXJpNV82UTFSSXE1Vno0TGFLek5idnY2aEw0MUxBbkJab3dNeUhqYzBDaC13UjluOUhXUFN2dGJ2OTlMRWtPUWtXMl9wOE84ZGVPYVc2X0lIZVFTQVF2c3JZT0UtZXRPRkE3aTJSaGdWTDVzcklkdmlZNDNNOWxXQ0tDOGRBSXNUM09SVkEzWA?oc=5",
+    "urlSlug": null,
+    "title": "Egypt’s largest solar PV project and Triodos Bank’s renewed B Corp certification: The sustainability success stories of the week",
+    "summary": "",
+    "publishedAt": "2026-10-26T01:52:51.000Z",
+    "categories": [],
+    "guid": "CBMi4AFBVV95cUxNaVFNS2xmcGlJMHlDMUJYNENMS21XUzFDb2dBbmtwejlFa3l3U3BnNmUyZzJ6S2RvSkpLY2JsZmUtT2xBb2lETkJiOGlrUThlUGRsN1RHSmJFZEN4elBNdm1yWnZOWEl6cDlhZ1V0Qm5FU2wzdlctZlk5RlQ5d0s0UmVCSVVTa1duSVVzaHlJNWh6VnBlblpDY0JJZUQzd3BPSURUZ29yNkJJemZiSFR6TVhOQnQyZlI0d0xyVlFJMm5MTFFnOXk3R3ByUXMwX1NJYzBnYUw1Q3dyQ0pkdmRlMtIB7AFBVV95cUxQODFfSVAycmFiXzZPWXVNdENEbmREcjkxeHU2d29rNnRuTWx6Z3JZMzBWS1E1Rk8wY1dXcFpkb0FUS3JWNGZIQXA2U3ktckowWkg2ems1dzBuTHk5WTAwWGozM1ByeXJpNV82UTFSSXE1Vno0TGFLek5idnY2aEw0MUxBbkJab3dNeUhqYzBDaC13UjluOUhXUFN2dGJ2OTlMRWtPUWtXMl9wOE84ZGVPYVc2X0lIZVFTQVF2c3JZT0UtZXRPRkE3aTJSaGdWTDVzcklkdmlZNDNNOWxXQ0tDOGRBSXNUM09SVkEzWA",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-27T12:34:22.554Z"
+  },
+  {
     "outletId": "edie",
     "outletName": "Edie",
     "url": "https://www.edie.net/egypts-largest-solar-pv-project-and-triodos-banks-renewed-b-corp-certification-the-sustainability-success-stories-of-the-week/",
@@ -533,6 +671,29 @@
       }
     ],
     "fetchedAt": "2026-10-22T12:16:19.458Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Forest Stewardship Council (FSC)",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1CYXh5X1BiODdHTVVab0FtQ2VhWEJWRHlmRmQ0WkhFQktuQUR5OGZSOFdWajZIVlFHWGZROWhFUGF2a2M?oc=5",
+    "urlSlug": null,
+    "title": "FSC at CBD COP17",
+    "summary": "",
+    "publishedAt": "2026-10-22T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMiQ0FVX3lxTE1CYXh5X1BiODdHTVVab0FtQ2VhWEJWRHlmRmQ0WkhFQktuQUR5OGZSOFdWajZIVlFHWGZROWhFUGF2a2M",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-27T12:34:22.554Z"
   },
   {
     "outletId": "google-news",
@@ -1683,6 +1844,29 @@
       }
     ],
     "fetchedAt": "2026-10-17T11:04:57.945Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The National Law Review",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1dIYVVNdkRGZ195ZzZ3MVVMRkVaWnZENjNQS1dCdkU1bFg2Qnh2bWNTQlBmb1VzWWxvT0VpT1B6Um95S2pOYjdUY0tSUXN2OVhjQlktcEdVbzdOM2pMU3NHc3psRDJoTjVmMFNlbFZCemdpeGlSZTBhbjVwemRSb1NZempLY2ZYNzJGZ2tVRFAzR0RtQndST29VV1JHakR3czZ1UHYzUTFVTEdB?oc=5",
+    "urlSlug": null,
+    "title": "FSC Certified Excellence: How CAIMEI Emerged as a China Best Book Printing Solution Provider",
+    "summary": "",
+    "publishedAt": "2026-10-16T11:52:07.000Z",
+    "categories": [],
+    "guid": "CBMirAFBVV95cUxOZ1dIYVVNdkRGZ195ZzZ3MVVMRkVaWnZENjNQS1dCdkU1bFg2Qnh2bWNTQlBmb1VzWWxvT0VpT1B6Um95S2pOYjdUY0tSUXN2OVhjQlktcEdVbzdOM2pMU3NHc3psRDJoTjVmMFNlbFZCemdpeGlSZTBhbjVwemRSb1NZempLY2ZYNzJGZ2tVRFAzR0RtQndST29VV1JHakR3czZ1UHYzUTFVTEdB",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-27T12:34:22.554Z"
   },
   {
     "outletId": "google-news",
