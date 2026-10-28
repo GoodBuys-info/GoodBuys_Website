@@ -1,6 +1,167 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "FreshPlaza",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFFBRndhdEhIR2IzemllYUN3ZU01RWVHS0pydWk2MmlvS3F5aWR0N2ZSX2ZONkp0aGQyUzYwMDhIZUpxcUx2alViLXBiVGxkV0F2d3hrYWJheXRVempXeEV1cHNhT2RMWW5WdjBGZUg5NTJ1ZEdVbjE2MTh3U3prRXE4R2UzWFJTTEhkal9ITmlVZGVnQTZub1ItY2o4bWNjZ1BmR2NnMXF4dzJIY3RlM3FBTXRyMl9lSDdYblI3UnY1bUxfekd3MlhB?oc=5",
+    "urlSlug": null,
+    "title": "Fair Trade Certified Florida grapefruit enters market for the first time",
+    "summary": "",
+    "publishedAt": "2026-10-28T13:12:20.000Z",
+    "categories": [],
+    "guid": "CBMiygFBVV95cUxNSFFBRndhdEhIR2IzemllYUN3ZU01RWVHS0pydWk2MmlvS3F5aWR0N2ZSX2ZONkp0aGQyUzYwMDhIZUpxcUx2alViLXBiVGxkV0F2d3hrYWJheXRVempXeEV1cHNhT2RMWW5WdjBGZUg5NTJ1ZEdVbjE2MTh3U3prRXE4R2UzWFJTTEhkal9ITmlVZGVnQTZub1ItY2o4bWNjZ1BmR2NnMXF4dzJIY3RlM3FBTXRyMl9lSDdYblI3UnY1bUxfekd3MlhB",
+    "searchedLabel": "fair-trade",
+    "matches": [
+      {
+        "labelId": "fair-trade",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Fair Trade Certified"
+      }
+    ],
+    "fetchedAt": "2026-10-28T13:22:51.482Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "PBSA News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZjhDYm1zMmpTbUhLUzBrVV9jWURra25sSjM3QllKeXI0ejhlMU5TMmNyOFl0NVgyeWlFWVZRNmdGWm1uSDB6dEx2c1FRcFJFWHFNOG9mTDJMWUQwTExRdnZFaTUxQVMwSzhxVlJ5SzlGaWw2WUt4Y2NiclBYVGVhOXdtdTFTMlFlSllPbGx4bEVXcVZneE1r?oc=5",
+    "urlSlug": null,
+    "title": "Design works at Southwark OSD PBSA achieve BREEAM ‘Outstanding’",
+    "summary": "",
+    "publishedAt": "2026-10-28T12:35:07.000Z",
+    "categories": [],
+    "guid": "CBMilwFBVV95cUxPZjhDYm1zMmpTbUhLUzBrVV9jWURra25sSjM3QllKeXI0ejhlMU5TMmNyOFl0NVgyeWlFWVZRNmdGWm1uSDB6dEx2c1FRcFJFWHFNOG9mTDJMWUQwTExRdnZFaTUxQVMwSzhxVlJ5SzlGaWw2WUt4Y2NiclBYVGVhOXdtdTFTMlFlSllPbGx4bEVXcVZneE1r",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-28T13:22:51.482Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Design Middle East",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRDBreUQ2OERxT29XVU9sM0V3RzYwQ1Q0WGZqTmk1cGpuQXN6UEw1aVY3a2RtZldORXJKOU9JMXBsUGpFb1E0N1FiNXE3YzhtckxfOWJLMTJ0ZklIQVNXbzFmVmFpeEpiTERCT3hmXzN6cnRDQURJdWZCVUk4czNxR1lBcWRNbFk?oc=5",
+    "urlSlug": null,
+    "title": "DesertBoard’s PSB® Supports Up to 20 LEED v5 Points",
+    "summary": "",
+    "publishedAt": "2026-10-28T09:37:44.000Z",
+    "categories": [],
+    "guid": "CBMihwFBVV95cUxNRDBreUQ2OERxT29XVU9sM0V3RzYwQ1Q0WGZqTmk1cGpuQXN6UEw1aVY3a2RtZldORXJKOU9JMXBsUGpFb1E0N1FiNXE3YzhtckxfOWJLMTJ0ZklIQVNXbzFmVmFpeEpiTERCT3hmXzN6cnRDQURJdWZCVUk4czNxR1lBcWRNbFk",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-28T13:22:51.482Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Zawya",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc1RUZUNadkVhbTBVb1JtRUlfSDJudnJyZFFQT2hIdWdSbXA2eC1hQTJkNHZhWFNYU3hOWWpQZmw2MlloZEV1WTdMRXdHVHVxZ0RPTVQ5NVp2WlJ0RWtFVmRRc2tNVnhDeFJ3VlJ5a0RlX20xSTZVcWRBcEZGV2ltZEpiY0VXSHZyMTluZXdWNFlyWVRwazJXcXJqUENUUS1UQW9SZmE0dXRUVERTSk80YWdSc2p3WjlKbjBmbjF4bm51b0xqdFpZX2ZndW5VdGRIZndtdjdDOUZDelVXV3FLcVMyM1Qzd0pNM1FhQlgxcjBIZw?oc=5",
+    "urlSlug": null,
+    "title": "Al Jalila Foundation building achieves LEED Gold Certification for sustainable building operations",
+    "summary": "",
+    "publishedAt": "2026-10-28T09:37:00.000Z",
+    "categories": [],
+    "guid": "CBMi8gFBVV95cUxQc1RUZUNadkVhbTBVb1JtRUlfSDJudnJyZFFQT2hIdWdSbXA2eC1hQTJkNHZhWFNYU3hOWWpQZmw2MlloZEV1WTdMRXdHVHVxZ0RPTVQ5NVp2WlJ0RWtFVmRRc2tNVnhDeFJ3VlJ5a0RlX20xSTZVcWRBcEZGV2ltZEpiY0VXSHZyMTluZXdWNFlyWVRwazJXcXJqUENUUS1UQW9SZmE0dXRUVERTSk80YWdSc2p3WjlKbjBmbjF4bm51b0xqdFpZX2ZndW5VdGRIZndtdjdDOUZDelVXV3FLcVMyM1Qzd0pNM1FhQlgxcjBIZw",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-28T13:22:51.482Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Insider Media Ltd",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTl9MUkRxeVFobnhBaG1fcjVnMlZrdmFrUUt6Sno2WWMxMmZMa2tsZlpMWUExbFFacE1hd2NVQTNyTGc3QmctYXBIVXI5QmNOTnROYVNkeWp5dEtPdWJWN3ZEYS1mUFZVMElCeGZSVGdOVWVjeHFtUkd5MXd5Q29UM1FRMkFuVUpvYU1uVnp2RlQ3UjAyZ0ZnWlktYm00MDVyeDhaVjJ3?oc=5",
+    "urlSlug": null,
+    "title": "BREEAM Outstanding development showcased to industry bodies",
+    "summary": "",
+    "publishedAt": "2026-10-28T05:07:16.000Z",
+    "categories": [],
+    "guid": "CBMipgFBVV95cUxPTl9MUkRxeVFobnhBaG1fcjVnMlZrdmFrUUt6Sno2WWMxMmZMa2tsZlpMWUExbFFacE1hd2NVQTNyTGc3QmctYXBIVXI5QmNOTnROYVNkeWp5dEtPdWJWN3ZEYS1mUFZVMElCeGZSVGdOVWVjeHFtUkd5MXd5Q29UM1FRMkFuVUpvYU1uVnp2RlQ3UjAyZ0ZnWlktYm00MDVyeDhaVjJ3",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-28T13:22:51.482Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Irish Independent",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1NHVXJjV0ppOWI2d3VFWnRHVmtHajZXTllCUU5VZVNMOTlSd3o4Y0FZSXp4bHdwbGdxcXoxNERjamV2Q0E2d2NSVkpscE0wSWNremtxQi1pUFlDQ0wydU4tY1NuTVBPQVpUSVZ0TVZFZ0NTTldIUWlBNlVlT3BPRHJiODZMLWdIeVF5SDZGRUwzeU5fTmh1SWJMOHpVMXlzVG1kZ3lxdHpxQnN0WkZHZW40b29FZnpQYWg0XzNLNA?oc=5",
+    "urlSlug": null,
+    "title": "North Kerry mobile home park near blue flag beach plans expansion",
+    "summary": "",
+    "publishedAt": "2026-10-28T05:00:00.000Z",
+    "categories": [],
+    "guid": "CBMivwFBVV95cUxOT1NHVXJjV0ppOWI2d3VFWnRHVmtHajZXTllCUU5VZVNMOTlSd3o4Y0FZSXp4bHdwbGdxcXoxNERjamV2Q0E2d2NSVkpscE0wSWNremtxQi1pUFlDQ0wydU4tY1NuTVBPQVpUSVZ0TVZFZ0NTTldIUWlBNlVlT3BPRHJiODZMLWdIeVF5SDZGRUwzeU5fTmh1SWJMOHpVMXlzVG1kZ3lxdHpxQnN0WkZHZW40b29FZnpQYWg0XzNLNA",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-10-28T13:22:51.482Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Materia Rinnovabile | Renewable Matter",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTQxM1ctSEdfMDQ5eGMzbWQ4cnpiVzZpN1N3Z0ozdEJha2RxN05USDhHOE9lczh3UTBnYnVMZllLZ2dVY1h3a2hmTjI5VFprdHdpRWJBd3RTWU1FNTI3R19xMXIwNTdQTTN5RmxGZ0JlNzhaUkZ1VmVPN2NRNmc0Mm5Tbm9hNjhld3ZhNzgxWmdQdmM?oc=5",
+    "urlSlug": null,
+    "title": "COP17, the value of forests: an interview with Steve Edwards (FSC)",
+    "summary": "",
+    "publishedAt": "2026-10-27T15:08:56.000Z",
+    "categories": [],
+    "guid": "CBMikwFBVV95cUxNOTQxM1ctSEdfMDQ5eGMzbWQ4cnpiVzZpN1N3Z0ozdEJha2RxN05USDhHOE9lczh3UTBnYnVMZllLZ2dVY1h3a2hmTjI5VFprdHdpRWJBd3RTWU1FNTI3R19xMXIwNTdQTTN5RmxGZ0JlNzhaUkZ1VmVPN2NRNmc0Mm5Tbm9hNjhld3ZhNzgxWmdQdmM",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-28T13:22:51.482Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "SeafoodSource",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzBQUzZDdkxOeXA1UWVaUFF3d1VONEZwd0pTcWNxUnd4ZG5lQ1I5dFZKc0RUSDRseFFjYkdyUEVvUkExcEhwY09kcWZyWXAxRHJNd3prU2dRcmdSeGV5bmZ6dk8yZWNhX0dmaFNYTHNmSE5scVBNajBJUzJfUkFTYml1UW5PRWxIV1ZLaFNYX2hGbkFhNHR3VHZwVDM4SmJMVGppdV9RUG4zTkhVQzMzSlZ1SlZTUQ?oc=5",
@@ -21,6 +182,29 @@
       }
     ],
     "fetchedAt": "2026-10-27T12:34:22.554Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Forest Stewardship Council (FSC)",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOTF2Zmg5RDRqUFZSd3VoSTNNRG1UekxzRjVCME9Ma210NGtjZFdrNmQwMnFZR2JBdThsSkh2U3BpY2hPR05Jd0tZZnkwTGdSaWVHb21STW5tc0ZoakExdndwbXR5Zko1U3NpU2EzSm45MFBOQjc0bWNIVlBKUjlfN3o2T0lYYUVxajZrV25HSFBRZkxZcFptZlpuWXdSQ25LVXhDX3BfNlIzM1dR?oc=5",
+    "urlSlug": null,
+    "title": "FSC seeks stakeholder input on FPIC Guidance for Remedy",
+    "summary": "",
+    "publishedAt": "2026-10-27T09:40:14.000Z",
+    "categories": [],
+    "guid": "CBMirAFBVV95cUxNOTF2Zmg5RDRqUFZSd3VoSTNNRG1UekxzRjVCME9Ma210NGtjZFdrNmQwMnFZR2JBdThsSkh2U3BpY2hPR05Jd0tZZnkwTGdSaWVHb21STW5tc0ZoakExdndwbXR5Zko1U3NpU2EzSm45MFBOQjc0bWNIVlBKUjlfN3o2T0lYYUVxajZrV25HSFBRZkxZcFptZlpuWXdSQ25LVXhDX3BfNlIzM1dR",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-28T13:22:51.482Z"
   },
   {
     "outletId": "google-news",
@@ -90,6 +274,29 @@
       }
     ],
     "fetchedAt": "2026-10-27T12:34:22.554Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "www.marketscreener.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1ZMR3NlNElqVWwyRmFkTUM1eF9FRTJZa2RlSVRMd2hnckxqMDdkT3JZM2dpLXNwOVdmM05Mb1RLSDNiY19hSGVpSmd1M3F6c19LRy1ZdWVYLU9UTlhldnB3Z3p2Q203ZTBPa2tvWUp0OFZBdVdpallJUENqZ2UtQU1SZnNnMDFpTEdpQ2xoTDdfUzMwVTVudnM4NUIwclVTZTJ2c1gxeXJiYVVtSG5LR05ndGxJaUk?oc=5",
+    "urlSlug": null,
+    "title": "ProsperCap Secures Green Key Certification for All 17 UK Hotels",
+    "summary": "",
+    "publishedAt": "2026-10-26T10:34:01.000Z",
+    "categories": [],
+    "guid": "CBMitwFBVV95cUxQc1ZMR3NlNElqVWwyRmFkTUM1eF9FRTJZa2RlSVRMd2hnckxqMDdkT3JZM2dpLXNwOVdmM05Mb1RLSDNiY19hSGVpSmd1M3F6c19LRy1ZdWVYLU9UTlhldnB3Z3p2Q203ZTBPa2tvWUp0OFZBdVdpallJUENqZ2UtQU1SZnNnMDFpTEdpQ2xoTDdfUzMwVTVudnM4NUIwclVTZTJ2c1gxeXJiYVVtSG5LR05ndGxJaUk",
+    "searchedLabel": "green-key",
+    "matches": [
+      {
+        "labelId": "green-key",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Key"
+      }
+    ],
+    "fetchedAt": "2026-10-28T13:22:51.482Z"
   },
   {
     "outletId": "google-news",
@@ -234,6 +441,29 @@
       }
     ],
     "fetchedAt": "2026-10-25T11:56:11.153Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Killeen Daily Herald",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOclNMTWFDdjUzcUM5Y2N1V2Iwd21NSzBfVVZYQ2U0N3JDMmtlX2NycWJBWTlvMU5RQkNPV0JJRHRPaWFMVWpvcUM1T0RwYkNRVTluWTB3bUtrelBSMUFIcjRQdXF5dVhNMkhxWDNJclZmNFNWSUZ3TEF0dVROYU9HRzAxalVaei1aQjlqWEFvNWtadDRDQkw0ZGV4Yk9KTDV6YnE1dEFtVnNNWjNlZGZSZXJrWEJPZHRRamo3WEZEa1JwTkIwdzcybC1WRjVfS2EwNUZNcTJnY3dZRGJaUWlYVGp3a3k2Y3hTaU5admdQaE80WVE2QVFKRlA3NlhlS1k5cHRrSzQwRUtvOFZhQVRIMXNpZWJuQjZqRVA2TXltaFplcHcyV2c?oc=5",
+    "urlSlug": null,
+    "title": "Sustainable Merino Wool Base Layer for Outdoor and Travel Use from WOOLCANO with RWS Certification",
+    "summary": "",
+    "publishedAt": "2026-10-24T17:13:38.000Z",
+    "categories": [],
+    "guid": "CBMipgJBVV95cUxOclNMTWFDdjUzcUM5Y2N1V2Iwd21NSzBfVVZYQ2U0N3JDMmtlX2NycWJBWTlvMU5RQkNPV0JJRHRPaWFMVWpvcUM1T0RwYkNRVTluWTB3bUtrelBSMUFIcjRQdXF5dVhNMkhxWDNJclZmNFNWSUZ3TEF0dVROYU9HRzAxalVaei1aQjlqWEFvNWtadDRDQkw0ZGV4Yk9KTDV6YnE1dEFtVnNNWjNlZGZSZXJrWEJPZHRRamo3WEZEa1JwTkIwdzcybC1WRjVfS2EwNUZNcTJnY3dZRGJaUWlYVGp3a3k2Y3hTaU5admdQaE80WVE2QVFKRlA3NlhlS1k5cHRrSzQwRUtvOFZhQVRIMXNpZWJuQjZqRVA2TXltaFplcHcyV2c",
+    "searchedLabel": "rws",
+    "matches": [
+      {
+        "labelId": "rws",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "RWS"
+      }
+    ],
+    "fetchedAt": "2026-10-28T13:22:51.482Z"
   },
   {
     "outletId": "google-news",
@@ -2396,6 +2626,29 @@
       }
     ],
     "fetchedAt": "2026-10-17T11:04:57.945Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "HKTDC Research",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UR1VxVjlEX1FwcU9kVXI0S3U1alE3QTBtQjdsRFlMS0M1ZHA2VEpENC1MN051SkEtQXpROHVibWdySV9nN3IzMVVBazlmVm1rcHdHUVc2SWhuQnNNbVFKS1F3?oc=5",
+    "urlSlug": null,
+    "title": "Eurobarometer Survey Reveals Growing Consumer Trust in EU Ecolabel",
+    "summary": "",
+    "publishedAt": "2026-10-15T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMiYkFVX3lxTE9UR1VxVjlEX1FwcU9kVXI0S3U1alE3QTBtQjdsRFlMS0M1ZHA2VEpENC1MN051SkEtQXpROHVibWdySV9nN3IzMVVBazlmVm1rcHdHUVc2SWhuQnNNbVFKS1F3",
+    "searchedLabel": "eu-ecolabel",
+    "matches": [
+      {
+        "labelId": "eu-ecolabel",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "EU Ecolabel"
+      }
+    ],
+    "fetchedAt": "2026-10-28T13:22:51.482Z"
   },
   {
     "outletId": "google-news",
