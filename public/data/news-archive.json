@@ -1,6 +1,190 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Fish Farmer",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR3dQenNJV3BGLU9UclY1Y0pVTW10YndQdU5PbVJvTUVSMmpNVG50Mmd2SnFrX01Mb250dV9FSE1hNVUxTUMtOFlUcldEaFVOd3hCcHVyc1BBTzZCZ0R6SWdYenFEWjZ2UGxvaUdnaTEtemxfQU55dUdwZVpMMWxseXFjOGR2bEdXYUxUMDNJMDczMWFpTVE?oc=5",
+    "urlSlug": null,
+    "title": "News - Su Cox honoured with ASC Lifetime Achievement Award",
+    "summary": "",
+    "publishedAt": "2026-10-29T12:03:28.000Z",
+    "categories": [],
+    "guid": "CBMilgFBVV95cUxQR3dQenNJV3BGLU9UclY1Y0pVTW10YndQdU5PbVJvTUVSMmpNVG50Mmd2SnFrX01Mb250dV9FSE1hNVUxTUMtOFlUcldEaFVOd3hCcHVyc1BBTzZCZ0R6SWdYenFEWjZ2UGxvaUdnaTEtemxfQU55dUdwZVpMMWxseXFjOGR2bEdXYUxUMDNJMDczMWFpTVE",
+    "searchedLabel": "asc",
+    "matches": [
+      {
+        "labelId": "asc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ASC"
+      }
+    ],
+    "fetchedAt": "2026-10-29T13:32:23.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "BTR News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGRkc2tJR2EyVzI0QWJCcl94VUxEcUY0RDdGdGo0RHY4NFlLdFJpelN2eXpxTDlzRC05NW1zblhvR01WUkJoRlpCRTAxdDR2TmRqaFg3b1BncnU0OTR6RzNJTmE3M0p0LTY3V2dKc0pMRXdrcFJSOWEtTXkwUW1IYWxYaUJYSW82TGdKajFCUFRKZkMwZFBzQkpGamY?oc=5",
+    "urlSlug": null,
+    "title": "Long Harbour’s The Eades BTR achieves BREEAM Residential ‘Excellent’",
+    "summary": "",
+    "publishedAt": "2026-10-29T11:50:32.000Z",
+    "categories": [],
+    "guid": "CBMinAFBVV95cUxOaGRkc2tJR2EyVzI0QWJCcl94VUxEcUY0RDdGdGo0RHY4NFlLdFJpelN2eXpxTDlzRC05NW1zblhvR01WUkJoRlpCRTAxdDR2TmRqaFg3b1BncnU0OTR6RzNJTmE3M0p0LTY3V2dKc0pMRXdrcFJSOWEtTXkwUW1IYWxYaUJYSW82TGdKajFCUFRKZkMwZFBzQkpGamY",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-29T13:32:23.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "PBSA News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaHE2LWpCODY0Q19jall1M1N2UzhXY1RmT2ZVMDlhOXg2dFdncGRINnZ1Yko4ZzY4bnFnNUdtUl9pNWRyZ2pmTGkzSVphUm5kSkhQajFGWi1jRFFLUDhkRlcxUnZvaW5FTXA4RVprcHlFSWVod2pTRk9sNnlvbVlsZ2xvV3BCNVVUbDRqNTRR?oc=5",
+    "urlSlug": null,
+    "title": "The Social Hub to recertify under new B Corp standards",
+    "summary": "",
+    "publishedAt": "2026-10-29T11:14:07.000Z",
+    "categories": [],
+    "guid": "CBMijgFBVV95cUxQaHE2LWpCODY0Q19jall1M1N2UzhXY1RmT2ZVMDlhOXg2dFdncGRINnZ1Yko4ZzY4bnFnNUdtUl9pNWRyZ2pmTGkzSVphUm5kSkhQajFGWi1jRFFLUDhkRlcxUnZvaW5FTXA4RVprcHlFSWVod2pTRk9sNnlvbVlsZ2xvV3BCNVVUbDRqNTRR",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-10-29T13:32:23.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Idéal Investisseur",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcWkyUlNyNlhYOFZBanVEZ0lpRXJqa25sR3RhT0JPeE5FQWNuV3dQbHFQRjg3WjhiRkJCNGdYUUMxczJBODdxcXlFSDhkcEZyZk90NXFwdUJpYUZWTXA2cVFvMFc0RGF4Q0tpSWJFZC1pT2J0dG8yQkxRYzBIcGpMdFJBWU1EWjBxSWRzSFRkZnlsUm4xU2Y3R0ZvVHFjYkVZVnNYNFJxbXctTUdrRW8yZ2NFVzRKMjRNZUNaYnd0UkJkcEVEaFBQQk1CdlBHUQ?oc=5",
+    "urlSlug": null,
+    "title": "Accsys: its Accoya wood achieves Cradle to Cradle version 5.0 certification",
+    "summary": "",
+    "publishedAt": "2026-10-29T09:03:00.000Z",
+    "categories": [],
+    "guid": "CBMizgFBVV95cUxOcWkyUlNyNlhYOFZBanVEZ0lpRXJqa25sR3RhT0JPeE5FQWNuV3dQbHFQRjg3WjhiRkJCNGdYUUMxczJBODdxcXlFSDhkcEZyZk90NXFwdUJpYUZWTXA2cVFvMFc0RGF4Q0tpSWJFZC1pT2J0dG8yQkxRYzBIcGpMdFJBWU1EWjBxSWRzSFRkZnlsUm4xU2Y3R0ZvVHFjYkVZVnNYNFJxbXctTUdrRW8yZ2NFVzRKMjRNZUNaYnd0UkJkcEVEaFBQQk1CdlBHUQ",
+    "searchedLabel": "cradle-to-cradle",
+    "matches": [
+      {
+        "labelId": "cradle-to-cradle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Cradle to Cradle"
+      }
+    ],
+    "fetchedAt": "2026-10-29T13:32:23.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Celta",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPa3F5UWw4ajZkOHd3UmFpeXpvZk5INmN1LUQzYlRmejF6Nk01ejNlRUtOQ2FaQ2ItLW5RM0RyYXVUaGdHdm1pWGJqUnk5a2JmY2p5aEJCSFVQMEFXQzkwZWNlRFZjQWJqcFlzbGN5d0NsazcxOEVLMHlFM3VkOGQyUUhlemRJT3NNbWtZbjBkeW9aQkhFcExQdm41NVhVVGo1dmwwWTE4dU5lZUNreWFta3JDM29lQ1dySEFwcjdFUkNxeG51RHlOMEllTUNwTkk?oc=5",
+    "urlSlug": null,
+    "title": "Celta, awarded at the “III BREEAM ES Awards” for the sustainable and integrated design of Celta360",
+    "summary": "",
+    "publishedAt": "2026-10-29T08:30:28.000Z",
+    "categories": [],
+    "guid": "CBMizwFBVV95cUxPa3F5UWw4ajZkOHd3UmFpeXpvZk5INmN1LUQzYlRmejF6Nk01ejNlRUtOQ2FaQ2ItLW5RM0RyYXVUaGdHdm1pWGJqUnk5a2JmY2p5aEJCSFVQMEFXQzkwZWNlRFZjQWJqcFlzbGN5d0NsazcxOEVLMHlFM3VkOGQyUUhlemRJT3NNbWtZbjBkeW9aQkhFcExQdm41NVhVVGo1dmwwWTE4dU5lZUNreWFta3JDM29lQ1dySEFwcjdFUkNxeG51RHlOMEllTUNwTkk",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-10-29T13:32:23.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Middle East Construction News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdW05a2x0ZVhFYUhNNDU3eHNndUcxSGlSM2hoSFhteEhJSlhJdU5FS0RobDdDRmRSNV8zUGR6QUZ6RVp1dzFzdGs1dHdneFNlOTc1MVZUa3ByNzFHMEFqSFpaM2FHcUlrN3hEdmJ3WWlUUGhmeUN6UjgwMGdFaV95MExoOU9KdTVVTWp1aGk4c1NPdlZ0a1g2Wk9oeW5KR2ZldGpxeExCNlRlS1l2Snk2cA?oc=5",
+    "urlSlug": null,
+    "title": "DesertBoard’s PSB supports project teams looking to gain LEED v5 Points",
+    "summary": "",
+    "publishedAt": "2026-10-29T05:35:31.000Z",
+    "categories": [],
+    "guid": "CBMisAFBVV95cUxQdW05a2x0ZVhFYUhNNDU3eHNndUcxSGlSM2hoSFhteEhJSlhJdU5FS0RobDdDRmRSNV8zUGR6QUZ6RVp1dzFzdGs1dHdneFNlOTc1MVZUa3ByNzFHMEFqSFpaM2FHcUlrN3hEdmJ3WWlUUGhmeUN6UjgwMGdFaV95MExoOU9KdTVVTWp1aGk4c1NPdlZ0a1g2Wk9oeW5KR2ZldGpxeExCNlRlS1l2Snk2cA",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-29T13:32:23.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "WLOS",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeGJiU1o3d1czNmtFeWh2MHM0ZlR3dnFvcGVwU04tLS1ab3Rka3Jaa1JRZnFFeGl6NzVTY01JZzBIQU1ibG9maGFTWjZEWkR6Ym9mQko5MmFIVHhmUDlkd0FzeGdyalJrd0JCcl9fVmtOeUl1em03bmNESGlzZHZ6QjM0U252WXRiYVpfOVdUOVROTjBmSG85WUcwQUM0bFRwOWl6eDRMbTVWMXQxWkJFeUNWLU5taERMNEE0UmlQbm00OHd2OHAtTl8yY0ctZlE5R0E?oc=5",
+    "urlSlug": null,
+    "title": "Asheville Municipal Golf Course certified as Audubon International Cooperative Sanctuary",
+    "summary": "",
+    "publishedAt": "2026-10-28T21:19:15.000Z",
+    "categories": [],
+    "guid": "CBMi0gFBVV95cUxOeGJiU1o3d1czNmtFeWh2MHM0ZlR3dnFvcGVwU04tLS1ab3Rka3Jaa1JRZnFFeGl6NzVTY01JZzBIQU1ibG9maGFTWjZEWkR6Ym9mQko5MmFIVHhmUDlkd0FzeGdyalJrd0JCcl9fVmtOeUl1em03bmNESGlzZHZ6QjM0U252WXRiYVpfOVdUOVROTjBmSG85WUcwQUM0bFRwOWl6eDRMbTVWMXQxWkJFeUNWLU5taERMNEE0UmlQbm00OHd2OHAtTl8yY0ctZlE5R0E",
+    "searchedLabel": "audubon-international",
+    "matches": [
+      {
+        "labelId": "audubon-international",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Audubon International"
+      }
+    ],
+    "fetchedAt": "2026-10-29T13:32:23.296Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "LBM Journal",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYzBTS0ZPa2FrMUc0cUFaU1U5Sm9kYkgwa0FKLW44SGdpc3ZfVVgxcTMtdnBqaGVpemx1WDVrejVqX01uN3J0cjcxc0FQNHVlWmRBdzJiY3RpYUN3SnhYYkVDNnlwZjdmdjNOM1l0SzhlOTJ1bUZYYUtiLXVTM0FKYy1BVGtES0QwOG9zUFVSX19nUUQzZFB0SV9SaS05VndvTlJSOWFyNS10Ukc4YnhLTTVjb19CX2dDMmFBUDlMRUF6U0t6bFpNVkpWa2czYzRkRnpYWUxNWHlSb0liWkE?oc=5",
+    "urlSlug": null,
+    "title": "Accoya and Accoya Color Achieve Cradle to Cradle Certified Gold Full Scope",
+    "summary": "",
+    "publishedAt": "2026-10-28T18:48:11.000Z",
+    "categories": [],
+    "guid": "CBMi3gFBVV95cUxNYzBTS0ZPa2FrMUc0cUFaU1U5Sm9kYkgwa0FKLW44SGdpc3ZfVVgxcTMtdnBqaGVpemx1WDVrejVqX01uN3J0cjcxc0FQNHVlWmRBdzJiY3RpYUN3SnhYYkVDNnlwZjdmdjNOM1l0SzhlOTJ1bUZYYUtiLXVTM0FKYy1BVGtES0QwOG9zUFVSX19nUUQzZFB0SV9SaS05VndvTlJSOWFyNS10Ukc4YnhLTTVjb19CX2dDMmFBUDlMRUF6U0t6bFpNVkpWa2czYzRkRnpYWUxNWHlSb0liWkE",
+    "searchedLabel": "cradle-to-cradle",
+    "matches": [
+      {
+        "labelId": "cradle-to-cradle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Cradle to Cradle"
+      }
+    ],
+    "fetchedAt": "2026-10-29T13:32:23.296Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "FreshPlaza",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFFBRndhdEhIR2IzemllYUN3ZU01RWVHS0pydWk2MmlvS3F5aWR0N2ZSX2ZONkp0aGQyUzYwMDhIZUpxcUx2alViLXBiVGxkV0F2d3hrYWJheXRVempXeEV1cHNhT2RMWW5WdjBGZUg5NTJ1ZEdVbjE2MTh3U3prRXE4R2UzWFJTTEhkal9ITmlVZGVnQTZub1ItY2o4bWNjZ1BmR2NnMXF4dzJIY3RlM3FBTXRyMl9lSDdYblI3UnY1bUxfekd3MlhB?oc=5",
@@ -208,6 +392,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Environmental Leader",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOVBwVVB1QjZfbm5zSFBtUUVSdk1uTTYzVVdjVzNEbFVWTk81djBpbzNybGNXVGZ6dC1OMWhzb0ZIWWx5MzVJeF9kTTVKMUk4cTdRMUh6V28xZ2oxV3VtUU8yWUtiMGUwemVHWXVkUEpnbVR2emxXVDRiUk1zUDE3bG9wVTJzaElCenUtOHVYT0hKaHRjSGRVZzZZazZjZ0dIYlF6SDZCZWprYl9kT0g2dW40eHo0eDg3SGw4OU1VbjBuUWs?oc=5",
+    "urlSlug": null,
+    "title": "US Green Building Council Adopts National Resilience Standard for LEED",
+    "summary": "",
+    "publishedAt": "2026-10-27T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMiwwFBVV95cUxQOVBwVVB1QjZfbm5zSFBtUUVSdk1uTTYzVVdjVzNEbFVWTk81djBpbzNybGNXVGZ6dC1OMWhzb0ZIWWx5MzVJeF9kTTVKMUk4cTdRMUh6V28xZ2oxV3VtUU8yWUtiMGUwemVHWXVkUEpnbVR2emxXVDRiUk1zUDE3bG9wVTJzaElCenUtOHVYT0hKaHRjSGRVZzZZazZjZ0dIYlF6SDZCZWprYl9kT0g2dW40eHo0eDg3SGw4OU1VbjBuUWs",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-29T13:32:23.296Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Bristol24/7",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRnhIZ3V2ZmhsX29KenhWaEpvWTRTd0l0X0ZPWmhteEJMZUVrSVNiNGtOWWQ5Vy1MTHVLWVV2RE5iRklIbFRzdXQxMmY5NjhtZTdhUV9ISWV5YTF2YkRneDNLSEwydzB4aFRqR3pRNlVqUGV3SHVxVTRVbS1wT0pvMzl5ZEI2RWxMdTVtUjdiUTZaUnp1T0p1V0gwZm5fY2V2VHhiMUtsMHdQWjI4Z3pjTnFGUFlGdXl4SmtraGk2WQ?oc=5",
@@ -251,6 +458,29 @@
       }
     ],
     "fetchedAt": "2026-10-27T12:34:22.554Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Colliers",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNVDlkd3pJdzdHVmMxR2ZOMDlwU1UxMXFoSVVVdlptMnpteV9WUGFnTWJ0SS1mMlBpTjdlUXFSWUFlTUFvb2RINE9ERy1iRUJEM2Fpeksya2pnTHphME9FS3IxbjhUODBuWWt5R0dFQUZRYXdLTmc?oc=5",
+    "urlSlug": null,
+    "title": "Oradea Plaza achieves LEED Gold and shows how existing buildings can be brought up to the standards of new developments",
+    "summary": "",
+    "publishedAt": "2026-10-26T16:24:14.000Z",
+    "categories": [],
+    "guid": "CBMidkFVX3lxTFBNVDlkd3pJdzdHVmMxR2ZOMDlwU1UxMXFoSVVVdlptMnpteV9WUGFnTWJ0SS1mMlBpTjdlUXFSWUFlTUFvb2RINE9ERy1iRUJEM2Fpeksya2pnTHphME9FS3IxbjhUODBuWWt5R0dFQUZRYXdLTmc",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-29T13:32:23.296Z"
   },
   {
     "outletId": "google-news",
@@ -320,6 +550,29 @@
       }
     ],
     "fetchedAt": "2026-10-27T12:34:22.554Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "헤럴드경제",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vMDYyVHZ3Q2tjTUtvSzBzaW9nSlEyd0JjcmlIeXBscERkY3ROTjVUaXBzNlZiakVfZEN5aDQtNjlxOUI0ZnFfZTkzd0NlN19zMzBpM3lR?oc=5",
+    "urlSlug": null,
+    "title": "Jeju Shinhwa World earns Green Key certification for 3rd consecutive year",
+    "summary": "",
+    "publishedAt": "2026-10-26T06:27:22.000Z",
+    "categories": [],
+    "guid": "CBMiVkFVX3lxTE9vMDYyVHZ3Q2tjTUtvSzBzaW9nSlEyd0JjcmlIeXBscERkY3ROTjVUaXBzNlZiakVfZEN5aDQtNjlxOUI0ZnFfZTkzd0NlN19zMzBpM3lR",
+    "searchedLabel": "green-key",
+    "matches": [
+      {
+        "labelId": "green-key",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Key"
+      }
+    ],
+    "fetchedAt": "2026-10-29T13:32:23.296Z"
   },
   {
     "outletId": "google-news",
@@ -671,6 +924,29 @@
       }
     ],
     "fetchedAt": "2026-10-23T11:57:04.879Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Environmental Leader",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc3JucFVaTHZZSWpzVVRYY2ZNTHI1V1dyLVptbm9ZaTROTFFaTGhSRXc5S3BRaFdPU19ubGRfWkswbHhSck1vbkNOUzJwMlhNY1JyeWNWbzRwMXFEMWZRTEpnQW1YX01NcGVDTFg3Mm01NkJhQXBmNEZLclUxZk9GRF9ZVUNob1FUYmY4V2lZRERVRGFJZmd0YUMxS1VmQ2ti?oc=5",
+    "urlSlug": null,
+    "title": "JFK Terminal Awarded LEED Gold Certification",
+    "summary": "",
+    "publishedAt": "2026-10-23T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMioAFBVV95cUxQc3JucFVaTHZZSWpzVVRYY2ZNTHI1V1dyLVptbm9ZaTROTFFaTGhSRXc5S3BRaFdPU19ubGRfWkswbHhSck1vbkNOUzJwMlhNY1JyeWNWbzRwMXFEMWZRTEpnQW1YX01NcGVDTFg3Mm01NkJhQXBmNEZLclUxZk9GRF9ZVUNob1FUYmY4V2lZRERVRGFJZmd0YUMxS1VmQ2ti",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-10-29T13:32:23.296Z"
   },
   {
     "outletId": "google-news",
@@ -2258,6 +2534,29 @@
       }
     ],
     "fetchedAt": "2026-10-25T11:56:11.153Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Detroit Free Press",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORGNGNVMzb29LYm5jenRLWGdDeDZ1Ump0LWtKN3B4WWxUdDU4ZmNLUXZoQ1JCaUI0OG40OU56eFB4VGotZmFVYi1BUmw2Xy13S1ZCQkVxQWhqZGNWVlhpNkFYbllMOHFId2pZMkhIRG9YS1ctUldUc3pkSlo4VWU4bWRHUjdSR05JcmdDdl8wYjJSOHZiZ0hXZ1Jfb05JaV9LaHNENzNTMng0azl0TW92QXJqYTZ4cW9TTG1wc0p2TmZjT0FGWndIY0R3Zk5SOXNlSWdTeW4zVWw?oc=5",
+    "urlSlug": null,
+    "title": "FSC Certified Excellence: How CAIMEI Emerged as a China Best Book Printing Solution Provider",
+    "summary": "",
+    "publishedAt": "2026-10-16T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMi2AFBVV95cUxORGNGNVMzb29LYm5jenRLWGdDeDZ1Ump0LWtKN3B4WWxUdDU4ZmNLUXZoQ1JCaUI0OG40OU56eFB4VGotZmFVYi1BUmw2Xy13S1ZCQkVxQWhqZGNWVlhpNkFYbllMOHFId2pZMkhIRG9YS1ctUldUc3pkSlo4VWU4bWRHUjdSR05JcmdDdl8wYjJSOHZiZ0hXZ1Jfb05JaV9LaHNENzNTMng0azl0TW92QXJqYTZ4cW9TTG1wc0p2TmZjT0FGWndIY0R3Zk5SOXNlSWdTeW4zVWw",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-10-29T13:32:23.296Z"
   },
   {
     "outletId": "google-news",
@@ -9064,110 +9363,6 @@
         "tier": "text-substring",
         "where": "title",
         "matchedText": "bluesign"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Türkiye Today",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOGhZamhuWENMME1VSjdNckx5M0RXdDdGa2kwWlBWQTI0dXBxODE4UXBLeUZRY0Vkd3VRVGZOYTRxMnZXRUVKQjZGRmUwcEthQ2dzdGN6YmRvbVdNWC1xMW5RUWhPS0lNWXhKYmRZakV6WEh0Z2VXZ1VOaFA5aTdIYlRfdU5iNDRSWWt6RWdMS285OXE0aUx5dEZKa0FOdV9oU2c?oc=5",
-    "urlSlug": null,
-    "title": "Van's only blue-flag beach draws crowds in summer heat",
-    "summary": "",
-    "publishedAt": "2026-08-09T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiogFBVV95cUxQOGhZamhuWENMME1VSjdNckx5M0RXdDdGa2kwWlBWQTI0dXBxODE4UXBLeUZRY0Vkd3VRVGZOYTRxMnZXRUVKQjZGRmUwcEthQ2dzdGN6YmRvbVdNWC1xMW5RUWhPS0lNWXhKYmRZakV6WEh0Z2VXZ1VOaFA5aTdIYlRfdU5iNDRSWWt6RWdMS285OXE0aUx5dEZKa0FOdV9oU2c",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Oxford Mail",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMkpqWkNfZGljUDg2b2JyNDNvM2QtbGVpVjlKZFdfRlppUGNFZ2lzWlFra2xWNVAzbDg4T3QtbFNuVDd1Y1c0MUxxaGVZY2REZ3phaEVWOGlBRDdzdHpOUXNvRVJBX2YtRDJKZ1EwRUhSN2JoUmItalMzeVBCUV96MlRnS2xlWTZVVDNJVWprSjVsdV9EZmp1V0pKMmk?oc=5",
-    "urlSlug": null,
-    "title": "Oxford butcher Aldens awarded B Corp certification",
-    "summary": "",
-    "publishedAt": "2026-08-08T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMinAFBVV95cUxQMkpqWkNfZGljUDg2b2JyNDNvM2QtbGVpVjlKZFdfRlppUGNFZ2lzWlFra2xWNVAzbDg4T3QtbFNuVDd1Y1c0MUxxaGVZY2REZ3phaEVWOGlBRDdzdHpOUXNvRVJBX2YtRDJKZ1EwRUhSN2JoUmItalMzeVBCUV96MlRnS2xlWTZVVDNJVWprSjVsdV9EZmp1V0pKMmk",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "trellis",
-    "outletName": "Trellis",
-    "url": "https://trellis.net/article/terracycles-ceo-wants-waste-other-recyclers-cant-handle/",
-    "urlSlug": "terracycles-ceo-wants-waste-other-recyclers-cant-handle",
-    "title": "TerraCycle’s CEO wants waste other recyclers can’t handle",
-    "summary": "The company Tom Szaky co-founded 25 years ago as an undergraduate is raising $75 million to acquire companies that recycle difficult-to-handle or regulated materials. The post TerraCycle’s CEO wants waste other recyclers can’t handle appeared first on Trellis .",
-    "publishedAt": "2026-06-03T10:00:00.000Z",
-    "categories": [
-      "Climate Pioneers"
-    ],
-    "guid": "https://trellis.net/?p=112091",
-    "sourceName": null,
-    "sourceUrl": null,
-    "matches": [
-      {
-        "labelId": "terracycle",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "TerraCycle"
-      },
-      {
-        "labelId": "terracycle",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "summary",
-        "matchedText": "TerraCycle"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "trellis",
-    "outletName": "Trellis",
-    "url": "https://trellis.net/article/why-pg-maker-of-bounty-and-charmin-hired-a-forester/",
-    "urlSlug": "why-pg-maker-of-bounty-and-charmin-hired-a-forester",
-    "title": "Why P&G, maker of Bounty and Charmin, hired a forester",
-    "summary": "The consumer goods giant has pledged to buy all of its wood pulp by 2030 from sources certified by the Forest Stewardship Council. The post Why P&G, maker of Bounty and Charmin, hired a forester appeared first on Trellis .",
-    "publishedAt": "2026-06-01T10:00:00.000Z",
-    "categories": [
-      "Executive Moves",
-      "Nature"
-    ],
-    "guid": "https://trellis.net/?p=111991",
-    "sourceName": null,
-    "sourceUrl": null,
-    "matches": [
-      {
-        "labelId": "fsc",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "summary",
-        "matchedText": "Forest Stewardship Council"
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
