@@ -3,6 +3,75 @@
     "outletId": "google-news",
     "outletName": "Seafoodnews",
     "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXp4NW5md2dEaTlqUUNfWjFBNUtxNC1yeWQ2Rk9ldklCUlFDNmZEdDBZdjBDZ3JzRDdVRXdmNy1wNFJHUkQxV1hrZU01aDhqMXROcGRqOEoyS18zX0ctVWw2VnZmVUxzTDJNRkhMZ1NGT3dXNVZYMjNLVUlfdUZyZDVySHp2eG1ERkdBb1hQRldIYzFneGZfY3hXLW5iLWRLNnVnenZZZFJyQQ?oc=5",
+    "urlSlug": null,
+    "title": "MSC's New Model Says Well-Managed Fisheries are Twice as Valuable",
+    "summary": "",
+    "publishedAt": "2026-10-31T04:32:13.000Z",
+    "categories": [],
+    "guid": "CBMiqgFBVV95cUxPWXp4NW5md2dEaTlqUUNfWjFBNUtxNC1yeWQ2Rk9ldklCUlFDNmZEdDBZdjBDZ3JzRDdVRXdmNy1wNFJHUkQxV1hrZU01aDhqMXROcGRqOEoyS18zX0ctVWw2VnZmVUxzTDJNRkhMZ1NGT3dXNVZYMjNLVUlfdUZyZDVySHp2eG1ERkdBb1hQRldIYzFneGZfY3hXLW5iLWRLNnVnenZZZFJyQQ",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-10-31T12:57:44.671Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "fox10tv.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMWRpMDNGbHg3ZGpKZUZjYTVWU2lUbjd0b2FBekFfZ1JWcXBINHB0WnlXWXRTSWM2VktOUFh2RjlQMU9SSHRqUkctdGVTb2g3b2lPRzQtclljZjhYcTRCWDhqekZkcDNXZE1lS3pRRkJSQ0NVMzlobXgxLXhVNXVxUWV3bXlpQ2o3X2FwZw?oc=5",
+    "urlSlug": null,
+    "title": "Blue Angel Homecoming Airshow is next week",
+    "summary": "",
+    "publishedAt": "2026-10-30T20:32:00.000Z",
+    "categories": [],
+    "guid": "CBMijAFBVV95cUxOMWRpMDNGbHg3ZGpKZUZjYTVWU2lUbjd0b2FBekFfZ1JWcXBINHB0WnlXWXRTSWM2VktOUFh2RjlQMU9SSHRqUkctdGVTb2g3b2lPRzQtclljZjhYcTRCWDhqekZkcDNXZE1lS3pRRkJSQ0NVMzlobXgxLXhVNXVxUWV3bXlpQ2o3X2FwZw",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-10-31T12:57:44.671Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Seafoodnews",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcTl4c2JVb2t1SjdwSk16ZXNmWW4zcF9Qai1KdFJWT1UwWmktZHlSbzc4czZKM2RaVmMycU80ZFktb1NrRWYxdS1FV3hGTDZYUmE5eS1uSGtxNEttRzViMzFpcG5obUlJdXpyS3JyenRzOVpvNXhxcVU5ZEVrclBTZFptUzNsNnRLR3dSN2pfX0tGNGJlbnZCYkpTNmxlcVhCeGZYLXpNZ0NDZ2RU?oc=5",
+    "urlSlug": null,
+    "title": "ASC Honors Sainsbury’s, MOWI and Seafood Suppliers at 2026 UK Awards",
+    "summary": "",
+    "publishedAt": "2026-10-30T13:22:18.000Z",
+    "categories": [],
+    "guid": "CBMirAFBVV95cUxOcTl4c2JVb2t1SjdwSk16ZXNmWW4zcF9Qai1KdFJWT1UwWmktZHlSbzc4czZKM2RaVmMycU80ZFktb1NrRWYxdS1FV3hGTDZYUmE5eS1uSGtxNEttRzViMzFpcG5obUlJdXpyS3JyenRzOVpvNXhxcVU5ZEVrclBTZFptUzNsNnRLR3dSN2pfX0tGNGJlbnZCYkpTNmxlcVhCeGZYLXpNZ0NDZ2RU",
+    "searchedLabel": "asc",
+    "matches": [
+      {
+        "labelId": "asc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ASC"
+      }
+    ],
+    "fetchedAt": "2026-10-31T12:57:44.671Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Seafoodnews",
+    "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUJIekZMa05zRHJZYjM1NXZUM056VHJxdkk5QWhUOE15NVh1VkwyYlpydHkybm5Yb3VhZERNSEdRcWZCVXhOenN3WVJUa2hGMy0ydElYSXEzZUVuOVlqNWs5a01FU1VLU012TjFUOXdtazRfUi1UaWd2T0MzRC15WHFjUzZFdENlQ3FZY2wzekZ1ck1iZVhRSEJKUDlJTmItU1Z0eGFfOVF3ZkxjaXBjczhBbm1WNTN2OUVfUnhvZ09BMUI3UEtjVDNCeTVTZkhk?oc=5",
     "urlSlug": null,
     "title": "Blue Crab Emergency: Friend of the Sea and WSF Launch an Initiative to Support Italian Fishers",
@@ -1831,6 +1900,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "PR Newswire",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOVFiMU9ETE5VUWxibjFraGc2MG0zLWdvN2ZvZVpnZmlaYXVUdkhCbVFSSmo4ZWxMVEtWYTZ1ckZqTUdCcUhoMk9kdWhhemIwT0J5bzBMNHB6UUtNSjhKU2t4S0ljSGUzMG5Vc21ENWtaVkpZUk1IVF9DNXk5M1N4WTYtQ2w0UzE3ZlNkWFNXdWRMVTBKSGhBZ3dOZHVEMzMxWHBtLTRPVHQ0eVBjUmVJeEYyZGxJSGhWdjVlbFhMVzJGQUZxU1lTRWc4MGdXVGF3eVVNNXkzc25sRERZcnVjaEJxTTY?oc=5",
+    "urlSlug": null,
+    "title": "Residence Earns Rare Distinction: B Corp Certification Across All Nine Companies in Its Network",
+    "summary": "",
+    "publishedAt": "2026-10-21T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMi5AFBVV95cUxPOVFiMU9ETE5VUWxibjFraGc2MG0zLWdvN2ZvZVpnZmlaYXVUdkhCbVFSSmo4ZWxMVEtWYTZ1ckZqTUdCcUhoMk9kdWhhemIwT0J5bzBMNHB6UUtNSjhKU2t4S0ljSGUzMG5Vc21ENWtaVkpZUk1IVF9DNXk5M1N4WTYtQ2w0UzE3ZlNkWFNXdWRMVTBKSGhBZ3dOZHVEMzMxWHBtLTRPVHQ0eVBjUmVJeEYyZGxJSGhWdjVlbFhMVzJGQUZxU1lTRWc4MGdXVGF3eVVNNXkzc25sRERZcnVjaEJxTTY",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-10-31T12:57:44.671Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "openPR.com",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0JjUlRNbVBSM3lUWjg1TS02Sk90ek5rYkQyazZNN2xGaUdjZEViT1NPVHAwRklMSWV0ZlRDcWJCaU5jOVdQcVZYVUNWS1pQcDZVZXNnNXZDV2UxY0tnNnVDSWtZSnU4Mjd3dnNPU0ZXYWFEdkNJRUZlUE4taF9aaUdZMUloVVMwUGxWNG80cWFIdw?oc=5",
@@ -1966,6 +2058,29 @@
       }
     ],
     "fetchedAt": "2026-10-21T12:12:15.836Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "EIN News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeG44STRHVlRXcEtVY3N1NWNEVFVTNlhid25ZYTVlMU9faWdZVmNrUTF2ZkJFc0FHQ2YwVUtIZ0VIYTkzTHl4LWZka1BZSUhxRDlPMndTenI1Y1JoajN4YkstRWFFSkk3aVRjZnZMNF91M2hSNVduTjVkbWZobktXdk00RU5YYVFEWnJsNnRSanhFTU9CUDVpc0lBTGd0cWxqWnpyWjVjRVBGNWo4?oc=5",
+    "urlSlug": null,
+    "title": "GoGreen Hemp Earns USDA Organic Certification for Its CBD Topicals",
+    "summary": "",
+    "publishedAt": "2026-10-20T13:15:00.000Z",
+    "categories": [],
+    "guid": "CBMirAFBVV95cUxQeG44STRHVlRXcEtVY3N1NWNEVFVTNlhid25ZYTVlMU9faWdZVmNrUTF2ZkJFc0FHQ2YwVUtIZ0VIYTkzTHl4LWZka1BZSUhxRDlPMndTenI1Y1JoajN4YkstRWFFSkk3aVRjZnZMNF91M2hSNVduTjVkbWZobktXdk00RU5YYVFEWnJsNnRSanhFTU9CUDVpc0lBTGd0cWxqWnpyWjVjRVBGNWo4",
+    "searchedLabel": "usda-organic",
+    "matches": [
+      {
+        "labelId": "usda-organic",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "USDA Organic"
+      }
+    ],
+    "fetchedAt": "2026-10-31T12:57:44.671Z"
   },
   {
     "outletId": "google-news",
@@ -2426,6 +2541,29 @@
       }
     ],
     "fetchedAt": "2026-10-19T13:49:21.137Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Fish Farmer",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV21EbWg2UG9IRXpoU1lCRVNLSVVKSEtIWnpyWTMwNjIyZnNSUnJKSnhFVldxZmdtX0FnbDZGMVpMeU5naFl2WWdCM3hBa3dzN1lKR1B5VEo2RTJUME1lMkVHcDBaWXpYTDRIOVhVaGx3ZElUUzVqNlNnY2pnNC1jMkxWRVRIakI3M0VnOGFlbXdZc2IwRUdOMVhCajRhZGI4YlNyTWNzNHRUSi1WRzJR?oc=5",
+    "urlSlug": null,
+    "title": "Su Cox honoured with ASC Lifetime Achievement Award",
+    "summary": "",
+    "publishedAt": "2026-10-19T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMirwFBVV95cUxPV21EbWg2UG9IRXpoU1lCRVNLSVVKSEtIWnpyWTMwNjIyZnNSUnJKSnhFVldxZmdtX0FnbDZGMVpMeU5naFl2WWdCM3hBa3dzN1lKR1B5VEo2RTJUME1lMkVHcDBaWXpYTDRIOVhVaGx3ZElUUzVqNlNnY2pnNC1jMkxWRVRIakI3M0VnOGFlbXdZc2IwRUdOMVhCajRhZGI4YlNyTWNzNHRUSi1WRzJR",
+    "searchedLabel": "asc",
+    "matches": [
+      {
+        "labelId": "asc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ASC"
+      }
+    ],
+    "fetchedAt": "2026-10-31T12:57:44.671Z"
   },
   {
     "outletId": "google-news",
@@ -9232,144 +9370,6 @@
         "tier": "text-substring",
         "where": "title",
         "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Cheddar",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVZ5UUVfU0wwUlltYUFxVkRNZGNiemxGTDBhQ1hFTm5QaUE4ZUVaSTM4YjlpSFRfSDFUaEpYMHVpYlM5SnVGVXpLaXVqejJXMS1DN1lySTVqYkpsdFVrQl9oanBSTTlob0Fua1pNTjhnbjNsb1pQbkdkcWRkZG9nSFoyZmI1TVh1dlpjTDZGMnhaekNxQmNCeTRTb0NCQ3ltc1pPeEt2TGphZWkwVWV2VDRR?oc=5",
-    "urlSlug": null,
-    "title": "Your Trash Could Have a Second Life: Inside TerraCycle’s Push to Reinvent Recycling",
-    "summary": "",
-    "publishedAt": "2026-08-17T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMisgFBVV95cUxPbVZ5UUVfU0wwUlltYUFxVkRNZGNiemxGTDBhQ1hFTm5QaUE4ZUVaSTM4YjlpSFRfSDFUaEpYMHVpYlM5SnVGVXpLaXVqejJXMS1DN1lySTVqYkpsdFVrQl9oanBSTTlob0Fua1pNTjhnbjNsb1pQbkdkcWRkZG9nSFoyZmI1TVh1dlpjTDZGMnhaekNxQmNCeTRTb0NCQ3ltc1pPeEt2TGphZWkwVWV2VDRR",
-    "searchedLabel": "terracycle",
-    "matches": [
-      {
-        "labelId": "terracycle",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "TerraCycle"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Crane & Transport Briefing",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbVZQZzAwVmN2QS1ZS01XQmNOemYyam9qTmNQRy1XUkxqM0JHT1FmM1lKSjhSNHhqOHdfMnBacmNkWE9lcTZhQl9YYi1NUnhQTkFlNjlkVWpFLVduY0loeUwzbFZaOFFvX3JzV0QycHo4TGsxVktrZnZPMkxiSVh2R0JpV2NUTWNiX1YtSkY0bmE0TmhQWjdyeHhn?oc=5",
-    "urlSlug": null,
-    "title": "Cadman Cranes receives B Corp certification",
-    "summary": "",
-    "publishedAt": "2026-08-14T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMimgFBVV95cUxPbVZQZzAwVmN2QS1ZS01XQmNOemYyam9qTmNQRy1XUkxqM0JHT1FmM1lKSjhSNHhqOHdfMnBacmNkWE9lcTZhQl9YYi1NUnhQTkFlNjlkVWpFLVduY0loeUwzbFZaOFFvX3JzV0QycHo4TGsxVktrZnZPMkxiSVh2R0JpV2NUTWNiX1YtSkY0bmE0TmhQWjdyeHhn",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Forest Stewardship Council (FSC)",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUtnNzJpZ2NSUmF5WHEwT2NSVTVkamtnRU45S2doOERNZmJLQXBnMUdabTJVVGprLVl4VEwtU3dEaGNNWnNhLS0tSWYxNldJSTNsYXl6ampnZWYyY2VLaXVITkJXRWc4RE44RGd1ZDIwWk5aM1RiRkx2bU9PekF0dVVWU0tvX3dPLW5WQkdtVE1OUkNwVmV5UXQyMW8wVTduSFpXZWw0YmtwYXlFOC1KUEV0NkdVdw?oc=5",
-    "urlSlug": null,
-    "title": "FSC I&P and CapMan Natural Capital partner to advance biodiversity impact measurement in European forests",
-    "summary": "",
-    "publishedAt": "2026-08-14T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMitgFBVV95cUxNUUtnNzJpZ2NSUmF5WHEwT2NSVTVkamtnRU45S2doOERNZmJLQXBnMUdabTJVVGprLVl4VEwtU3dEaGNNWnNhLS0tSWYxNldJSTNsYXl6ampnZWYyY2VLaXVITkJXRWc4RE44RGd1ZDIwWk5aM1RiRkx2bU9PekF0dVVWU0tvX3dPLW5WQkdtVE1OUkNwVmV5UXQyMW8wVTduSFpXZWw0YmtwYXlFOC1KUEV0NkdVdw",
-    "searchedLabel": "fsc",
-    "matches": [
-      {
-        "labelId": "fsc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "FSC"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Food & Beverage Magazine",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0FoQl9OOWp3SnVfODdZRjR4YXhYZWNxZE9GTUdSQmJLYVl6QVA0X3I3WHI5XzM2dU5WLVpLZ0hlUjNta2RtbWZ3T3hvZGgzdkE0OGFTejJwMzhEWkJwb0c5c2xFZUxOQzd1cllKVlI0R0JJWmlLb1FjQUR2TURURnAzVk5QcEtiQ05MY28zM1c?oc=5",
-    "urlSlug": null,
-    "title": "Stratus Vineyards Becomes Ontario's First B Corp Certified Winery",
-    "summary": "",
-    "publishedAt": "2026-08-14T01:39:21.000Z",
-    "categories": [],
-    "guid": "CBMikAFBVV95cUxOU0FoQl9OOWp3SnVfODdZRjR4YXhYZWNxZE9GTUdSQmJLYVl6QVA0X3I3WHI5XzM2dU5WLVpLZ0hlUjNta2RtbWZ3T3hvZGgzdkE0OGFTejJwMzhEWkJwb0c5c2xFZUxOQzd1cllKVlI0R0JJWmlLb1FjQUR2TURURnAzVk5QcEtiQ05MY28zM1c",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "stadiaworld",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWN4V3BQeXJ2eXBqTFYyaDdzRG82VXJXRjhZMDNQYUdVbm5aN0gtblVwdUsxU1MxcWJfWDNodHRpQ0lIazRGUHd2OGRrekxrbU5QWk4wQTRQSVRJZlRQZXFyMmZpdlJqVVk1MkM1WDZQa0xSR3NQY1YwX0VEVEZpakk2TklfaElXSFRmTmJmU3Y0WWc?oc=5",
-    "urlSlug": null,
-    "title": "Johan Cruijff ArenA achieves B Corp certification",
-    "summary": "",
-    "publishedAt": "2026-08-13T14:19:18.000Z",
-    "categories": [],
-    "guid": "CBMikwFBVV95cUxQSWN4V3BQeXJ2eXBqTFYyaDdzRG82VXJXRjhZMDNQYUdVbm5aN0gtblVwdUsxU1MxcWJfWDNodHRpQ0lIazRGUHd2OGRrekxrbU5QWk4wQTRQSVRJZlRQZXFyMmZpdlJqVVk1MkM1WDZQa0xSR3NQY1YwX0VEVEZpakk2TklfaElXSFRmTmJmU3Y0WWc",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "UKNow",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNczk5MDV4WE9hZ0tuNU5ZV2h2SU9kdzVjRHgxQXlTaDRGeTJoQ1NfSFJYSkdzLXQ0NTNwdkZMUENkZjlQdkRycjk4MjZ2dUVyWXFaZlpwNVNBR1JMZWxkamlQd2hyc2dzaEI4OEhlUkhjTUxyZUo5M2tUcjlqQWx0V0VNWVlWRGJpRHZfeWhMbGJSczVzSERKM0dhMHM0Y0U3aDJFVU52bTlqcFNTbFJxZg?oc=5",
-    "urlSlug": null,
-    "title": "Martin-Gatton Agricultural Sciences Building achieves LEED Gold certification",
-    "summary": "",
-    "publishedAt": "2026-08-13T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMisAFBVV95cUxNczk5MDV4WE9hZ0tuNU5ZV2h2SU9kdzVjRHgxQXlTaDRGeTJoQ1NfSFJYSkdzLXQ0NTNwdkZMUENkZjlQdkRycjk4MjZ2dUVyWXFaZlpwNVNBR1JMZWxkamlQd2hyc2dzaEI4OEhlUkhjTUxyZUo5M2tUcjlqQWx0V0VNWVlWRGJpRHZfeWhMbGJSczVzSERKM0dhMHM0Y0U3aDJFVU52bTlqcFNTbFJxZg",
-    "searchedLabel": "leed",
-    "matches": [
-      {
-        "labelId": "leed",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "LEED"
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
