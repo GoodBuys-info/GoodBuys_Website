@@ -1,6 +1,98 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "almotawwer.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0UWhUcy1LLWNTSktlVlJsT0hYNUJLQ1ktYzF6VGxIbzB5TXU4U0tiMXRVdWh3dllVME83YlI1U0kzRFZZUWh5RW1JRmZuVjA?oc=5",
+    "urlSlug": null,
+    "title": "MIDAR Strengthens Its Leadership in Sustainable Urban Development as Its Headquarters Receives International LEED Certification",
+    "summary": "",
+    "publishedAt": "2026-11-01T13:02:37.000Z",
+    "categories": [],
+    "guid": "CBMiT0FVX3lxTFA0UWhUcy1LLWNTSktlVlJsT0hYNUJLQ1ktYzF6VGxIbzB5TXU4U0tiMXRVdWh3dllVME83YlI1U0kzRFZZUWh5RW1JRmZuVjA",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-01T13:43:22.792Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Building Products Digest",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUlhiUGxIQXFhbTZpdlh1YmFyZk9mdVlud3JfSDVSc0tNU09yclFWUXpmb1dFdXlXcDIxdjhpVmVqOWM5eFZEMERwNmhoN2p2MEc2ZzhiYVJRbVhvSktRYzNJNG9xUHExajN2TjdoXzF4dXE1R0I1YmRBV1VET3hfWHRnLXk?oc=5",
+    "urlSlug": null,
+    "title": "ACCOYA EARNS CRADLE TO CRADLE CERTIFICATION",
+    "summary": "",
+    "publishedAt": "2026-11-01T12:04:12.000Z",
+    "categories": [],
+    "guid": "CBMihAFBVV95cUxNUlhiUGxIQXFhbTZpdlh1YmFyZk9mdVlud3JfSDVSc0tNU09yclFWUXpmb1dFdXlXcDIxdjhpVmVqOWM5eFZEMERwNmhoN2p2MEc2ZzhiYVJRbVhvSktRYzNJNG9xUHExajN2TjdoXzF4dXE1R0I1YmRBV1VET3hfWHRnLXk",
+    "searchedLabel": "cradle-to-cradle",
+    "matches": [
+      {
+        "labelId": "cradle-to-cradle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Cradle to Cradle"
+      }
+    ],
+    "fetchedAt": "2026-11-01T13:43:22.792Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Forestry Journal",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjVzOVBSQllJRmhEdXJReEZjdGVGUmw0c1FZbGJNMEdxVXdNaEd2QzVZRmxYQmJENWRRRWdEc2x1YTZpbFpTQkU2Wi1kMGNBdEpUS18xUHR4LXpIS0ozLW5ESVNoTUtqWlhFbXh0TVZLX2tyYTUxUVdFMFg1a0ktNjd6ZWIxOHZRTTVDb0t0X2tDckgwYnZYZDJR?oc=5",
+    "urlSlug": null,
+    "title": "PEFC UK appoints three new directors",
+    "summary": "",
+    "publishedAt": "2026-11-01T12:00:00.000Z",
+    "categories": [],
+    "guid": "CBMimgFBVV95cUxQWjVzOVBSQllJRmhEdXJReEZjdGVGUmw0c1FZbGJNMEdxVXdNaEd2QzVZRmxYQmJENWRRRWdEc2x1YTZpbFpTQkU2Wi1kMGNBdEpUS18xUHR4LXpIS0ozLW5ESVNoTUtqWlhFbXh0TVZLX2tyYTUxUVdFMFg1a0ktNjd6ZWIxOHZRTTVDb0t0X2tDckgwYnZYZDJR",
+    "searchedLabel": "pefc",
+    "matches": [
+      {
+        "labelId": "pefc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "PEFC"
+      }
+    ],
+    "fetchedAt": "2026-11-01T13:43:22.792Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "American Recycler",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdDFuRTNuMzh2RW8wbENsQzR0anpablRkV3l4NHBrc0pJWE56aTlSZlZ4Sl9uc0dmZDBDZ3hDWGJ2QzBWYkdTYXZtYXRfXzA0ZmpOSUViQW1kMzRkeWVRRlNfWjd4ejlWQ29vWGZRdlVhbDZ1NjNFcmVXWkhSQ2RjeWVqSGVDQ2RJZmRfejVtUExZeFZuMS1rN3NzeHNDZ1cx?oc=5",
+    "urlSlug": null,
+    "title": "TerraCycle appoints Elsisi as chief financial officer",
+    "summary": "",
+    "publishedAt": "2026-11-01T08:16:31.000Z",
+    "categories": [],
+    "guid": "CBMioAFBVV95cUxNdDFuRTNuMzh2RW8wbENsQzR0anpablRkV3l4NHBrc0pJWE56aTlSZlZ4Sl9uc0dmZDBDZ3hDWGJ2QzBWYkdTYXZtYXRfXzA0ZmpOSUViQW1kMzRkeWVRRlNfWjd4ejlWQ29vWGZRdlVhbDZ1NjNFcmVXWkhSQ2RjeWVqSGVDQ2RJZmRfejVtUExZeFZuMS1rN3NzeHNDZ1cx",
+    "searchedLabel": "terracycle",
+    "matches": [
+      {
+        "labelId": "terracycle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "TerraCycle"
+      }
+    ],
+    "fetchedAt": "2026-11-01T13:43:22.792Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Seafoodnews",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXp4NW5md2dEaTlqUUNfWjFBNUtxNC1yeWQ2Rk9ldklCUlFDNmZEdDBZdjBDZ3JzRDdVRXdmNy1wNFJHUkQxV1hrZU01aDhqMXROcGRqOEoyS18zX0ctVWw2VnZmVUxzTDJNRkhMZ1NGT3dXNVZYMjNLVUlfdUZyZDVySHp2eG1ERkdBb1hQRldIYzFneGZfY3hXLW5iLWRLNnVnenZZZFJyQQ?oc=5",
@@ -182,6 +274,29 @@
       }
     ],
     "fetchedAt": "2026-10-30T13:20:08.545Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Plataforma Media",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcXZiOXJLZXdZM050Nk1RbS10QXBhZ3ZDY2tNYUZLZFdfT1NuSkVacUtiTXBIV0ZRV0NSdi11RlN4ZFI1NlZROEFYYm1mRjZNdERuMUhWMVVvUXZrSHpDWWN0bVI1QXhacXhHZ0J5VEU2UFFxWWktU1J1RXdxdUFCb20wSmMtdUYza0x5cDRDSUhqS0h2aURXMHBVTHRUaHhNWmZjWm1oU1dXSXlEZmpIMVBidVlxTUIxNDdWTkMyNmRpWWQzaXE0OGVOZUNkb191SHZ6aW9leE9kWlU?oc=5",
+    "urlSlug": null,
+    "title": "The Ritz-Carlton, Bali Advances Its Commitment to Responsible Luxury with Green Key Certification",
+    "summary": "",
+    "publishedAt": "2026-10-30T04:47:00.000Z",
+    "categories": [],
+    "guid": "CBMi2wFBVV95cUxNcXZiOXJLZXdZM050Nk1RbS10QXBhZ3ZDY2tNYUZLZFdfT1NuSkVacUtiTXBIV0ZRV0NSdi11RlN4ZFI1NlZROEFYYm1mRjZNdERuMUhWMVVvUXZrSHpDWWN0bVI1QXhacXhHZ0J5VEU2UFFxWWktU1J1RXdxdUFCb20wSmMtdUYza0x5cDRDSUhqS0h2aURXMHBVTHRUaHhNWmZjWm1oU1dXSXlEZmpIMVBidVlxTUIxNDdWTkMyNmRpWWQzaXE0OGVOZUNkb191SHZ6aW9leE9kWlU",
+    "searchedLabel": "green-key",
+    "matches": [
+      {
+        "labelId": "green-key",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Key"
+      }
+    ],
+    "fetchedAt": "2026-11-01T13:43:22.792Z"
   },
   {
     "outletId": "google-news",
@@ -9255,121 +9370,6 @@
         "tier": "text-acronym",
         "where": "title",
         "matchedText": "FSC"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "WEAREAQUACULTURE",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPczhMNTlIeHJOYmJIUHBoaWM2Q1FWdDMxUEFVY2xUVWlDX0EtbUJSeXRnaWhrbzU2U1RlQUR3aDlRdThOT2VYVmZHNXg1RnNRYkhuLWtNRzVfa3c0WGxfSU95MEpOa01ScXZQaTJlaVp6VVQzbFQ2OE5fb0tRZzN0eE5VOXhmRExSb1VXMW1WM2JVV3NBRGQxTUdsNFQ4NUNDZVNQMlF1Wm5aTDktQk5RSi1QNE9qeE85RkNOcFVaQkk1ZWlaa1RScHpSS0xTaGvSAdwBQVVfeXFMT1BGeWxLNXk5cTZTRWtIRGFhRFpUY2hBRmQ5OFI2MGllYVFjbFl5YWVuUXFiLUJfY00wZEgxR254MVV6RDMtUkRwcHlwY0JYeVYyN3UzRWNOMmI4amNzaHYxUEhrdDJYODZPb2tCNFQ1ekVZNTlrNDRsTDBsM3ZySHl1OG5RaDhVak5fTGsyQXFmWTZiZk1mZEoyWlUwWGpYdlR0ZUtzV3I3UWFVQTF0NkJ3X0NaWlJFR1FDTmcxTUxDWjVnRExzVmZlZFZPb1cwazNVUFplTHl2UGFYUQ?oc=5",
-    "urlSlug": null,
-    "title": "First Ecuadorian shrimp farm graduates from ASC Improver Programme to full certification",
-    "summary": "",
-    "publishedAt": "2026-08-19T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMizwFBVV95cUxPczhMNTlIeHJOYmJIUHBoaWM2Q1FWdDMxUEFVY2xUVWlDX0EtbUJSeXRnaWhrbzU2U1RlQUR3aDlRdThOT2VYVmZHNXg1RnNRYkhuLWtNRzVfa3c0WGxfSU95MEpOa01ScXZQaTJlaVp6VVQzbFQ2OE5fb0tRZzN0eE5VOXhmRExSb1VXMW1WM2JVV3NBRGQxTUdsNFQ4NUNDZVNQMlF1Wm5aTDktQk5RSi1QNE9qeE85RkNOcFVaQkk1ZWlaa1RScHpSS0xTaGvSAdwBQVVfeXFMT1BGeWxLNXk5cTZTRWtIRGFhRFpUY2hBRmQ5OFI2MGllYVFjbFl5YWVuUXFiLUJfY00wZEgxR254MVV6RDMtUkRwcHlwY0JYeVYyN3UzRWNOMmI4amNzaHYxUEhrdDJYODZPb2tCNFQ1ekVZNTlrNDRsTDBsM3ZySHl1OG5RaDhVak5fTGsyQXFmWTZiZk1mZEoyWlUwWGpYdlR0ZUtzV3I3UWFVQTF0NkJ3X0NaWlJFR1FDTmcxTUxDWjVnRExzVmZlZFZPb1cwazNVUFplTHl2UGFYUQ",
-    "searchedLabel": "asc",
-    "matches": [
-      {
-        "labelId": "asc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ASC"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Insider Media Ltd",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUERhMnBNOElGR3QyTnZSQTNab3FvVVBaOHU0T2V4eVo1Z1pEcFpVTm9uWFBidVAtYi1EUjhMWmZpd0VXWUY4NGNhMHlqN0N3aE5xbGlXVVVGZ0ExZDR4aXl2ZndVVmpIVWxVcUt0UnZ1XzdGdE5vRFBiU1Zsemx6TUxHcHVHVm4tN0dLZVJNUUxuelRhZ1JNRk91SXdweV9RR1VQdHZRMUVXaXduM2xZUFdPenBUcTR5b3hRZFpyUWRLU3JwemtrS0ZRR1FVaVN1dVJ6YVpGeEdPQkZ0WWVTWTJ4MzFidXJOU2RRUWFwdmFuMDQ?oc=5",
-    "urlSlug": null,
-    "title": "Belfast office redevelopment secures approval - “perfectly positioned to create a BREEAM Excellent, Grade A office building”",
-    "summary": "",
-    "publishedAt": "2026-08-19T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMi8wFBVV95cUxQUERhMnBNOElGR3QyTnZSQTNab3FvVVBaOHU0T2V4eVo1Z1pEcFpVTm9uWFBidVAtYi1EUjhMWmZpd0VXWUY4NGNhMHlqN0N3aE5xbGlXVVVGZ0ExZDR4aXl2ZndVVmpIVWxVcUt0UnZ1XzdGdE5vRFBiU1Zsemx6TUxHcHVHVm4tN0dLZVJNUUxuelRhZ1JNRk91SXdweV9RR1VQdHZRMUVXaXduM2xZUFdPenBUcTR5b3hRZFpyUWRLU3JwemtrS0ZRR1FVaVN1dVJ6YVpGeEdPQkZ0WWVTWTJ4MzFidXJOU2RRUWFwdmFuMDQ",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Access All Areas",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0ycjNEc25GWnVZQm9QZUhjTktmT2dBeHVia01VU2F3eFJoMElHaEN3X2YzblRJcEhuTWgtcnh2VTZTQzFKVEZrY0FkNFFjajlwbzdpdE41akJBNXU4ZHFRQW5yOEgtX3JqaXNrcjhFcUhVRmR5cDdLdU9wVUo?oc=5",
-    "urlSlug": null,
-    "title": "THAT event company achieves B Corp certification",
-    "summary": "",
-    "publishedAt": "2026-08-18T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMifEFVX3lxTE0ycjNEc25GWnVZQm9QZUhjTktmT2dBeHVia01VU2F3eFJoMElHaEN3X2YzblRJcEhuTWgtcnh2VTZTQzFKVEZrY0FkNFFjajlwbzdpdE41akJBNXU4ZHFRQW5yOEgtX3JqaXNrcjhFcUhVRmR5cDdLdU9wVUo",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "PR Newswire",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSjFUWDZpMEZlR2xhZ3l4cFlHX1VET2VZNEdLaXE1UmFnbjdfTWRDMUR3Ulozc09RUm5TZ09uYUdJZUxONERFZ3E3elVvWnpoUDB1eXJJeVhUOXRVMDJDeTdiSXZQeXlRd1paMVhIUHFxUV9ncG5RSC04NlNEQzk3RkEwTnZlS0lzMzh0VjhEb2JsN1FKUmJ2aVdsYVNUNUlHSXVWOUZ6RGk2T0FnXzRiNzVRRWd4blV6MlJVbWQ1YW9RMW9iZ0tuSmtCS0FzbFhSWVRyQ09IdnFrSk0zckxkdWg0OGtmdw?oc=5",
-    "urlSlug": null,
-    "title": "Ardagh Group's California facility earns its 11th consecutive ENERGY STAR® building certification",
-    "summary": "",
-    "publishedAt": "2026-08-18T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMi5gFBVV95cUxOSjFUWDZpMEZlR2xhZ3l4cFlHX1VET2VZNEdLaXE1UmFnbjdfTWRDMUR3Ulozc09RUm5TZ09uYUdJZUxONERFZ3E3elVvWnpoUDB1eXJJeVhUOXRVMDJDeTdiSXZQeXlRd1paMVhIUHFxUV9ncG5RSC04NlNEQzk3RkEwTnZlS0lzMzh0VjhEb2JsN1FKUmJ2aVdsYVNUNUlHSXVWOUZ6RGk2T0FnXzRiNzVRRWd4blV6MlJVbWQ1YW9RMW9iZ0tuSmtCS0FzbFhSWVRyQ09IdnFrSk0zckxkdWg0OGtmdw",
-    "searchedLabel": "energy-star",
-    "matches": [
-      {
-        "labelId": "energy-star",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ENERGY STAR"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Global Drinks Intel",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DM1A0R3pob1hKeDFxcFcyVmstSnh0OVNTNU5pbVY0bVpCdm0tZW1ZSGo3amkzQU9tbDYxS0dfSWhyd2VFRXcxTkZURmFxU0Y3WnRUYTV4ekh0V3Z1cVZUckE3eWsyV0F4UmttbWhOSG9VNGt5aHc?oc=5",
-    "urlSlug": null,
-    "title": "Stratus Vineyards joins B Corp ranks",
-    "summary": "",
-    "publishedAt": "2026-08-17T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMidkFVX3lxTE5DM1A0R3pob1hKeDFxcFcyVmstSnh0OVNTNU5pbVY0bVpCdm0tZW1ZSGo3amkzQU9tbDYxS0dfSWhyd2VFRXcxTkZURmFxU0Y3WnRUYTV4ekh0V3Z1cVZUckE3eWsyV0F4UmttbWhOSG9VNGt5aHc",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
