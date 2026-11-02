@@ -1,6 +1,75 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Wood Central",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fRk1aWnlfS29tQ18tTVYtaXJ3NmNuLTdjdnJkQXNuQ3hCV3l3MXE4UWZqSURfUWRJam5xSEZyQU53Rm5Wb09TTUR4WU1xdlBwa2VtajJhbmpqUVZMQ1pOYkxZaXd4SzMtcGh6WmRn?oc=5",
+    "urlSlug": null,
+    "title": "Terminated Merbau Exporter Still Lists FSC Certificates Online",
+    "summary": "",
+    "publishedAt": "2026-11-02T14:39:20.000Z",
+    "categories": [],
+    "guid": "CBMibkFVX3lxTE1fRk1aWnlfS29tQ18tTVYtaXJ3NmNuLTdjdnJkQXNuQ3hCV3l3MXE4UWZqSURfUWRJam5xSEZyQU53Rm5Wb09TTUR4WU1xdlBwa2VtajJhbmpqUVZMQ1pOYkxZaXd4SzMtcGh6WmRn",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-11-02T16:28:48.732Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "IndexBox",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmdCUTBLNU9udGxEN3Zrb3N4RzI0ZUFmSnROQXlvSGYwTVFNcHVTZ2piRUJSNG1pTmJlVGczSUo0V3QxdGRfTWVrMkxSaC1YUnNCRFFlX0xNLTJ6dHo2NUFsQ1U0aVF2ZWlWU1dNZVBxd3BUMHR6eVJ3MUlXdkNTR2dKbDNHUUlBdkpQV09makFieHk3MG5hMVdfR05fVjdSa3c?oc=5",
+    "urlSlug": null,
+    "title": "USDA Organic Poultry and Eggs Report for November 2, 2026 - News and Statistics",
+    "summary": "",
+    "publishedAt": "2026-11-02T13:20:21.000Z",
+    "categories": [],
+    "guid": "CBMiogFBVV95cUxQcmdCUTBLNU9udGxEN3Zrb3N4RzI0ZUFmSnROQXlvSGYwTVFNcHVTZ2piRUJSNG1pTmJlVGczSUo0V3QxdGRfTWVrMkxSaC1YUnNCRFFlX0xNLTJ6dHo2NUFsQ1U0aVF2ZWlWU1dNZVBxd3BUMHR6eVJ3MUlXdkNTR2dKbDNHUUlBdkpQV09makFieHk3MG5hMVdfR05fVjdSa3c",
+    "searchedLabel": "usda-organic",
+    "matches": [
+      {
+        "labelId": "usda-organic",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "USDA Organic"
+      }
+    ],
+    "fetchedAt": "2026-11-02T16:28:48.732Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Travel Daily Media",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWJkZHV0Rnk1ZTJOOEZEVGZBa1dDZjBVSjRHX2hIN0RhVHJpdjZDZkZYdXpObFNwb3RDTTk1T1Vxa2puendVVC1aT192b3JOU0pEal93LThpd1FJd09GUWhpdzdWXzNYY1NMWUFHTTdWZ0R2RVMwR0ZZLWVkSUpJM2NyN3VYTzBvREp1UE1B?oc=5",
+    "urlSlug": null,
+    "title": "The Ritz-Carlton Bali earns Green Key certification",
+    "summary": "",
+    "publishedAt": "2026-11-01T23:02:09.000Z",
+    "categories": [],
+    "guid": "CBMijgFBVV95cUxOSWJkZHV0Rnk1ZTJOOEZEVGZBa1dDZjBVSjRHX2hIN0RhVHJpdjZDZkZYdXpObFNwb3RDTTk1T1Vxa2puendVVC1aT192b3JOU0pEal93LThpd1FJd09GUWhpdzdWXzNYY1NMWUFHTTdWZ0R2RVMwR0ZZLWVkSUpJM2NyN3VYTzBvREp1UE1B",
+    "searchedLabel": "green-key",
+    "matches": [
+      {
+        "labelId": "green-key",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Key"
+      }
+    ],
+    "fetchedAt": "2026-11-02T16:28:48.732Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "almotawwer.com",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0UWhUcy1LLWNTSktlVlJsT0hYNUJLQ1ktYzF6VGxIbzB5TXU4U0tiMXRVdWh3dllVME83YlI1U0kzRFZZUWh5RW1JRmZuVjA?oc=5",
@@ -277,6 +346,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Teneriffa News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPem5SSUg4aGFXcmhGSzlxandYcXR4Vk1OYmhydEZoWXBLcDdVOERQdTliMlRiZTdGajFyVTEzREYzZDBaeGxWSHE1T0Q5LXRkMU8xcTNmeVRyMVhQMlVsa09WYWZZeS1IdS1EOFN4dUVrWkVvOUt4dFl6YnMtcGh6cjRMSTE5WXM1Z3ROSkZJYjd0VXA5YWNj?oc=5",
+    "urlSlug": null,
+    "title": "ULPGC film screening: The Blue Angel on 30 October 2026",
+    "summary": "",
+    "publishedAt": "2026-10-30T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMilwFBVV95cUxPem5SSUg4aGFXcmhGSzlxandYcXR4Vk1OYmhydEZoWXBLcDdVOERQdTliMlRiZTdGajFyVTEzREYzZDBaeGxWSHE1T0Q5LXRkMU8xcTNmeVRyMVhQMlVsa09WYWZZeS1IdS1EOFN4dUVrWkVvOUt4dFl6YnMtcGh6cjRMSTE5WXM1Z3ROSkZJYjd0VXA5YWNj",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-11-02T16:28:48.732Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Plataforma Media",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcXZiOXJLZXdZM050Nk1RbS10QXBhZ3ZDY2tNYUZLZFdfT1NuSkVacUtiTXBIV0ZRV0NSdi11RlN4ZFI1NlZROEFYYm1mRjZNdERuMUhWMVVvUXZrSHpDWWN0bVI1QXhacXhHZ0J5VEU2UFFxWWktU1J1RXdxdUFCb20wSmMtdUYza0x5cDRDSUhqS0h2aURXMHBVTHRUaHhNWmZjWm1oU1dXSXlEZmpIMVBidVlxTUIxNDdWTkMyNmRpWWQzaXE0OGVOZUNkb191SHZ6aW9leE9kWlU?oc=5",
@@ -539,6 +631,29 @@
     "outletId": "google-news",
     "outletName": "Middle East Construction News",
     "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZkNjazdKOFA0bktGSEpWdmpkWEZ0RV9kWmNNTFg2dEt6TGhMTXVZeHVsNkw0SzE5U2tNZ2tOUTlIUkZNRC13T3hnZENoT3RrYmZ5TTNKOHBaUmRiSWo3OE5DcGIxQ1VtVjJnV2NHdF81ckxMUDRsTWpZOVB2aXZZZlFGYkZPWTFQRnI5VG1tckhkU2x4UEFPRkE0cWltRFo0VmVNTkVyY0ltY0E?oc=5",
+    "urlSlug": null,
+    "title": "DesertBoard’s PSB supports project teams looking to gain LEED v5 Points",
+    "summary": "",
+    "publishedAt": "2026-10-29T05:58:46.000Z",
+    "categories": [],
+    "guid": "CBMiqwFBVV95cUxOZkNjazdKOFA0bktGSEpWdmpkWEZ0RV9kWmNNTFg2dEt6TGhMTXVZeHVsNkw0SzE5U2tNZ2tOUTlIUkZNRC13T3hnZENoT3RrYmZ5TTNKOHBaUmRiSWo3OE5DcGIxQ1VtVjJnV2NHdF81ckxMUDRsTWpZOVB2aXZZZlFGYkZPWTFQRnI5VG1tckhkU2x4UEFPRkE0cWltRFo0VmVNTkVyY0ltY0E",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-02T16:28:48.732Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Middle East Construction News",
+    "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdW05a2x0ZVhFYUhNNDU3eHNndUcxSGlSM2hoSFhteEhJSlhJdU5FS0RobDdDRmRSNV8zUGR6QUZ6RVp1dzFzdGs1dHdneFNlOTc1MVZUa3ByNzFHMEFqSFpaM2FHcUlrN3hEdmJ3WWlUUGhmeUN6UjgwMGdFaV95MExoOU9KdTVVTWp1aGk4c1NPdlZ0a1g2Wk9oeW5KR2ZldGpxeExCNlRlS1l2Snk2cA?oc=5",
     "urlSlug": null,
     "title": "DesertBoard’s PSB supports project teams looking to gain LEED v5 Points",
@@ -672,6 +787,29 @@
       }
     ],
     "fetchedAt": "2026-10-28T13:22:51.482Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Atuna",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVndfVVNSYllGLWdpUGdnczB1UE9TZURwaUxTS1EySEt6TVF6R3ZmYzUxRmdnWFUxTUp5NDBrQUFZUUZfSFdiTFR6OXE1VmRRc2U1OVQ3U3pmRlFKbF9maDJBWGZuRWZEUVVmeUxKMHJ1WmlDWk03WnpuMjhXdEM2aGNFM3c?oc=5",
+    "urlSlug": null,
+    "title": "MSC-Labelled Tuna Sales Grow Across Global Markets",
+    "summary": "",
+    "publishedAt": "2026-10-28T10:15:13.000Z",
+    "categories": [],
+    "guid": "CBMihAFBVV95cUxOVndfVVNSYllGLWdpUGdnczB1UE9TZURwaUxTS1EySEt6TVF6R3ZmYzUxRmdnWFUxTUp5NDBrQUFZUUZfSFdiTFR6OXE1VmRRc2U1OVQ3U3pmRlFKbF9maDJBWGZuRWZEUVVmeUxKMHJ1WmlDWk03WnpuMjhXdEM2aGNFM3c",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-11-02T16:28:48.732Z"
   },
   {
     "outletId": "google-news",
@@ -1230,6 +1368,29 @@
       }
     ],
     "fetchedAt": "2026-10-30T13:20:08.545Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "openPR.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTm1zLTBFVjFqN3pLTEUybTVxMlVGZGtYLWZUNi1jSVJGWEkzYVJRZU9USWxMZnNabDFZNGQxTXJqa3AxZXJiSUhuQnpqM1N1UERvb0NqMU04aThKcnRuZUQ2ai0wR0lFeUQzeXczdWNHR2hQWFN1dlMtMnZOTndDVDVWSHVuNFhoaDdCdERzVEY0NUFOSG1KR3FnRQ?oc=5",
+    "urlSlug": null,
+    "title": "AROMATICA Earns B Corp Certification, Setting a New Standard for Responsible Beauty",
+    "summary": "",
+    "publishedAt": "2026-10-24T05:12:04.000Z",
+    "categories": [],
+    "guid": "CBMimwFBVV95cUxNTm1zLTBFVjFqN3pLTEUybTVxMlVGZGtYLWZUNi1jSVJGWEkzYVJRZU9USWxMZnNabDFZNGQxTXJqa3AxZXJiSUhuQnpqM1N1UERvb0NqMU04aThKcnRuZUQ2ai0wR0lFeUQzeXczdWNHR2hQWFN1dlMtMnZOTndDVDVWSHVuNFhoaDdCdERzVEY0NUFOSG1KR3FnRQ",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-02T16:28:48.732Z"
   },
   {
     "outletId": "google-news",
@@ -9209,167 +9370,6 @@
         "tier": "text-substring",
         "where": "title",
         "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "USGBC | U.S. Green Building Council",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMENCOWVRcVhwbTRYNUJKT3BpVkhzdmVndUlpazM3a09hcnR4R1MweW51cUt5Q1N6UXJjVU5nYTNjQ1FyVjgtNThEVlZDNDZTNkVRQW5KWmE4OVRrZjdnQkEzOVF4elU5QzNSZGdYbUM4dDI1OE9qUHF3NnhFOHY5S1BqRmgyRHJPQlgyT0hWUjBGUU5zWU9FSk9lZw?oc=5",
-    "urlSlug": null,
-    "title": "Soaring into Greenbuild: LEED-certified airports welcome NYC attendees",
-    "summary": "",
-    "publishedAt": "2026-08-20T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMimwFBVV95cUxOMENCOWVRcVhwbTRYNUJKT3BpVkhzdmVndUlpazM3a09hcnR4R1MweW51cUt5Q1N6UXJjVU5nYTNjQ1FyVjgtNThEVlZDNDZTNkVRQW5KWmE4OVRrZjdnQkEzOVF4elU5QzNSZGdYbUM4dDI1OE9qUHF3NnhFOHY5S1BqRmgyRHJPQlgyT0hWUjBGUU5zWU9FSk9lZw",
-    "searchedLabel": "leed",
-    "matches": [
-      {
-        "labelId": "leed",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "LEED"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "The New Indian Express",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaU5mWHVxRy1GdkQ0Zmp3cUFvemxyUUdnaUVJa1BJV2FQT3dMV1JMcjZWRDl5SFRVOGtjRnNWelJfcHdvX21QWXZMVFZaelJrUW1NS21IY0VmUTNRZkJYb3Z6VVBVajFXV3VUWklRdjYwRGJCcmlMa0FQZGw3cUV4MXlhOGhOM2hRNEdCMEh4ZHdWVk9tQkRGQ1ZaT2ZTcDJMOWhTNVY0RW91dDMwTnfSAbsBQVVfeXFMTWJFN1I5a01IdlZ2NEE5WjNtNG9FMWk0VTNDZ2E2cElTcUt3cDAxTi1sRURiNzZEU09xalE5aGZRaTJDcHdTZG0wTEd6R2tRYzh2M3F3eWh5S1Q3OXNZdHhfNkJLZ0lTckNSX2pralFVR25OMXM0NmJ3ekZGYlFBbTNBR0pJbmpKM2QxTUF5YVN6RHBhSW13MEJWc3dJRW9mczVKelREVWJYTk85STEtZF94RzUwQ1BrUlBVNA?oc=5",
-    "urlSlug": null,
-    "title": "Marina may have to settle for ‘Pilot Blue Flag’ tag",
-    "summary": "",
-    "publishedAt": "2026-08-20T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMirgFBVV95cUxOaU5mWHVxRy1GdkQ0Zmp3cUFvemxyUUdnaUVJa1BJV2FQT3dMV1JMcjZWRDl5SFRVOGtjRnNWelJfcHdvX21QWXZMVFZaelJrUW1NS21IY0VmUTNRZkJYb3Z6VVBVajFXV3VUWklRdjYwRGJCcmlMa0FQZGw3cUV4MXlhOGhOM2hRNEdCMEh4ZHdWVk9tQkRGQ1ZaT2ZTcDJMOWhTNVY0RW91dDMwTnfSAbsBQVVfeXFMTWJFN1I5a01IdlZ2NEE5WjNtNG9FMWk0VTNDZ2E2cElTcUt3cDAxTi1sRURiNzZEU09xalE5aGZRaTJDcHdTZG0wTEd6R2tRYzh2M3F3eWh5S1Q3OXNZdHhfNkJLZ0lTckNSX2pralFVR25OMXM0NmJ3ekZGYlFBbTNBR0pJbmpKM2QxTUF5YVN6RHBhSW13MEJWc3dJRW9mczVKelREVWJYTk85STEtZF94RzUwQ1BrUlBVNA",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Donegal Live",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSE84ZGtpaHhZLWl2b3ZDd1hTVmpPRXpXQzM3ZHFINkRfY0JfVlYzUzdwQmJFaE9xYm1CY0ZtZHZLNkt1X3lQTzk3Rmk2MHQzeHdTclBBOVoyUVVSbDBqMkMwcE9VdW1aYm9jWGU1QTR5bFJvZjVXdHFxT3ljSjNWMkRhVEhVSElQeWFYWF81dkkxbHY4MUF4QzkyNjUwbm9sSFln?oc=5",
-    "urlSlug": null,
-    "title": "Dog waste found at blue flag Donegal beach branded ‘disgusting’",
-    "summary": "",
-    "publishedAt": "2026-08-20T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiowFBVV95cUxNSE84ZGtpaHhZLWl2b3ZDd1hTVmpPRXpXQzM3ZHFINkRfY0JfVlYzUzdwQmJFaE9xYm1CY0ZtZHZLNkt1X3lQTzk3Rmk2MHQzeHdTclBBOVoyUVVSbDBqMkMwcE9VdW1aYm9jWGU1QTR5bFJvZjVXdHFxT3ljSjNWMkRhVEhVSElQeWFYWF81dkkxbHY4MUF4QzkyNjUwbm9sSFln",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "The Spec",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMnBueWYycEx5TXlYWER2VWIwd1VJRFM2Tkd1OFZjZnRpa3QtQVp5S0k3U2NyV2lOZ3hsNVp3T3pVeW54S3hySEMzNHNTNWE5UjFtWEhWbVJMQkhncVRoSzRYei0xbEdsRzZsM2ROem10Y2JzbUk5WWoxSFNBdk5sTjBtc3dzSXkxU1NJd2JhM19HU1lyUDdLVlJIbVRfdC1XcUx6bEd2VkotMnZVSG1qNTVJem5pVEFvcFJFQU5NeTAzODh4b21SVEpYQjRzem1sSXZqNkswdnB0V0ZqcklR?oc=5",
-    "urlSlug": null,
-    "title": "This resort town is home to a Blue Flag beach, world-class sunsets and Ontario’s largest drag racing event",
-    "summary": "",
-    "publishedAt": "2026-08-20T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMi3wFBVV95cUxNMnBueWYycEx5TXlYWER2VWIwd1VJRFM2Tkd1OFZjZnRpa3QtQVp5S0k3U2NyV2lOZ3hsNVp3T3pVeW54S3hySEMzNHNTNWE5UjFtWEhWbVJMQkhncVRoSzRYei0xbEdsRzZsM2ROem10Y2JzbUk5WWoxSFNBdk5sTjBtc3dzSXkxU1NJd2JhM19HU1lyUDdLVlJIbVRfdC1XcUx6bEd2VkotMnZVSG1qNTVJem5pVEFvcFJFQU5NeTAzODh4b21SVEpYQjRzem1sSXZqNkswdnB0V0ZqcklR",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Salon Today",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0FPZXgzaUlndUR3c0FjeWdNV09oeWYydDFwYUg3UUtNZG9VMG5wSmhGR0pzOW1YajZjOEdSNDN4NGRmWFp4ZXpBV0VMMHJVdVVnZWlFdDBVcUpMcVFzcnFsNmpMWDR6Y0p6ZUZNaEt6SGxmU2UwVWY0Sk1XVjlrTHd2V2h0WFdMZEVrQ2VJcVVoZEFwQXRr?oc=5",
-    "urlSlug": null,
-    "title": "Phorest Signals a New Era with Official B Corp Certification",
-    "summary": "",
-    "publishedAt": "2026-08-19T18:07:37.000Z",
-    "categories": [],
-    "guid": "CBMilwFBVV95cUxQM0FPZXgzaUlndUR3c0FjeWdNV09oeWYydDFwYUg3UUtNZG9VMG5wSmhGR0pzOW1YajZjOEdSNDN4NGRmWFp4ZXpBV0VMMHJVdVVnZWlFdDBVcUpMcVFzcnFsNmpMWDR6Y0p6ZUZNaEt6SGxmU2UwVWY0Sk1XVjlrTHd2V2h0WFdMZEVrQ2VJcVVoZEFwQXRr",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Bucks Herald",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNWg2ZzRUNWZuYk5WSGgtTlVuZDVtV3JIUll3WnFSNjlKU3JYeFlMaTBvd0wxV3RpTl94MU1YQ1F1djhnSmJlMi1QUldiWWpHRWJkQUxaazllUjdLbEVUSTNMT2RWeFJFWnNjYjc0LXpMYktyZFRUemJzaWs0NVlqbk1aZHYtSjJ3b0lFVU5BakZJQVlGdVMwT2lxSmtnR29kMzRaaw?oc=5",
-    "urlSlug": null,
-    "title": "THAT Event Company achieves prestigious B Corp status",
-    "summary": "",
-    "publishedAt": "2026-08-19T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMipAFBVV95cUxNNWg2ZzRUNWZuYk5WSGgtTlVuZDVtV3JIUll3WnFSNjlKU3JYeFlMaTBvd0wxV3RpTl94MU1YQ1F1djhnSmJlMi1QUldiWWpHRWJkQUxaazllUjdLbEVUSTNMT2RWeFJFWnNjYjc0LXpMYktyZFRUemJzaWs0NVlqbk1aZHYtSjJ3b0lFVU5BakZJQVlGdVMwT2lxSmtnR29kMzRaaw",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Carbon Herald",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0FjVHh1RXo1c0NRTk1HTlZmeUVQVVV5dEs2RnlvT3VCSzd4RURNRkVQcEJrMlRkY2J3MUFwT0RERlk2X29uc2V2ZjNZcUgzMUxYRFREdFowaHhIdXFGWGVMWC15TWZDX1g5ZXBXRjk4RlNBblRYNkpsNS1fUjNUSWZFa29zQUdkOEZlUERWbW9KbURPMzI5Mm1CR1Z2S3RkMHBBYk9Qb2RNdw?oc=5",
-    "urlSlug": null,
-    "title": "CapMan And FSC I&P Partner To Improve Measurement Of Forest Biodiversity Outcomes",
-    "summary": "",
-    "publishedAt": "2026-08-19T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiqgFBVV95cUxPb0FjVHh1RXo1c0NRTk1HTlZmeUVQVVV5dEs2RnlvT3VCSzd4RURNRkVQcEJrMlRkY2J3MUFwT0RERlk2X29uc2V2ZjNZcUgzMUxYRFREdFowaHhIdXFGWGVMWC15TWZDX1g5ZXBXRjk4RlNBblRYNkpsNS1fUjNUSWZFa29zQUdkOEZlUERWbW9KbURPMzI5Mm1CR1Z2S3RkMHBBYk9Qb2RNdw",
-    "searchedLabel": "fsc",
-    "matches": [
-      {
-        "labelId": "fsc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "FSC"
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
