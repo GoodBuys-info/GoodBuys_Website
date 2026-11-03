@@ -1,6 +1,98 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Perishable News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcV9UMnc0RTIxVVh1T29IUlRmcmo2Wms5WlkwT0J5Qnd3N3NFcmQwMjhXUEF0MDQ5R2xqcWU2dU5YbjRwQmdJeTZjeF9iMG1LZnhfTk9Uei13R0c1aXRfOUZZQm4zUkZvdHVLcTNfMjUxeVlrYjYzejZScXlPNW5wZzd2RlEtR1JIa2tVYXdza2hHbk1vOWhMUWFZc3RKTjdFNU5yOXFIWFU?oc=5",
+    "urlSlug": null,
+    "title": "ASC 2025 Impact Report Reveals Nearly 7,000 Verified Farm Improvements",
+    "summary": "",
+    "publishedAt": "2026-11-03T10:01:42.000Z",
+    "categories": [],
+    "guid": "CBMiqAFBVV95cUxQcV9UMnc0RTIxVVh1T29IUlRmcmo2Wms5WlkwT0J5Qnd3N3NFcmQwMjhXUEF0MDQ5R2xqcWU2dU5YbjRwQmdJeTZjeF9iMG1LZnhfTk9Uei13R0c1aXRfOUZZQm4zUkZvdHVLcTNfMjUxeVlrYjYzejZScXlPNW5wZzd2RlEtR1JIa2tVYXdza2hHbk1vOWhMUWFZc3RKTjdFNU5yOXFIWFU",
+    "searchedLabel": "asc",
+    "matches": [
+      {
+        "labelId": "asc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ASC"
+      }
+    ],
+    "fetchedAt": "2026-11-03T14:34:05.638Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Red Book Lumber Data",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaHVLMzM0V2doMHQ2N2ZPMjVIYmJYUlRDSEZZeHRpeHc0TWdYRFpzMlFjbXQ0T2VVNHRqdjkxZlJrTFRHVHZWa2dsb1FJQlN4NllsVXJzOGxDWE1razJhTzZHcHJSMUlmZjdQTmdqRlU3UVJVVjVaazBBbGpWMFVJMkx6d19XVnFNLWQ4ZHlCR2t2S1UzaEFsRlpDVl9KVXBQODdKZ3FUTksyLXZwaW9MRE5ia2Q4bjZHMmJHUGthTjdualRFcG9kUG1vYjdTZ1ZSOHJ6X3JSSE15NGxrT2I3OVpfUHNUZw?oc=5",
+    "urlSlug": null,
+    "title": "Accoya and Accoya Color Achieve Cradle to Cradle Certified® Gold Full Scope Under Rigorous New Version 5.0",
+    "summary": "",
+    "publishedAt": "2026-11-02T22:01:20.000Z",
+    "categories": [],
+    "guid": "CBMi5gFBVV95cUxPaHVLMzM0V2doMHQ2N2ZPMjVIYmJYUlRDSEZZeHRpeHc0TWdYRFpzMlFjbXQ0T2VVNHRqdjkxZlJrTFRHVHZWa2dsb1FJQlN4NllsVXJzOGxDWE1razJhTzZHcHJSMUlmZjdQTmdqRlU3UVJVVjVaazBBbGpWMFVJMkx6d19XVnFNLWQ4ZHlCR2t2S1UzaEFsRlpDVl9KVXBQODdKZ3FUTksyLXZwaW9MRE5ia2Q4bjZHMmJHUGthTjdualRFcG9kUG1vYjdTZ1ZSOHJ6X3JSSE15NGxrT2I3OVpfUHNUZw",
+    "searchedLabel": "cradle-to-cradle",
+    "matches": [
+      {
+        "labelId": "cradle-to-cradle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Cradle to Cradle"
+      }
+    ],
+    "fetchedAt": "2026-11-03T14:34:05.638Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "DVIDS",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXNEdlVQV0VsS3MwaTdwSndvb1dSVFA0cU1YNUJKU01jM2Fqd05EQkYzUE1YRGF6OHcwYlVNREVuakRENWlQS1J0eG5tXzdvdllyaGpXdGpFNmhfMTBmMThHWDVFZFdFM0pjdjl5Y2g4MHdkSGNMcHdfZW1qTmN0MWNLVEpSQTA5WmZ0S2FXMURKODNZWDFtbTFHNlFBS25oc29LSmZOMEVLWkhISHVaWUppelM4RGNyZ0ZBWk5Tdk0?oc=5",
+    "urlSlug": null,
+    "title": "After 70 Days the Blue Angel F-18 Hornet that sits in front of Naval Air Station Jacksonville is back",
+    "summary": "",
+    "publishedAt": "2026-11-02T20:55:00.000Z",
+    "categories": [],
+    "guid": "CBMiwAFBVV95cUxQSXNEdlVQV0VsS3MwaTdwSndvb1dSVFA0cU1YNUJKU01jM2Fqd05EQkYzUE1YRGF6OHcwYlVNREVuakRENWlQS1J0eG5tXzdvdllyaGpXdGpFNmhfMTBmMThHWDVFZFdFM0pjdjl5Y2g4MHdkSGNMcHdfZW1qTmN0MWNLVEpSQTA5WmZ0S2FXMURKODNZWDFtbTFHNlFBS25oc29LSmZOMEVLWkhISHVaWUppelM4RGNyZ0ZBWk5Tdk0",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-11-03T14:34:05.638Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Consultancy.co.za",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2Y4eUlLLTU5ZzFNNkhER21lRVk5SjFvRU9SdzQ0TUdyc2t6Zk11R0FCbzdNakJEbDNpUXdfZ3JaTzR2UEg2ZGlPVzdXUWVwZGgyWTdNbVQzNnBWcjZRQlFZU2Vhd1NSODBSbTVzeHFMZlI0SVQ2dzdMd2RHLU0xZ0k2RG9JZWc2QlVsUG5rSWRUTExvd0hhcE9B0gGfAUFVX3lxTE1QLWotY1hxSTdjemZrejJORHBGRTF3RnRpUUI2SlFLRVQxcGc5SEdUTFQ4dGtBemlvS2U3VkJpeXJVOTlvOHdNNER4Sm94clJ5VHl2OGJ2ZVk0YXNDWWJ6cUFWeUFwYkhJbW9ORGU0NzVxMkRiVmVJZEYwMTFZbDFvWC1DZVRsRWxQakNIT0NUMWZlR0dkd3FzU2txN3RNVQ?oc=5",
+    "urlSlug": null,
+    "title": "PKF’s Johannesburg office achieves B Corp certification",
+    "summary": "",
+    "publishedAt": "2026-11-02T20:14:25.000Z",
+    "categories": [],
+    "guid": "CBMimgFBVV95cUxOT2Y4eUlLLTU5ZzFNNkhER21lRVk5SjFvRU9SdzQ0TUdyc2t6Zk11R0FCbzdNakJEbDNpUXdfZ3JaTzR2UEg2ZGlPVzdXUWVwZGgyWTdNbVQzNnBWcjZRQlFZU2Vhd1NSODBSbTVzeHFMZlI0SVQ2dzdMd2RHLU0xZ0k2RG9JZWc2QlVsUG5rSWRUTExvd0hhcE9B0gGfAUFVX3lxTE1QLWotY1hxSTdjemZrejJORHBGRTF3RnRpUUI2SlFLRVQxcGc5SEdUTFQ4dGtBemlvS2U3VkJpeXJVOTlvOHdNNER4Sm94clJ5VHl2OGJ2ZVk0YXNDWWJ6cUFWeUFwYkhJbW9ORGU0NzVxMkRiVmVJZEYwMTFZbDFvWC1DZVRsRWxQakNIT0NUMWZlR0dkd3FzU2txN3RNVQ",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-03T14:34:05.638Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Wood Central",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fRk1aWnlfS29tQ18tTVYtaXJ3NmNuLTdjdnJkQXNuQ3hCV3l3MXE4UWZqSURfUWRJam5xSEZyQU53Rm5Wb09TTUR4WU1xdlBwa2VtajJhbmpqUVZMQ1pOYkxZaXd4SzMtcGh6WmRn?oc=5",
@@ -1345,6 +1437,29 @@
       }
     ],
     "fetchedAt": "2026-10-26T13:27:44.944Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Hillsdale Daily News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV0xtNWZwWEptcmFEQ1NIcnkteHdWVHZncnlnc0hzVENvQnlLaXM0SUFKeGUxNVBKMk1LV0JqeVdUbFA2ZUQ4LWtQWjkzd0tMd25aSVhMc1JSVkRETmJMaHBkR0VVX3dhMWFkSFpjRnh1bG1WM2Z6bFJjRXNYVVA0a05rYVZPT2I4T09NQUlSZ25yUDl0aEw0eGcwWEdTbjFSWGZFb3V4WE9XZF80YzdhSXNJRlg4b1VZUjAtUC1KXzYyTkZlcG5ZYm5uenRTRTVmVmFPc000Tk1xUVV2Rkp4RFlpanJWa0U?oc=5",
+    "urlSlug": null,
+    "title": "Sustainable Merino Wool Base Layer for Outdoor and Travel Use from WOOLCANO with RWS Certification",
+    "summary": "",
+    "publishedAt": "2026-10-24T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMi5wFBVV95cUxQV0xtNWZwWEptcmFEQ1NIcnkteHdWVHZncnlnc0hzVENvQnlLaXM0SUFKeGUxNVBKMk1LV0JqeVdUbFA2ZUQ4LWtQWjkzd0tMd25aSVhMc1JSVkRETmJMaHBkR0VVX3dhMWFkSFpjRnh1bG1WM2Z6bFJjRXNYVVA0a05rYVZPT2I4T09NQUlSZ25yUDl0aEw0eGcwWEdTbjFSWGZFb3V4WE9XZF80YzdhSXNJRlg4b1VZUjAtUC1KXzYyTkZlcG5ZYm5uenRTRTVmVmFPc000Tk1xUVV2Rkp4RFlpanJWa0U",
+    "searchedLabel": "rws",
+    "matches": [
+      {
+        "labelId": "rws",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "RWS"
+      }
+    ],
+    "fetchedAt": "2026-11-03T14:34:05.638Z"
   },
   {
     "outletId": "google-news",
@@ -9255,121 +9370,6 @@
         "tier": "text-substring",
         "where": "title",
         "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "The Caterer",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYl9KaEluTldfNWpyTWJKS0ZjdGsxMGdhd2I5OXI3M2hWZkhNYlVwSjlNNjZlZ01jd01iclVCNmxnVy1TRHp1aXA5QU92SkVKYjNBUGhOVHdJa0k3akZDUzJWckRRTXEzckRtazRRdUEtaGpkM1BRNmo1R09RMC1QdGhPQmhST2NKVTJOdkVVRmVoOG01cFE?oc=5",
-    "urlSlug": null,
-    "title": "‘Wonky fruit’ gin brand achieves B Corp status",
-    "summary": "",
-    "publishedAt": "2026-08-24T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMilgFBVV95cUxQYl9KaEluTldfNWpyTWJKS0ZjdGsxMGdhd2I5OXI3M2hWZkhNYlVwSjlNNjZlZ01jd01iclVCNmxnVy1TRHp1aXA5QU92SkVKYjNBUGhOVHdJa0k3akZDUzJWckRRTXEzckRtazRRdUEtaGpkM1BRNmo1R09RMC1QdGhPQmhST2NKVTJOdkVVRmVoOG01cFE",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Scroll.in",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVExkMGpOc3doNVpRUWJMZGhXVFJmWkJjRWhtUXpOVFpqMFJLWFM2U3YwMmtJalpBNGNveWo3MXBZOUFLajVMQ1V5WXk2ZTNuTExXU0hrLVFrM292RDZPaEo0Tk1rLXk1azVrY1Z3TW9tcFBhUTYyVTZYdFNTY3VZMWJUQzNNX043M0VhNmZMUWVDekhuUmRuU1lYZEhWVW5Za2l5V3A5bk5BNFdRa3lwSUZ2QlZPOEdrQkVWdnJWaFhDcmvSAcgBQVVfeXFMUEVrZXpDd0I2QjB1Vnp6UVpjZG9lbm96OU1tOW91R25nYXc1dzdsTFNxeDliMFFCR3g0NHl6TmktR3lwYTIyZmRUVGxxUkNLaGlqeGpFenJ0aHM2cVRRbHVjeDV6bXlmRU41VFJnWHlBWXB3RG81Ylg0eEdETjhQM2lrd3d6WWhQM0RIbEczLVZ3VXdOR2d0Z2d2dW9leVItbW9ibnFuNFlTdTMtYTB0cU0zWExYa3FWZGd5NU1rWHNNcTVYWTdiSUk?oc=5",
-    "urlSlug": null,
-    "title": "‘Blue Flag’ tag push for India’s beaches is violating coastal rules, evicting local communities",
-    "summary": "",
-    "publishedAt": "2026-08-23T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiwwFBVV95cUxOVExkMGpOc3doNVpRUWJMZGhXVFJmWkJjRWhtUXpOVFpqMFJLWFM2U3YwMmtJalpBNGNveWo3MXBZOUFLajVMQ1V5WXk2ZTNuTExXU0hrLVFrM292RDZPaEo0Tk1rLXk1azVrY1Z3TW9tcFBhUTYyVTZYdFNTY3VZMWJUQzNNX043M0VhNmZMUWVDekhuUmRuU1lYZEhWVW5Za2l5V3A5bk5BNFdRa3lwSUZ2QlZPOEdrQkVWdnJWaFhDcmvSAcgBQVVfeXFMUEVrZXpDd0I2QjB1Vnp6UVpjZG9lbm96OU1tOW91R25nYXc1dzdsTFNxeDliMFFCR3g0NHl6TmktR3lwYTIyZmRUVGxxUkNLaGlqeGpFenJ0aHM2cVRRbHVjeDV6bXlmRU41VFJnWHlBWXB3RG81Ylg0eEdETjhQM2lrd3d6WWhQM0RIbEczLVZ3VXdOR2d0Z2d2dW9leVItbW9ibnFuNFlTdTMtYTB0cU0zWExYa3FWZGd5NU1rWHNNcTVYWTdiSUk",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "LATTE Luxury News",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXZBa3pqZnNzSHVvNkh1ZlRDbWhpVFVmT3B5NlliZzNNbFE4OUhORG95T0ZwREwycFREWEFoMXRHSUttaEd6c2ZaR2tHQmxHZFNxT3pxQmFRcUVUQVQzUUZLNzBPSzlCVllIM2U1RmdsZ0lmZTRPQVk0dWxTeFhnSWVYcHl1X2h5dTNYbUhWQXY?oc=5",
-    "urlSlug": null,
-    "title": "Butterfield & Robinson earns B Corp Certification",
-    "summary": "",
-    "publishedAt": "2026-08-21T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMikAFBVV95cUxPbXZBa3pqZnNzSHVvNkh1ZlRDbWhpVFVmT3B5NlliZzNNbFE4OUhORG95T0ZwREwycFREWEFoMXRHSUttaEd6c2ZaR2tHQmxHZFNxT3pxQmFRcUVUQVQzUUZLNzBPSzlCVllIM2U1RmdsZ0lmZTRPQVk0dWxTeFhnSWVYcHl1X2h5dTNYbUhWQXY",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Golf Inc. Magazine",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1dHWTJxSVlBYVlsQUZxdjVmU3hIYnFXOWdnMXdqalpmZC1yRXl0SGFEV01UdlBZLTdVV05Fa0M4UGJfSzZnTEY1LTAtdXRJdV9zMVZ3YVpCUURCOXFpUTU3ODVYQTdycnFoT0J3em9IS25sQUlxN3o1WEtzQzhIbWp2UVVEdGtTbG9FdmFRTG9tSkpCUjA0emFVbHU1TFNGblM4dkl6UUI1em9h?oc=5",
-    "urlSlug": null,
-    "title": "Concert Golf Partners expands sustainability efforts with Audubon International",
-    "summary": "",
-    "publishedAt": "2026-08-21T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMirAFBVV95cUxNa1dHWTJxSVlBYVlsQUZxdjVmU3hIYnFXOWdnMXdqalpmZC1yRXl0SGFEV01UdlBZLTdVV05Fa0M4UGJfSzZnTEY1LTAtdXRJdV9zMVZ3YVpCUURCOXFpUTU3ODVYQTdycnFoT0J3em9IS25sQUlxN3o1WEtzQzhIbWp2UVVEdGtTbG9FdmFRTG9tSkpCUjA0emFVbHU1TFNGblM4dkl6UUI1em9h",
-    "searchedLabel": "audubon-international",
-    "matches": [
-      {
-        "labelId": "audubon-international",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Audubon International"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "The Drinks Business",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPblNDZ0dqOUs4cXNkNHVtSlN0SE51VmVYb0l4RTBuUHhreUNteUtRSlJ3Q1ZGTEdQc2dDMWc3alRMNmtRN2E2cXZSemdZd3Y5QUE5LTAwUmRDeXhiQUJVal9qODBlZFZLNHN6bHRNNEVuRUVrdGdadXFKVV9Mb2xrRU5tSkdMTV9OTWZYR1JGeGU5QQ?oc=5",
-    "urlSlug": null,
-    "title": "Terra Organica releases its first B Corp wine",
-    "summary": "",
-    "publishedAt": "2026-08-20T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMikgFBVV95cUxPblNDZ0dqOUs4cXNkNHVtSlN0SE51VmVYb0l4RTBuUHhreUNteUtRSlJ3Q1ZGTEdQc2dDMWc3alRMNmtRN2E2cXZSemdZd3Y5QUE5LTAwUmRDeXhiQUJVal9qODBlZFZLNHN6bHRNNEVuRUVrdGdadXFKVV9Mb2xrRU5tSkdMTV9OTWZYR1JGeGU5QQ",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
