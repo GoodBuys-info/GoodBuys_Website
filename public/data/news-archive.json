@@ -1,6 +1,190 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Pluang",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1pGdVVCTHBHbG1XZlF2cE1EOWxfOWtvZUhmQ0ZiVzkzX1RMZ3pSa1Utcks2eGpNYzB4YUlscW43R3RFWkREOGFmMVN5NFJqTl9mbGNJMGNYQnJsWG42Ui1CQS1rdjhFbHRqRmI1TkNrNWxlM2xSdVBwOVJ0bF9LVDF3ZWZzU2Q3M05ldndFX3JiaW5SbGRPR0JnQ0tmS2VOWnhtbndkdzNPcHc?oc=5",
+    "urlSlug": null,
+    "title": "Crocs' Classic Clog earns Cradle to Cradle Gold certification for circular design with up to 42% recycled material.",
+    "summary": "",
+    "publishedAt": "2026-11-04T14:44:15.000Z",
+    "categories": [],
+    "guid": "CBMiqwFBVV95cUxNS1pGdVVCTHBHbG1XZlF2cE1EOWxfOWtvZUhmQ0ZiVzkzX1RMZ3pSa1Utcks2eGpNYzB4YUlscW43R3RFWkREOGFmMVN5NFJqTl9mbGNJMGNYQnJsWG42Ui1CQS1rdjhFbHRqRmI1TkNrNWxlM2xSdVBwOVJ0bF9LVDF3ZWZzU2Q3M05ldndFX3JiaW5SbGRPR0JnQ0tmS2VOWnhtbndkdzNPcHc",
+    "searchedLabel": "cradle-to-cradle",
+    "matches": [
+      {
+        "labelId": "cradle-to-cradle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Cradle to Cradle"
+      }
+    ],
+    "fetchedAt": "2026-11-04T14:48:22.715Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "PR Newswire",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOUGkwMUNNNDFRcl9feFF6bExyd3N1LTN1VXMxNXNrd0pQR1NLY1BHbFlIWDVIMjMzc0tOdnVsQWVpRjk5eUh1YnZ2TWJoNDN4UWpaX05KazhnOU0xWEtGd3pLWnBJb2UzZHgxX3ByQTVvOXlPdTNCd2p6V1Q1bWpNYWNMOXpCYy1ULWplSG1iTGhHLXA3Vi1sN0JpQ1FjS2dKc1BES3BQSU05UHdjVUc5cHZWSEtFOFF5VU80MkVzbmRfV2J6ZkpRNWRmUkRpcUN1N3Q3QWhYUFRpY0E4ZDFnOGpBdldQcFJpaGYzSmZ0SXpHbHUwVDAxNEUxc29aa0hvQ0F5OFFrYkcweU9neXBySEpZQmxaQlgzMUFnZml1RlQ4dWhKajh1TUUzVFVMWERWOFhJZS1R?oc=5",
+    "urlSlug": null,
+    "title": "Crocs™ Achieves Cradle to Cradle Certified® Circularity Gold for the Classic Clog, Marking a New Milestone in Circular Design and Recycled Material Innovation",
+    "summary": "",
+    "publishedAt": "2026-11-04T14:30:00.000Z",
+    "categories": [],
+    "guid": "CBMitgJBVV95cUxOUGkwMUNNNDFRcl9feFF6bExyd3N1LTN1VXMxNXNrd0pQR1NLY1BHbFlIWDVIMjMzc0tOdnVsQWVpRjk5eUh1YnZ2TWJoNDN4UWpaX05KazhnOU0xWEtGd3pLWnBJb2UzZHgxX3ByQTVvOXlPdTNCd2p6V1Q1bWpNYWNMOXpCYy1ULWplSG1iTGhHLXA3Vi1sN0JpQ1FjS2dKc1BES3BQSU05UHdjVUc5cHZWSEtFOFF5VU80MkVzbmRfV2J6ZkpRNWRmUkRpcUN1N3Q3QWhYUFRpY0E4ZDFnOGpBdldQcFJpaGYzSmZ0SXpHbHUwVDAxNEUxc29aa0hvQ0F5OFFrYkcweU9neXBySEpZQmxaQlgzMUFnZml1RlQ4dWhKajh1TUUzVFVMWERWOFhJZS1R",
+    "searchedLabel": "cradle-to-cradle",
+    "matches": [
+      {
+        "labelId": "cradle-to-cradle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Cradle to Cradle"
+      }
+    ],
+    "fetchedAt": "2026-11-04T14:48:22.715Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Forest Stewardship Council (FSC)",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSEpmQUtFTDZDUEJWd0FzTlZ6dll4VTF0dnB1Y2xjbjBlbmRsNl9ZWHpraHFVMHdRb3g0anowLVVSd0RCTXVQZ3NsN3BFbGh0VDRqQ3hYSXN6RVZsaVRnWTR0MTB0WFdtQzFjQk5HXzJIakdjcXh6V1Q2R3R4dHRNQlR5a3EwNXZPV2lFQURmcFB2eEhITnFab0ZB?oc=5",
+    "urlSlug": null,
+    "title": "FSC statement on Greenpeace Nordic report concerning Swedish forestry practices",
+    "summary": "",
+    "publishedAt": "2026-11-04T10:18:45.000Z",
+    "categories": [],
+    "guid": "CBMimgFBVV95cUxNSEpmQUtFTDZDUEJWd0FzTlZ6dll4VTF0dnB1Y2xjbjBlbmRsNl9ZWHpraHFVMHdRb3g0anowLVVSd0RCTXVQZ3NsN3BFbGh0VDRqQ3hYSXN6RVZsaVRnWTR0MTB0WFdtQzFjQk5HXzJIakdjcXh6V1Q2R3R4dHRNQlR5a3EwNXZPV2lFQURmcFB2eEhITnFab0ZB",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-11-04T14:48:22.715Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Trend Hunter",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85ZHJUX0RMYlFORWc3cHJGX2ViTnFyVE5Uak92bW1aY0dHbF80M2pmMlhuTWFpXzcyS2xpX1ZvS3cyeWlGcVdlSDY1dk1VQjM3TDhYb0pxZU8zUnlGOTR6OEl4S2pQOXZNYjkwbA?oc=5",
+    "urlSlug": null,
+    "title": "Daytime Aromatherapy Oils: HIQILI Pushes USDA Organic Lavender Beyond the Bedtime Routine",
+    "summary": "",
+    "publishedAt": "2026-11-04T08:46:25.000Z",
+    "categories": [],
+    "guid": "CBMibEFVX3lxTE85ZHJUX0RMYlFORWc3cHJGX2ViTnFyVE5Uak92bW1aY0dHbF80M2pmMlhuTWFpXzcyS2xpX1ZvS3cyeWlGcVdlSDY1dk1VQjM3TDhYb0pxZU8zUnlGOTR6OEl4S2pQOXZNYjkwbA",
+    "searchedLabel": "usda-organic",
+    "matches": [
+      {
+        "labelId": "usda-organic",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "USDA Organic"
+      }
+    ],
+    "fetchedAt": "2026-11-04T14:48:22.715Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The National Law Review",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTlBFNGdpanQwWnJ2SDlhRmt0dHhZM2FxUWhNa2d3V254V1ZjclAzbGxFUjZORDdjTXNiaU5iRWoxX09OWDJ1ZFlKbG1aczlodUpWSVBLdzFpZ2tEblBfTXBoWFlLN1lhLW1PcmEyVEVuR1lYNjlWWGFVYjVPM2d1S19RaHhmZ0oyemU5LURQaTFVX1Y1VFJVQndnUUd4cWtQQWxLc08xMExXeUI4VDE2b24tSQ?oc=5",
+    "urlSlug": null,
+    "title": "FSC Certified Excellence: Twist-HD Redefines Standards as a Professional Coffee Bag Tin Ties Company",
+    "summary": "",
+    "publishedAt": "2026-11-04T06:28:28.000Z",
+    "categories": [],
+    "guid": "CBMiswFBVV95cUxPTlBFNGdpanQwWnJ2SDlhRmt0dHhZM2FxUWhNa2d3V254V1ZjclAzbGxFUjZORDdjTXNiaU5iRWoxX09OWDJ1ZFlKbG1aczlodUpWSVBLdzFpZ2tEblBfTXBoWFlLN1lhLW1PcmEyVEVuR1lYNjlWWGFVYjVPM2d1S19RaHhmZ0oyemU5LURQaTFVX1Y1VFJVQndnUUd4cWtQQWxLc08xMExXeUI4VDE2b24tSQ",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-11-04T14:48:22.715Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "PR Newswire",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPanNmb01GbHJudU9FdnlKbFMwNWN6QkJXZm14QzVDT1lhY0xjUEFaa05ndTZpX01UeVBaSE1oZFB4bHNXT1JKUVRqT2E1aFZ4cFJHbno4dGV4dFdGcEdHQ21jc3BlLTgxN0tCNllzTWZaR0JvMGp4bTBjZC12eGIyT0J2cV82OE5GWnNFNHFuMHpTcjktSXF3Slh2anBnaUVzNF9ZSmpXUzlKWGxqWVBzX1VSbE01RFFaTVc2MW5ZNXdndzRVUkxJcnM4X0ROTzZLX3dpQnNjdnhqdGZwVmNHTlFlVDREb29nZnc?oc=5",
+    "urlSlug": null,
+    "title": "Experience Sustainable Hospitality at Pullman Danang Beach Resort, Proudly Green Key-Certified",
+    "summary": "",
+    "publishedAt": "2026-11-04T05:50:09.000Z",
+    "categories": [],
+    "guid": "CBMi6gFBVV95cUxPanNmb01GbHJudU9FdnlKbFMwNWN6QkJXZm14QzVDT1lhY0xjUEFaa05ndTZpX01UeVBaSE1oZFB4bHNXT1JKUVRqT2E1aFZ4cFJHbno4dGV4dFdGcEdHQ21jc3BlLTgxN0tCNllzTWZaR0JvMGp4bTBjZC12eGIyT0J2cV82OE5GWnNFNHFuMHpTcjktSXF3Slh2anBnaUVzNF9ZSmpXUzlKWGxqWVBzX1VSbE01RFFaTVc2MW5ZNXdndzRVUkxJcnM4X0ROTzZLX3dpQnNjdnhqdGZwVmNHTlFlVDREb29nZnc",
+    "searchedLabel": "green-key",
+    "matches": [
+      {
+        "labelId": "green-key",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Key"
+      }
+    ],
+    "fetchedAt": "2026-11-04T14:48:22.715Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Comunicaffe International",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmY2MXNYVnlaTDdlQUVVYnVmVnNRZmZpX2ozRDV0UlJxd1c4Y2RXVEJYb1FXZnBudGNTYmhtYUUyUU9BWDJ5dVBseDA5XzhZaGVTRXpUWElIZEtkLXVXSUpXT1U3N1hHV0ItQ1dMU2pfOHRiYzZ1bm1CZ3lGMGJ5V1k2d01UbFhmMENrV1l4ZVdWLWNIWGcyLXNfbVZWVnZrMFVpenpmZDJsTlQyZU1URWtNNDFtTXdQd3Nr?oc=5",
+    "urlSlug": null,
+    "title": "New Rainforest Alliance Report helps producers turn EUDR readiness into market opportunity",
+    "summary": "",
+    "publishedAt": "2026-11-03T23:40:58.000Z",
+    "categories": [],
+    "guid": "CBMiuwFBVV95cUxQUmY2MXNYVnlaTDdlQUVVYnVmVnNRZmZpX2ozRDV0UlJxd1c4Y2RXVEJYb1FXZnBudGNTYmhtYUUyUU9BWDJ5dVBseDA5XzhZaGVTRXpUWElIZEtkLXVXSUpXT1U3N1hHV0ItQ1dMU2pfOHRiYzZ1bm1CZ3lGMGJ5V1k2d01UbFhmMENrV1l4ZVdWLWNIWGcyLXNfbVZWVnZrMFVpenpmZDJsTlQyZU1URWtNNDFtTXdQd3Nr",
+    "searchedLabel": "rainforest-alliance",
+    "matches": [
+      {
+        "labelId": "rainforest-alliance",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Rainforest Alliance"
+      }
+    ],
+    "fetchedAt": "2026-11-04T14:48:22.715Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Scottish Local Retailer",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94dmVEWWdUT0lGN3B0dDZkOVZScW5BY1BVa0M5Ym9ZSnNBN0c3cmxWVVRkcnRETWtiSHU4TWtyd0JWeGNNNFVveEJrTmI0UkN6cHFjSDJHTG15NHR6djNVQWw3TWpXMWdXQWEteGMyUjJEN3ppaFlrZ3BmakFlUjA?oc=5",
+    "urlSlug": null,
+    "title": "Princes nets third consecutive MSC Seafood Brand of the Year award",
+    "summary": "",
+    "publishedAt": "2026-11-03T18:09:01.000Z",
+    "categories": [],
+    "guid": "CBMif0FVX3lxTE94dmVEWWdUT0lGN3B0dDZkOVZScW5BY1BVa0M5Ym9ZSnNBN0c3cmxWVVRkcnRETWtiSHU4TWtyd0JWeGNNNFVveEJrTmI0UkN6cHFjSDJHTG15NHR6djNVQWw3TWpXMWdXQWEteGMyUjJEN3ppaFlrZ3BmakFlUjA",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-11-04T14:48:22.715Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Perishable News",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcV9UMnc0RTIxVVh1T29IUlRmcmo2Wms5WlkwT0J5Qnd3N3NFcmQwMjhXUEF0MDQ5R2xqcWU2dU5YbjRwQmdJeTZjeF9iMG1LZnhfTk9Uei13R0c1aXRfOUZZQm4zUkZvdHVLcTNfMjUxeVlrYjYzejZScXlPNW5wZzd2RlEtR1JIa2tVYXdza2hHbk1vOWhMUWFZc3RKTjdFNU5yOXFIWFU?oc=5",
@@ -9178,190 +9362,6 @@
     "publishedAt": "2026-08-26T07:00:00.000Z",
     "categories": [],
     "guid": "CBMi3wFBVV95cUxQTXZxaFV1Qlh5LUV6a21pQTBSLVdiakFReXJoMEs5c0ZRM1BZQW5Xd2w3Zm1KekJyVUs0WmpqTXp6Vkw0UWZ4VFgzSF9tSHk0dnRlcFd1TkZKWDNUcjNYc2tGRTVmUjdBWXRyampCVktxZHJQdzJSRFZmbGh0Z2FKbHlxNXZUYzZsWl9yN19pYUNYbm5VWTlYTkJ2ZzB3NXdFS3dNUEx6SEl4M0dONkI1aHNKWTRxNndJbUlPTC1PVFRiTGJOb1BPTmpaS1Y5cjFxZGVOTHRkOV9uSmUyVGk4",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Perishable News",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM211WExNOWZDaTl3angzaFBWQjdwRmw2ZWFRYnZZRi1PN1RFN3pCbWpkNVU2dXh3NFZmRmE1S3pxU0t2TWNiMUJnaFhhS3lIRTZ3ZTViREluQ3VpNnFkNHRUNVZCMUktMWpvQTdzVWhLTEp0OU5RNnZhazcySDZCZ29EQVN0NjZ1RWhiZE9md3BhRGNhNWg0bmxyTUJON2lnaWt3QWRkVVdPVjRMeTBuM2FKUEtEaFRYVnJjYWdSZ25IOEIwMW9vck02bVdrMUNOTElEazBnUQ?oc=5",
-    "urlSlug": null,
-    "title": "Gloria Maris Côte d’Opale Becomes the First French Seabass and Seabream Farm to Achieve ASC Certification",
-    "summary": "",
-    "publishedAt": "2026-08-26T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMi1wFBVV95cUxOM211WExNOWZDaTl3angzaFBWQjdwRmw2ZWFRYnZZRi1PN1RFN3pCbWpkNVU2dXh3NFZmRmE1S3pxU0t2TWNiMUJnaFhhS3lIRTZ3ZTViREluQ3VpNnFkNHRUNVZCMUktMWpvQTdzVWhLTEp0OU5RNnZhazcySDZCZ29EQVN0NjZ1RWhiZE9md3BhRGNhNWg0bmxyTUJON2lnaWt3QWRkVVdPVjRMeTBuM2FKUEtEaFRYVnJjYWdSZ25IOEIwMW9vck02bVdrMUNOTElEazBnUQ",
-    "searchedLabel": "asc",
-    "matches": [
-      {
-        "labelId": "asc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ASC"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Engineers Ireland",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ2VDSjR6dnpKWjJuc0EzWEVPbFd5UXBPU19kWklreG81ZG14a0Z4S21oYWwwZmo1eFZzWWdzNTBUZXFTRENhamk4dmlOcmtLUkhtWkdGTy1OZVBMR2QtM1RXMkd3bjFBOTlGb2pzOWx4OUtMNGdjMGZrZlZReE5KWHZodkUxS1gxZ0IxRkljd2dZTVQzV2djaDVwMWgxLW5vSVZqVlprNTR4WDd3ZE03V1FFQ1hna0xzLTRzcTRTNm5uc2dHUG5DSmZR?oc=5",
-    "urlSlug": null,
-    "title": "Luas Finglas achieves Ireland’s first BREEAM infrastructure excellent rating",
-    "summary": "",
-    "publishedAt": "2026-08-26T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiygFBVV95cUxPZ2VDSjR6dnpKWjJuc0EzWEVPbFd5UXBPU19kWklreG81ZG14a0Z4S21oYWwwZmo1eFZzWWdzNTBUZXFTRENhamk4dmlOcmtLUkhtWkdGTy1OZVBMR2QtM1RXMkd3bjFBOTlGb2pzOWx4OUtMNGdjMGZrZlZReE5KWHZodkUxS1gxZ0IxRkljd2dZTVQzV2djaDVwMWgxLW5vSVZqVlprNTR4WDd3ZE03V1FFQ1hna0xzLTRzcTRTNm5uc2dHUG5DSmZR",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Highland Radio",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMHE2OVpRM1JxUVUtV0R0blJTZjJUanJZRENKVzV0ZF9rNV9kVjQ4QkNrbEF4WTBnc2xCUktNMUwwUGxOY0tCTFlYbjBwVC1ZTG1heW02TC12c25XbjluRVdOVHc0bHcwalFYVTg1VlN0M0xVN0xjY2wxWW4zWHpreXByTDlwRDg0U3lKeU53c1R0a29UZE9OY0FjLXlMTV9Jc1VkVTQ1Y3puUDBEanhmMlRWMTcxbHdpbWExb1gyUQ?oc=5",
-    "urlSlug": null,
-    "title": "Coastal Location Code Pilot Project being launched at Narin Blue Flag Beach tomorrow",
-    "summary": "",
-    "publishedAt": "2026-08-26T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMivwFBVV95cUxPMHE2OVpRM1JxUVUtV0R0blJTZjJUanJZRENKVzV0ZF9rNV9kVjQ4QkNrbEF4WTBnc2xCUktNMUwwUGxOY0tCTFlYbjBwVC1ZTG1heW02TC12c25XbjluRVdOVHc0bHcwalFYVTg1VlN0M0xVN0xjY2wxWW4zWHpreXByTDlwRDg0U3lKeU53c1R0a29UZE9OY0FjLXlMTV9Jc1VkVTQ1Y3puUDBEanhmMlRWMTcxbHdpbWExb1gyUQ",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "The Irish Sun",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa19uZzJYY0J0aXFWUGxDcGxSZDJzT0tMX0gtTHdwWm1iYTByRFk3NXBLeDhlUjhDRWN6S29Gcnc2Sno4d19pWGdjZXh3aXFNQi1OQjlrWmpzMWFVWXpLZFU5NHFTTHVzSFBGT3ltbUNuNENKcmdncE5hNXByN0pkWE56SWpGOWtSOGw2dnBB?oc=5",
-    "urlSlug": null,
-    "title": "The ‘fabulous’ blue-flag beach steeped in history on Ireland’s west coast - it features soft sand & stunning cliff view",
-    "summary": "",
-    "publishedAt": "2026-08-26T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMijgFBVV95cUxOa19uZzJYY0J0aXFWUGxDcGxSZDJzT0tMX0gtTHdwWm1iYTByRFk3NXBLeDhlUjhDRWN6S29Gcnc2Sno4d19pWGdjZXh3aXFNQi1OQjlrWmpzMWFVWXpLZFU5NHFTTHVzSFBGT3ltbUNuNENKcmdncE5hNXByN0pkWE56SWpGOWtSOGw2dnBB",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "C2C Journal",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSzgybFlBZTRoU1pXQngtSUZUc2RDckJzdGhwanFaem5jYVhkQlExSG9qM3Nwb0tRYXQzNnJBZ1lEdUZvX2RXQnJpeVRkU3RVWTBlN1p3ank3UjZoeDlxVk9yMzl4SlBwdl9OSXNEQURqUGNJbEZMWE5OQlNBNVJJdVhJVXB5M2Jqbk12U3o2eGkwbmFKenRSekVnUlNQZw?oc=5",
-    "urlSlug": null,
-    "title": "The Ultimate Green-Washing: The False Promise of LEED Certification",
-    "summary": "",
-    "publishedAt": "2026-08-25T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMingFBVV95cUxPSzgybFlBZTRoU1pXQngtSUZUc2RDckJzdGhwanFaem5jYVhkQlExSG9qM3Nwb0tRYXQzNnJBZ1lEdUZvX2RXQnJpeVRkU3RVWTBlN1p3ank3UjZoeDlxVk9yMzl4SlBwdl9OSXNEQURqUGNJbEZMWE5OQlNBNVJJdVhJVXB5M2Jqbk12U3o2eGkwbmFKenRSekVnUlNQZw",
-    "searchedLabel": "leed",
-    "matches": [
-      {
-        "labelId": "leed",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "LEED"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "SeafoodSource",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObl91Q0pwS2hCejBxcVl4ZW1YRUxjSEdnYkU4cFZHT1ZBQTFlTlB4dzJDVWdobmlyVGY1dGhwQndLWVlyT09mckMtRjFWeDI0VGF6d2xDNnBwbEU5Wmlodm5GR2pDazN0S21UTTZvVGhxSjQzQXpSaXZOX013SkRiV3ZveTdpMkhVVDBlZm54Z2xOSVhWdTQ3RmEyRVRJdW5Ib0lYa05sbGhFMUpubzFXandRUE1CS0NhZHc?oc=5",
-    "urlSlug": null,
-    "title": "Gloria Maris Côte d’Opale becomes first French sea bass, bream farm to earn ASC certification",
-    "summary": "",
-    "publishedAt": "2026-08-25T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiugFBVV95cUxObl91Q0pwS2hCejBxcVl4ZW1YRUxjSEdnYkU4cFZHT1ZBQTFlTlB4dzJDVWdobmlyVGY1dGhwQndLWVlyT09mckMtRjFWeDI0VGF6d2xDNnBwbEU5Wmlodm5GR2pDazN0S21UTTZvVGhxSjQzQXpSaXZOX013SkRiV3ZveTdpMkhVVDBlZm54Z2xOSVhWdTQ3RmEyRVRJdW5Ib0lYa05sbGhFMUpubzFXandRUE1CS0NhZHc",
-    "searchedLabel": "asc",
-    "matches": [
-      {
-        "labelId": "asc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ASC"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "TheBusinessDesk.com",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlFGSTFRd01NdkRZcVoyM19kTHBCUTY5a0QzSG5Hb0dVTTN4SktpMGR0ZFdWV3Y3SGtycm96RzNDdFpiT0owZ0pOT3U2QXN0MXBGYWNJcDRKQ3ZJcTNyQ056MENCRER2RnBobWVfaGd4LUJDT2lGNmtSS3pVWUxweUowNTJIczhtNFNibFJ3b3llaGxQWkpuRFdXQm5sWHlGVk9SeS1PWlowd0szNk11NDJnQnNwVDVHbGdVYkstdzhDRjZmdExJ?oc=5",
-    "urlSlug": null,
-    "title": "Herefordshire distillery Penrhos Spirits achieves B Corp certification",
-    "summary": "",
-    "publishedAt": "2026-08-24T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMixwFBVV95cUxPVlFGSTFRd01NdkRZcVoyM19kTHBCUTY5a0QzSG5Hb0dVTTN4SktpMGR0ZFdWV3Y3SGtycm96RzNDdFpiT0owZ0pOT3U2QXN0MXBGYWNJcDRKQ3ZJcTNyQ056MENCRER2RnBobWVfaGd4LUJDT2lGNmtSS3pVWUxweUowNTJIczhtNFNibFJ3b3llaGxQWkpuRFdXQm5sWHlGVk9SeS1PWlowd0szNk11NDJnQnNwVDVHbGdVYkstdzhDRjZmdExJ",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Insider Media Ltd",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmhTTmRRX0pBZXNyMU0xbWhfd0lDVUxlUUszVW1FVy1uTGtxb1F2MTdWLTlaUG5OR3RjSHE4c3lnQTRFdkROd25OTGl0ZGVlcnE1bG9HX1pZUDdRZTZyc05KcFVnV09zWF93Yzdtd2xUU0VrSmhZMjBkbXBGeUZnUG5yZWktZTF0NURhbmRRUjVDcmtKbzF2MS0wOWFjUzRkVkdtNHl6V1Z0QQ?oc=5",
-    "urlSlug": null,
-    "title": "Silverstone Building Consultancy secures B Corp certification",
-    "summary": "",
-    "publishedAt": "2026-08-24T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiqgFBVV95cUxOTmhTTmRRX0pBZXNyMU0xbWhfd0lDVUxlUUszVW1FVy1uTGtxb1F2MTdWLTlaUG5OR3RjSHE4c3lnQTRFdkROd25OTGl0ZGVlcnE1bG9HX1pZUDdRZTZyc05KcFVnV09zWF93Yzdtd2xUU0VrSmhZMjBkbXBGeUZnUG5yZWktZTF0NURhbmRRUjVDcmtKbzF2MS0wOWFjUzRkVkdtNHl6V1Z0QQ",
     "searchedLabel": "b-corp",
     "matches": [
       {
