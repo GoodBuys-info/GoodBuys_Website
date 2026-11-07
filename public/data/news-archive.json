@@ -1,6 +1,98 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Yahoo",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVVNzZFRQMUJWWnlqX0xqSEpqVnlPYmlpT3QxTW1JWjFuc3ZLbnJfWmJCUUliTFFEQXVPTEVzNlc2cUp4MFM1cjNaTG5oaHE0VjhEZmoxNzZ5eC1PUmFENV84NmFiUnFqZVZMendzY2pxSlFleXd6c28zeFNRVmxmZkV3?oc=5",
+    "urlSlug": null,
+    "title": "Blue Angel pilot Scott Laux cut from team for not upholding standards",
+    "summary": "",
+    "publishedAt": "2026-11-07T00:12:00.000Z",
+    "categories": [],
+    "guid": "CBMiggFBVV95cUxNVVNzZFRQMUJWWnlqX0xqSEpqVnlPYmlpT3QxTW1JWjFuc3ZLbnJfWmJCUUliTFFEQXVPTEVzNlc2cUp4MFM1cjNaTG5oaHE0VjhEZmoxNzZ5eC1PUmFENV84NmFiUnFqZVZMendzY2pxSlFleXd6c28zeFNRVmxmZkV3",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-11-07T13:25:47.182Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Seafoodnews",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjVfTmNqQmNiNFlvQ21wZmFHU3dxSzlhVC02X01wWEF1V29wbGxmQ0RaRlYzY3JreWFaMW5tblMtRGNCWjhiWmhhaC1Db2MyZ19KRVFpX3o3elNVZjZBRTd0SUNGT2ZVOHFkYVZoQV9DR3o5MGpDUG0zYWVKUkZNVWt4bGFHVU5aOUo5eE5QTVM2TXJqT3dNbk5jT0I0cW1UZlZjZnBzTXdOQlZpOTNUajhQSlRMOG16ZVdCcEpNQlp5UQ?oc=5",
+    "urlSlug": null,
+    "title": "Sri Lankan Blue Swimming Crab Fishery Earns MSC Certification After Decade of Work",
+    "summary": "",
+    "publishedAt": "2026-11-06T19:24:44.000Z",
+    "categories": [],
+    "guid": "CBMiwgFBVV95cUxPNjVfTmNqQmNiNFlvQ21wZmFHU3dxSzlhVC02X01wWEF1V29wbGxmQ0RaRlYzY3JreWFaMW5tblMtRGNCWjhiWmhhaC1Db2MyZ19KRVFpX3o3elNVZjZBRTd0SUNGT2ZVOHFkYVZoQV9DR3o5MGpDUG0zYWVKUkZNVWt4bGFHVU5aOUo5eE5QTVM2TXJqT3dNbk5jT0I0cW1UZlZjZnBzTXdOQlZpOTNUajhQSlRMOG16ZVdCcEpNQlp5UQ",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-11-07T13:25:47.182Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Detroit News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdmF1RlVZeUpMVTRIV1pscGEyTm9CdTRtY1BldkZ1bS1tdXNkS3dEcE40czhmWHZhUXk0dzJPVjhLbExEaVYyY2hud3BYcWM2d2ktelRhd0ZwR0xMWFo3UFpvd004MDlVbjNpMWJaMC12N3RNd2NtV0hDaGxucWVUWDYzbjh0MG1DMFIyNVNHMjZCQXhpMWVrMFl4eXJVa2xMcW1qd3VCZ1ZfcDlrb2pQZHhfWnJxTWdzVEVMUmhWQVptX1o1ZlRiLXZpeXFGX0pUX1Zlc18wUW9scXpTbmh1Ukl0aXNBSUE?oc=5",
+    "urlSlug": null,
+    "title": "Mövenpick Hotel Centaurus Islamabad: First Hotel in Pakistan to Achieve Green Globe Certification",
+    "summary": "",
+    "publishedAt": "2026-11-06T17:33:06.000Z",
+    "categories": [],
+    "guid": "CBMi5wFBVV95cUxOdmF1RlVZeUpMVTRIV1pscGEyTm9CdTRtY1BldkZ1bS1tdXNkS3dEcE40czhmWHZhUXk0dzJPVjhLbExEaVYyY2hud3BYcWM2d2ktelRhd0ZwR0xMWFo3UFpvd004MDlVbjNpMWJaMC12N3RNd2NtV0hDaGxucWVUWDYzbjh0MG1DMFIyNVNHMjZCQXhpMWVrMFl4eXJVa2xMcW1qd3VCZ1ZfcDlrb2pQZHhfWnJxTWdzVEVMUmhWQVptX1o1ZlRiLXZpeXFGX0pUX1Zlc18wUW9scXpTbmh1Ukl0aXNBSUE",
+    "searchedLabel": "green-globe",
+    "matches": [
+      {
+        "labelId": "green-globe",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Globe"
+      }
+    ],
+    "fetchedAt": "2026-11-07T13:25:47.182Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Wood Business",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcm8tbnpZSnlXZHROZGEySkFlRV9tMlNMY1RhLUxrd2ZNdlh2TkFPN0lKMXotWVNZZUVDRWxMa3lxNmxmV01tRUdoazNtYTBGVXBDYll4aGl6UUdnRXhRVnBla2hncEF5Q1ZFNWphdi1KcnlWMDJKdkFxZ20xLXFwbFh0bXhuZnFwNkNVdjk0SnRiaWJsUnRBMlhkWQ?oc=5",
+    "urlSlug": null,
+    "title": "Advance Lumber & Pallet Achieves PEFC Chain Of Custody Certification",
+    "summary": "",
+    "publishedAt": "2026-11-06T15:23:28.000Z",
+    "categories": [],
+    "guid": "CBMimwFBVV95cUxPcm8tbnpZSnlXZHROZGEySkFlRV9tMlNMY1RhLUxrd2ZNdlh2TkFPN0lKMXotWVNZZUVDRWxMa3lxNmxmV01tRUdoazNtYTBGVXBDYll4aGl6UUdnRXhRVnBla2hncEF5Q1ZFNWphdi1KcnlWMDJKdkFxZ20xLXFwbFh0bXhuZnFwNkNVdjk0SnRiaWJsUnRBMlhkWQ",
+    "searchedLabel": "pefc",
+    "matches": [
+      {
+        "labelId": "pefc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "PEFC"
+      }
+    ],
+    "fetchedAt": "2026-11-07T13:25:47.182Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "EIN News",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb3YyaHpUeTZXZDZNeDZfRGFHcFdVN1RMcDlIYWtTeTZuTXRCVEJiUkU0TDFReTFtbVIzb0V0NzZSZDRCZzcyV1Z6R2NGRVVoQldFeEh6TG9pOFRiNzNTMXhWdVlvUkZENGtYOER3NzRLczZaX0Eyc1htQ0ZtVUZHVlJwQV9veW56emVmNVJxUHNRWXEyR2g3UkJxbVJTQm9ta0ZIa3J2aWhNam9wVjBCbzJROUhrdmN4ZEFZTmxWNGM1TTU0S2MwV3lNZUMzNTd2S1pLQg?oc=5",
@@ -182,6 +274,29 @@
       }
     ],
     "fetchedAt": "2026-11-06T14:32:08.813Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Offaly Live",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU3BQTGgzTTZObkY0a0RPaGtsYzhTcWVWaV85OU1PSjV2SWZxT01sZmhFaGNkOUgtdzhxMzdkS2lnTG5YMlZEM2JYMUgwU3VkX3BGWnRIR2EyNzJwelFyZE5qNm9MdUkzRnNMS0dCTWFKbnR1NkxvazBjTk1nWGlsQTAzaVFSeHowM1J0aVhYN1N2dmdqRC1wRWNSWXM2ckVCbl9oR3dhZTRUUjIwdzdnQ1VBbzctUQ?oc=5",
+    "urlSlug": null,
+    "title": "Offaly organic dairy brand Glenisk achieves B Corp Certification",
+    "summary": "",
+    "publishedAt": "2026-11-06T07:30:00.000Z",
+    "categories": [],
+    "guid": "CBMitgFBVV95cUxNU3BQTGgzTTZObkY0a0RPaGtsYzhTcWVWaV85OU1PSjV2SWZxT01sZmhFaGNkOUgtdzhxMzdkS2lnTG5YMlZEM2JYMUgwU3VkX3BGWnRIR2EyNzJwelFyZE5qNm9MdUkzRnNMS0dCTWFKbnR1NkxvazBjTk1nWGlsQTAzaVFSeHowM1J0aVhYN1N2dmdqRC1wRWNSWXM2ckVCbl9oR3dhZTRUUjIwdzdnQ1VBbzctUQ",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-07T13:25:47.182Z"
   },
   {
     "outletId": "google-news",
@@ -9232,121 +9347,6 @@
         "tier": "text-acronym",
         "where": "title",
         "matchedText": "LEED"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "WWD",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlVDbDNvTkVxVEJ0S05haWpzZ3Njb3d4dDlsNE84cG1ZTGRsWUdLcUpGTW9EXzVZMUZWckIwWGU3RkJIQUI4dGU5UE5kNkQzajVvS09pU0xTUVYzMDlLcnlGNFMydHRsZ01QN1p1aTh4UDM4SjJ3M05QcUhhS3lRZXpqVm9peWpVWFgzeV9KSFpfTFVxSThHRnRsTkVXQ0ZhSVhZXy1hWFVuM0tMc0E?oc=5",
-    "urlSlug": null,
-    "title": "Bluesign Casts Textile Chemistry in First Consumer Campaign",
-    "summary": "",
-    "publishedAt": "2026-09-21T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMirgFBVV95cUxNQlVDbDNvTkVxVEJ0S05haWpzZ3Njb3d4dDlsNE84cG1ZTGRsWUdLcUpGTW9EXzVZMUZWckIwWGU3RkJIQUI4dGU5UE5kNkQzajVvS09pU0xTUVYzMDlLcnlGNFMydHRsZ01QN1p1aTh4UDM4SjJ3M05QcUhhS3lRZXpqVm9peWpVWFgzeV9KSFpfTFVxSThHRnRsTkVXQ0ZhSVhZXy1hWFVuM0tMc0E",
-    "searchedLabel": "bluesign",
-    "matches": [
-      {
-        "labelId": "bluesign",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "bluesign"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Irish Independent",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQck50R3NZWC1MSk9vYmhOS1RtZUpHN1l6aUgtaEdmNzNzUTBLR2x6QmhfZHFQdjhVNVBLeGpfX3I3ZlRxN3RLU1phYnZxakxmWVg1dE9WTHRhTHdqMmI3aE4taENKQmFmbjU5T19fLXdFWXFiVUp6blFwd1RxRjVvVmowV1JCTUdNaFk2SWtVdnVsTFE0M3hyTVd4dERmemhxMW5GUU9tT2wteUhJX1FPUQ?oc=5",
-    "urlSlug": null,
-    "title": "Calls for more rock armour along Kerry blue flag beach",
-    "summary": "",
-    "publishedAt": "2026-09-20T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMisAFBVV95cUxQck50R3NZWC1MSk9vYmhOS1RtZUpHN1l6aUgtaEdmNzNzUTBLR2x6QmhfZHFQdjhVNVBLeGpfX3I3ZlRxN3RLU1phYnZxakxmWVg1dE9WTHRhTHdqMmI3aE4taENKQmFmbjU5T19fLXdFWXFiVUp6blFwd1RxRjVvVmowV1JCTUdNaFk2SWtVdnVsTFE0M3hyTVd4dERmemhxMW5GUU9tT2wteUhJX1FPUQ",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "openPR.com",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHlEekVZYWw5VVdIejlvdFJoRGpoRGdhaTctQlFrWHlWSW02WFFENXNyRkY5THVlc05HTW5VeW45Q3JCTEh4ZUh2Q0JhLU5kdlJxWFl2RW5xcm9aYVJ5TzlKTDg5YTRKVFhrSXFkMXhkcGxDZXA3U3h5b3NldUtNdUxkZnRUaTAtTTdiWW80MmZzY3djdG1wVXRBY3U?oc=5",
-    "urlSlug": null,
-    "title": "Jardina Outdoor Furniture Adds FSC-Certified Teak Collection as Sustainable Materials Demand Grows",
-    "summary": "",
-    "publishedAt": "2026-09-16T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMinAFBVV95cUxPUHlEekVZYWw5VVdIejlvdFJoRGpoRGdhaTctQlFrWHlWSW02WFFENXNyRkY5THVlc05HTW5VeW45Q3JCTEh4ZUh2Q0JhLU5kdlJxWFl2RW5xcm9aYVJ5TzlKTDg5YTRKVFhrSXFkMXhkcGxDZXA3U3h5b3NldUtNdUxkZnRUaTAtTTdiWW80MmZzY3djdG1wVXRBY3U",
-    "searchedLabel": "fsc",
-    "matches": [
-      {
-        "labelId": "fsc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "FSC"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Cosmetics Business",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMHZocG5TVXVRalBSNTRzVm80NlhVbVY3YUcyMUdfOTVRVG04aGcxNzZ5ZkFfYWdMOEc4bE01VzhScGZJeTJlQU9fMDRkYl9YV0d5d0dMdTh0YkZBSS1pbjBQd1h4RzB1LWpRVEJTV0d5OFBRS1laWDduSEZ5TDRpUDVJVWRvYUxDTlgydGo0UkxPZw?oc=5",
-    "urlSlug": null,
-    "title": "Panthenol goes natural: Cosphatec introduces two COSMOS- and NATRUE-compliant variations",
-    "summary": "",
-    "publishedAt": "2026-09-16T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMikgFBVV95cUxNMHZocG5TVXVRalBSNTRzVm80NlhVbVY3YUcyMUdfOTVRVG04aGcxNzZ5ZkFfYWdMOEc4bE01VzhScGZJeTJlQU9fMDRkYl9YV0d5d0dMdTh0YkZBSS1pbjBQd1h4RzB1LWpRVEJTV0d5OFBRS1laWDduSEZ5TDRpUDVJVWRvYUxDTlgydGo0UkxPZw",
-    "searchedLabel": "natrue",
-    "matches": [
-      {
-        "labelId": "natrue",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "NaTrue"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "WBOC TV",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQS3Q4MlhxNmhCMEN1dWhJbGVQYmNNbmFtWUhua1FLaHhHOUJSZWZabmUzQ2dsaDBVaHN3ZnE2eERhQWdnekRkX0tjYWswdU8tRm5LOXlQY1BpMHhHRW1VVWlnM1hzeGw5VjczYzRyekIwN2c4ZGk0TzMwWURubW1pVTlmQk52VWRscGdzUFphQm9kelBEU2VCZ3JqeGRZTm9DUWR2SFRTeG13R2ZSd19IakU2c3lEdWFCWnZrOHA2X3lvd2dTV0FfanlBcWhtODJBVXpwNmplT3FjZF9kRWk2eTVxY0pyU3ZvSndSWFRRMGNrVXVRcHc0NUVGRnBrZzRkcEdOTl9NT1R4UV9HT2Izd0V6X0NfRlZMYUNkSmdR?oc=5",
-    "urlSlug": null,
-    "title": "Mimi A La Mode Hollywood Expands Glamour at Home Philosophy with Custom-Blend Leaping Bunny-Certified Cosmetics and Vintage-Inspired Entertaining",
-    "summary": "",
-    "publishedAt": "2026-09-15T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMingJBVV95cUxQS3Q4MlhxNmhCMEN1dWhJbGVQYmNNbmFtWUhua1FLaHhHOUJSZWZabmUzQ2dsaDBVaHN3ZnE2eERhQWdnekRkX0tjYWswdU8tRm5LOXlQY1BpMHhHRW1VVWlnM1hzeGw5VjczYzRyekIwN2c4ZGk0TzMwWURubW1pVTlmQk52VWRscGdzUFphQm9kelBEU2VCZ3JqeGRZTm9DUWR2SFRTeG13R2ZSd19IakU2c3lEdWFCWnZrOHA2X3lvd2dTV0FfanlBcWhtODJBVXpwNmplT3FjZF9kRWk2eTVxY0pyU3ZvSndSWFRRMGNrVXVRcHc0NUVGRnBrZzRkcEdOTl9NT1R4UV9HT2Izd0V6X0NfRlZMYUNkSmdR",
-    "searchedLabel": "leaping-bunny",
-    "matches": [
-      {
-        "labelId": "leaping-bunny",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Leaping Bunny"
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
