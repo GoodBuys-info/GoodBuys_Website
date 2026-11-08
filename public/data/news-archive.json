@@ -3,6 +3,52 @@
     "outletId": "google-news",
     "outletName": "Yahoo",
     "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WVk91LUlVQWdTZUlQcjZoRVhGWkFzMkpVVm55dXdwS2FMdGp6S1IyYnU3ZHNkMjEwSFBNNl9xcjZJc095N2k0T1dqNDVncWw5YjdZRU5jQlc5dGQ3R0FkRDlhcUxTT3MyUU85NXAxWXJ3Z08wOHdGZQ?oc=5",
+    "urlSlug": null,
+    "title": "Hear Blue Angel No. 4 explain what comes after Homecoming Air Show",
+    "summary": "",
+    "publishedAt": "2026-11-08T10:03:53.000Z",
+    "categories": [],
+    "guid": "CBMieEFVX3lxTE5WVk91LUlVQWdTZUlQcjZoRVhGWkFzMkpVVm55dXdwS2FMdGp6S1IyYnU3ZHNkMjEwSFBNNl9xcjZJc095N2k0T1dqNDVncWw5YjdZRU5jQlc5dGQ3R0FkRDlhcUxTT3MyUU85NXAxWXJ3Z08wOHdGZQ",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-11-08T13:46:13.848Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Pensacola News Journal",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONmlzMEVOUmRXV1cxVXhKVVJBZVlqVHJwZzEwUkpKaW5yTnhnVEc5Z2hWdS1fSUR6ZWhGbWFKVjRLR0REeGlGVUlwbjhzSjdYd3djZnQ3QzA3bVpQcG9ISFB6bVZLOHR3NnU1ZjJCalhiZFhhOFJCWGxLaGhLSmNTWFFSNjRnekNwZTBRYmJpYUtpUzczN0FGLVAyNkRyS0xhUlNxcTVwVjRsWEdDTzZoN2Nmc1J5UU9LVFNCUmdwQUxrRWZ3Sk9pR1hQbHRDLUJDekJXTnpLRTRyS3hRMTFrOG0zSQ?oc=5",
+    "urlSlug": null,
+    "title": "Blue Angel pilot Scott Laux cut from team for not upholding standards",
+    "summary": "",
+    "publishedAt": "2026-11-07T00:12:14.000Z",
+    "categories": [],
+    "guid": "CBMi4wFBVV95cUxONmlzMEVOUmRXV1cxVXhKVVJBZVlqVHJwZzEwUkpKaW5yTnhnVEc5Z2hWdS1fSUR6ZWhGbWFKVjRLR0REeGlGVUlwbjhzSjdYd3djZnQ3QzA3bVpQcG9ISFB6bVZLOHR3NnU1ZjJCalhiZFhhOFJCWGxLaGhLSmNTWFFSNjRnekNwZTBRYmJpYUtpUzczN0FGLVAyNkRyS0xhUlNxcTVwVjRsWEdDTzZoN2Nmc1J5UU9LVFNCUmdwQUxrRWZ3Sk9pR1hQbHRDLUJDekJXTnpLRTRyS3hRMTFrOG0zSQ",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-11-08T13:46:13.848Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Yahoo",
+    "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVVNzZFRQMUJWWnlqX0xqSEpqVnlPYmlpT3QxTW1JWjFuc3ZLbnJfWmJCUUliTFFEQXVPTEVzNlc2cUp4MFM1cjNaTG5oaHE0VjhEZmoxNzZ5eC1PUmFENV84NmFiUnFqZVZMendzY2pxSlFleXd6c28zeFNRVmxmZkV3?oc=5",
     "urlSlug": null,
     "title": "Blue Angel pilot Scott Laux cut from team for not upholding standards",
@@ -2250,6 +2296,29 @@
       }
     ],
     "fetchedAt": "2026-10-30T13:20:08.545Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Care Home Professional",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DQVRWSmxtaHdJZ2RuZ2hQSC12ODhpR2lZV05UUnlpd2ZnWlpXUnlOcXNxSW9nbUdvODFRaXR6ZmN6azFPbHJIblNXbTd3RUp2NmJPcXY1UHIxUldpMEtPRy02WXluNEVjQkNkaG8yVTNzQndsM2RSU2tFbUR4elk?oc=5",
+    "urlSlug": null,
+    "title": "Puma Property Finance partners with BREEAM on enhanced impact lending framework",
+    "summary": "",
+    "publishedAt": "2026-10-26T12:15:54.000Z",
+    "categories": [],
+    "guid": "CBMif0FVX3lxTE9DQVRWSmxtaHdJZ2RuZ2hQSC12ODhpR2lZV05UUnlpd2ZnWlpXUnlOcXNxSW9nbUdvODFRaXR6ZmN6azFPbHJIblNXbTd3RUp2NmJPcXY1UHIxUldpMEtPRy02WXluNEVjQkNkaG8yVTNzQndsM2RSU2tFbUR4elk",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-11-08T13:46:13.848Z"
   },
   {
     "outletId": "google-news",
@@ -9278,75 +9347,6 @@
         "tier": "text-substring",
         "where": "title",
         "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Fishfarming expert",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMFV3MVVncU5HVFVkV3loNkt1RWd2RndRNUpMeHVPYzItVHlUVkplaG1QZGU2QlJxam1FVXVSdXRTeEVVVkVCd1l0cno5eThFcHQ2Ni1aQ3FtWUdiN3dWRG1YazdCakladGRDRUQyNXFoVlZ6RW9NSFBlMmlMdG1SVGFjNGdDQTFlTWtpQ1BhaWsxTEUzcmdlYWRpdXVmaXVTMDd4NzVxZV9GVjZYV0U2Y0JFdGgyVkdMMGxyMzU0VU9SOVBvMFNmRHFrOWpRRm9WZ2FYR3hKeXE2TVhHUXNLdXN1V2ZmOUw1U0hRR3pHdHR3UWU3akpVYlpNS3NJU05JNU81bHl0RQ?oc=5",
-    "urlSlug": null,
-    "title": "Bivalve cooperative becomes first in Mexico to join ASC improver programme",
-    "summary": "",
-    "publishedAt": "2026-09-22T09:24:13.000Z",
-    "categories": [],
-    "guid": "CBMihwJBVV95cUxOMFV3MVVncU5HVFVkV3loNkt1RWd2RndRNUpMeHVPYzItVHlUVkplaG1QZGU2QlJxam1FVXVSdXRTeEVVVkVCd1l0cno5eThFcHQ2Ni1aQ3FtWUdiN3dWRG1YazdCakladGRDRUQyNXFoVlZ6RW9NSFBlMmlMdG1SVGFjNGdDQTFlTWtpQ1BhaWsxTEUzcmdlYWRpdXVmaXVTMDd4NzVxZV9GVjZYV0U2Y0JFdGgyVkdMMGxyMzU0VU9SOVBvMFNmRHFrOWpRRm9WZ2FYR3hKeXE2TVhHUXNLdXN1V2ZmOUw1U0hRR3pHdHR3UWU3akpVYlpNS3NJU05JNU81bHl0RQ",
-    "searchedLabel": "asc",
-    "matches": [
-      {
-        "labelId": "asc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ASC"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Chester Standard",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdU16US02dkxkME5QOVdJdW9yczNBdnFCWHBKcUFEOTZZbFdHNW5fSTZRRHhBVWRLLThlX3ctSXQwaTVpdVBBTTlCcmdnU2tiNDhCdGMzQ2VnS1NYLUVkcFVvbTZuclB2dEpIT0xEYko3ZGZ0N2tZVkNqOWxGYi1tTE1abS1QdmV4b3NWeWw2cl9XREQ1YzRFd2Qzc3NpeFlQN01R?oc=5",
-    "urlSlug": null,
-    "title": "Cheshire payments firm CanDo Payments achieves B Corp and Living Wage status",
-    "summary": "",
-    "publishedAt": "2026-09-22T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiowFBVV95cUxQdU16US02dkxkME5QOVdJdW9yczNBdnFCWHBKcUFEOTZZbFdHNW5fSTZRRHhBVWRLLThlX3ctSXQwaTVpdVBBTTlCcmdnU2tiNDhCdGMzQ2VnS1NYLUVkcFVvbTZuclB2dEpIT0xEYko3ZGZ0N2tZVkNqOWxGYi1tTE1abS1QdmV4b3NWeWw2cl9XREQ1YzRFd2Qzc3NpeFlQN01R",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Armenpress",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04cmdVUzk0NUdhMkJId2JWR1E3djM0dnJaeW1ocGFmSEF5ZFpmN21KV1ctR1hKZXdaaXZpYXVhT1p6RWNPTzBWZDQ2MVA5c2ptUXfSAVdBVV95cUxNSU15U1pPR3hSRkRxQjZ5WE00ZWxvQlJHU09tdWVaeUZ1Q0ZqajhIVldsNTZpY1RKSG9hV1hOZHMxTWhONHdSb0dKN0FNVWtjSGVjZ3JtQzA?oc=5",
-    "urlSlug": null,
-    "title": "Armenia to build customs, logistics centers in Yerevan and Syunik in line with LEED standards",
-    "summary": "",
-    "publishedAt": "2026-09-22T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiUkFVX3lxTE04cmdVUzk0NUdhMkJId2JWR1E3djM0dnJaeW1ocGFmSEF5ZFpmN21KV1ctR1hKZXdaaXZpYXVhT1p6RWNPTzBWZDQ2MVA5c2ptUXfSAVdBVV95cUxNSU15U1pPR3hSRkRxQjZ5WE00ZWxvQlJHU09tdWVaeUZ1Q0ZqajhIVldsNTZpY1RKSG9hV1hOZHMxTWhONHdSb0dKN0FNVWtjSGVjZ3JtQzA",
-    "searchedLabel": "leed",
-    "matches": [
-      {
-        "labelId": "leed",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "LEED"
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
