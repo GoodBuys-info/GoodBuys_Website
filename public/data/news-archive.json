@@ -1,6 +1,190 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Bdaily",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcWhZZ3Y3dTNNTUlMQ21KWGhNNi1CeEZUTnNOUkFpZ2doYzRIcnM2VWM3WGh4SDRVS20tTFZDWUUzdEJSdmh4UDROV0J3OWZOZDJOSXIyS1pKcGFHUWhjVWx3Nzd3QXZITGVOOGh5NWc1MjBPT2NuaFFtSmtKc0RGdEt0YjNEYTZkYWl1LTc1bmR4SVpLTEh3?oc=5",
+    "urlSlug": null,
+    "title": "Construction group celebrates double B Corp success",
+    "summary": "",
+    "publishedAt": "2026-11-09T15:02:52.000Z",
+    "categories": [],
+    "guid": "CBMilwFBVV95cUxQcWhZZ3Y3dTNNTUlMQ21KWGhNNi1CeEZUTnNOUkFpZ2doYzRIcnM2VWM3WGh4SDRVS20tTFZDWUUzdEJSdmh4UDROV0J3OWZOZDJOSXIyS1pKcGFHUWhjVWx3Nzd3QXZITGVOOGh5NWc1MjBPT2NuaFFtSmtKc0RGdEt0YjNEYTZkYWl1LTc1bmR4SVpLTEh3",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-11-09T16:45:56.917Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Fishing News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcW5OSkthcHZ6ZGVuZlhXNkFZc2M4ZHNyNGdlbUdEZ0NJd2FmZGJiU3pLRm40UW5XNHhwUTB2Y0IzcDdkdG9JdjdIeUQ5SmF3NUlueWZHTUJ6VlVvaTY4ZnpwUm03dnR6T0ZjSUtEekxZUmZhVEJoR09MR0o0UWRQZzY1bDhNMEctQkNIby1jRmhzbGV5ZWFfZ2laajNCUE1mcDFLTA?oc=5",
+    "urlSlug": null,
+    "title": "Cornish sardines and Shetland shellfish take top honours at MSC Awards",
+    "summary": "",
+    "publishedAt": "2026-11-09T15:02:02.000Z",
+    "categories": [],
+    "guid": "CBMipAFBVV95cUxNcW5OSkthcHZ6ZGVuZlhXNkFZc2M4ZHNyNGdlbUdEZ0NJd2FmZGJiU3pLRm40UW5XNHhwUTB2Y0IzcDdkdG9JdjdIeUQ5SmF3NUlueWZHTUJ6VlVvaTY4ZnpwUm03dnR6T0ZjSUtEekxZUmZhVEJoR09MR0o0UWRQZzY1bDhNMEctQkNIby1jRmhzbGV5ZWFfZ2laajNCUE1mcDFLTA",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-11-09T16:45:56.917Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Times",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcDF0Unp6SE5ibzFVU01QZ0dOMGh5ZGNOVlUwYUx3di1TQzk3N19OYmk2TVI2S0JmX3JMeVcwN1VjRDdDVVJxZjJwdGg3MUhlTGIwb1NjSW1KQkI5R2R3QmVLd1lUWm5RamhZdDUzazcwa2daSl9QVG4zbFRwVjVEcWVzTkVDYjQ?oc=5",
+    "urlSlug": null,
+    "title": "British salmon stripped of Soil Association organic status",
+    "summary": "",
+    "publishedAt": "2026-11-09T14:14:35.000Z",
+    "categories": [],
+    "guid": "CBMihwFBVV95cUxQcDF0Unp6SE5ibzFVU01QZ0dOMGh5ZGNOVlUwYUx3di1TQzk3N19OYmk2TVI2S0JmX3JMeVcwN1VjRDdDVVJxZjJwdGg3MUhlTGIwb1NjSW1KQkI5R2R3QmVLd1lUWm5RamhZdDUzazcwa2daSl9QVG4zbFRwVjVEcWVzTkVDYjQ",
+    "searchedLabel": "soil-association-organic",
+    "matches": [
+      {
+        "labelId": "soil-association-organic",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Soil Association Organic"
+      }
+    ],
+    "fetchedAt": "2026-11-09T16:45:56.917Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "IndexBox",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjdTbWlLZXpHdi1URWw4Znk5VDRTMjhsb1ZBNzNUeXkyaGxvNURxakduckh0YW8zSmpNbGdnUXNuLW10WUpmeS1rQkhTU25YenFNMVQtSnV5NWRfZ2t6OEtjZWNqZDdsT1JaM1kycklxZmlRZlNiZGFGSmg4TW1vS1Y4a00zWlY2NDF0dlJTVzZWNW5iYThjZnpxMlQ?oc=5",
+    "urlSlug": null,
+    "title": "USDA Organic Poultry and Egg Report — November 9, 2026 - News and Statistics",
+    "summary": "",
+    "publishedAt": "2026-11-09T13:40:27.000Z",
+    "categories": [],
+    "guid": "CBMinAFBVV95cUxQUjdTbWlLZXpHdi1URWw4Znk5VDRTMjhsb1ZBNzNUeXkyaGxvNURxakduckh0YW8zSmpNbGdnUXNuLW10WUpmeS1rQkhTU25YenFNMVQtSnV5NWRfZ2t6OEtjZWNqZDdsT1JaM1kycklxZmlRZlNiZGFGSmg4TW1vS1Y4a00zWlY2NDF0dlJTVzZWNW5iYThjZnpxMlQ",
+    "searchedLabel": "usda-organic",
+    "matches": [
+      {
+        "labelId": "usda-organic",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "USDA Organic"
+      }
+    ],
+    "fetchedAt": "2026-11-09T16:45:56.917Z"
+  },
+  {
+    "outletId": "sustainablebrands",
+    "outletName": "Sustainable Brands",
+    "url": "https://sustainablebrands.com/read/after-the-offsets-building-healing-that-outlasts-its-champion",
+    "urlSlug": "after-the-offsets-building-healing-that-outlasts-its-champion",
+    "title": "After the Offsets: Building Healing That Outlasts Its Champion",
+    "summary": "Since September 27, 2026, companies selling to consumers in the European Union have been barred from claiming that a product has a neutral, reduced or positive climate impact on the strength of carbon offsets. The same rules bar sustainability labels that rest on neither a certification scheme nor a public authority. A brand can still claim the improvements it has built into a product, provided it can prove them. Interface, the carpet-tile company, got there more than two years early. On April 30, 2024, it retired its Carbon Neutral Floors program , a label that had rested on a familiar arrangement: cut emissions where possible, then buy offsets, from forest projects in places like Kenya and Cambodia, to cover the rest. From 2025, the company said, that money would go into cutting emissions directly and storing carbon in its own operations and supply chain, toward a goal of becoming carbon negative \"without offsets\" by 2040. Trellis put the offset budget at roughly $2 million a year. Ray Anderson, the founder who turned Interface toward eliminating its environmental harm in 1994, died in 2011. The decision to leave offsets behind came thirteen years after his death, from people who had inherited his commitment and chose to take it further. Most sustainability commitments fare worse when their champions leave. They tend to be attachments: an offset contract, a reduction target, a grant budget, a chapter in the annual report. Each makes a company somewhat less harmful, and the next person in charge can detach any of them with a memo. Healing asks more of a business. It means leaving soil, water, workers and towns healthier for the company's presence, and it holds only when the healing is part of how the company earns its money. Every change of owner or chief executive brings a renovation. Commitments come through it when they hold up the building. Four questions show whether yours do. Where the healing lives A commitment written into a report or a budget can be ended by whoever writes the next one. Write it into the product specification and the supplier contracts, and ending it means redesigning the product, which takes years and shows up on the shelf. Interface's exit from offsets moved its climate work from the first kind of document to the second. The business model has to work, too. The company's 1990s experiment with leasing carpet ran into trouble with the tax rules for leases, as Gregory Unruh recounted here in 2019 . Find the document a successor would have to rewrite to end each of your commitments, and make sure it is one that runs the operation. What pays for it Patagonia's giving comes from two sources, and they behave differently. By late 2025, Fast Company reported , Patagonia had given about $180 million to the Holdfast Collective, the nonprofit that holds its nonvoting stock, since changing its ownership in 2022. It also still gives $10 million to $15 million a year through 1% for the Planet. The 1% is a share of sales, so it arrives in a thin year as reliably as a fat one. The Holdfast money is a share of profit, as much as 98 percent of it after the company sets aside what the business needs to reinvest, and a bad year shrinks it as it would any dividend. Commitments paid from whatever is left at year's end compete with everything else for the remainder. Tie yours to units sold, or build them into the cost of goods as a per-unit premium to regenerative suppliers, and they are paid before that argument starts. Who can change it The Body Shop earned B Corp certification in 2019, while Natura owned it. In late 2023 Natura sold it to a private equity firm, and in February 2024 its UK business went into administration; B Lab opened a review of its certification soon after. A certificate describes a company as it stands on the day of the audit, and it has no say over who owns the company next. Map who has the authority to amend each commitment that matters, and raise the price of amending it. Benefit corporation status, where the law allows it, writes a purpose into the charter, and a required board vote with public disclosure slows any change to it. Patagonia went furthest and placed its voting shares in a purpose trust. Each step raises the cost of reversal and drags it into public view, which is often protection enough. Who can enforce it When Unilever bought Ben & Jerry's in 2000, the deal left an independent board in charge of the brand's social mission. On August 21, 2026, a federal judge in New York dismissed most of the lawsuit the independent directors had brought against the brand's owners. The board's powers, the court held, \" do not include the right to sue on behalf of Ben & Jerry's .\" By then Magnum, the Unilever spin-off that now owns the brand, had removed the three independent directors under new eligibility rules, which the former directors are still challenging, and three new independent directors have since joined the board. Through all of it, Ben & Jerry's has remained a certified B Corp . The board held responsibility for the mission without the power to defend it in court, and a promise nobody can take to court is closer to a preference. Put the commitments you care about into contracts with parties who can hold you to them: a multiyear supplier agreement, say, or the covenants of a sustainability-linked loan. Then publish results against a baseline, so that customers and employees can see when a promise slips. None of this makes a commitment permanent. A future owner of Interface could still decide that storing carbon in its products costs too much. Acting on that would mean redesigning products its customers already buy, and new owners rarely take a sledgehammer to a load-bearing wall. Build the healing into the structure, and it will still be standing after everyone who championed it, you included, has moved on.",
+    "publishedAt": "2026-11-09T13:00:00.000Z",
+    "categories": [],
+    "guid": "https://sustainablebrands.com/read/after-the-offsets-building-healing-that-outlasts-its-champion",
+    "sourceName": "Organizational Governance at Sustainable Brands",
+    "sourceUrl": "https://sustainablebrands.com/rss",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "summary",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-09T16:45:56.917Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "AvBrief.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81U3c0WmhsWlVtcDVkSWt0SUZwRmRTRl9KWXhLcXdkb3lyOWlsQllhbEZGY1V0N3NJdDk1bWx0R1M0VU9qTlFmSXgzWW8tRE1CSVhKcWhlVndXak1wb1kxT25CVkFOYnl4?oc=5",
+    "urlSlug": null,
+    "title": "Blue Angel Dropped Before Final Show",
+    "summary": "",
+    "publishedAt": "2026-11-09T05:45:08.000Z",
+    "categories": [],
+    "guid": "CBMiaEFVX3lxTE81U3c0WmhsWlVtcDVkSWt0SUZwRmRTRl9KWXhLcXdkb3lyOWlsQllhbEZGY1V0N3NJdDk1bWx0R1M0VU9qTlFmSXgzWW8tRE1CSVhKcWhlVndXak1wb1kxT25CVkFOYnl4",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-11-09T16:45:56.917Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "WV News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb3hudHowa0xDRm5la2pTblp4SjdDcmJaeFRla2ZoNndvcGlJZ09fYTQ5UDNPR1lWUzI4ZmdGSXBxeHppTGpnaDV1Zkt2Z3N3S1d4Unp3aDFpOV9qTGxwc0kzWlAtbi10NjBjcVpwRnQ4TVN3OUVnT2c5dXlwLXRYcGJ2dGFCekhkQ3k0N0hHVXdDQQ?oc=5",
+    "urlSlug": null,
+    "title": "Blue Angel trophy",
+    "summary": "",
+    "publishedAt": "2026-11-08T18:00:00.000Z",
+    "categories": [],
+    "guid": "CBMikgFBVV95cUxOb3hudHowa0xDRm5la2pTblp4SjdDcmJaeFRla2ZoNndvcGlJZ09fYTQ5UDNPR1lWUzI4ZmdGSXBxeHppTGpnaDV1Zkt2Z3N3S1d4Unp3aDFpOV9qTGxwc0kzWlAtbi10NjBjcVpwRnQ4TVN3OUVnT2c5dXlwLXRYcGJ2dGFCekhkQ3k0N0hHVXdDQQ",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-11-09T16:45:56.917Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Pensacola News Journal",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS24zOWs1WVh3c3JSSWZKQklRdmMwTU1LdHBkOTZJdmJvbDlwaHVVdjBqaVdaWDNfQWNjc1hHR2ozOEdjRVVzWDhvdlRpWTQ5V1ZXVkZQRkc4b25QY21pNUFtVzdzM1Z4SGlXR2VFN2g1eVdPNGMxVWgwUFJTaWdXclExNjZPUlZMM1QwZ2RraXNNcU91N1A1T3pvQTBhZkdEMmd4QUo0OHlSdVViTlRtbFdTV1lGY3Z3Z2lJTTJBVjRFUUpXeVRCXzhrcEt5M3lHRkJkSFdlRGdQLUhsMFE?oc=5",
+    "urlSlug": null,
+    "title": "Hear Blue Angel No. 4 explain what comes after Homecoming Air Show",
+    "summary": "",
+    "publishedAt": "2026-11-08T10:14:04.000Z",
+    "categories": [],
+    "guid": "CBMi3gFBVV95cUxOS24zOWs1WVh3c3JSSWZKQklRdmMwTU1LdHBkOTZJdmJvbDlwaHVVdjBqaVdaWDNfQWNjc1hHR2ozOEdjRVVzWDhvdlRpWTQ5V1ZXVkZQRkc4b25QY21pNUFtVzdzM1Z4SGlXR2VFN2g1eVdPNGMxVWgwUFJTaWdXclExNjZPUlZMM1QwZ2RraXNNcU91N1A1T3pvQTBhZkdEMmd4QUo0OHlSdVViTlRtbFdTV1lGY3Z3Z2lJTTJBVjRFUUpXeVRCXzhrcEt5M3lHRkJkSFdlRGdQLUhsMFE",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-11-09T16:45:56.917Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Yahoo",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WVk91LUlVQWdTZUlQcjZoRVhGWkFzMkpVVm55dXdwS2FMdGp6S1IyYnU3ZHNkMjEwSFBNNl9xcjZJc095N2k0T1dqNDVncWw5YjdZRU5jQlc5dGQ3R0FkRDlhcUxTT3MyUU85NXAxWXJ3Z08wOHdGZQ?oc=5",
@@ -1839,6 +2023,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "www.tmgm.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTUQ1NTBXNDNRNFdIMnNxaTgyeUJOeDl5NmtOQ3dMQzdaQ2lyRXNEZkZlTEdETC1OYjZlSFpzdGQ2c2pGUFpMdjZIa2Ewa2F4RXprVXN2Z2luNlVhRTFRcVltS2tGLWJGcmRJS1dNQVhtMEZTWXJ1bHlKeGEwUV9HTkZDelBYUk1KeGhjQTB1NWtoLXJXMjVIX3JBOHFZS19nTjNXRXRnbjJkd3JrQ20zcW1iZkt4c3pjcjRaemZWdnNJU2wxcHNRcUFkd2tBWGhWTTVIOU82czU?oc=5",
+    "urlSlug": null,
+    "title": "Eurozone Business Climate registered at 0.09 above expectations (0) in October",
+    "summary": "",
+    "publishedAt": "2026-10-29T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMi2AFBVV95cUxPTUQ1NTBXNDNRNFdIMnNxaTgyeUJOeDl5NmtOQ3dMQzdaQ2lyRXNEZkZlTEdETC1OYjZlSFpzdGQ2c2pGUFpMdjZIa2Ewa2F4RXprVXN2Z2luNlVhRTFRcVltS2tGLWJGcmRJS1dNQVhtMEZTWXJ1bHlKeGEwUV9HTkZDelBYUk1KeGhjQTB1NWtoLXJXMjVIX3JBOHFZS19nTjNXRXRnbjJkd3JrQ20zcW1iZkt4c3pjcjRaemZWdnNJU2wxcHNRcUFkd2tBWGhWTTVIOU82czU",
+    "searchedLabel": "climate-registered",
+    "matches": [
+      {
+        "labelId": "climate-registered",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Climate Registered"
+      }
+    ],
+    "fetchedAt": "2026-11-09T16:45:56.917Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Middle East Construction News",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZkNjazdKOFA0bktGSEpWdmpkWEZ0RV9kWmNNTFg2dEt6TGhMTXVZeHVsNkw0SzE5U2tNZ2tOUTlIUkZNRC13T3hnZENoT3RrYmZ5TTNKOHBaUmRiSWo3OE5DcGIxQ1VtVjJnV2NHdF81ckxMUDRsTWpZOVB2aXZZZlFGYkZPWTFQRnI5VG1tckhkU2x4UEFPRkE0cWltRFo0VmVNTkVyY0ltY0E?oc=5",
@@ -1997,6 +2204,29 @@
       }
     ],
     "fetchedAt": "2026-10-28T13:22:51.482Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Environment+Energy Leader",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFk0OWtUX3N6X1lfWDQtajRubHJjYWdlYzB6eVc0aW93bEgzVVRDWHNBSGFTS2NxUk1XTEgzRFF4VU5VZUxzck5XZnFfNkNKMXhfWnVzYXY2NVdKc0pyaDd2T3V4bmFSdmFkTHlWRHNmeTdXZDN4cVVPTENoMWIyd2lnclJYUUNyU3FEeW1EWkk2OHpLa3lxbFV5Vm5td1B4WkpjUg?oc=5",
+    "urlSlug": null,
+    "title": "The 10 States With the Most LEED Certifications",
+    "summary": "",
+    "publishedAt": "2026-10-28T10:38:28.000Z",
+    "categories": [],
+    "guid": "CBMipAFBVV95cUxPdFk0OWtUX3N6X1lfWDQtajRubHJjYWdlYzB6eVc0aW93bEgzVVRDWHNBSGFTS2NxUk1XTEgzRFF4VU5VZUxzck5XZnFfNkNKMXhfWnVzYXY2NVdKc0pyaDd2T3V4bmFSdmFkTHlWRHNmeTdXZDN4cVVPTENoMWIyd2lnclJYUUNyU3FEeW1EWkk2OHpLa3lxbFV5Vm5td1B4WkpjUg",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-09T16:45:56.917Z"
   },
   {
     "outletId": "google-news",
@@ -9117,236 +9347,6 @@
         "tier": "text-acronym",
         "where": "title",
         "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "EurobuildCEE",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSFJZX2stSi1EaXc0V1hSaG90TWdiOVdtU0dGanM0bFY2WWJFVVZEWmxIQ3NNOG9lRGxoVkQ5RVhWTVp1eWxEQ0xkdDlUQjhSbDVwRWVTMUZMbVNuX3Z2OXJvS2I0ZlZsU2hnc0xKTVNuRWNYODN2UlFBTURjMVdseTljZl9TY2luZEllU1A3b2o?oc=5",
-    "urlSlug": null,
-    "title": "BRE launches BREEAM Refurbishment and Fit Out V7",
-    "summary": "",
-    "publishedAt": "2026-09-24T13:55:01.000Z",
-    "categories": [],
-    "guid": "CBMikAFBVV95cUxQSFJZX2stSi1EaXc0V1hSaG90TWdiOVdtU0dGanM0bFY2WWJFVVZEWmxIQ3NNOG9lRGxoVkQ5RVhWTVp1eWxEQ0xkdDlUQjhSbDVwRWVTMUZMbVNuX3Z2OXJvS2I0ZlZsU2hnc0xKTVNuRWNYODN2UlFBTURjMVdseTljZl9TY2luZEllU1A3b2o",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Business Wire",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODJ1S3RWbHJIN0xjNklyOHBDbGw5QUlLOHUycXBaazdsZjBIa2Vid19OZGZIQm5xT3J0bmp6X1prcDF1YzFBOGkwX0FGRl9XZll5RjJzdklMYkJTclZ0bnlSRVpUbUlhVml5S0twSkhjSm1SNDdmUTBoZmFwblZjM0ZzSHNFR0p4MWttSWZWS09UcHFOdTQxMUxnUkoyUlZaa3NmaHVnVzI5NWxtd3pTam1oaE9QQ2V5ZFRERTFiN24?oc=5",
-    "urlSlug": null,
-    "title": "BRE Launches BREEAM Refurbishment and Fit Out Commercial Version 7",
-    "summary": "",
-    "publishedAt": "2026-09-24T12:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiwAFBVV95cUxNODJ1S3RWbHJIN0xjNklyOHBDbGw5QUlLOHUycXBaazdsZjBIa2Vid19OZGZIQm5xT3J0bmp6X1prcDF1YzFBOGkwX0FGRl9XZll5RjJzdklMYkJTclZ0bnlSRVpUbUlhVml5S0twSkhjSm1SNDdmUTBoZmFwblZjM0ZzSHNFR0p4MWttSWZWS09UcHFOdTQxMUxnUkoyUlZaa3NmaHVnVzI5NWxtd3pTam1oaE9QQ2V5ZFRERTFiN24",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "EIN News",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNUpndThwODRyMzJWeEdxdVpFQWhfaldLZW0yeHNVaVNMS1hZRnZTZ2ctR2JDMmJ2ejFpZDVXQzNraTg3R2gyMkRsbndDV2p2dHVIRmdjV0NUbnQ1M3NTai1oVXl1WXZ0UmFzdDJaSUlUcG1aTTV5QW0zVTA2M2JobkhEUVpMeFZtTzdDanNjVnNmMXVieEhZTWE5WHVXOUVuLVpBa1FUUE9rMDZhcmtfTWtPZGdwV0FQU29zNkZJeVZkZnhqaGVidFhLVFNiaFMzVldnaUpZeENjUQ?oc=5",
-    "urlSlug": null,
-    "title": "Why Partner with Huahao: Top Benefits of Choosing an OEKO-TEX 100 Certified Softshell Jacket Supplier",
-    "summary": "",
-    "publishedAt": "2026-09-24T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMi2gFBVV95cUxQNUpndThwODRyMzJWeEdxdVpFQWhfaldLZW0yeHNVaVNMS1hZRnZTZ2ctR2JDMmJ2ejFpZDVXQzNraTg3R2gyMkRsbndDV2p2dHVIRmdjV0NUbnQ1M3NTai1oVXl1WXZ0UmFzdDJaSUlUcG1aTTV5QW0zVTA2M2JobkhEUVpMeFZtTzdDanNjVnNmMXVieEhZTWE5WHVXOUVuLVpBa1FUUE9rMDZhcmtfTWtPZGdwV0FQU29zNkZJeVZkZnhqaGVidFhLVFNiaFMzVldnaUpZeENjUQ",
-    "searchedLabel": "oeko-tex",
-    "matches": [
-      {
-        "labelId": "oeko-tex",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Oeko-Tex"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Facebook",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSWNUSkhrWEFEcWdNOGNiYTdxMXZwUmtfTVdGR0RPOXBvY2RLRHR3ckY5TDhlWDQ3ekpxdmFZejJCTDF5UV9CSW0wWi04R1pNSW53TDdUNzdHdkduUzJqblB2UHhhVmZnNWo1azdJVVhVaVNycDBDSFRfenJOaUtheTNMbjFXTDlPNVh4NDJwSVVSYXQ0WF9YREFiVjZwbGNBUWEzY0Njc0FaYzRIRjJ2dGlhaV95bm1PWEk5VFU2XzFCMVVtUG82QWthbkVhU1kwOG5jZFN1a0V4TE92SXBCcA?oc=5",
-    "urlSlug": null,
-    "title": "Huge queues spotted outside The Raz, officially known as the Blue Angel, as students return to the city 👀",
-    "summary": "",
-    "publishedAt": "2026-09-24T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMi4AFBVV95cUxOSWNUSkhrWEFEcWdNOGNiYTdxMXZwUmtfTVdGR0RPOXBvY2RLRHR3ckY5TDhlWDQ3ekpxdmFZejJCTDF5UV9CSW0wWi04R1pNSW53TDdUNzdHdkduUzJqblB2UHhhVmZnNWo1azdJVVhVaVNycDBDSFRfenJOaUtheTNMbjFXTDlPNVh4NDJwSVVSYXQ0WF9YREFiVjZwbGNBUWEzY0Njc0FaYzRIRjJ2dGlhaV95bm1PWEk5VFU2XzFCMVVtUG82QWthbkVhU1kwOG5jZFN1a0V4TE92SXBCcA",
-    "searchedLabel": "blue-angel",
-    "matches": [
-      {
-        "labelId": "blue-angel",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Angel"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "The Leader Newspaper Online",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVGdZYkF2MWdCT1gzTVpzVXBtX21pa0hhVHhoYmRaV3ZhZ2ljWTVjNFFBTldyUXZsMGxndEo4SFVPRlF4eVgwLWpTUmp5T0lac19BcnBhUGZuekRuSUlBRk0tQjF6b1VmNVRpa1lWY1VNOS11M1JVZ3E1ck9nUUJrMmNHS1lvOHpsb2hoWG5HbHM5VFpBUFk0eTNaVG04dlQxNUxpdnVWX3hHQWYx?oc=5",
-    "urlSlug": null,
-    "title": "Four Days after Storm, Blue Flag Beach Cala Estaca still Awash With Debris",
-    "summary": "",
-    "publishedAt": "2026-09-23T17:20:32.000Z",
-    "categories": [],
-    "guid": "CBMirAFBVV95cUxNVGdZYkF2MWdCT1gzTVpzVXBtX21pa0hhVHhoYmRaV3ZhZ2ljWTVjNFFBTldyUXZsMGxndEo4SFVPRlF4eVgwLWpTUmp5T0lac19BcnBhUGZuekRuSUlBRk0tQjF6b1VmNVRpa1lWY1VNOS11M1JVZ3E1ck9nUUJrMmNHS1lvOHpsb2hoWG5HbHM5VFpBUFk0eTNaVG04dlQxNUxpdnVWX3hHQWYx",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Cleaning & Maintenance Management",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZLUxUY2lrYjFBWnltYVA2OVJ4dWI4cmpDdVVWbE8wZ3NRSVhncHV6LTFkckpQYTBEMlB1Q0RUZ2xEMi1xMFNPUXpTb3daZXRreEFMTWpPMlotRlMxWEdRRmlkRmo?oc=5",
-    "urlSlug": null,
-    "title": "Green Seal Prohibits All PFAS in Cleaning and Personal Care Products",
-    "summary": "",
-    "publishedAt": "2026-09-23T12:18:24.000Z",
-    "categories": [],
-    "guid": "CBMiZEFVX3lxTE1ZLUxUY2lrYjFBWnltYVA2OVJ4dWI4cmpDdVVWbE8wZ3NRSVhncHV6LTFkckpQYTBEMlB1Q0RUZ2xEMi1xMFNPUXpTb3daZXRreEFMTWpPMlotRlMxWEdRRmlkRmo",
-    "searchedLabel": "green-seal",
-    "matches": [
-      {
-        "labelId": "green-seal",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Green Seal"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "TravelPulse Canada",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUk1RYUJEaWNGbkxOQlVMeWJRc0J6blNMM09xS3pyanl5MHYyODRSSS1NSVo2bTJCVFZxZGQyWVEtQnExODV2LTRfaTR6bjRoWHB4M3V1TWZDM0tqVXVMYzZHRHlJdFRiUnNCM0g4RXpSSVFVVFFMQlZheEN3YnZmTFU3ZU9MMEt3VXEtTHZKQzlJQmRERkNCNUpEZXZoM2FKZC03dEpGYy05WDRRQkZYejlHTQ?oc=5",
-    "urlSlug": null,
-    "title": "Intrepid Earns B Corp Certification Under Tougher Global Standards",
-    "summary": "",
-    "publishedAt": "2026-09-23T10:50:00.000Z",
-    "categories": [],
-    "guid": "CBMiswFBVV95cUxQUk1RYUJEaWNGbkxOQlVMeWJRc0J6blNMM09xS3pyanl5MHYyODRSSS1NSVo2bTJCVFZxZGQyWVEtQnExODV2LTRfaTR6bjRoWHB4M3V1TWZDM0tqVXVMYzZHRHlJdFRiUnNCM0g4RXpSSVFVVFFMQlZheEN3YnZmTFU3ZU9MMEt3VXEtTHZKQzlJQmRERkNCNUpEZXZoM2FKZC03dEpGYy05WDRRQkZYejlHTQ",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Business Weekly",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdExfM0hZdk5qc0dJQl9GYV9ZNWZQdlJIdllJMTJ5czZOcmZyQkJoX01yOVk3eWVoUGlXNzYyd2JEV2U0a1UzM19TbUVkc1loU1JWZWp4LWZWd01nb29vYTNEVUYxblZycHg0RjJ0dUVTbHlOeW50eWtxYnRMZ3gyRkZ3QmtnTFNuYWtRT254aHlNcVA5aURv?oc=5",
-    "urlSlug": null,
-    "title": "Cambridge Management Consulting secures B Corp status",
-    "summary": "",
-    "publishedAt": "2026-09-23T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMilwFBVV95cUxOdExfM0hZdk5qc0dJQl9GYV9ZNWZQdlJIdllJMTJ5czZOcmZyQkJoX01yOVk3eWVoUGlXNzYyd2JEV2U0a1UzM19TbUVkc1loU1JWZWp4LWZWd01nb29vYTNEVUYxblZycHg0RjJ0dUVTbHlOeW50eWtxYnRMZ3gyRkZ3QmtnTFNuYWtRT254aHlNcVA5aURv",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Karryon",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96ODFORDVBQVBMNjBuUzdiemg0ZDJwTWN6U3dTdGI4UlpVMUkyVEZJVHBvOXdHZkt3eU56M2ZwdFUwNU1hcHItaFRRV3FQMFc4ZFo2WlVoams4cTBGN2FSOTdHZlV6bzFR?oc=5",
-    "urlSlug": null,
-    "title": "Intrepid among the first travel companies to certify under rigorous new B Corp standards",
-    "summary": "",
-    "publishedAt": "2026-09-22T23:55:50.000Z",
-    "categories": [],
-    "guid": "CBMiaEFVX3lxTE96ODFORDVBQVBMNjBuUzdiemg0ZDJwTWN6U3dTdGI4UlpVMUkyVEZJVHBvOXdHZkt3eU56M2ZwdFUwNU1hcHItaFRRV3FQMFc4ZFo2WlVoams4cTBGN2FSOTdHZlV6bzFR",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Daily News",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQenJxcFhiNFJjMmtoMzhZTllaWE16Ul94VVVaSW4wSTlUVFE1SWJub1p1R05IN2t2d3Y1VGVjNHpGX3FrbkM2Yi1VaUJNZHBkRnR6WkFyVUtWUjVidFhNSnVSTVZjYmo4SGlSM2IzSjNqWW11OTE0dGVaTFdOUW5Qeko4UzNKNzhHMFlacHZtb1c5UWtHQ2lQMWJUNWZLTktUMUdQaEFrTQ?oc=5",
-    "urlSlug": null,
-    "title": "Serengeti Balloon Safaris becomes World’s first B corp-certified balloon company",
-    "summary": "",
-    "publishedAt": "2026-09-22T12:43:03.000Z",
-    "categories": [],
-    "guid": "CBMipwFBVV95cUxQenJxcFhiNFJjMmtoMzhZTllaWE16Ul94VVVaSW4wSTlUVFE1SWJub1p1R05IN2t2d3Y1VGVjNHpGX3FrbkM2Yi1VaUJNZHBkRnR6WkFyVUtWUjVidFhNSnVSTVZjYmo4SGlSM2IzSjNqWW11OTE0dGVaTFdOUW5Qeko4UzNKNzhHMFlacHZtb1c5UWtHQ2lQMWJUNWZLTktUMUdQaEFrTQ",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
