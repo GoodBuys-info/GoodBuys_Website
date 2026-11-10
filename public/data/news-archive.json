@@ -1,6 +1,282 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Ecotextile News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEFhUTJtQTZKdURnVklnTlF2MHVONXZXaWFwNUlya0NXeGM2YTlOY05tdGJwNWQzR0hMNllNSTdBWjlsM25QeGZxdmJXeFJDMmI1a3ppdmlUaDA1SjVZek9vUmpJSE5OTmkzcHZHMENfRWNFUEsyOGE3U3JDUHpQaXU0Ym42STRnN05XYWRkcmMzQ055dUl4THlyWE5zZw?oc=5",
+    "urlSlug": null,
+    "title": "BCI targets US cotton paperwork burden",
+    "summary": "",
+    "publishedAt": "2026-11-10T12:40:20.000Z",
+    "categories": [],
+    "guid": "CBMingFBVV95cUxQaEFhUTJtQTZKdURnVklnTlF2MHVONXZXaWFwNUlya0NXeGM2YTlOY05tdGJwNWQzR0hMNllNSTdBWjlsM25QeGZxdmJXeFJDMmI1a3ppdmlUaDA1SjVZek9vUmpJSE5OTmkzcHZHMENfRWNFUEsyOGE3U3JDUHpQaXU0Ym42STRnN05XYWRkcmMzQ055dUl4THlyWE5zZw",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BCI"
+      }
+    ],
+    "fetchedAt": "2026-11-10T15:09:16.587Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Timber Trades Journal",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wUDZDUUFuVlNSNF9lRGVBeC1EbzNpMmdsSkF1M2xSclBrd0s1M0tfemI2T0VQQ1JvVTZYNHBwVi1WdlJDZ3hBOHdEak1za1Y2WjJPVVdUS1ZOTmVQeW1kYWlsY015MHB3MFpseGtTVGltMWNKUllj?oc=5",
+    "urlSlug": null,
+    "title": "Accsys secures Cradle to Cradle Certified Gold for Accoya and Accoya Color",
+    "summary": "",
+    "publishedAt": "2026-11-10T12:12:18.000Z",
+    "categories": [],
+    "guid": "CBMid0FVX3lxTE4wUDZDUUFuVlNSNF9lRGVBeC1EbzNpMmdsSkF1M2xSclBrd0s1M0tfemI2T0VQQ1JvVTZYNHBwVi1WdlJDZ3hBOHdEak1za1Y2WjJPVVdUS1ZOTmVQeW1kYWlsY015MHB3MFpseGtTVGltMWNKUllj",
+    "searchedLabel": "cradle-to-cradle",
+    "matches": [
+      {
+        "labelId": "cradle-to-cradle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Cradle to Cradle"
+      }
+    ],
+    "fetchedAt": "2026-11-10T15:09:16.587Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "SeafoodSource",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbmk0VDRXdFNhOUl4WkRsdE9FWGRkdGxjbkRMVnh1X1RLOV82N2tsVmw4LXVsS0loMXdOYXM2Wm9TOUtVSHNaeVk1LV8wNHkzdEJ4djhmQkVYNkpuMkFHcEsxV0Z4S3Jza1c4ZXZiMDV1MzRaZVBFWkJZeGJrSzZ4dGhLMjhQRy1lQkZ0dkdnZlZhUmN3VFNQUVQ5Y082VHhGUURUWUFINkNvQ3Q1S3EycWtIY3p2QmtTWGhELTJPaEVGcjVSMnBNMkc5bFV6TGlSZjhHZmFwUTU?oc=5",
+    "urlSlug": null,
+    "title": "Friend of the Sea launches initiative to address growing concerns around Italy’s invasive blue crab crisis",
+    "summary": "",
+    "publishedAt": "2026-11-10T10:45:00.000Z",
+    "categories": [],
+    "guid": "CBMi2AFBVV95cUxNbmk0VDRXdFNhOUl4WkRsdE9FWGRkdGxjbkRMVnh1X1RLOV82N2tsVmw4LXVsS0loMXdOYXM2Wm9TOUtVSHNaeVk1LV8wNHkzdEJ4djhmQkVYNkpuMkFHcEsxV0Z4S3Jza1c4ZXZiMDV1MzRaZVBFWkJZeGJrSzZ4dGhLMjhQRy1lQkZ0dkdnZlZhUmN3VFNQUVQ5Y082VHhGUURUWUFINkNvQ3Q1S3EycWtIY3p2QmtTWGhELTJPaEVGcjVSMnBNMkc5bFV6TGlSZjhHZmFwUTU",
+    "searchedLabel": "friend-of-the-sea",
+    "matches": [
+      {
+        "labelId": "friend-of-the-sea",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Friend of the Sea"
+      }
+    ],
+    "fetchedAt": "2026-11-10T15:09:16.587Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Perishable News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFF4aWVzbUI5RXdjZEhDYm82U29NUE8wTTNGeDlzY2hZUGJ5NFRZMUFHZk5QdlNhMWVhSGJUVFFoZGcyZmlTSF9rcEhXaGU1U1laMm5RSDJNbFB5ajBzcjdxaURHWjFPSnhDeTd4dTdZdmRSeGhXdFk4aE1ZcDFhcm5admFMSmpMeldEVXMtaEtNNkJmU01yWms4QkZEcUVOYm5uMGlrcXlGUQ?oc=5",
+    "urlSlug": null,
+    "title": "Crab Council Congratulates Sri Lankan FIP Partner on MSC Certification",
+    "summary": "",
+    "publishedAt": "2026-11-10T10:04:59.000Z",
+    "categories": [],
+    "guid": "CBMiqgFBVV95cUxQeFF4aWVzbUI5RXdjZEhDYm82U29NUE8wTTNGeDlzY2hZUGJ5NFRZMUFHZk5QdlNhMWVhSGJUVFFoZGcyZmlTSF9rcEhXaGU1U1laMm5RSDJNbFB5ajBzcjdxaURHWjFPSnhDeTd4dTdZdmRSeGhXdFk4aE1ZcDFhcm5admFMSmpMeldEVXMtaEtNNkJmU01yWms4QkZEcUVOYm5uMGlrcXlGUQ",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-11-10T15:09:16.587Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Lohud",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc3hNcVI4QUo3cUwxUDhvaEk1TGRqM0U1YnM1VTEzOVBDVS1KYkV3eFZ6QTcyMlhVZS1yQ3V4clQyS1ZMRHRwb1ZkRW1VR0J5QWNORmVHel9tSzdBQ014QjlIbFkydVBHU3hXeldRbFg2LWloREd0eXdvZ1dfSDlIcWhZenRSS0VFWDdzOW81LXF2LXRTdVQ0UVdiWHlTeDNHS2dxS3laUEU0R3VKNG5Wa01ncThOWFU1S1N2TGh3Z3BzZGNEZy1haVd6ZUNPcE5PRERrRk9VNEpHRHRUcUpUTXRJeDJNUG5pRFBDMjJveXMzV3M?oc=5",
+    "urlSlug": null,
+    "title": "Certified Production from Century Beauty, a Leading Global Custom Shapewear Supplier under OEKO-TEX STANDARD 100",
+    "summary": "",
+    "publishedAt": "2026-11-10T09:20:14.000Z",
+    "categories": [],
+    "guid": "CBMi8wFBVV95cUxPc3hNcVI4QUo3cUwxUDhvaEk1TGRqM0U1YnM1VTEzOVBDVS1KYkV3eFZ6QTcyMlhVZS1yQ3V4clQyS1ZMRHRwb1ZkRW1VR0J5QWNORmVHel9tSzdBQ014QjlIbFkydVBHU3hXeldRbFg2LWloREd0eXdvZ1dfSDlIcWhZenRSS0VFWDdzOW81LXF2LXRTdVQ0UVdiWHlTeDNHS2dxS3laUEU0R3VKNG5Wa01ncThOWFU1S1N2TGh3Z3BzZGNEZy1haVd6ZUNPcE5PRERrRk9VNEpHRHRUcUpUTXRJeDJNUG5pRFBDMjJveXMzV3M",
+    "searchedLabel": "oeko-tex",
+    "matches": [
+      {
+        "labelId": "oeko-tex",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "OEKO-TEX Standard 100"
+      }
+    ],
+    "fetchedAt": "2026-11-10T15:09:16.587Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "wahanariau.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWVhRLVZOblZObWlWZXBRUzBIUi1FY1hKR1R6QW1rbklIZE4ydmR4M0hqeVhjaHJ2SW1CeGJmamhPaTB5eFBZRENzRUpDWkMzeUZhUk0yQnNfcU92UXRfZFFYVFRqS0lYQ2o4aGhZZVFOMnA5bE1lbW1PQ0hIQmg1WFBkLWZsQzBKSDZnRkhwMURwQ09pRk1nT2FzcjhpY1Z6Q0JDTTFB0gGmAUFVX3lxTE1ZWFEtVk5uVk5taVZlcFFTMEhSLUVjWEpHVHpBbWtuSUhkTjJ2ZHgzSGp5WGNocnZJbUJ4YmZqaE9pMHl4UFlEQ3NFSkNaQzN5RmFSTTJCc19xT3ZRdF9kUVhUVGpLSVhDajhoaFllUU4ycDlsTWVtbU9DSEhCaDVYUGQtZmxDMEpINmdGSHAxRHBDT2lGTWdPYXNyOGljVnpDQkNNMUE?oc=5",
+    "urlSlug": null,
+    "title": "Porsche Design Tower Bangkok Achieves LEED® Gold Precertification",
+    "summary": "",
+    "publishedAt": "2026-11-10T02:00:26.000Z",
+    "categories": [],
+    "guid": "CBMipgFBVV95cUxNWVhRLVZOblZObWlWZXBRUzBIUi1FY1hKR1R6QW1rbklIZE4ydmR4M0hqeVhjaHJ2SW1CeGJmamhPaTB5eFBZRENzRUpDWkMzeUZhUk0yQnNfcU92UXRfZFFYVFRqS0lYQ2o4aGhZZVFOMnA5bE1lbW1PQ0hIQmg1WFBkLWZsQzBKSDZnRkhwMURwQ09pRk1nT2FzcjhpY1Z6Q0JDTTFB0gGmAUFVX3lxTE1ZWFEtVk5uVk5taVZlcFFTMEhSLUVjWEpHVHpBbWtuSUhkTjJ2ZHgzSGp5WGNocnZJbUJ4YmZqaE9pMHl4UFlEQ3NFSkNaQzN5RmFSTTJCc19xT3ZRdF9kUVhUVGpLSVhDajhoaFllUU4ycDlsTWVtbU9DSEhCaDVYUGQtZmxDMEpINmdGSHAxRHBDT2lGTWdPYXNyOGljVnpDQkNNMUE",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-10T15:09:16.587Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Aero-News Network",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1ZzNVh3ZHh4NmxSelFacWxWaGZRMEN5S18xb1puX19GOG1qQVQtdGtDRkNObUxrMmlsZ0ZRbDJER0c5eS0wWHlKck5zV3ZSU2dJMElkTEFNMTg2My1DSmotQ1N1RXlCYW82clJ3eFBDZjBSWG9QSld0UHMtSkowWVJPU25QbTBlNTAtUEJGaFJzWnd5MTlr?oc=5",
+    "urlSlug": null,
+    "title": "Airborne 11.09.26: Blue Angel Busted, Bolen Retires, Starship Flight 15",
+    "summary": "",
+    "publishedAt": "2026-11-09T23:56:51.000Z",
+    "categories": [],
+    "guid": "CBMilwFBVV95cUxOX1ZzNVh3ZHh4NmxSelFacWxWaGZRMEN5S18xb1puX19GOG1qQVQtdGtDRkNObUxrMmlsZ0ZRbDJER0c5eS0wWHlKck5zV3ZSU2dJMElkTEFNMTg2My1DSmotQ1N1RXlCYW82clJ3eFBDZjBSWG9QSld0UHMtSkowWVJPU25QbTBlNTAtUEJGaFJzWnd5MTlr",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-11-10T15:09:16.587Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Comunicaffe International",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzBEWWlNZVlEcmY0N1hjbkFZU3lZRUtpaDRSSldKU2Q0RlZNX0VPdjJic3U0TjZQNWRHQndHT2dIQjdqV2dsSGc2bFgzeHpYZVZWY2hnT2RDNERzVERTV3Atd2oyZVVEaTJFYnlhZVBHSERaT0lyX0ZYeTRkdmVBYV92MXNBZ0t0UE9NN3l0Y2tmTFQwNWZFLUNpLXdkX0RNX2FraVQwWUx4c1ViYThsR0xORUtiX2ItY0JkeEt2dzZUZ2Q0VlRVSmFHcExlTmM?oc=5",
+    "urlSlug": null,
+    "title": "Time names Rainforest Alliance CEO Santiago Gowland among the World’s 100 Most Influential Climate Leaders",
+    "summary": "",
+    "publishedAt": "2026-11-09T23:05:11.000Z",
+    "categories": [],
+    "guid": "CBMizwFBVV95cUxPMzBEWWlNZVlEcmY0N1hjbkFZU3lZRUtpaDRSSldKU2Q0RlZNX0VPdjJic3U0TjZQNWRHQndHT2dIQjdqV2dsSGc2bFgzeHpYZVZWY2hnT2RDNERzVERTV3Atd2oyZVVEaTJFYnlhZVBHSERaT0lyX0ZYeTRkdmVBYV92MXNBZ0t0UE9NN3l0Y2tmTFQwNWZFLUNpLXdkX0RNX2FraVQwWUx4c1ViYThsR0xORUtiX2ItY0JkeEt2dzZUZ2Q0VlRVSmFHcExlTmM",
+    "searchedLabel": "rainforest-alliance",
+    "matches": [
+      {
+        "labelId": "rainforest-alliance",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Rainforest Alliance"
+      }
+    ],
+    "fetchedAt": "2026-11-10T15:09:16.587Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Outdoor Sportswire",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNVpYWjlxc2FOTXc4Z1FuQUZSVjdkUElLa3VnZmJJYXQybFhueWVIYlNrS1h3S2p6RXpsTG0wVGV1UjlxYlBPMkNSRnBfVXpGLXl4SnNnN0FhMWdNUEtnYWdUdmNMSmlhbmJBOEZiTld1UjRqNHBuYU5kalRid3ZOQ2tWSmlYQVFsMUJNTlhabDFjZw?oc=5",
+    "urlSlug": null,
+    "title": "Recertified: Obōz and all of us are better with B Corp",
+    "summary": "",
+    "publishedAt": "2026-11-09T20:18:46.000Z",
+    "categories": [],
+    "guid": "CBMikgFBVV95cUxPNVpYWjlxc2FOTXc4Z1FuQUZSVjdkUElLa3VnZmJJYXQybFhueWVIYlNrS1h3S2p6RXpsTG0wVGV1UjlxYlBPMkNSRnBfVXpGLXl4SnNnN0FhMWdNUEtnYWdUdmNMSmlhbmJBOEZiTld1UjRqNHBuYU5kalRid3ZOQ2tWSmlYQVFsMUJNTlhabDFjZw",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-11-10T15:09:16.587Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Medianet News Hub",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM0dQdUdtTjVFWnRjVnA3U2JxYnVLMXR5WUtCTWdnclFMRVVFSnhETjVYRkxKWExIelRSdjliZU1MVng2bHhDdXNzVU9CaXF2Ynh6aDZJRkJRWWwyWmUzbU9uZU1lX0JsclNPNkEta0NZQkhmQWRHRWRnSVo3bEhMcndiWnY5YzIzRmRpQm8tTUk3ZVZCLUxlM2lRT29tM1U5M2NiWWdXc05nek9EVVNCemRPOGtXNW82VVpXMWlPbERFcmcwWm1RTUk0SWFTaEhuRkZOUk1Renp4Q0xBMTFidWpXczhvNHd4cnBydG1nOEl0em5idnpKTVAtTWZqM2M?oc=5",
+    "urlSlug": null,
+    "title": "Reflections Holidays lifts revenue to $97.3M and becomes first holiday park group in Australia to gain B Corp certification – News Hub",
+    "summary": "",
+    "publishedAt": "2026-11-09T19:01:13.000Z",
+    "categories": [],
+    "guid": "CBMi_wFBVV95cUxQM0dQdUdtTjVFWnRjVnA3U2JxYnVLMXR5WUtCTWdnclFMRVVFSnhETjVYRkxKWExIelRSdjliZU1MVng2bHhDdXNzVU9CaXF2Ynh6aDZJRkJRWWwyWmUzbU9uZU1lX0JsclNPNkEta0NZQkhmQWRHRWRnSVo3bEhMcndiWnY5YzIzRmRpQm8tTUk3ZVZCLUxlM2lRT29tM1U5M2NiWWdXc05nek9EVVNCemRPOGtXNW82VVpXMWlPbERFcmcwWm1RTUk0SWFTaEhuRkZOUk1Renp4Q0xBMTFidWpXczhvNHd4cnBydG1nOEl0em5idnpKTVAtTWZqM2M",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-10T15:09:16.587Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "PR Newswire",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWlA2bXV1dnhHNHRKdE1XUlEtX3UtZkcxQjU2c3VkdG5tVkpBNnlDelhGTjIzZlN6NFpTaWstTXVOS0RuQkZZVmtZVmMtQTlJZmpKNkNtRzNEY2gtazU2YVFWSWM4N1duelJkbjZtbWNMREY3ZHRsUFFNMlNGRV9FWFp1c2JPMEREUEpwd2JTU211emRZMXBJZW1KOFVjcVVNQk9xOXp6NW0xbXpLWTNleGN0Q2JqM05uWWlBOXZnVTUtcURLR0ZrTTJnanpPeUVla2ppbEJQWEcwNDlELTE3aA?oc=5",
+    "urlSlug": null,
+    "title": "Tarkett earns Cradle to Cradle Certified® Silver Version 5.0 for ethos® carpet tile portfolio",
+    "summary": "",
+    "publishedAt": "2026-11-09T18:23:00.000Z",
+    "categories": [],
+    "guid": "CBMi4AFBVV95cUxPWlA2bXV1dnhHNHRKdE1XUlEtX3UtZkcxQjU2c3VkdG5tVkpBNnlDelhGTjIzZlN6NFpTaWstTXVOS0RuQkZZVmtZVmMtQTlJZmpKNkNtRzNEY2gtazU2YVFWSWM4N1duelJkbjZtbWNMREY3ZHRsUFFNMlNGRV9FWFp1c2JPMEREUEpwd2JTU211emRZMXBJZW1KOFVjcVVNQk9xOXp6NW0xbXpLWTNleGN0Q2JqM05uWWlBOXZnVTUtcURLR0ZrTTJnanpPeUVla2ppbEJQWEcwNDlELTE3aA",
+    "searchedLabel": "cradle-to-cradle",
+    "matches": [
+      {
+        "labelId": "cradle-to-cradle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Cradle to Cradle"
+      }
+    ],
+    "fetchedAt": "2026-11-10T15:09:16.587Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Inventory",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQck1Wdm40clZjcUQ5a21sUThIMGIwV3RST3RRVW1oQzY4OXhCREZLVl9XLUFNZl90YXhPejc1bVdlbTBkNmpsa3htek9saTRUY0x0NUprTTJPcW5sQm1sR0RmckxqbG8zN1ItbndFejhDQ3M3a000NDgxY253VzFYb0ZNYkwxeTB0dk55UG13R1VVVzdKaXNEQXI5aFMxdVVGLW1WdEhQX3lxVUZ4TEpJRmpJT1U?oc=5",
+    "urlSlug": null,
+    "title": "OEKO-TEX Certified Babelio Crib Mattress $30 Off on Amazon",
+    "summary": "",
+    "publishedAt": "2026-11-09T18:03:16.000Z",
+    "categories": [],
+    "guid": "CBMitAFBVV95cUxQck1Wdm40clZjcUQ5a21sUThIMGIwV3RST3RRVW1oQzY4OXhCREZLVl9XLUFNZl90YXhPejc1bVdlbTBkNmpsa3htek9saTRUY0x0NUprTTJPcW5sQm1sR0RmckxqbG8zN1ItbndFejhDQ3M3a000NDgxY253VzFYb0ZNYkwxeTB0dk55UG13R1VVVzdKaXNEQXI5aFMxdVVGLW1WdEhQX3lxVUZ4TEpJRmpJT1U",
+    "searchedLabel": "oeko-tex",
+    "matches": [
+      {
+        "labelId": "oeko-tex",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Oeko-Tex"
+      }
+    ],
+    "fetchedAt": "2026-11-10T15:09:16.587Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Bdaily",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcWhZZ3Y3dTNNTUlMQ21KWGhNNi1CeEZUTnNOUkFpZ2doYzRIcnM2VWM3WGh4SDRVS20tTFZDWUUzdEJSdmh4UDROV0J3OWZOZDJOSXIyS1pKcGFHUWhjVWx3Nzd3QXZITGVOOGh5NWc1MjBPT2NuaFFtSmtKc0RGdEt0YjNEYTZkYWl1LTc1bmR4SVpLTEh3?oc=5",
@@ -550,6 +826,29 @@
       }
     ],
     "fetchedAt": "2026-11-06T14:32:08.813Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Daily FT",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb0FZOXBZS1B0Z1czWk1qSHo5QkExWWltSG15enR3cmt4cmVtOXpac2FoMDZnM2R2YTlQQkRNaFQwdmthOVpWREVoT3doTUtza2tvY3hZRWxscWpMaTRkODFPVVVRbHZVTnB5emRQNTU1LVRyRUtDU1RSZmt5azhGeTV1U1NLM2NqYUFkN2FTQk1EWHBkZExwSk0zNE8yQUdhTDlrTng3VFpvdXRNcF9XdVQ2a28yNVJJWFRxNzNZNUtwMWdneHNEQk5GODkyQ0hCWmU4?oc=5",
+    "urlSlug": null,
+    "title": "Sri Lankan blue swimming crab fishery achieves MSC certification following decade of collaboration",
+    "summary": "",
+    "publishedAt": "2026-11-06T00:08:42.000Z",
+    "categories": [],
+    "guid": "CBMi0wFBVV95cUxNb0FZOXBZS1B0Z1czWk1qSHo5QkExWWltSG15enR3cmt4cmVtOXpac2FoMDZnM2R2YTlQQkRNaFQwdmthOVpWREVoT3doTUtza2tvY3hZRWxscWpMaTRkODFPVVVRbHZVTnB5emRQNTU1LVRyRUtDU1RSZmt5azhGeTV1U1NLM2NqYUFkN2FTQk1EWHBkZExwSk0zNE8yQUdhTDlrTng3VFpvdXRNcF9XdVQ2a28yNVJJWFRxNzNZNUtwMWdneHNEQk5GODkyQ0hCWmU4",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-11-10T15:09:16.587Z"
   },
   {
     "outletId": "google-news",
@@ -9041,312 +9340,6 @@
         "tier": "text-acronym",
         "where": "title",
         "matchedText": "MSC"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "islands.com",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EcGtXNlZMcWpWX2ROX0wxSVlZSlB1eFYyOXBKTGFWbThONFVXcWhhWlJJNG4yamQ1Y0lNcnVwbFFWR0ZXN0plazNDMWVleUtsN290YUIzeGNGVVpSR19Vc2tFSGlEcU83ejl1dkJZQUlhZw?oc=5",
-    "urlSlug": null,
-    "title": "What A Blue Flag Beach Really Tells You Before You Book",
-    "summary": "",
-    "publishedAt": "2026-09-28T19:45:00.000Z",
-    "categories": [],
-    "guid": "CBMickFVX3lxTE5EcGtXNlZMcWpWX2ROX0wxSVlZSlB1eFYyOXBKTGFWbThONFVXcWhhWlJJNG4yamQ1Y0lNcnVwbFFWR0ZXN0plazNDMWVleUtsN290YUIzeGNGVVpSR19Vc2tFSGlEcU83ejl1dkJZQUlhZw",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Pulp and Paper Canada",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONW5HbFB6V0VneDZYY0t0OTVWNkl3aGM2Y0Fsb0VrREliaWFBZ1hvRE5uRzFTVjJvS0tuTkJPUG5ZSFZhX0ZLWk5va3VlTmpSNUZhVG5rUEw2VDNUNHI1SlBkelBIdlFDRU1Va2FmcVNxdndHU3ltUVpNVWJTdG02Q04wc1djNGg5?oc=5",
-    "urlSlug": null,
-    "title": "FSC Canada hires regional manager for Ontario",
-    "summary": "",
-    "publishedAt": "2026-09-28T19:44:17.000Z",
-    "categories": [],
-    "guid": "CBMiiAFBVV95cUxONW5HbFB6V0VneDZYY0t0OTVWNkl3aGM2Y0Fsb0VrREliaWFBZ1hvRE5uRzFTVjJvS0tuTkJPUG5ZSFZhX0ZLWk5va3VlTmpSNUZhVG5rUEw2VDNUNHI1SlBkelBIdlFDRU1Va2FmcVNxdndHU3ltUVpNVWJTdG02Q04wc1djNGg5",
-    "searchedLabel": "fsc",
-    "matches": [
-      {
-        "labelId": "fsc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "FSC"
-      }
-    ],
-    "fetchedAt": "2026-10-08T13:53:03.033Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "markets.businessinsider.com",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMEZHd2xzZFcybHRNbDVUb3kyTjlScXRPSnljZzVkaFhRUlMya3ZyTG5VblBXMU1LdFR0RzhTa2k1RlM3UFRRWkNKX1ZOZFlTR0hoV0VQVnc3Z0NOVlRHWlE3NlA5QkdlMU9XTGpNdF9WOGVJbnBQWFVLQzhOWjVtUXFMXzBJeG5PYjBudDJNODdRZmZ2UmZ3VXZBakl5T1Vqa1BWaUhnb2J2YXIyVURaMHVRNHgxTDA4YXI0ZDNGdFFUaEV3anlvMThGZDh5S2pWQWRqYUR2cmxJbk51azhrVjdCQjREWS1sYnNkRjd4VGJBdU9Iak1DRGNrRGNwZw?oc=5",
-    "urlSlug": null,
-    "title": "Jardina Rounds Out Outdoor Furniture Lineup With FSC-Certified Teak, Coastal-Grade Aluminum, and Modular Seating",
-    "summary": "",
-    "publishedAt": "2026-09-28T19:21:34.000Z",
-    "categories": [],
-    "guid": "CBMi_gFBVV95cUxOMEZHd2xzZFcybHRNbDVUb3kyTjlScXRPSnljZzVkaFhRUlMya3ZyTG5VblBXMU1LdFR0RzhTa2k1RlM3UFRRWkNKX1ZOZFlTR0hoV0VQVnc3Z0NOVlRHWlE3NlA5QkdlMU9XTGpNdF9WOGVJbnBQWFVLQzhOWjVtUXFMXzBJeG5PYjBudDJNODdRZmZ2UmZ3VXZBakl5T1Vqa1BWaUhnb2J2YXIyVURaMHVRNHgxTDA4YXI0ZDNGdFFUaEV3anlvMThGZDh5S2pWQWRqYUR2cmxJbk51azhrVjdCQjREWS1sYnNkRjd4VGJBdU9Iak1DRGNrRGNwZw",
-    "searchedLabel": "fsc",
-    "matches": [
-      {
-        "labelId": "fsc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "FSC"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Yahoo Finance",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGJHRW1hcnp5c1VUY1VPdXgyOGRQdWZIYVUzRGh6bk1vWVA5QzFFdk9xaHBaZW81V0pqbklNMkd3c29TeXNMU3F6bVk2SnF5RklseGROc2tsRjNSakM0Z0xXN0tSUzhGYjFjbjVwZmtsc1poaHJway0yTHBCMUV3V1hVRlRoZGZQX2hBT0k3dW93NnRIWVl1UE9QTHFrTmxv?oc=5",
-    "urlSlug": null,
-    "title": "Akropole Alfa, managed by Akropolis Group, upgrades its BREEAM sustainability rating to Excellent",
-    "summary": "",
-    "publishedAt": "2026-09-28T15:55:00.000Z",
-    "categories": [],
-    "guid": "CBMioAFBVV95cUxOWGJHRW1hcnp5c1VUY1VPdXgyOGRQdWZIYVUzRGh6bk1vWVA5QzFFdk9xaHBaZW81V0pqbklNMkd3c29TeXNMU3F6bVk2SnF5RklseGROc2tsRjNSakM0Z0xXN0tSUzhGYjFjbjVwZmtsc1poaHJway0yTHBCMUV3V1hVRlRoZGZQX2hBT0k3dW93NnRIWVl1UE9QTHFrTmxv",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Yahoo Finance UK",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEo5c0ltZHdOTnhNSFNlYjF2SlEzeWRxbTJGYUxYZGpWZkEzMy00bTUyT042RDN2Smk4d1pGRGRQREtqU0t1azJsa09UazFqU1ozSTB0SDR4SlVHbWs5N0RLWTlvTHdZOHdzWkFYTFJwVWVPcmlxd0VFdlZsQnhuMlBLcnp5bTFxR2YtM2RPRQ?oc=5",
-    "urlSlug": null,
-    "title": "Akropole Alfa, managed by Akropolis Group, upgrades its BREEAM sustainability rating to Excellent",
-    "summary": "",
-    "publishedAt": "2026-09-28T15:55:00.000Z",
-    "categories": [],
-    "guid": "CBMijwFBVV95cUxNOEo5c0ltZHdOTnhNSFNlYjF2SlEzeWRxbTJGYUxYZGpWZkEzMy00bTUyT042RDN2Smk4d1pGRGRQREtqU0t1azJsa09UazFqU1ozSTB0SDR4SlVHbWs5N0RLWTlvTHdZOHdzWkFYTFJwVWVPcmlxd0VFdlZsQnhuMlBLcnp5bTFxR2YtM2RPRQ",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-12T15:54:42.985Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Hospitality Ireland",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcHdTbEpaR1hQRXpOUWFERjIzVFBMWGpqUElseExNemNETUgxdkhNUGQ0c0JPWXlhS0NIYVAtNVNKaUx2am9WWDJPelVsYzh1bHRqQlNUR1hwVURXUGdMd2dULXIzRkZRRnljRlpzSzczcDNqWkhicFpVMUhzWDUxNk1nNVNZYmt6TWloR0RFbGxzMHBCSnZsdWl0Z1VRZjNHalhyTXBOUXhnUFF5Vk9LYTZQOG56N05BMXBwS2VFanNOcUZocWpxSHhkVTRRZXJVcmFUOHFBRTdvLXRM?oc=5",
-    "urlSlug": null,
-    "title": "Portmarnock Resort & Jameson Golf Links Achieves Green Key Sustainability Certification",
-    "summary": "",
-    "publishedAt": "2026-09-28T13:32:51.000Z",
-    "categories": [],
-    "guid": "CBMi3AFBVV95cUxOcHdTbEpaR1hQRXpOUWFERjIzVFBMWGpqUElseExNemNETUgxdkhNUGQ0c0JPWXlhS0NIYVAtNVNKaUx2am9WWDJPelVsYzh1bHRqQlNUR1hwVURXUGdMd2dULXIzRkZRRnljRlpzSzczcDNqWkhicFpVMUhzWDUxNk1nNVNZYmt6TWloR0RFbGxzMHBCSnZsdWl0Z1VRZjNHalhyTXBOUXhnUFF5Vk9LYTZQOG56N05BMXBwS2VFanNOcUZocWpxSHhkVTRRZXJVcmFUOHFBRTdvLXRM",
-    "searchedLabel": "green-key",
-    "matches": [
-      {
-        "labelId": "green-key",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Green Key"
-      }
-    ],
-    "fetchedAt": "2026-10-08T13:53:03.033Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "IndexBox",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEhjZUk2cXFLbTBQd2Z0OFk2TGlsZlU5U2JMTllXd2VJdF9ua0hRbFNtRDlPYW5ScEhLNjUwYzI5ZEw2bjBDTUNaT2JwMmhULWdSbWhraXVfOENVVzZXOUlVMHEwRXA5UG1mMFhqa1VXSm96Z2t6WFpNV0ZzZ0kxZWFUdVotamljWHNfR0VDOGtXcktscXc?oc=5",
-    "urlSlug": null,
-    "title": "USDA Organic Poultry and Egg Market Report: Prices, Production, and Retail Trends - News and Statistics",
-    "summary": "",
-    "publishedAt": "2026-09-28T13:30:23.000Z",
-    "categories": [],
-    "guid": "CBMilgFBVV95cUxNaEhjZUk2cXFLbTBQd2Z0OFk2TGlsZlU5U2JMTllXd2VJdF9ua0hRbFNtRDlPYW5ScEhLNjUwYzI5ZEw2bjBDTUNaT2JwMmhULWdSbWhraXVfOENVVzZXOUlVMHEwRXA5UG1mMFhqa1VXSm96Z2t6WFpNV0ZzZ0kxZWFUdVotamljWHNfR0VDOGtXcktscXc",
-    "searchedLabel": "usda-organic",
-    "matches": [
-      {
-        "labelId": "usda-organic",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "USDA Organic"
-      }
-    ],
-    "fetchedAt": "2026-10-08T13:53:03.033Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Global Coffee Report",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmM5U3lucDVrQUtNbVFOeDdyMzBoVldwdVk2Ym4yQlE5Zmc2cXVvN3UtVGd5dDFfTWpQSnRKcHpXZTRDcHEtUU11dk9RQzE5dXBseDN5QnVIY1BmWTAteTBscVBmZHd4S3Bfb25uUzN4OU5fLUpLZnZVNWNudERGOGR2N3JIZmlkZlVtRg?oc=5",
-    "urlSlug": null,
-    "title": "illycaffè Renews B Corp Certification Under New V2 Standards",
-    "summary": "",
-    "publishedAt": "2026-09-28T05:50:16.000Z",
-    "categories": [],
-    "guid": "CBMijAFBVV95cUxOdmM5U3lucDVrQUtNbVFOeDdyMzBoVldwdVk2Ym4yQlE5Zmc2cXVvN3UtVGd5dDFfTWpQSnRKcHpXZTRDcHEtUU11dk9RQzE5dXBseDN5QnVIY1BmWTAteTBscVBmZHd4S3Bfb25uUzN4OU5fLUpLZnZVNWNudERGOGR2N3JIZmlkZlVtRg",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Nonwovens Industry",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN0JBQ1JEdFYxcGNHcDBqTlZPMy0wSmpJeXlrWWM4WGx2Z2swWHltR1AxVEdDWlRrMzZXQUdUeV9jZFFUbEhfaGp6YV9YY2ZvT2xfMWNRM3BSekxleVVBay10SXJaYXVrLVFQU2FFUncya2Y5SWdVT0laLWl1QWtHU0x3SENLRmx6S1p4cXVGZV9yczUwQ1MzNXNIV1V5WjY1SGhUSEE4R0h3Y3hyXzFFdkFTLTI5YXFpUVRvRDZDXzh4eTVzbG53V2hNdnlhT3VVSmZEZmpYNUpRTzNpM0pFOS0tUXd1VkxJOFhoYVdaMm0yajdJRENZXw?oc=5",
-    "urlSlug": null,
-    "title": "Weekly Recap: DuPont Introduces Tyvek with Renewable Attribution, Suzano’s Eucafluff Earns OEKO-TEX Certification & More",
-    "summary": "",
-    "publishedAt": "2026-09-27T10:36:00.000Z",
-    "categories": [],
-    "guid": "CBMi-AFBVV95cUxNN0JBQ1JEdFYxcGNHcDBqTlZPMy0wSmpJeXlrWWM4WGx2Z2swWHltR1AxVEdDWlRrMzZXQUdUeV9jZFFUbEhfaGp6YV9YY2ZvT2xfMWNRM3BSekxleVVBay10SXJaYXVrLVFQU2FFUncya2Y5SWdVT0laLWl1QWtHU0x3SENLRmx6S1p4cXVGZV9yczUwQ1MzNXNIV1V5WjY1SGhUSEE4R0h3Y3hyXzFFdkFTLTI5YXFpUVRvRDZDXzh4eTVzbG53V2hNdnlhT3VVSmZEZmpYNUpRTzNpM0pFOS0tUXd1VkxJOFhoYVdaMm0yajdJRENZXw",
-    "searchedLabel": "oeko-tex",
-    "matches": [
-      {
-        "labelId": "oeko-tex",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Oeko-Tex"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Conference & Meetings World",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaURLV2hsM2llcmZmeTdvWEctYnhGSE90VWdOejhuV1B4R0xMMXVGZWtYVWlhSDJoOEliZm0xVjFidU1fczRtSVRVbFNSS0theE1lbWhwaTN0bDRHVzB0MlllcVZfXzlFYURCRXhfT0RCNTA4STRBNHVhak9iejRwYWI2R1p0aUxsQ29HVF8wSXhsN1pWbHh6Yg?oc=5",
-    "urlSlug": null,
-    "title": "Beurs van Berlage becomes a B Corp and achieves Green Globe Gold status",
-    "summary": "",
-    "publishedAt": "2026-09-25T23:30:13.000Z",
-    "categories": [],
-    "guid": "CBMimAFBVV95cUxOaURLV2hsM2llcmZmeTdvWEctYnhGSE90VWdOejhuV1B4R0xMMXVGZWtYVWlhSDJoOEliZm0xVjFidU1fczRtSVRVbFNSS0theE1lbWhwaTN0bDRHVzB0MlllcVZfXzlFYURCRXhfT0RCNTA4STRBNHVhak9iejRwYWI2R1p0aUxsQ29HVF8wSXhsN1pWbHh6Yg",
-    "searchedLabel": "green-globe",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      },
-      {
-        "labelId": "green-globe",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Green Globe"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "assetphysics",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZFM5TnJhRlNqYjVQbXlyYlpmZmNlektQSlQzVzY4TjRERDl1aFdPSWY5bFVBcFdfV096M1Aya2N2czBIWUNVblBKdm1NUlRyZG5OM2JBX3ItYnU2NEJmeTNzcDh5UFZ3cmlJYkdVZVpZb0xXeDRKaktqVUN4S0JPUTE2MzM4TUh1MTM2cGl3LXdMemtpclhfMGV4TW9oc2dSWW9BMw?oc=5",
-    "urlSlug": null,
-    "title": "Aroundtown achieves BREEAM ‘Excellent’ for Trevista office complex in Eschborn",
-    "summary": "",
-    "publishedAt": "2026-09-25T11:04:53.000Z",
-    "categories": [],
-    "guid": "CBMipAFBVV95cUxNZFM5TnJhRlNqYjVQbXlyYlpmZmNlektQSlQzVzY4TjRERDl1aFdPSWY5bFVBcFdfV096M1Aya2N2czBIWUNVblBKdm1NUlRyZG5OM2JBX3ItYnU2NEJmeTNzcDh5UFZ3cmlJYkdVZVpZb0xXeDRKaktqVUN4S0JPUTE2MzM4TUh1MTM2cGl3LXdMemtpclhfMGV4TW9oc2dSWW9BMw",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Ideal Investisseur",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMl9KZVRXeUlYeDlhUFdvcmM4NjRQZHhjWGxaZVloWE5wWFVzekhreXNVQzdJdDRnYVRSX3g5a294OVFLejEta2lacFZVNEZMTUJyNHFMV1ZXN2N3eU9mZFJaX3U3VFgycHVQSGFteGJhbVFycjI1T0dLOXhDVUI2dnp2cHF0b2phN3hnZGszaGJqUnBnVFB1bFNuY000bTd5M2JRNVotZERHWnk4TDg4WmUwaktnX2RtQk1xWUpUY1Y1bXN2cnE1b0lFQXF5Zkk?oc=5",
-    "urlSlug": null,
-    "title": "Ekopak obtains BREEAM Outstanding certification for its Deinze headquarters",
-    "summary": "",
-    "publishedAt": "2026-09-25T07:21:00.000Z",
-    "categories": [],
-    "guid": "CBMizwFBVV95cUxNMl9KZVRXeUlYeDlhUFdvcmM4NjRQZHhjWGxaZVloWE5wWFVzekhreXNVQzdJdDRnYVRSX3g5a294OVFLejEta2lacFZVNEZMTUJyNHFMV1ZXN2N3eU9mZFJaX3U3VFgycHVQSGFteGJhbVFycjI1T0dLOXhDVUI2dnp2cHF0b2phN3hnZGszaGJqUnBnVFB1bFNuY000bTd5M2JRNVotZERHWnk4TDg4WmUwaktnX2RtQk1xWUpUY1Y1bXN2cnE1b0lFQXF5Zkk",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "www.marketscreener.com",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeXdWdjZkZTVwWDZESy1WNGF0M1RqNGRlXzV0dmJJWHhGY3FjRUxwTkRzamlPX2FvVmM2Y2tLY0RnTjhkQkxrV1UtWTRUM0ZoWm9nbkluWUFZc0Nvd1RkT2V3Yy1VdmtnSURnSTZYTzhhQXlSdWtONTVlNWt2d21MLWxoMXB1TjE3czFSUXU0ZUtJOThqSUZ5SE5GQ0JCS0pQYU5mWGU4QkZCd2FiTV9xaWhHZlR5Y3I5TEtYY1k3a0xDc3otUHU1aHJRVQ?oc=5",
-    "urlSlug": null,
-    "title": "Ekopak : obtains BREEAM Outstanding certification for its headquarters in Deinze",
-    "summary": "",
-    "publishedAt": "2026-09-24T14:24:11.000Z",
-    "categories": [],
-    "guid": "CBMiywFBVV95cUxOeXdWdjZkZTVwWDZESy1WNGF0M1RqNGRlXzV0dmJJWHhGY3FjRUxwTkRzamlPX2FvVmM2Y2tLY0RnTjhkQkxrV1UtWTRUM0ZoWm9nbkluWUFZc0Nvd1RkT2V3Yy1VdmtnSURnSTZYTzhhQXlSdWtONTVlNWt2d21MLWxoMXB1TjE3czFSUXU0ZUtJOThqSUZ5SE5GQ0JCS0pQYU5mWGU4QkZCd2FiTV9xaWhHZlR5Y3I5TEtYY1k3a0xDc3otUHU1aHJRVQ",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
