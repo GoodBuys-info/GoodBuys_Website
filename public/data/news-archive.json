@@ -1,6 +1,167 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "HK Now",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLXk3RHY2VFhMZm5rLXk5ZUlYMXVaUWtYX1JsSllUb2szelpPc29IbmNFMmtaNEgtekpJYnoyUXE1QWs0VVQwQlZJX01NV2RSbERIR2l3b3VCRnI5ZHpwdXVQaXhIRDVHekFlbi0yWVZjY05SSEx2em16SDBpZU9OSy13QjZkeVFzVmZfT3hhTWFsUQ?oc=5",
+    "urlSlug": null,
+    "title": "Haddam Teams Up with TerraCycle for Oral Care Collections",
+    "summary": "",
+    "publishedAt": "2026-11-11T12:59:11.000Z",
+    "categories": [],
+    "guid": "CBMikgFBVV95cUxPLXk3RHY2VFhMZm5rLXk5ZUlYMXVaUWtYX1JsSllUb2szelpPc29IbmNFMmtaNEgtekpJYnoyUXE1QWs0VVQwQlZJX01NV2RSbERIR2l3b3VCRnI5ZHpwdXVQaXhIRDVHekFlbi0yWVZjY05SSEx2em16SDBpZU9OSy13QjZkeVFzVmZfT3hhTWFsUQ",
+    "searchedLabel": "terracycle",
+    "matches": [
+      {
+        "labelId": "terracycle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "TerraCycle"
+      }
+    ],
+    "fetchedAt": "2026-11-11T14:40:28.412Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "kbbreview",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wNXU5MFFGWFlGdlRRb2lRNUhPZWtSMTFjSWxuM1NlQ3BwdWJYMGVEMjFMRm1CeDZQZEl0Yjk4YnlzcmNkTmk0ak5RVmtSV2RXNVNPMVRxX0VERGdueThOdTBqMmNPcm9xbXhhUVJnMjdaY0FrRmE1WW9DOUo?oc=5",
+    "urlSlug": null,
+    "title": "Florim renews B Corp certification",
+    "summary": "",
+    "publishedAt": "2026-11-11T11:11:08.000Z",
+    "categories": [],
+    "guid": "CBMifEFVX3lxTE9wNXU5MFFGWFlGdlRRb2lRNUhPZWtSMTFjSWxuM1NlQ3BwdWJYMGVEMjFMRm1CeDZQZEl0Yjk4YnlzcmNkTmk0ak5RVmtSV2RXNVNPMVRxX0VERGdueThOdTBqMmNPcm9xbXhhUVJnMjdaY0FrRmE1WW9DOUo",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-11T14:40:28.412Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Global Agriculture",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNVFONFRDMW1HZm5UY3FLYmRaTDJaaHhqei1ocVlKWmxXMWswRnhTVFVMNkZYTmUzLWhyMFFPZktPMHB1bWZ0NlhOOGxudE81RzlqZUNKLU1XNWRVVnAzYXFhbVFmUElyRGo2LV90YXNlbENuZFB5cVBzTF9xcm9CLU1KNlk1V3hVWVlRS2dHNDl5dkFOdjlhaGstcFVVLU9UX3d0S0huQW05T3gxYkV6X2Y5NEt6bkdzVy04U2JHME1Gb2NGS2ZlODdyb3FJeVR0LVo3aVVtM0dvVUt3SmZJWXgtQjBwTkFwU1E?oc=5",
+    "urlSlug": null,
+    "title": "Better Cotton Initiative Partners with FarmRaise to Simplify Data Management for US Cotton Growers",
+    "summary": "",
+    "publishedAt": "2026-11-11T07:21:57.000Z",
+    "categories": [],
+    "guid": "CBMi6gFBVV95cUxNNVFONFRDMW1HZm5UY3FLYmRaTDJaaHhqei1ocVlKWmxXMWswRnhTVFVMNkZYTmUzLWhyMFFPZktPMHB1bWZ0NlhOOGxudE81RzlqZUNKLU1XNWRVVnAzYXFhbVFmUElyRGo2LV90YXNlbENuZFB5cVBzTF9xcm9CLU1KNlk1V3hVWVlRS2dHNDl5dkFOdjlhaGstcFVVLU9UX3d0S0huQW05T3gxYkV6X2Y5NEt6bkdzVy04U2JHME1Gb2NGS2ZlODdyb3FJeVR0LVo3aVVtM0dvVUt3SmZJWXgtQjBwTkFwU1E",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Better Cotton"
+      }
+    ],
+    "fetchedAt": "2026-11-11T14:40:28.412Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Sydney Times",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORWpySDBGRWd6VkF0cFJMNXFqN21VMG4xNXBMQXJkOVBPTVBMUWVmeGhTd2gzcTZJNVlyUHlhTkY5LVIwYzhvQldLWHBVWURuM2JrN1VJcEktNkp2YXM4MHFMZ0F1NnlhVmJCSG42cFlHdzNTVExuaG5UT2VjT2JKSkMwWnRCd09uSW52bTc1NUN1cUJRMkpqWE5OZkhuYlB4X2dCVlBzT2ljaWhNRG9XYTZpOGR5YUpGWThQVmNlWmozQnhMUWlsSnBBUnBMWXFyU2kxcTlCcDV1bnBpMmNITWU2WkVGOG5aY1huZGpfTmZzbk0?oc=5",
+    "urlSlug": null,
+    "title": "Reflections Holidays lifts revenue to $97.3M and becomes first holiday park group in Australia to gain B Corp certification",
+    "summary": "",
+    "publishedAt": "2026-11-11T03:56:49.000Z",
+    "categories": [],
+    "guid": "CBMi8wFBVV95cUxORWpySDBGRWd6VkF0cFJMNXFqN21VMG4xNXBMQXJkOVBPTVBMUWVmeGhTd2gzcTZJNVlyUHlhTkY5LVIwYzhvQldLWHBVWURuM2JrN1VJcEktNkp2YXM4MHFMZ0F1NnlhVmJCSG42cFlHdzNTVExuaG5UT2VjT2JKSkMwWnRCd09uSW52bTc1NUN1cUJRMkpqWE5OZkhuYlB4X2dCVlBzT2ljaWhNRG9XYTZpOGR5YUpGWThQVmNlWmozQnhMUWlsSnBBUnBMWXFyU2kxcTlCcDV1bnBpMmNITWU2WkVGOG5aY1huZGpfTmZzbk0",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-11T14:40:28.412Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Shop Eat Surf Outdoor",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdnp3RVFJcU5BU0FuSWxjTWF6cVFhYVFvVHhVc3pXRDFfdlV1NFN2VEJ5YWV0Q1FObE03dXFSejFyUXhKWVlYX3N3dTNaWjB0TjZkQkNvT3I2VklYWUlqRVhRZGlPem5wYk5pVnAzeHVEN0pzaTAtem9ZUlVYdm8wdmhfbndWTXlCRThsZndCXzBFX2xEN0pYRHlFTFp6SF9G?oc=5",
+    "urlSlug": null,
+    "title": "Obōz Footwear Earns B Corp Recertification",
+    "summary": "",
+    "publishedAt": "2026-11-11T00:30:36.000Z",
+    "categories": [],
+    "guid": "CBMioAFBVV95cUxOdnp3RVFJcU5BU0FuSWxjTWF6cVFhYVFvVHhVc3pXRDFfdlV1NFN2VEJ5YWV0Q1FObE03dXFSejFyUXhKWVlYX3N3dTNaWjB0TjZkQkNvT3I2VklYWUlqRVhRZGlPem5wYk5pVnAzeHVEN0pzaTAtem9ZUlVYdm8wdmhfbndWTXlCRThsZndCXzBFX2xEN0pYRHlFTFp6SF9G",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-11-11T14:40:28.412Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Floor Covering News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYndDMzIwLWtfUHBiRTY0eXhac09Nb2pSMmFYcS1JNEJsRm5DSjBHOVZyU3RtLUhZUmFDak1FZmE4ZUdobEw4Nk04UzRiWFlsMnhqbkU1SjZlQXoxMFF1LUlCdGdjYkJzTk0yRVZfeHlKV0p6RTZqM2tUVExQdmlGR2l4d2ttUmM0WTNN?oc=5",
+    "urlSlug": null,
+    "title": "Tarkett earns Cradle to Cradle Silver certification",
+    "summary": "",
+    "publishedAt": "2026-11-10T20:05:39.000Z",
+    "categories": [],
+    "guid": "CBMiiwFBVV95cUxNYndDMzIwLWtfUHBiRTY0eXhac09Nb2pSMmFYcS1JNEJsRm5DSjBHOVZyU3RtLUhZUmFDak1FZmE4ZUdobEw4Nk04UzRiWFlsMnhqbkU1SjZlQXoxMFF1LUlCdGdjYkJzTk0yRVZfeHlKV0p6RTZqM2tUVExQdmlGR2l4d2ttUmM0WTNN",
+    "searchedLabel": "cradle-to-cradle",
+    "matches": [
+      {
+        "labelId": "cradle-to-cradle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Cradle to Cradle"
+      }
+    ],
+    "fetchedAt": "2026-11-11T14:40:28.412Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Floor Covering News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5M2FzbTR2YjVrYmViMnIzRm1uOXA4eEt6dm5TakoxR0RrN3dyeEY1YmRFNjRqaWVGdWVpRnFSRk5MZEVzLVVmcXFfWm10NVdBdk9aSVhvdTRHNms2SkhKZ1BEdW9zREtOUVoxaGFvbnlycXZQa1pXY0dyaw?oc=5",
+    "urlSlug": null,
+    "title": "Florim USA earns B Corp recertification",
+    "summary": "",
+    "publishedAt": "2026-11-10T20:01:56.000Z",
+    "categories": [],
+    "guid": "CBMie0FVX3lxTFA5M2FzbTR2YjVrYmViMnIzRm1uOXA4eEt6dm5TakoxR0RrN3dyeEY1YmRFNjRqaWVGdWVpRnFSRk5MZEVzLVVmcXFfWm10NVdBdk9aSVhvdTRHNms2SkhKZ1BEdW9zREtOUVoxaGFvbnlycXZQa1pXY0dyaw",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-11-11T14:40:28.412Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Ecotextile News",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEFhUTJtQTZKdURnVklnTlF2MHVONXZXaWFwNUlya0NXeGM2YTlOY05tdGJwNWQzR0hMNllNSTdBWjlsM25QeGZxdmJXeFJDMmI1a3ppdmlUaDA1SjVZek9vUmpJSE5OTmkzcHZHMENfRWNFUEsyOGE3U3JDUHpQaXU0Ym42STRnN05XYWRkcmMzQ055dUl4THlyWE5zZw?oc=5",
@@ -1815,6 +1976,29 @@
       }
     ],
     "fetchedAt": "2026-11-01T13:43:22.792Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "AndNowUKnow",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdkplS3FBMEl2SU4tc29PZUtHSTFqakV0MGF2TjlQRS1sWmljRWJRX2d2NWNEdlBzMllUR2FvalNZNWZEZVRHbmpUdDRUd3dxWmcwaDBJUUx0ZHBZdFI0MkoybEtRSHNMdERDSUI5SDRUbWl2aTlVS0NVMmEyYVBNN0d6amloQ3lYaU5mUGdKMmFJMmg4YmNhaG14OGRyUkxzY3BoOWplNzI5MXBLMnJKVDFRT0RfUWFHNEhybE05SQ?oc=5",
+    "urlSlug": null,
+    "title": "IMG Citrus Becomes Florida’s First and Only Fair Trade Certified Citrus Grower; Melanie Ressler Comments",
+    "summary": "",
+    "publishedAt": "2026-11-01T02:47:38.000Z",
+    "categories": [],
+    "guid": "CBMivwFBVV95cUxPdkplS3FBMEl2SU4tc29PZUtHSTFqakV0MGF2TjlQRS1sWmljRWJRX2d2NWNEdlBzMllUR2FvalNZNWZEZVRHbmpUdDRUd3dxWmcwaDBJUUx0ZHBZdFI0MkoybEtRSHNMdERDSUI5SDRUbWl2aTlVS0NVMmEyYVBNN0d6amloQ3lYaU5mUGdKMmFJMmg4YmNhaG14OGRyUkxzY3BoOWplNzI5MXBLMnJKVDFRT0RfUWFHNEhybE05SQ",
+    "searchedLabel": "fair-trade",
+    "matches": [
+      {
+        "labelId": "fair-trade",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Fair Trade Certified"
+      }
+    ],
+    "fetchedAt": "2026-11-11T14:40:28.412Z"
   },
   {
     "outletId": "google-news",
@@ -9156,190 +9340,6 @@
         "tier": "text-substring",
         "where": "title",
         "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Planning, Building & Construction Today",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRTMyc0d2WGlWYnlvYUE0T3UxdTFKNDZsYmZCSnVMbF9nNEJYWmdMUTRNd1hKWTRUdDRIVEFOM1d2b3EwNjJxdXU3aUxJc3lrRjFJcTZ5UWc0Y3hEQ01GQkwxRlZhSHQ4b2F4VGtWMmpHMXZBTmY4aXF2VUxPNHROT1o0UExEZDQ5enNoNDlaRk83Um5UZnc?oc=5",
-    "urlSlug": null,
-    "title": "NBS releases BREEAM certification guide",
-    "summary": "",
-    "publishedAt": "2026-09-29T10:06:07.000Z",
-    "categories": [],
-    "guid": "CBMilgFBVV95cUxQRTMyc0d2WGlWYnlvYUE0T3UxdTFKNDZsYmZCSnVMbF9nNEJYWmdMUTRNd1hKWTRUdDRIVEFOM1d2b3EwNjJxdXU3aUxJc3lrRjFJcTZ5UWc0Y3hEQ01GQkwxRlZhSHQ4b2F4VGtWMmpHMXZBTmY4aXF2VUxPNHROT1o0UExEZDQ5enNoNDlaRk83Um5UZnc",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "HospiBuz",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTTdfTkJkMVNnbTJkVjJFenE5UUxsOU56WFc1Rmw0ZktrY29ETllhSUYxa1N4b2piZ01SV19Cd2F6UWVlenMzU0VNZHBnbkxtVWZuRHo1cnhEM0pSS3JSQ21UZEs4SnlTSkVMN2NBVXZoaXFuaERIemk2YzdHNEZjYUZWSXBCejdYSG9NcGQyY3EydXgwM0k1cERISm1RRUNLdllpVXQ1UDd4OU1qazFOZ25BVEhIQkZRU19GZ2txOWJ3RjTSAcMBQVVfeXFMT003X05CZDFTZ20yZFYyRXpxOVFMbDlOelhXNUZsNGZLa2NvRE5ZYUlGMWtTeG9qYmdNUldfQndhelFlZXpzM1NFTWRwZ25MbVVmbkR6NXJ4RDNKUktyUkNtVGRLOEp5U0pFTDdjQVV2aGlxbmhESHppNmM3RzRGY2FGVklwQno3WEhvTXBkMmNxMnV4MDNJNXBESEptUUVDS3ZZaVV0NVA3eDlNamsxTmduQVRISEJGUVNfRmdrcTlid0Y0?oc=5",
-    "urlSlug": null,
-    "title": "Sun Siyam Achieves Green Globe Certification Across All Five Maldives Resorts",
-    "summary": "",
-    "publishedAt": "2026-09-29T09:05:57.000Z",
-    "categories": [],
-    "guid": "CBMiwwFBVV95cUxPTTdfTkJkMVNnbTJkVjJFenE5UUxsOU56WFc1Rmw0ZktrY29ETllhSUYxa1N4b2piZ01SV19Cd2F6UWVlenMzU0VNZHBnbkxtVWZuRHo1cnhEM0pSS3JSQ21UZEs4SnlTSkVMN2NBVXZoaXFuaERIemk2YzdHNEZjYUZWSXBCejdYSG9NcGQyY3EydXgwM0k1cERISm1RRUNLdllpVXQ1UDd4OU1qazFOZ25BVEhIQkZRU19GZ2txOWJ3RjTSAcMBQVVfeXFMT003X05CZDFTZ20yZFYyRXpxOVFMbDlOelhXNUZsNGZLa2NvRE5ZYUlGMWtTeG9qYmdNUldfQndhelFlZXpzM1NFTWRwZ25MbVVmbkR6NXJ4RDNKUktyUkNtVGRLOEp5U0pFTDdjQVV2aGlxbmhESHppNmM3RzRGY2FGVklwQno3WEhvTXBkMmNxMnV4MDNJNXBESEptUUVDS3ZZaVV0NVA3eDlNamsxTmduQVRISEJGUVNfRmdrcTlid0Y0",
-    "searchedLabel": "green-globe",
-    "matches": [
-      {
-        "labelId": "green-globe",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Green Globe"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Facilitate Magazine",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVAxOG5iYjhDUkJwSUJhcWFKNnE0aWlnWTVhQTJBaDlLNnoxbEItdUoydGJ6aFNlR1QxZEUtTGc0OFIwdTZLdFg3c3Q0bWpBaFpWQ1VaZ2NDMWNEallfV09lRzBka0RlQmt3aThfTlJBWlJfdl93WGpVVUw2YlhZMjZVREhES0NOdmlVUDhfMWE5RngzaWc0VG1uQml1YU4yQUhKN0h6UndKenN6dHc?oc=5",
-    "urlSlug": null,
-    "title": "BRE launches revised BREEAM refurbishment and fit-out standards",
-    "summary": "",
-    "publishedAt": "2026-09-29T08:59:01.000Z",
-    "categories": [],
-    "guid": "CBMirgFBVV95cUxPVVAxOG5iYjhDUkJwSUJhcWFKNnE0aWlnWTVhQTJBaDlLNnoxbEItdUoydGJ6aFNlR1QxZEUtTGc0OFIwdTZLdFg3c3Q0bWpBaFpWQ1VaZ2NDMWNEallfV09lRzBka0RlQmt3aThfTlJBWlJfdl93WGpVVUw2YlhZMjZVREhES0NOdmlVUDhfMWE5RngzaWc0VG1uQml1YU4yQUhKN0h6UndKenN6dHc",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "safariindia.com",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ud0hoRHNNbkhwUFRPREpBYWdVZ0lUd2l6Y2hzeVNEa1NtQVA1Y1k1ZllVaDRTbjFGcFVhSzdFV0taZWt4MG1PNHkwTDRaRGVzdUdjRlVYZUtXS0t0SG42MlpBT2VWYzZDQUtWYQ?oc=5",
-    "urlSlug": null,
-    "title": "Sun Siyam Secures Green Globe Certification Across Maldives Resorts",
-    "summary": "",
-    "publishedAt": "2026-09-29T07:46:27.000Z",
-    "categories": [],
-    "guid": "CBMibEFVX3lxTE9Ud0hoRHNNbkhwUFRPREpBYWdVZ0lUd2l6Y2hzeVNEa1NtQVA1Y1k1ZllVaDRTbjFGcFVhSzdFV0taZWt4MG1PNHkwTDRaRGVzdUdjRlVYZUtXS0t0SG42MlpBT2VWYzZDQUtWYQ",
-    "searchedLabel": "green-globe",
-    "matches": [
-      {
-        "labelId": "green-globe",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Green Globe"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "assetphysics",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3c1dlJwV0I1WnJxOTBxYmJaeldkY1Vtd18teDFKWGEwNmZWc0V0T1RMeG0ycTVxcjhlSkV6NzJ2OUQ5b2UxWTh1M0VSQk5hNE02dVJEdTNRRThELURQbXFsWXRDZGo1Q3BPelBfRWtfdlMxd09PZUZiQVp4ejdmenpETERsYjNBV2UzdGJDQ0twY1JyRWdldjFjal9GaVV3UjhTLV95YW1PZVp4RVREMExHaTN1QkU?oc=5",
-    "urlSlug": null,
-    "title": "Aroundtown achieves BREEAM “Excellent” rating for Berlin office property on Markgrafenstraße",
-    "summary": "",
-    "publishedAt": "2026-09-29T07:04:21.000Z",
-    "categories": [],
-    "guid": "CBMitwFBVV95cUxPd3c1dlJwV0I1WnJxOTBxYmJaeldkY1Vtd18teDFKWGEwNmZWc0V0T1RMeG0ycTVxcjhlSkV6NzJ2OUQ5b2UxWTh1M0VSQk5hNE02dVJEdTNRRThELURQbXFsWXRDZGo1Q3BPelBfRWtfdlMxd09PZUZiQVp4ejdmenpETERsYjNBV2UzdGJDQ0twY1JyRWdldjFjal9GaVV3UjhTLV95YW1PZVp4RVREMExHaTN1QkU",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Cleaning & Maintenance",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnJZT05uYVFfUDRuQmNQZ0RfclJNc3Ztelp6ZEFaMklZQVY1bjVuNzEzLXgwNXZSMUZscmU3Y2tSVzJHdTNUQWF1YWRjTmNsblg2V1JjU1JObUw5NWdocUhnd0ZtTzRhaTBkUG9zRUN5VGJYQ2x4VEhySWREbk5NUEpMZHFGbEFhdWJPQW5BdF9QaEZKaHk1YV9DazE2SVZ0U1E?oc=5",
-    "urlSlug": null,
-    "title": "Cleanology celebrates becoming B Corp and gaining EcoVadis silver medal",
-    "summary": "",
-    "publishedAt": "2026-09-29T07:00:10.000Z",
-    "categories": [],
-    "guid": "CBMiogFBVV95cUxQSnJZT05uYVFfUDRuQmNQZ0RfclJNc3Ztelp6ZEFaMklZQVY1bjVuNzEzLXgwNXZSMUZscmU3Y2tSVzJHdTNUQWF1YWRjTmNsblg2V1JjU1JObUw5NWdocUhnd0ZtTzRhaTBkUG9zRUN5VGJYQ2x4VEhySWREbk5NUEpMZHFGbEFhdWJPQW5BdF9QaEZKaHk1YV9DazE2SVZ0U1E",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-12T15:54:42.985Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Food Business Middle East & Africa",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdU1CUjJoUFdYbkJRb0JwUnZoMjNNMmJBSlZmUnVkRnBiby1KUUJrSllhQWxQTjFtTm9SSW1QN3RXRTFoOU5KbmNzYlBDUGFpdkRPSnRITDVOaHpsMXUteE1MQjh4M0lsUUhtMktwUEVNWlk3bWc1ZHBiclRkYWxUaFI2dGxCQVZYSU90Z3JHOTBiR1ZEY180UF8zSkc?oc=5",
-    "urlSlug": null,
-    "title": "illycaffè secures B Corp recertification under new V2 standards",
-    "summary": "",
-    "publishedAt": "2026-09-29T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMinAFBVV95cUxQdU1CUjJoUFdYbkJRb0JwUnZoMjNNMmJBSlZmUnVkRnBiby1KUUJrSllhQWxQTjFtTm9SSW1QN3RXRTFoOU5KbmNzYlBDUGFpdkRPSnRITDVOaHpsMXUteE1MQjh4M0lsUUhtMktwUEVNWlk3bWc1ZHBiclRkYWxUaFI2dGxCQVZYSU90Z3JHOTBiR1ZEY180UF8zSkc",
-    "searchedLabel": "rainforest-alliance",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-12T15:54:42.985Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Data Portuaria",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnRJSDRxMVd2S1dZa2VKci1oQ0RJMG41dF8wNm1SVHdMSDBkYmJjZnBjUkctYlFmMlItS3IzaFh1eXlyYlhwWHhueFkzVmozYTJGYjNzRGNmQWk0TEN3Zld2WW1VUjZGTkF5Tk1sYkNucmxscmJzUHlsLXZ2dFdCVjZSYWlhNDljUXhRVl9HNTY2dmR2bzFEXzk0dlNRTGI0dGo2em8tLVQ2ZHhvUFpKaXpoQ2c3dkowTFNYTQ?oc=5",
-    "urlSlug": null,
-    "title": "Peru Obtains MSC Certification for Eel, Opening Up Japanese Market",
-    "summary": "",
-    "publishedAt": "2026-09-28T20:20:30.000Z",
-    "categories": [],
-    "guid": "CBMivAFBVV95cUxPZnRJSDRxMVd2S1dZa2VKci1oQ0RJMG41dF8wNm1SVHdMSDBkYmJjZnBjUkctYlFmMlItS3IzaFh1eXlyYlhwWHhueFkzVmozYTJGYjNzRGNmQWk0TEN3Zld2WW1VUjZGTkF5Tk1sYkNucmxscmJzUHlsLXZ2dFdCVjZSYWlhNDljUXhRVl9HNTY2dmR2bzFEXzk0dlNRTGI0dGo2em8tLVQ2ZHhvUFpKaXpoQ2c3dkowTFNYTQ",
-    "searchedLabel": "msc",
-    "matches": [
-      {
-        "labelId": "msc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "MSC"
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
