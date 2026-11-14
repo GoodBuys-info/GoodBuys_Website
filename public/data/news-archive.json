@@ -1,6 +1,212 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Urban Acres",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObHRZak5wc1EzeF9aOHdyUjVNb21ZaU1qT2pPWWwtaUhaVjhQeUZid05QcHFCYnZhcGRJcXNIdGdZbTNhM1haYlk2YlRlbUdxLW1DUm4zWV9ad2JpbG1rYUd5enZEeG56MURNeU5WbWhnRUthdGpOV3l1b2VTMU11TmVzOGRwMjBnbTdKRHZxYUVNSnc?oc=5",
+    "urlSlug": null,
+    "title": "Blue Flag Certification for Cuddalore’s Silver Beach",
+    "summary": "",
+    "publishedAt": "2026-11-14T12:55:06.000Z",
+    "categories": [],
+    "guid": "CBMikwFBVV95cUxObHRZak5wc1EzeF9aOHdyUjVNb21ZaU1qT2pPWWwtaUhaVjhQeUZid05QcHFCYnZhcGRJcXNIdGdZbTNhM1haYlk2YlRlbUdxLW1DUm4zWV9ad2JpbG1rYUd5enZEeG56MURNeU5WbWhnRUthdGpOV3l1b2VTMU11TmVzOGRwMjBnbTdKRHZxYUVNSnc",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-11-14T13:45:33.144Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Manorama Yearbook",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMVZLR1o5Z0h6ZldfTzJyQlNaeGdaX0wzRkRjVVBvUC10ZUp4Z0tDcTlISDc1bDZuQmh0MERhTmp1TFMtY0JNOEt0eVVsN2dsSThPT1NaemZOZE1qMldfc05FT0VMQXdweHo3RTlNTkhZb0pJeUZzN0NCNVE3Z3hpdVUyeUtDdVk3TmJhSXJMd1ExMjhVOUdGVTIyckJ2LVdTaWVlMF8wVTZkLXNlUnlWVjA2eVl3WDdmb0NyWEFld0pSdEht?oc=5",
+    "urlSlug": null,
+    "title": "3 beaches in Maharashtra receive ‘Blue Flag’ certification",
+    "summary": "",
+    "publishedAt": "2026-11-14T10:08:31.000Z",
+    "categories": [],
+    "guid": "CBMixAFBVV95cUxNMVZLR1o5Z0h6ZldfTzJyQlNaeGdaX0wzRkRjVVBvUC10ZUp4Z0tDcTlISDc1bDZuQmh0MERhTmp1TFMtY0JNOEt0eVVsN2dsSThPT1NaemZOZE1qMldfc05FT0VMQXdweHo3RTlNTkhZb0pJeUZzN0NCNVE3Z3hpdVUyeUtDdVk3TmJhSXJMd1ExMjhVOUdGVTIyckJ2LVdTaWVlMF8wVTZkLXNlUnlWVjA2eVl3WDdmb0NyWEFld0pSdEht",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-11-14T13:45:33.144Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Prop News Time",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQa3d3Z2R2d2t3T2xtdkMyMkUwZDFmNEMzNVFYd3VUVW91NkhJTU5Tc01sdFJiU2hVRzQwa1U3REVGSmdEYXktaFROc3puczFHajlkQlo1VU5lNS1BWFBlejVJNVdJWmhERVZ1THBMSWxsdjJBTW1KUklEYUhvTmhVM0s2am1zMjhoT2FtLXN6ZkN3Y3FCbmdaanI5elVTVDg0SV9LN3lyNnRjRHRxeGJsdmJIN1dKX29tQ0FPOGpia3AwVE5zb2tITnFnd2pWOVhCNnFuMWdyTHJ6QTZQTEp4UW81ZUw4YlVveGltQzN0aw?oc=5",
+    "urlSlug": null,
+    "title": "Shrivardhan beach in Maharashtra gets Blue Flag certification after two-year effort: Minister Aditi Tatkare",
+    "summary": "",
+    "publishedAt": "2026-11-14T08:00:31.000Z",
+    "categories": [],
+    "guid": "CBMi7wFBVV95cUxQa3d3Z2R2d2t3T2xtdkMyMkUwZDFmNEMzNVFYd3VUVW91NkhJTU5Tc01sdFJiU2hVRzQwa1U3REVGSmdEYXktaFROc3puczFHajlkQlo1VU5lNS1BWFBlejVJNVdJWmhERVZ1THBMSWxsdjJBTW1KUklEYUhvTmhVM0s2am1zMjhoT2FtLXN6ZkN3Y3FCbmdaanI5elVTVDg0SV9LN3lyNnRjRHRxeGJsdmJIN1dKX29tQ0FPOGpia3AwVE5zb2tITnFnd2pWOVhCNnFuMWdyTHJ6QTZQTEp4UW81ZUw4YlVveGltQzN0aw",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-11-14T13:45:33.144Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "CSRwire",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0hvWmpwVnhOSzV1NWNEN0JnX085NGI0ZnRUOGhKYU9jZ3I4bUFTTXpNV3NCdXRCbDRQSzNkdjM5aHowMHlhYllRNVBaTkZOTFdkOUFqSUw1RmdiVHY4UDdMcWpLRFptcnBsVFBSNTUyWFBQOXZfVjVtbEZBYWFkeF9yM0dpeFhwTFVTbzhZTThFZEIwYldZb05WbGpsQQ?oc=5",
+    "urlSlug": null,
+    "title": "Rejoose Hooks Up With EPEAT To Give Channel a Concrete Sustainability Stamp",
+    "summary": "",
+    "publishedAt": "2026-11-13T22:01:28.000Z",
+    "categories": [],
+    "guid": "CBMingFBVV95cUxPQ0hvWmpwVnhOSzV1NWNEN0JnX085NGI0ZnRUOGhKYU9jZ3I4bUFTTXpNV3NCdXRCbDRQSzNkdjM5aHowMHlhYllRNVBaTkZOTFdkOUFqSUw1RmdiVHY4UDdMcWpLRFptcnBsVFBSNTUyWFBQOXZfVjVtbEZBYWFkeF9yM0dpeFhwTFVTbzhZTThFZEIwYldZb05WbGpsQQ",
+    "searchedLabel": "epeat",
+    "matches": [
+      {
+        "labelId": "epeat",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "EPEAT"
+      }
+    ],
+    "fetchedAt": "2026-11-14T13:45:33.144Z"
+  },
+  {
+    "outletId": "edie",
+    "outletName": "Edie",
+    "url": "https://www.edie.net/donors-are-falling-short-but-indigenous-communities-are-delivering/",
+    "urlSlug": "donors-are-falling-short-but-indigenous-communities-are-delivering",
+    "title": "Donors are falling short, but Indigenous communities are delivering",
+    "summary": "As COP31 provides guidance on the world’s climate funds, Indigenous Peoples and local communities must define what counts and how impact is measured, argue Jonathan Jennings, co-chief executive of Health In Harmony and Minnie Degawan, managing director of the FSC Indigenous Foundation.",
+    "publishedAt": "2026-11-13T20:09:42.000Z",
+    "categories": [
+      "Biodiversity and Nature-Based Solutions",
+      "Climate & nature",
+      "Human rights and Modern Slavery",
+      "Regeneration",
+      "Social sustainability",
+      "Sustainable Development Goals (SDGs)",
+      "Amazon rainforest",
+      "blog",
+      "blogs",
+      "climate",
+      "COP",
+      "COP17",
+      "COP31",
+      "finance",
+      "forest",
+      "forests",
+      "indigenous",
+      "indigenous people",
+      "nature",
+      "ocean",
+      "rainforest"
+    ],
+    "guid": "https://www.edie.net/?p=308929",
+    "sourceName": null,
+    "sourceUrl": null,
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "summary",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-11-14T13:45:33.144Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Lohud",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTWdUcjZZVHZ1dmRBQjZRdXNKdF9oOTNqc3VXRTEwZ2U1OXlWR2lRZzQ0cEo1Sk9VUjhjd3dFMjB3X0JkUjFHVEFsRXBEZVJsMHVfUExhcFQ2VzVydlpEVER3cXFWUFNIMm5MUl9PVDJTMnRxeHZQUnRIRTJlLTRvRC1xLWMyN2MzNWRvVGhLOFlybXhvOVdfQm1DWkRJNFh0MkJlMURxNzFCTS10WkVyVERtTTZHM2ZlSWxDU2xPSUJBSGJiX3I4RkdselA4UFY4QWR1Ymo3TUp0VWpWbUE?oc=5",
+    "urlSlug": null,
+    "title": "OEKO-TEX Certified Supplier of High-Quality Antibacterial Cotton Quilts: The Cozytact Standard",
+    "summary": "",
+    "publishedAt": "2026-11-13T19:24:09.000Z",
+    "categories": [],
+    "guid": "CBMi3gFBVV95cUxOTWdUcjZZVHZ1dmRBQjZRdXNKdF9oOTNqc3VXRTEwZ2U1OXlWR2lRZzQ0cEo1Sk9VUjhjd3dFMjB3X0JkUjFHVEFsRXBEZVJsMHVfUExhcFQ2VzVydlpEVER3cXFWUFNIMm5MUl9PVDJTMnRxeHZQUnRIRTJlLTRvRC1xLWMyN2MzNWRvVGhLOFlybXhvOVdfQm1DWkRJNFh0MkJlMURxNzFCTS10WkVyVERtTTZHM2ZlSWxDU2xPSUJBSGJiX3I4RkdselA4UFY4QWR1Ymo3TUp0VWpWbUE",
+    "searchedLabel": "oeko-tex",
+    "matches": [
+      {
+        "labelId": "oeko-tex",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Oeko-Tex"
+      }
+    ],
+    "fetchedAt": "2026-11-14T13:45:33.144Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "officeinsight",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaW9TNWgxUlJhMjJsS3Z4TUFsVEtZMlhiNnZpcVlueDc1UU9YblJjN2ZuaW9FZFBza3pCZHF5RG1zdG5fQlVZWDFCNXlPVTJGSHYwV1g1RlZGN1hQVnJ0Yzd6QlE5V2tpU05EakhZZHZLOWpFcWM0V2JPTzI0VmZEQzFyazJTYjNoMjZWc212R010Y2xoTXpCWTl1WVZIdWJBdEtvZ2cwSl9QeGcxUlhkLUYyWjdhUjhvc0ZoNXVXQVVBMHVKVF9TUGhOc3padw?oc=5",
+    "urlSlug": null,
+    "title": "Tarkett Earns Cradle to Cradle Certified® Silver Version 5.0 for ethos® Carpet Tile Portfolio",
+    "summary": "",
+    "publishedAt": "2026-11-13T17:13:24.000Z",
+    "categories": [],
+    "guid": "CBMizgFBVV95cUxOaW9TNWgxUlJhMjJsS3Z4TUFsVEtZMlhiNnZpcVlueDc1UU9YblJjN2ZuaW9FZFBza3pCZHF5RG1zdG5fQlVZWDFCNXlPVTJGSHYwV1g1RlZGN1hQVnJ0Yzd6QlE5V2tpU05EakhZZHZLOWpFcWM0V2JPTzI0VmZEQzFyazJTYjNoMjZWc212R010Y2xoTXpCWTl1WVZIdWJBdEtvZ2cwSl9QeGcxUlhkLUYyWjdhUjhvc0ZoNXVXQVVBMHVKVF9TUGhOc3padw",
+    "searchedLabel": "cradle-to-cradle",
+    "matches": [
+      {
+        "labelId": "cradle-to-cradle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Cradle to Cradle"
+      }
+    ],
+    "fetchedAt": "2026-11-14T13:45:33.144Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Forest Stewardship Council (FSC)",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHJONHJXakI5ckhCcWJxV0FITU5RYm9ZUlB2T1B2Q3pJUDhIYWpCbUtLZFM3YWwxMkk5ZHNoVHAybHNxTlVBRnBvTVJGMzFfR29kYVdZUjhQcThOVHRXTzExYVJwLTE3SEFDemhLOTZ2R2t6UFJiRE5WNnVQVTJiOTNZOTEtaFoyU2hQRDA4TjVESjZWSnRiU3V5Tk1qQzJqbGtyeWZKQnh4eGRkMEFZak9DWQ?oc=5",
+    "urlSlug": null,
+    "title": "FSC responds to media reports concerning forest management in Paraguay",
+    "summary": "",
+    "publishedAt": "2026-11-13T16:09:44.000Z",
+    "categories": [],
+    "guid": "CBMiswFBVV95cUxNWHJONHJXakI5ckhCcWJxV0FITU5RYm9ZUlB2T1B2Q3pJUDhIYWpCbUtLZFM3YWwxMkk5ZHNoVHAybHNxTlVBRnBvTVJGMzFfR29kYVdZUjhQcThOVHRXTzExYVJwLTE3SEFDemhLOTZ2R2t6UFJiRE5WNnVQVTJiOTNZOTEtaFoyU2hQRDA4TjVESjZWSnRiU3V5Tk1qQzJqbGtyeWZKQnh4eGRkMEFZak9DWQ",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-11-14T13:45:33.144Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Aquafeed.com",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUEVzSU5SMkxXUTFHMzR3cjZDVG9ZYlpleS1fcHUzNUI3WVFnZDBkMVRUZUZYSjUxc01NeVg4YzlNaUN6aXEwTFVkeGFMNWN3eTA5Tjlndl84R1gyZDdDaVk5RmlUek92b2dLM3Q5U21GQXl4N2VyLUM3bzE1akFyWUhEUlNVV2lQYmc?oc=5",
@@ -350,6 +556,29 @@
       }
     ],
     "fetchedAt": "2026-11-12T15:31:41.510Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Forest Stewardship Council (FSC)",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORHp3LU8wMDc0dUpkUHJ0V2dIR0I2ZzE1eFlMUVpEMGd1LW9lbWhrQ3plam1Ic3VxZC1VeDF5M0VpTG8wTjdTZENiakRUNWhscUVtaTZLck8xeFZYQ2QyNF9WTW9iNnBsdGRQY0FoOEFYZEZDWWNFanNwX20xVDFMb3puMjR1ajNlZEV6TmU3NkVDX19hV0hpSnJ5b0lWZlVoT0JNUUF5YkNGMExOUzd6ZnNRcnM5YWc?oc=5",
+    "urlSlug": null,
+    "title": "Public consultation: Revision of the FSC Ecosystem Services Procedure guided by Motion 53/2021",
+    "summary": "",
+    "publishedAt": "2026-11-12T08:00:00.000Z",
+    "categories": [],
+    "guid": "CBMitwFBVV95cUxORHp3LU8wMDc0dUpkUHJ0V2dIR0I2ZzE1eFlMUVpEMGd1LW9lbWhrQ3plam1Ic3VxZC1VeDF5M0VpTG8wTjdTZENiakRUNWhscUVtaTZLck8xeFZYQ2QyNF9WTW9iNnBsdGRQY0FoOEFYZEZDWWNFanNwX20xVDFMb3puMjR1ajNlZEV6TmU3NkVDX19hV0hpSnJ5b0lWZlVoT0JNUUF5YkNGMExOUzd6ZnNRcnM5YWc",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-11-14T13:45:33.144Z"
   },
   {
     "outletId": "google-news",
@@ -721,6 +950,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "The Courier-Journal",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbmFPVUw2Zk01S08wN0hQcHlVNGVyRVZ4WWd1QjFUeVZBSlpyWlpPRkhMQjlqWVpUdzhBYk9idllUdnhXVG53bUI5M2dHZnFQZEc5U3ZIeFlTTDE1YkNsTjZneWJFa3dadjNGZThBQmlpNm9yTzZqTERSeGFCalp6VjV3TkUxc1Rpd19kU2xlaWlWcl9aMllIVHFMdERSNXVsM2VmMXc5RFNRM21vSjBsUnU5ODM2eXJlRGpHT3dxT2o1UWdyNmNQajFYV21fUlRKSzk2U2VHNl9mYm5QWTFZeGQ0TW43NU9HbHpaVzF6MWlLekJoNWpKdHcyYWRGX2Yz?oc=5",
+    "urlSlug": null,
+    "title": "Certified Production from Century Beauty, a Leading Global Custom Shapewear Supplier under OEKO-TEX STANDARD 100",
+    "summary": "",
+    "publishedAt": "2026-11-10T09:25:24.000Z",
+    "categories": [],
+    "guid": "CBMigAJBVV95cUxQbmFPVUw2Zk01S08wN0hQcHlVNGVyRVZ4WWd1QjFUeVZBSlpyWlpPRkhMQjlqWVpUdzhBYk9idllUdnhXVG53bUI5M2dHZnFQZEc5U3ZIeFlTTDE1YkNsTjZneWJFa3dadjNGZThBQmlpNm9yTzZqTERSeGFCalp6VjV3TkUxc1Rpd19kU2xlaWlWcl9aMllIVHFMdERSNXVsM2VmMXc5RFNRM21vSjBsUnU5ODM2eXJlRGpHT3dxT2o1UWdyNmNQajFYV21fUlRKSzk2U2VHNl9mYm5QWTFZeGQ0TW43NU9HbHpaVzF6MWlLekJoNWpKdHcyYWRGX2Yz",
+    "searchedLabel": "oeko-tex",
+    "matches": [
+      {
+        "labelId": "oeko-tex",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "OEKO-TEX Standard 100"
+      }
+    ],
+    "fetchedAt": "2026-11-14T13:45:33.144Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Lohud",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc3hNcVI4QUo3cUwxUDhvaEk1TGRqM0U1YnM1VTEzOVBDVS1KYkV3eFZ6QTcyMlhVZS1yQ3V4clQyS1ZMRHRwb1ZkRW1VR0J5QWNORmVHel9tSzdBQ014QjlIbFkydVBHU3hXeldRbFg2LWloREd0eXdvZ1dfSDlIcWhZenRSS0VFWDdzOW81LXF2LXRTdVQ0UVdiWHlTeDNHS2dxS3laUEU0R3VKNG5Wa01ncThOWFU1S1N2TGh3Z3BzZGNEZy1haVd6ZUNPcE5PRERrRk9VNEpHRHRUcUpUTXRJeDJNUG5pRFBDMjJveXMzV3M?oc=5",
@@ -787,6 +1039,29 @@
       }
     ],
     "fetchedAt": "2026-11-12T15:31:41.510Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "SME & Entrepreneurship Magazine",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNFVJWmRaT3lEbElBWld1VUFWQ3ZQOEluQlc0YlUtT21WdGN3Y1JjQmV3aTcwLWxMd0luYkpGMFk3TnF2cjBhNktaNmhrcFg4eFlCUmJqR0M3MlkwMHdJeUVLUDRscWJHVDlkSXJSUWl4QVJEQy1wZGQ3eHl1Y3VNMzE0eUxvVkx0RXc?oc=5",
+    "urlSlug": null,
+    "title": "Porsche Design Tower Bangkok Achieves LEED® Gold Precertification",
+    "summary": "",
+    "publishedAt": "2026-11-10T03:40:00.000Z",
+    "categories": [],
+    "guid": "CBMiigFBVV95cUxPNFVJWmRaT3lEbElBWld1VUFWQ3ZQOEluQlc0YlUtT21WdGN3Y1JjQmV3aTcwLWxMd0luYkpGMFk3TnF2cjBhNktaNmhrcFg4eFlCUmJqR0M3MlkwMHdJeUVLUDRscWJHVDlkSXJSUWl4QVJEQy1wZGQ3eHl1Y3VNMzE0eUxvVkx0RXc",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-14T13:45:33.144Z"
   },
   {
     "outletId": "google-news",
@@ -9058,290 +9333,5 @@
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Materials Handling World",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUxFMjFiXzNPWjl0akVhNkw2SEJGSV8zcTBGX2hpWC1aUHZWYm9mNldmZjJKYnpaaHZzUG41aFNRLXluM1VkQWVNVFdpYTl1YzhNY0Zsa0pYdHlNTk90Vy1icHctVXBETE5BTTBucWFnaFlKR001aWZvYkJxUXFkaTV2RE03TXYtTEtfYzZRRTU2MHQ5eU41YWttQkc2MTFaZUF1YVNKNmJ2SE5sUm1FVFBsdU81U2M?oc=5",
-    "urlSlug": null,
-    "title": "Hermes Fulfilment secures GOTS certification for German logistics hub",
-    "summary": "",
-    "publishedAt": "2026-10-05T09:58:18.000Z",
-    "categories": [],
-    "guid": "CBMitwFBVV95cUxOUUxFMjFiXzNPWjl0akVhNkw2SEJGSV8zcTBGX2hpWC1aUHZWYm9mNldmZjJKYnpaaHZzUG41aFNRLXluM1VkQWVNVFdpYTl1YzhNY0Zsa0pYdHlNTk90Vy1icHctVXBETE5BTTBucWFnaFlKR001aWZvYkJxUXFkaTV2RE03TXYtTEtfYzZRRTU2MHQ5eU41YWttQkc2MTFaZUF1YVNKNmJ2SE5sUm1FVFBsdU81U2M",
-    "searchedLabel": "gots",
-    "matches": [
-      {
-        "labelId": "gots",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "GOTS"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Swanage News",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVFpbXkzY3lnUUp6QTdRT285YWRvNkEyRzdyckFPelhGcThCcTZtVzRaYjA5SXBRSjFGV1IyTHpuOFd4V1ZhOERmWFVRMElfdnBKR2VkeGNad3BVN1VDdUt3SWFxYTFYZ3pxRUQtLXBCY0xkTDZiRUVkenJZRjNsaExwUjNCQ2c?oc=5",
-    "urlSlug": null,
-    "title": "Swanage hoists the Blue Flag for 25th consecutive year",
-    "summary": "",
-    "publishedAt": "2026-10-05T04:38:54.000Z",
-    "categories": [],
-    "guid": "CBMihwFBVV95cUxNYVFpbXkzY3lnUUp6QTdRT285YWRvNkEyRzdyckFPelhGcThCcTZtVzRaYjA5SXBRSjFGV1IyTHpuOFd4V1ZhOERmWFVRMElfdnBKR2VkeGNad3BVN1VDdUt3SWFxYTFYZ3pxRUQtLXBCY0xkTDZiRUVkenJZRjNsaExwUjNCQ2c",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "edie",
-    "outletName": "Edie",
-    "url": "https://www.edie.net/octopus-energys-irish-solar-projects-and-sodexos-food-waste-prevention-milestone-the-sustainability-success-stories-of-the-week/",
-    "urlSlug": "octopus-energys-irish-solar-projects-and-sodexos-food-waste-prevention-milestone-the-sustainability-success-stories-of-the-week",
-    "title": "Octopus Energy’s Irish solar projects and Sodexo’s food-waste prevention milestone: The sustainability success stories of the week",
-    "summary": "As part of our Mission Possible campaign, edie delivers this member-exclusive weekly round-up of five of the best sustainable business success stories of the week. In this week's edition, Octopus Energy’s Irish solar projects, and much more.",
-    "publishedAt": "2026-10-05T02:36:42.000Z",
-    "categories": [
-      "Circular economy",
-      "Climate & nature",
-      "Energy",
-      "Energy efficiency",
-      "Green buildings",
-      "Net-zero strategy",
-      "Onsite technologies",
-      "Products and packaging",
-      "Renewables",
-      "Strategy and delivery",
-      "Tech & innovation",
-      "Transport",
-      "Waste Management",
-      "B Corp",
-      "Circular Economy",
-      "Clean energy investment",
-      "climate action",
-      "climate resilience",
-      "EV charging",
-      "Food waste",
-      "Ireland",
-      "Members Insight",
-      "Mobility",
-      "renewables",
-      "resources",
-      "solar farms",
-      "success stories",
-      "sustainability leadership",
-      "The built environment",
-      "waste management"
-    ],
-    "guid": "https://www.edie.net/?p=303747",
-    "sourceName": null,
-    "sourceUrl": null,
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "structured-field",
-        "where": "category",
-        "matchedText": "B Corp",
-        "sourceText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "The White Center Blog",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd05rc3hiNTNlMk5KaDMyRHZ0OVRySkF2eXNZNGpLVFFJOHdKN0lYU0xVckVpUFJINXd2SlhBQmZaYVVlTGpPUncxNlBWRzJxd3FlZzlxNmxPMjlqNEZhRzVYRTZhNFVWZE1JWXF6Y3pxRk83VV9CN0VBZ1RJRXFYSkNISTJWbFdMNlFpN2ZSbjhDQlM2THFZSnpaRGxNbWdLODd3VmhKWlI2cHpZVmVQWFNoY0N3VGxVd0c5MFJNMA?oc=5",
-    "urlSlug": null,
-    "title": "Time to upgrade your sprinkler timer? Consider replacing it with a WaterSense timer!",
-    "summary": "",
-    "publishedAt": "2026-10-04T09:16:04.000Z",
-    "categories": [],
-    "guid": "CBMivwFBVV95cUxQd05rc3hiNTNlMk5KaDMyRHZ0OVRySkF2eXNZNGpLVFFJOHdKN0lYU0xVckVpUFJINXd2SlhBQmZaYVVlTGpPUncxNlBWRzJxd3FlZzlxNmxPMjlqNEZhRzVYRTZhNFVWZE1JWXF6Y3pxRk83VV9CN0VBZ1RJRXFYSkNISTJWbFdMNlFpN2ZSbjhDQlM2THFZSnpaRGxNbWdLODd3VmhKWlI2cHpZVmVQWFNoY0N3VGxVd0c5MFJNMA",
-    "searchedLabel": "watersense",
-    "matches": [
-      {
-        "labelId": "watersense",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "WaterSense"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "FOCUS ON Business",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTlPOVJ3czh4UmRkZ08zQkwwWldaLU9TNEtJcm8yOF9WV045R01nbGRMN25lekdPQ2lTcUVEQXpOcnpIbTI5VXBTQjhFajB3dHpSeDhTMTdZQkhUV3ZMbWFUcDNQYU43RjdSNVVOdWJQSUl2b242Z0lWajdSOElBekZpRVJiOTRCOWxCSTZCOVd2LXRCckh4VW5aWXpZRGxWeVV2UWhPQ0dNU19SRVE2aU9ZNHJyVnZYRXRPVFpxMk8?oc=5",
-    "urlSlug": null,
-    "title": "New Logistics Hub in Upper Silesia: Construction Begins on BREEAM Excellent Facility",
-    "summary": "",
-    "publishedAt": "2026-10-04T05:50:55.000Z",
-    "categories": [],
-    "guid": "CBMiwAFBVV95cUxQTTlPOVJ3czh4UmRkZ08zQkwwWldaLU9TNEtJcm8yOF9WV045R01nbGRMN25lekdPQ2lTcUVEQXpOcnpIbTI5VXBTQjhFajB3dHpSeDhTMTdZQkhUV3ZMbWFUcDNQYU43RjdSNVVOdWJQSUl2b242Z0lWajdSOElBekZpRVJiOTRCOWxCSTZCOVd2LXRCckh4VW5aWXpZRGxWeVV2UWhPQ0dNU19SRVE2aU9ZNHJyVnZYRXRPVFpxMk8",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "The Corry Journal",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTDU5MVlOLWNtZkszOW1VYzZnRmdZaGVHcmk4VmViRjdCZl9UZGFZT2ZzcmNvVWxFTi13MWh5cmVnbVRFcGJVTHpuQkRFczJkNnRTVE9wS2o2Z3NCQmlfSDItdXFZTUhzNUFUS0tBaWJmUFgtZXlSdzNFdTNfNkN2cWJaR1pnNEtnMEtNRk93SF90bTBjb0RTN0plbndVcTRPdU9OMEk5ODhKYzRic2xXZzZ0Vi1Dem1Tckp5NkVQZUtVX3Jsek5iWlkyNzNrTlgwNld2dnNzRHBWT3NlcXFHR2RsMWlnTTNZckg1SWpmLVF0WTZsc00tQmVvZUJUWXNURTRmLUVUQWZiN2Y2VklMMlJn?oc=5",
-    "urlSlug": null,
-    "title": "MPM Products Among First to Certify Under New, Stricter B Corp Standards",
-    "summary": "",
-    "publishedAt": "2026-10-02T19:10:00.000Z",
-    "categories": [],
-    "guid": "CBMikgJBVV95cUxPTDU5MVlOLWNtZkszOW1VYzZnRmdZaGVHcmk4VmViRjdCZl9UZGFZT2ZzcmNvVWxFTi13MWh5cmVnbVRFcGJVTHpuQkRFczJkNnRTVE9wS2o2Z3NCQmlfSDItdXFZTUhzNUFUS0tBaWJmUFgtZXlSdzNFdTNfNkN2cWJaR1pnNEtnMEtNRk93SF90bTBjb0RTN0plbndVcTRPdU9OMEk5ODhKYzRic2xXZzZ0Vi1Dem1Tckp5NkVQZUtVX3Jsek5iWlkyNzNrTlgwNld2dnNzRHBWT3NlcXFHR2RsMWlnTTNZckg1SWpmLVF0WTZsc00tQmVvZUJUWXNURTRmLUVUQWZiN2Y2VklMMlJn",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "PR Newswire",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWdEbFhZcm5MY1hxY2EtUVNjVVNqckpwbjJCM21uWXd5bjRCaDBtMEtkNlA4eDdRa1RUQm0zQnlKSThaVHlkR09FQmowc0ozTUxocDJoUUpKaENmdWg0VXZER2lpMlVPTGFOSGF0THZLVGVQYldSY2tTeXhJQWZDZEtQTXBhb3NlNDl6S0k4SkYxMks2a24wLXBsdzg0UnlpWkozNnUySGE0SzlUQkl5VVhyb1l0YzNPSFhxc0wzekw2ZUxHT2c?oc=5",
-    "urlSlug": null,
-    "title": "MPM Products Among First to Certify Under New, Stricter B Corp Standards",
-    "summary": "",
-    "publishedAt": "2026-10-02T19:10:00.000Z",
-    "categories": [],
-    "guid": "CBMixgFBVV95cUxNLWdEbFhZcm5MY1hxY2EtUVNjVVNqckpwbjJCM21uWXd5bjRCaDBtMEtkNlA4eDdRa1RUQm0zQnlKSThaVHlkR09FQmowc0ozTUxocDJoUUpKaENmdWg0VXZER2lpMlVPTGFOSGF0THZLVGVQYldSY2tTeXhJQWZDZEtQTXBhb3NlNDl6S0k4SkYxMks2a24wLXBsdzg0UnlpWkozNnUySGE0SzlUQkl5VVhyb1l0YzNPSFhxc0wzekw2ZUxHT2c",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "TWinFM",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkhVNVpacGpEYjJCUmhtS2t3aWFqSHBTUXE1UW9zbE5RcGhIUS14UHo2OXpKVk83MjAtVEg1TEdzckxESll5aGhXcTBOamxqSk5sM19PWV9LZnB6aWVhLXZXTUxnNG94TWdGaEVHM2hHd3NTeGNXdzhpQk1PbVgybzFjUkZuSXZNNkJQQzVNWVBrLXl5SFYzOW8tdVA5QQ?oc=5",
-    "urlSlug": null,
-    "title": "BRE Launches BREEAM RFO Version 7",
-    "summary": "",
-    "publishedAt": "2026-10-02T14:00:59.000Z",
-    "categories": [],
-    "guid": "CBMingFBVV95cUxPRkhVNVpacGpEYjJCUmhtS2t3aWFqSHBTUXE1UW9zbE5RcGhIUS14UHo2OXpKVk83MjAtVEg1TEdzckxESll5aGhXcTBOamxqSk5sM19PWV9LZnB6aWVhLXZXTUxnNG94TWdGaEVHM2hHd3NTeGNXdzhpQk1PbVgybzFjUkZuSXZNNkJQQzVNWVBrLXl5SFYzOW8tdVA5QQ",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Irish Independent",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOank0MUpPRlF3OTFXdGluYURDUGY4OGFPb3BzaTBQZTZEdmRqaVpublgtWDdZZlRhenlON1lUSmZUazJBZkxJOFZZNUxuaENBR3dESHR0RnpHdmZmZXVlUUdjb3Fib2xaLV9SN0FPWS03QWNSdTk0ZGtTS1FRbW1vRUx1WTNqVFNfTVBpbHh1QlFMX0Z2anVIY01pX0phRnJONThwR2I0Ty1iWnZKeDloMDhNVGdCb0p6YzJvTWIwVURuT2RKbHl4dW9zb2tPcXZUbGFvMlp2NkhaVy12akU4RXJjMG8?oc=5",
-    "urlSlug": null,
-    "title": "South Kerry community seek help on sewage upgrades after no bathing notice at blue flag beach",
-    "summary": "",
-    "publishedAt": "2026-10-02T12:00:00.000Z",
-    "categories": [],
-    "guid": "CBMi5AFBVV95cUxOank0MUpPRlF3OTFXdGluYURDUGY4OGFPb3BzaTBQZTZEdmRqaVpublgtWDdZZlRhenlON1lUSmZUazJBZkxJOFZZNUxuaENBR3dESHR0RnpHdmZmZXVlUUdjb3Fib2xaLV9SN0FPWS03QWNSdTk0ZGtTS1FRbW1vRUx1WTNqVFNfTVBpbHh1QlFMX0Z2anVIY01pX0phRnJONThwR2I0Ty1iWnZKeDloMDhNVGdCb0p6YzJvTWIwVURuT2RKbHl4dW9zb2tPcXZUbGFvMlp2NkhaVy12akU4RXJjMG8",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Salmon Business",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFVBaGtDaGZZLTRQVDFBUXJ1a2pIV0tkTGpaeW9RdlotS1k1Y3d5d3ZjYmY5dEFUOHIta0JCaGMxY0pDUDVWWDZRaXk1M0Y5MXJ0S3RCaGFSWFYyRkZGMDE5ckpET1pUMFo5eUFiTmF6dTk5OVFQTWExMHVpNC1RR3FuX05OVVp5N3hMaWRWbEtTU0VPNTJCU3lLUkZ3UW9ET01BZDd3?oc=5",
-    "urlSlug": null,
-    "title": "Bakkafrost: becomes first salmon farmer certified under new ASC standard",
-    "summary": "",
-    "publishedAt": "2026-10-02T05:48:09.000Z",
-    "categories": [],
-    "guid": "CBMipgFBVV95cUxPMFVBaGtDaGZZLTRQVDFBUXJ1a2pIV0tkTGpaeW9RdlotS1k1Y3d5d3ZjYmY5dEFUOHIta0JCaGMxY0pDUDVWWDZRaXk1M0Y5MXJ0S3RCaGFSWFYyRkZGMDE5ckpET1pUMFo5eUFiTmF6dTk5OVFQTWExMHVpNC1RR3FuX05OVVp5N3hMaWRWbEtTU0VPNTJCU3lLUkZ3UW9ET01BZDd3",
-    "searchedLabel": "asc",
-    "matches": [
-      {
-        "labelId": "asc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ASC"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "IntraFish",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU2ZSczkwMGVyREFZR1VYVjFWSW1SRThlUkc0QkQtZmd2eFVaazY0QmFNeEttaThCRlVDWENrcVhLc0lTVE9TY1lVNERnSWpsQmxRdGt4WlhiVE1sSWNmSTdIRUpQMGN2d2JBVVZ6Zml2cEp1RFdKOG5YNEdhcl95dmNxVS1nOUhkS2tXVGhTOXV0LXhjM1lZcjVUU3ZiYVZSUHd3Tkc3QmVjZUJNaVZfdS12WmUyc3NwMUE?oc=5",
-    "urlSlug": null,
-    "title": "ASC: Americans need 'alternatives to government' to know what food to trust",
-    "summary": "",
-    "publishedAt": "2026-10-02T05:24:41.000Z",
-    "categories": [],
-    "guid": "CBMiugFBVV95cUxPU2ZSczkwMGVyREFZR1VYVjFWSW1SRThlUkc0QkQtZmd2eFVaazY0QmFNeEttaThCRlVDWENrcVhLc0lTVE9TY1lVNERnSWpsQmxRdGt4WlhiVE1sSWNmSTdIRUpQMGN2d2JBVVZ6Zml2cEp1RFdKOG5YNEdhcl95dmNxVS1nOUhkS2tXVGhTOXV0LXhjM1lZcjVUU3ZiYVZSUHd3Tkc3QmVjZUJNaVZfdS12WmUyc3NwMUE",
-    "searchedLabel": "asc",
-    "matches": [
-      {
-        "labelId": "asc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ASC"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:40:51.044Z"
   }
 ]
