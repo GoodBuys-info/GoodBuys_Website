@@ -1,6 +1,98 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Wood Central",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VQjVhYzNNbmpJaWY0VWZ6a3k2T3owRmEta3ZVVXpuMi15QnNjUnRsdGVscTFPby1nRjlmU3N6Z0k3eTBkMWhicTFodS1VOXhoQV84YktFcWQxbEJkTjNVRGZ4UEM5ZnNlQXJPbHoyaDhaVW9Xb3Jv?oc=5",
+    "urlSlug": null,
+    "title": "French Oak Secures HMS Victory a World-First PEFC Certificate",
+    "summary": "",
+    "publishedAt": "2026-11-15T11:38:23.000Z",
+    "categories": [],
+    "guid": "CBMid0FVX3lxTE9VQjVhYzNNbmpJaWY0VWZ6a3k2T3owRmEta3ZVVXpuMi15QnNjUnRsdGVscTFPby1nRjlmU3N6Z0k3eTBkMWhicTFodS1VOXhoQV84YktFcWQxbEJkTjNVRGZ4UEM5ZnNlQXJPbHoyaDhaVW9Xb3Jv",
+    "searchedLabel": "pefc",
+    "matches": [
+      {
+        "labelId": "pefc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "PEFC"
+      }
+    ],
+    "fetchedAt": "2026-11-15T14:14:02.984Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Telegraph",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uWlN3Q1hGekFvRXpCcG55ajNTQ3l2YjJHNmUxem5CeTJpTnNVQ181RUJJeWxLWG9CY3BmeTVOV3JEZW14NUJ5cUJoMVNScVdqeHhPZEIyOV8wdkpSV1VTV3FwbVZKVDBRUllQX2NIOExQal9BVFRqSndn?oc=5",
+    "urlSlug": null,
+    "title": "How to shop better: From Soil Association to B Corp, these are the logos to trust (or not)",
+    "summary": "",
+    "publishedAt": "2026-11-15T07:00:00.000Z",
+    "categories": [],
+    "guid": "CBMiekFVX3lxTE5uWlN3Q1hGekFvRXpCcG55ajNTQ3l2YjJHNmUxem5CeTJpTnNVQ181RUJJeWxLWG9CY3BmeTVOV3JEZW14NUJ5cUJoMVNScVdqeHhPZEIyOV8wdkpSV1VTV3FwbVZKVDBRUllQX2NIOExQal9BVFRqSndn",
+    "searchedLabel": "soil-association-organic",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-11-15T14:14:02.984Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The New Indian Express",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObXFUWFQ4ZWNQWlQtSVlreFU3Z01QRFdBTlRhZ2lpTnRpZEVIbG9yU2ttVjVzX0NlS2MtcURYeklVaWVibHFzRXFaQjltUWJhSWxOQkhIOVQzSXdFU0s1U2NYekh1dDZnVTFhekFtdkxrRDFndjRRb21US1g2dHBrSVZPTEtqTTI1TFlPQTV5Y0s4cGp5RDJ0MXZrbnR0OHpDRmFCWTN0U2puTlg5VGUweFllZVlUQUJMNHFnR1NTX1d1UWNoNXRpRFp0QjB0eDNiWmptTFdMLWF6dDVEODR4WdIB7gFBVV95cUxNMnNLemJuUUZ2REwzV0JkWWotcFhqN1M4d1Y0YXZVN3NtbUp0REhqLWxreWNlNzcxcDdwMnBld2pDVXNIb1p4WTlxZDJMWmhURm5HcDZibDVUd3dYbUgxeldPeTVSbExjdVhRTFJwc3hZenQ2UzRXblAtZktnNV8tcTQyQm40aF9MbGJKS2xsejl2T21lbDk5T0dfTHdBNmp1RG15VzhIR095QlBUbTBoNXFtZi1qRnlSblR6c0YyUlJkelhoN0RuQVp1R3dHdnFGYmhsdXpqSXBfT3NfRS0zNmdNN253eW9McEE3NjRn?oc=5",
+    "urlSlug": null,
+    "title": "Blue Flag tag for Kameshwaram beach puts Nagapattinam district on global tourism map",
+    "summary": "",
+    "publishedAt": "2026-11-15T01:45:15.000Z",
+    "categories": [],
+    "guid": "CBMi4AFBVV95cUxObXFUWFQ4ZWNQWlQtSVlreFU3Z01QRFdBTlRhZ2lpTnRpZEVIbG9yU2ttVjVzX0NlS2MtcURYeklVaWVibHFzRXFaQjltUWJhSWxOQkhIOVQzSXdFU0s1U2NYekh1dDZnVTFhekFtdkxrRDFndjRRb21US1g2dHBrSVZPTEtqTTI1TFlPQTV5Y0s4cGp5RDJ0MXZrbnR0OHpDRmFCWTN0U2puTlg5VGUweFllZVlUQUJMNHFnR1NTX1d1UWNoNXRpRFp0QjB0eDNiWmptTFdMLWF6dDVEODR4WdIB7gFBVV95cUxNMnNLemJuUUZ2REwzV0JkWWotcFhqN1M4d1Y0YXZVN3NtbUp0REhqLWxreWNlNzcxcDdwMnBld2pDVXNIb1p4WTlxZDJMWmhURm5HcDZibDVUd3dYbUgxeldPeTVSbExjdVhRTFJwc3hZenQ2UzRXblAtZktnNV8tcTQyQm40aF9MbGJKS2xsejl2T21lbDk5T0dfTHdBNmp1RG15VzhIR095QlBUbTBoNXFtZi1qRnlSblR6c0YyUlJkelhoN0RuQVp1R3dHdnFGYmhsdXpqSXBfT3NfRS0zNmdNN253eW9McEE3NjRn",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-11-15T14:14:02.984Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "yadkinripple.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOHhYQkoyWWd3N25iVHBMQkFFVlJHVGRrMFNTMWJZcFItTVQtZ0J3V0NOU2dSNkl0dzk2QUhSNVRNNEtzNTJralhnWXhxQlRzek40dWRuTlc2TnlmNkhPa1pDU05yT3VHeUpOVGpSamdzYTVrLTIxMDR3ZUYyOUVpTzJZYUVuU3lrNnhpN2llaUFzMGlRVV9Qc3RMeWlER1QzZ2JkbHJfLXpaMGhubUI4WC1RTWlfVFU0Ui1xV05OR3lnZlZjdzRVcFhBdTNGb1FyNUFKMVdn?oc=5",
+    "urlSlug": null,
+    "title": "Hugh Chatham Health earns ENERGY STAR certification",
+    "summary": "",
+    "publishedAt": "2026-11-14T16:08:00.000Z",
+    "categories": [],
+    "guid": "CBMi1gFBVV95cUxNOHhYQkoyWWd3N25iVHBMQkFFVlJHVGRrMFNTMWJZcFItTVQtZ0J3V0NOU2dSNkl0dzk2QUhSNVRNNEtzNTJralhnWXhxQlRzek40dWRuTlc2TnlmNkhPa1pDU05yT3VHeUpOVGpSamdzYTVrLTIxMDR3ZUYyOUVpTzJZYUVuU3lrNnhpN2llaUFzMGlRVV9Qc3RMeWlER1QzZ2JkbHJfLXpaMGhubUI4WC1RTWlfVFU0Ui1xV05OR3lnZlZjdzRVcFhBdTNGb1FyNUFKMVdn",
+    "searchedLabel": "energy-star",
+    "matches": [
+      {
+        "labelId": "energy-star",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ENERGY STAR"
+      }
+    ],
+    "fetchedAt": "2026-11-15T14:14:02.984Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Urban Acres",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObHRZak5wc1EzeF9aOHdyUjVNb21ZaU1qT2pPWWwtaUhaVjhQeUZid05QcHFCYnZhcGRJcXNIdGdZbTNhM1haYlk2YlRlbUdxLW1DUm4zWV9ad2JpbG1rYUd5enZEeG56MURNeU5WbWhnRUthdGpOV3l1b2VTMU11TmVzOGRwMjBnbTdKRHZxYUVNSnc?oc=5",
@@ -368,6 +460,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Stevens Point Journal",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONlNJd2g1NW5DTlpCb2FFZVdLYk9Vd2FXVUdpekNfenlhaUhlSjZTeTdQdzV4ZXBUU1l1SWNEUTg3REEwRk9BV0RJT3NoWVpTZlZvSFN0YTV0d0dUUG96bjdKYnVweHlDUm1pNk9pVnZNbDB4R21CMUk2WEtjTEEtQWc0VFEwTXlkcWV1MUhiRVRGNkpOMnNxek9yc25DWm9aMGE5UDNnSEl4UFQ1VnVFVWRNdWFJU05SeVdDc0pqR1hjOVF5RFMxaHRFSFlrNTVPQlJFNXRTeUUxUmh6NVpZYg?oc=5",
+    "urlSlug": null,
+    "title": "Mövenpick Hotel Tallinn: First Hotel in Estonia To Achieve Green Globe Certification",
+    "summary": "",
+    "publishedAt": "2026-11-12T18:33:24.000Z",
+    "categories": [],
+    "guid": "CBMi4AFBVV95cUxONlNJd2g1NW5DTlpCb2FFZVdLYk9Vd2FXVUdpekNfenlhaUhlSjZTeTdQdzV4ZXBUU1l1SWNEUTg3REEwRk9BV0RJT3NoWVpTZlZvSFN0YTV0d0dUUG96bjdKYnVweHlDUm1pNk9pVnZNbDB4R21CMUk2WEtjTEEtQWc0VFEwTXlkcWV1MUhiRVRGNkpOMnNxek9yc25DWm9aMGE5UDNnSEl4UFQ1VnVFVWRNdWFJU05SeVdDc0pqR1hjOVF5RFMxaHRFSFlrNTVPQlJFNXRTeUUxUmh6NVpZYg",
+    "searchedLabel": "green-globe",
+    "matches": [
+      {
+        "labelId": "green-globe",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Globe"
+      }
+    ],
+    "fetchedAt": "2026-11-15T14:14:02.984Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Travel World Online",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSldQamYzRXJMT3pMYmp3bjhwcTNEUE5hT3FrQnVRclpQb2NUQjNvY0FXY0pWZ2NUV3ctVmhjZHBuSk85Tk5hWTlsSUNxWlZVVDBGZEFUblN6MV8wanFkQ3lJalZiYVdLM1hsSHBaUFdBREN5MEJ3X2dDbFRHZG5VclgtQlNZajFScWtrNFhrOV9EajV4LWlqX21kSHZPM0U?oc=5",
@@ -490,6 +605,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Companion Life",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcXJzODNhbEpWNjFSLUlaM3dlM2JOVTM0OHREZTh0RVF4OUlHZEJqeHhzRUU1bmZMT3phcW9TT19PUFl1TjhYVVkzRGUzNU5ScW4zZE1SNFFORldueHhIWFJ1Qi1MdjZMVU16SGRDUTRVYWVOR0xnNjVqeFhHdkRRM21qNlVaaTREbS11MXNqWVFxZw?oc=5",
+    "urlSlug": null,
+    "title": "Nestlé Purina PetCare Europe wins MSC UK Newcomer Award",
+    "summary": "",
+    "publishedAt": "2026-11-12T11:29:58.000Z",
+    "categories": [],
+    "guid": "CBMikgFBVV95cUxOcXJzODNhbEpWNjFSLUlaM3dlM2JOVTM0OHREZTh0RVF4OUlHZEJqeHhzRUU1bmZMT3phcW9TT19PUFl1TjhYVVkzRGUzNU5ScW4zZE1SNFFORldueHhIWFJ1Qi1MdjZMVU16SGRDUTRVYWVOR0xnNjVqeFhHdkRRM21qNlVaaTREbS11MXNqWVFxZw",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-11-15T14:14:02.984Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Liverpool Chamber of Commerce",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY1diZll0SlhWOExmZVRtMnh6dEtUWk5XcDBMTWJLZk1YeEtaQTBBRzlqNDNGdnY4dzRMd1pOWTlIamNLY1hlMXRnNWcyVWppUDUzcUd6U0hRcEtOUVFyUFBzSF80Ukh2elc3WlBvR2c3VVpBcXFGUVp6eTZxTGFsNzJMcHdVZW5FaGx1NnFIeVJuYkJUQ0Q2aXhhazlYcmxETTlLZWlyMGt6ZlRHMVh3Ql9YVVFLODByandNQ3Q0SEc4S0s2TER0eHNoUVV1MXdQTGJpTGExU1I?oc=5",
@@ -579,6 +717,29 @@
       }
     ],
     "fetchedAt": "2026-11-14T13:45:33.144Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Forest Stewardship Council (FSC)",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkJyLU5rX3duVDVqS2VYTU9KcE5od0JEUEszNVhlNmpQSTczcHoyOTdpQlZHXzJtcDVLdE5qVWFudWdFbGRpYW9oSm50QmFmbzV0aC1wSTBZeEgtazR5OTVuY05uZmVUSHRxNFJ3eXplcndHMzFuT1NOeUJOTzZWZFVxeEVpNGRaUnkxR2Y4bm10ejdLTVFIdjVDeEI0QUdvamU0OG5tSnFlZDdEUVVlYjdpcWhac1k?oc=5",
+    "urlSlug": null,
+    "title": "Public consultation: Revision of the FSC Ecosystem Services Procedure guided by Motion 53/2021",
+    "summary": "",
+    "publishedAt": "2026-11-12T08:00:00.000Z",
+    "categories": [],
+    "guid": "CBMitwFBVV95cUxOZkJyLU5rX3duVDVqS2VYTU9KcE5od0JEUEszNVhlNmpQSTczcHoyOTdpQlZHXzJtcDVLdE5qVWFudWdFbGRpYW9oSm50QmFmbzV0aC1wSTBZeEgtazR5OTVuY05uZmVUSHRxNFJ3eXplcndHMzFuT1NOeUJOTzZWZFVxeEVpNGRaUnkxR2Y4bm10ejdLTVFIdjVDeEI0QUdvamU0OG5tSnFlZDdEUVVlYjdpcWhac1k",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-11-15T14:14:02.984Z"
   },
   {
     "outletId": "google-news",
@@ -1062,6 +1223,29 @@
       }
     ],
     "fetchedAt": "2026-11-14T13:45:33.144Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "vietnamnews.vn",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXNCaWlvTUQzRlE2TjV2RE9UNVNnWDhWSFFVTXVuSUZFeDVqWXNLdmRwNWVzVEY1SmFfNWFoRmt4Z0F6QzExU2RZT0FZLTV1YWJtUXpFRjFGWTRFakFBMHNqdzhKUmZZUjFMRnY1VTNPbEVuWFB2YkJ6TzR2RWVxdi1LVHo1T2FqUDcwYUpDdElvakpjVFdLa0hoSjFmaUIwSlVUbEJRNU1hTE1aVEJ4b3R6OTVHQQ?oc=5",
+    "urlSlug": null,
+    "title": "Porsche Design Tower Bangkok Achieves LEED® Gold Precertification",
+    "summary": "",
+    "publishedAt": "2026-11-10T03:40:00.000Z",
+    "categories": [],
+    "guid": "CBMitgFBVV95cUxPOXNCaWlvTUQzRlE2TjV2RE9UNVNnWDhWSFFVTXVuSUZFeDVqWXNLdmRwNWVzVEY1SmFfNWFoRmt4Z0F6QzExU2RZT0FZLTV1YWJtUXpFRjFGWTRFakFBMHNqdzhKUmZZUjFMRnY1VTNPbEVuWFB2YkJ6TzR2RWVxdi1LVHo1T2FqUDcwYUpDdElvakpjVFdLa0hoSjFmaUIwSlVUbEJRNU1hTE1aVEJ4b3R6OTVHQQ",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-15T14:14:02.984Z"
   },
   {
     "outletId": "google-news",
@@ -2534,6 +2718,29 @@
       }
     ],
     "fetchedAt": "2026-11-04T14:48:22.715Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Forest Stewardship Council (FSC)",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85cnF5WVZFRWtYaktQbkhGQW1ER0ZUb3hmQkdaTU95Z3pFM0ppOFE0ZjV1czVNZHd2LU1BWW9qenBDQlpabUIyVi1JNHU?oc=5",
+    "urlSlug": null,
+    "title": "All Belarussian FSC certificates will have to be terminated",
+    "summary": "",
+    "publishedAt": "2026-11-03T18:28:15.000Z",
+    "categories": [],
+    "guid": "CBMiTEFVX3lxTE85cnF5WVZFRWtYaktQbkhGQW1ER0ZUb3hmQkdaTU95Z3pFM0ppOFE0ZjV1czVNZHd2LU1BWW9qenBDQlpabUIyVi1JNHU",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-11-15T14:14:02.984Z"
   },
   {
     "outletId": "google-news",
@@ -9123,213 +9330,6 @@
         "tier": "text-substring",
         "where": "title",
         "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Centre College",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMlo3czdwclM3M1NadzdlWjFQN2tNVnNPeFdlZmpidzRucUllUVM2a3Z1MlpLNktzU3hlYlNkTUtyTFlUSGljSHpVYS00VlMxbTczWnV1UlVSRWtaVlpWUzF3X1RfdnZoeUdtYWRibm9YYmxnc2doeUNkUURzaGtqcnhYNmdSeHlLYXRDTlhEQjFYUQ?oc=5",
-    "urlSlug": null,
-    "title": "Champions Hall earns LEED Gold certification for sustainability achievement",
-    "summary": "",
-    "publishedAt": "2026-10-06T12:00:00.000Z",
-    "categories": [],
-    "guid": "CBMikgFBVV95cUxOMlo3czdwclM3M1NadzdlWjFQN2tNVnNPeFdlZmpidzRucUllUVM2a3Z1MlpLNktzU3hlYlNkTUtyTFlUSGljSHpVYS00VlMxbTczWnV1UlVSRWtaVlpWUzF3X1RfdnZoeUdtYWRibm9YYmxnc2doeUNkUURzaGtqcnhYNmdSeHlLYXRDTlhEQjFYUQ",
-    "searchedLabel": "leed",
-    "matches": [
-      {
-        "labelId": "leed",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "LEED"
-      }
-    ],
-    "fetchedAt": "2026-10-19T13:49:21.137Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "EquityBulls",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByU3FncnhpVUMwcEZ3aE5hOWFocUltcDFBU201al9QMzlPT3hTc2p4UzB2TzR3UVdRWm93b3ZCekJMMTd0clpvbEEwLUpGU3BJbno2VTlQenR6SlhxQWVz?oc=5",
-    "urlSlug": null,
-    "title": "Mukka Proteins Ltd receives USDA NOP - Inputs Attestation from ECOCERT S.A.S., France",
-    "summary": "",
-    "publishedAt": "2026-10-06T10:39:52.000Z",
-    "categories": [],
-    "guid": "CBMiX0FVX3lxTFByU3FncnhpVUMwcEZ3aE5hOWFocUltcDFBU201al9QMzlPT3hTc2p4UzB2TzR3UVdRWm93b3ZCekJMMTd0clpvbEEwLUpGU3BJbno2VTlQenR6SlhxQWVz",
-    "searchedLabel": "ecocert",
-    "matches": [
-      {
-        "labelId": "ecocert",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Ecocert"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Lelezard",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNDBoM2xKaGUyZWhPNTBZUjVaWl9aZGwzOHoyczNfRld2ZUdTeTFSYS1za2NZUktIT2J2UkZLR2tGWEtMNjVvTmpvWkIwZFNRZUQ3V05EQ0RLMDFtbnJYbkN3RHRKLUxfQ251WXo2ekw1bE1IN1h5dEpiMHFBR3JwRFF1QllydmZYNnpLZXhGTkZ4eUNZQWlaUVBLWmlodHNXTmhENmlvRGJkLTNId0tJeTBRMDBhaUZrWVBEbUdEeFNvSVE?oc=5",
-    "urlSlug": null,
-    "title": "ENERGY-EFFICIENCY LEADERSHIP EARNS LG CANADA ITS SIXTH ENERGY STAR®CANADA AWARD",
-    "summary": "",
-    "publishedAt": "2026-10-06T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiwwFBVV95cUxNNDBoM2xKaGUyZWhPNTBZUjVaWl9aZGwzOHoyczNfRld2ZUdTeTFSYS1za2NZUktIT2J2UkZLR2tGWEtMNjVvTmpvWkIwZFNRZUQ3V05EQ0RLMDFtbnJYbkN3RHRKLUxfQ251WXo2ekw1bE1IN1h5dEpiMHFBR3JwRFF1QllydmZYNnpLZXhGTkZ4eUNZQWlaUVBLWmlodHNXTmhENmlvRGJkLTNId0tJeTBRMDBhaUZrWVBEbUdEeFNvSVE",
-    "searchedLabel": "energy-star",
-    "matches": [
-      {
-        "labelId": "energy-star",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ENERGY STAR"
-      }
-    ],
-    "fetchedAt": "2026-10-08T13:53:03.033Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Sustainable Packaging News",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWUtqbklibm1BM0RyWmtqbHN1WEFNdVYzVlZNRGo4VldIS0NYWVJSRERBeDdnSlRGdHhkWVo3VzlsSDY4Qy1MXzdQU0s0dFJNTzJqQ1F30gFgQVVfeXFMTkFoZGJNSjk2NW9SZE95dzBSTW1fb0pGMmtUMi1HSm5xV0lWYTBiUGprRHZ0SFo0MkJYeV9CU0tJQThDdGJmMTJBSkJoUmhkc19Pb3Bxd0xDZC0zb0Z2LXJD?oc=5",
-    "urlSlug": null,
-    "title": "CJ Biomaterials Secures BPI, TÜV AUSTRIA Certifications for New PHACT™ All-PHA Compound Designed for Home Compostable Cutlery",
-    "summary": "",
-    "publishedAt": "2026-10-06T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiVkFVX3lxTFBwWUtqbklibm1BM0RyWmtqbHN1WEFNdVYzVlZNRGo4VldIS0NYWVJSRERBeDdnSlRGdHhkWVo3VzlsSDY4Qy1MXzdQU0s0dFJNTzJqQ1F30gFgQVVfeXFMTkFoZGJNSjk2NW9SZE95dzBSTW1fb0pGMmtUMi1HSm5xV0lWYTBiUGprRHZ0SFo0MkJYeV9CU0tJQThDdGJmMTJBSkJoUmhkc19Pb3Bxd0xDZC0zb0Z2LXJD",
-    "searchedLabel": "ok-compost",
-    "matches": [
-      {
-        "labelId": "ok-compost",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "TÜV AUSTRIA"
-      }
-    ],
-    "fetchedAt": "2026-10-11T13:17:55.803Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "EquityBulls",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmJveTR2MlpkUHQzdmttTzVndjY1Rl9XcjQzY2lEMzBmRG1WNDkwcnJHSWxYOVVIZzlHZVhwOVM1bTZHQ2ZPZVpLX1NhbEJPeFVRQ3dmeUVJZktLUlBwRHVmd3E2UVo4RnV2T0MzN3RaWnA0Z1VzcWRSNmVKdkZMMEZiaTdfWGt0TkdMbEl5U1dzNkpIdFVRYmY1aTViOUVhM0lHcHlVVWxidVVfOEZ4N1hpMzdOTGRZMC1aag?oc=5",
-    "urlSlug": null,
-    "title": "Mukka Proteins Ltd receives USDA NOP - Inputs Attestation from ECOCERT S.A.S., France",
-    "summary": "",
-    "publishedAt": "2026-10-06T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMivAFBVV95cUxNYmJveTR2MlpkUHQzdmttTzVndjY1Rl9XcjQzY2lEMzBmRG1WNDkwcnJHSWxYOVVIZzlHZVhwOVM1bTZHQ2ZPZVpLX1NhbEJPeFVRQ3dmeUVJZktLUlBwRHVmd3E2UVo4RnV2T0MzN3RaWnA0Z1VzcWRSNmVKdkZMMEZiaTdfWGt0TkdMbEl5U1dzNkpIdFVRYmY1aTViOUVhM0lHcHlVVWxidVVfOEZ4N1hpMzdOTGRZMC1aag",
-    "searchedLabel": "ecocert",
-    "matches": [
-      {
-        "labelId": "ecocert",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Ecocert"
-      }
-    ],
-    "fetchedAt": "2026-10-19T13:49:21.137Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "USGBC | U.S. Green Building Council",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORm5fUTFaLWJ0NTU0QTZFUlU1ZUlsYTlLVTNKR2RQVEp1cGx1SWVvOTlkZW9ScHRFcUlkZ25ENGhUX21uNmpfNzdRS1V5U1pibHRLcy1KT0dQSlA3WVBFazJwZ3dCR2R6a3N6N1lFc1B4TkhobTJPN0lkU05nTHpCeUFfMlBHb3lPNk93MGlETQ?oc=5",
-    "urlSlug": null,
-    "title": "Applications Open for the 2027 LEED for Cities Certification Cohort",
-    "summary": "",
-    "publishedAt": "2026-10-05T23:49:43.000Z",
-    "categories": [],
-    "guid": "CBMijwFBVV95cUxORm5fUTFaLWJ0NTU0QTZFUlU1ZUlsYTlLVTNKR2RQVEp1cGx1SWVvOTlkZW9ScHRFcUlkZ25ENGhUX21uNmpfNzdRS1V5U1pibHRLcy1KT0dQSlA3WVBFazJwZ3dCR2R6a3N6N1lFc1B4TkhobTJPN0lkU05nTHpCeUFfMlBHb3lPNk93MGlETQ",
-    "searchedLabel": "leed",
-    "matches": [
-      {
-        "labelId": "leed",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "LEED"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Fishing News",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hZFBfWERJUF94czBDYlpuOGtJX1VRMmpoYmFoT0h0Q3RyMjRWRDVUQXBUV3RmNDRwQldUdGhLVDBjbF9QblVGbWM2NjRid01DRl9tWjVCT1hIdWlyMHJVdHNISy03YklyRkZLQkF3VFMxTHl0UV9aTGxjMllSUQ?oc=5",
-    "urlSlug": null,
-    "title": "Rockall haddock regains MSC certification",
-    "summary": "",
-    "publishedAt": "2026-10-05T17:59:05.000Z",
-    "categories": [],
-    "guid": "CBMifkFVX3lxTE1hZFBfWERJUF94czBDYlpuOGtJX1VRMmpoYmFoT0h0Q3RyMjRWRDVUQXBUV3RmNDRwQldUdGhLVDBjbF9QblVGbWM2NjRid01DRl9tWjVCT1hIdWlyMHJVdHNISy03YklyRkZLQkF3VFMxTHl0UV9aTGxjMllSUQ",
-    "searchedLabel": "msc",
-    "matches": [
-      {
-        "labelId": "msc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "MSC"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "BevNET.com",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWElPM2RRRURYU2thZDVIWUJMakR6cUlhQjFxRjh5MXlzX2R5ZVIzby1xRHRidUVjRkdNXzBsdFlaazhtd1prWDhfb3Z0X2ppOE81UVJPMGlULWF5dHNjdUxfeF83YTRTUE5QMlRJaXIwNm9ReXVOeExRRHgtSmg4ZnpDLUVzbnJNUDdTWlhWQ1RySWlvZFRIQ2tXczRkaDV6TnowY2dob1NvenJQZ3c?oc=5",
-    "urlSlug": null,
-    "title": "Sovány Beverage Adds Grapefruit to Its USDA Organic Sparkling Water Line",
-    "summary": "",
-    "publishedAt": "2026-10-05T14:45:27.000Z",
-    "categories": [],
-    "guid": "CBMirgFBVV95cUxPWElPM2RRRURYU2thZDVIWUJMakR6cUlhQjFxRjh5MXlzX2R5ZVIzby1xRHRidUVjRkdNXzBsdFlaazhtd1prWDhfb3Z0X2ppOE81UVJPMGlULWF5dHNjdUxfeF83YTRTUE5QMlRJaXIwNm9ReXVOeExRRHgtSmg4ZnpDLUVzbnJNUDdTWlhWQ1RySWlvZFRIQ2tXczRkaDV6TnowY2dob1NvenJQZ3c",
-    "searchedLabel": "usda-organic",
-    "matches": [
-      {
-        "labelId": "usda-organic",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "USDA Organic"
-      }
-    ],
-    "fetchedAt": "2026-10-07T00:24:26.948Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "IndexBox",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaG1uQVV2LXlOdUh6MmltZFRLZGRoZXNscVBKckpnQ2FqWHFaRmFzNFhIQ3BoUlJqTFBYaTJtWmhXTGJtZkllZEo0VlZ3MGk0M3ptTF8yWTlWdDkySDk2NmI3STdGRXBiNXp4OExSV2gwU3Jzd29ySGxVY3JtTEF1akRWaUFxQ3gtekJhcWlkNS1RT05PeVRMLUk1QlljaUtMYTFDb3VXdnhhWmNOU2xfbFpB?oc=5",
-    "urlSlug": null,
-    "title": "USDA Organic Poultry and Eggs Report: October 5, 2026 Wholesale Prices and Inventory",
-    "summary": "",
-    "publishedAt": "2026-10-05T12:10:26.000Z",
-    "categories": [],
-    "guid": "CBMisgFBVV95cUxQaG1uQVV2LXlOdUh6MmltZFRLZGRoZXNscVBKckpnQ2FqWHFaRmFzNFhIQ3BoUlJqTFBYaTJtWmhXTGJtZkllZEo0VlZ3MGk0M3ptTF8yWTlWdDkySDk2NmI3STdGRXBiNXp4OExSV2gwU3Jzd29ySGxVY3JtTEF1akRWaUFxQ3gtekJhcWlkNS1RT05PeVRMLUk1QlljaUtMYTFDb3VXdnhhWmNOU2xfbFpB",
-    "searchedLabel": "usda-organic",
-    "matches": [
-      {
-        "labelId": "usda-organic",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "USDA Organic"
       }
     ],
     "fetchedAt": "2026-10-07T00:24:26.948Z"
