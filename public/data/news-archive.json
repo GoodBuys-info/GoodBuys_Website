@@ -1,6 +1,167 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "FinSMEs",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTUp1NHN2SlRqbmhoVElwR202R3lTdnMxNURDSDNQWHU2eHhVMHVsQmZVcnllWWt0a21icDhsd1ZKSWNlZi1LUk0zWklVdmpFSEtmZWdBWlJDd0gzRHRPc1RGbTFnbVZ4eTZHb0NTX0RpSXhKajNtSUVoNzFXZkxadFNCTUNCaUE4WFNMSTVmMDVKaGdwc1V5eEFR?oc=5",
+    "urlSlug": null,
+    "title": "TerraCycle US Reaches $10M Raised in Regulation A Offering",
+    "summary": "",
+    "publishedAt": "2026-11-18T11:17:07.000Z",
+    "categories": [],
+    "guid": "CBMimgFBVV95cUxOTUp1NHN2SlRqbmhoVElwR202R3lTdnMxNURDSDNQWHU2eHhVMHVsQmZVcnllWWt0a21icDhsd1ZKSWNlZi1LUk0zWklVdmpFSEtmZWdBWlJDd0gzRHRPc1RGbTFnbVZ4eTZHb0NTX0RpSXhKajNtSUVoNzFXZkxadFNCTUNCaUE4WFNMSTVmMDVKaGdwc1V5eEFR",
+    "searchedLabel": "terracycle",
+    "matches": [
+      {
+        "labelId": "terracycle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "TerraCycle"
+      }
+    ],
+    "fetchedAt": "2026-11-18T15:55:27.235Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "RuralVoice",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0xUUm1wTUtvYnNCczF5Y3JvZWFGTnZ2Z0lyaWlncXZQWHYxTDZUVVc5bkNRanZPWUVGV01VRDhaMGs0YVI4aTRXMklxVWZHZ19pSjFBTW9XTDBWamlXU0U1S0JqcUhZMkptQVNDZDdnU29QR3dqZ0h6NXI1WGRBNUwzWWxxMU43c285VUdNbG4teWFCWkFKZ1NHOC1la1BRTWtxR0pYYVJMOUNreUhGcEpwOXlGa3J6VHZ5c9IBvAFBVV95cUxNd0xUUm1wTUtvYnNCczF5Y3JvZWFGTnZ2Z0lyaWlncXZQWHYxTDZUVVc5bkNRanZPWUVGV01VRDhaMGs0YVI4aTRXMklxVWZHZ19pSjFBTW9XTDBWamlXU0U1S0JqcUhZMkptQVNDZDdnU29QR3dqZ0h6NXI1WGRBNUwzWWxxMU43c285VUdNbG4teWFCWkFKZ1NHOC1la1BRTWtxR0pYYVJMOUNreUhGcEpwOXlGa3J6VHZ5cw?oc=5",
+    "urlSlug": null,
+    "title": "Traceable BCI Cotton Sourcing Rises 43.5% to Record 33,000 Tonnes",
+    "summary": "",
+    "publishedAt": "2026-11-18T09:04:22.000Z",
+    "categories": [],
+    "guid": "CBMivAFBVV95cUxNd0xUUm1wTUtvYnNCczF5Y3JvZWFGTnZ2Z0lyaWlncXZQWHYxTDZUVVc5bkNRanZPWUVGV01VRDhaMGs0YVI4aTRXMklxVWZHZ19pSjFBTW9XTDBWamlXU0U1S0JqcUhZMkptQVNDZDdnU29QR3dqZ0h6NXI1WGRBNUwzWWxxMU43c285VUdNbG4teWFCWkFKZ1NHOC1la1BRTWtxR0pYYVJMOUNreUhGcEpwOXlGa3J6VHZ5c9IBvAFBVV95cUxNd0xUUm1wTUtvYnNCczF5Y3JvZWFGTnZ2Z0lyaWlncXZQWHYxTDZUVVc5bkNRanZPWUVGV01VRDhaMGs0YVI4aTRXMklxVWZHZ19pSjFBTW9XTDBWamlXU0U1S0JqcUhZMkptQVNDZDdnU29QR3dqZ0h6NXI1WGRBNUwzWWxxMU43c285VUdNbG4teWFCWkFKZ1NHOC1la1BRTWtxR0pYYVJMOUNreUhGcEpwOXlGa3J6VHZ5cw",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BCI"
+      }
+    ],
+    "fetchedAt": "2026-11-18T15:55:27.235Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Malta Independent Online",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ2c1UVROU0RNVnU1UUZxUjY0V2dZWVh6bndKVG94OTVXRXIxSFk5eWlYMVktRHlocFhlVDJOdDR6eE9xOHZpOV91RUF5c01OSm5xMTdIbWJWbjJOSzhodDhPZl9kNnNRRGlycENINVJHMUg3MXl2dnJuODVKMjZ5NzVhS3R2VXFxUEFFaC1IZkJoRHB2X0NTOGh4eFZpeHdPaFYwQkpHY05JTF9HZGxIMjhITjdJV1VpMzlnX3NJQ3VnWU10V3BVaU1ZYw?oc=5",
+    "urlSlug": null,
+    "title": "Skyparks development receives two BREEAM certifications",
+    "summary": "",
+    "publishedAt": "2026-11-18T08:29:00.000Z",
+    "categories": [],
+    "guid": "CBMiywFBVV95cUxPQ2c1UVROU0RNVnU1UUZxUjY0V2dZWVh6bndKVG94OTVXRXIxSFk5eWlYMVktRHlocFhlVDJOdDR6eE9xOHZpOV91RUF5c01OSm5xMTdIbWJWbjJOSzhodDhPZl9kNnNRRGlycENINVJHMUg3MXl2dnJuODVKMjZ5NzVhS3R2VXFxUEFFaC1IZkJoRHB2X0NTOGh4eFZpeHdPaFYwQkpHY05JTF9HZGxIMjhITjdJV1VpMzlnX3NJQ3VnWU10V3BVaU1ZYw",
+    "searchedLabel": "breeam",
+    "matches": [
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-11-18T15:55:27.235Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "CSRwire",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdno0WGFMSGJrOURhdzZsREkwYTRfbUppVGxJdWdyazA3ZkhydjZvTkRRaUtKVllnOXk5d0dnS0JMb1hLNmRTLWlfOUlfZS15M3dIWW5ram5uemphcng4b0xXT1k4eGhZdU1GVVFyX2M5emtTY2FoVEp3YzJXdklVczhrYlBOTERNVWt0eEZmdFFxMWR1d2tHUmdsRi1MU19ESmlqU1R6S0ZlSHJYaG55eHlCRWQ?oc=5",
+    "urlSlug": null,
+    "title": "Massachusetts Uses EPEAT Procurement To Avoid More Than 50,000 Metric Tons of GHG Emissions",
+    "summary": "",
+    "publishedAt": "2026-11-17T19:01:55.000Z",
+    "categories": [],
+    "guid": "CBMitAFBVV95cUxOdno0WGFMSGJrOURhdzZsREkwYTRfbUppVGxJdWdyazA3ZkhydjZvTkRRaUtKVllnOXk5d0dnS0JMb1hLNmRTLWlfOUlfZS15M3dIWW5ram5uemphcng4b0xXT1k4eGhZdU1GVVFyX2M5emtTY2FoVEp3YzJXdklVczhrYlBOTERNVWt0eEZmdFFxMWR1d2tHUmdsRi1MU19ESmlqU1R6S0ZlSHJYaG55eHlCRWQ",
+    "searchedLabel": "epeat",
+    "matches": [
+      {
+        "labelId": "epeat",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "EPEAT"
+      }
+    ],
+    "fetchedAt": "2026-11-18T15:55:27.235Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Dealroom",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVRTODlVYzZyMmZqcU5LdWhwUnNnemdJV05RUDNjZkFjajZOSW5XNWFvRGVhXzc2dUJ4ZWxtSFMyd19oM0pKNnp3TlVDRXpRMVdOeWo1OGh0dHBRQkhHRnpwTnlRZTE0SUNmSFJ0VHBVam1VUW1RX1l3UDMyQmdFTDVtTFFHV05hNTVEMl9B?oc=5",
+    "urlSlug": null,
+    "title": "TerraCycle US hits $10M in $75M Reg A recycling raise",
+    "summary": "",
+    "publishedAt": "2026-11-17T17:15:20.000Z",
+    "categories": [],
+    "guid": "CBMijgFBVV95cUxPUVRTODlVYzZyMmZqcU5LdWhwUnNnemdJV05RUDNjZkFjajZOSW5XNWFvRGVhXzc2dUJ4ZWxtSFMyd19oM0pKNnp3TlVDRXpRMVdOeWo1OGh0dHBRQkhHRnpwTnlRZTE0SUNmSFJ0VHBVam1VUW1RX1l3UDMyQmdFTDVtTFFHV05hNTVEMl9B",
+    "searchedLabel": "terracycle",
+    "matches": [
+      {
+        "labelId": "terracycle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "TerraCycle"
+      }
+    ],
+    "fetchedAt": "2026-11-18T15:55:27.235Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Clarksville Now",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLTdoNkF1RGozM2RQV1ZHQ1NxOHRLSElFcXFaUWFkOGktdUptNTVCM1VIbF9YckVqZHAzMEtNNFhFZEpCUi05bHowN2NVRVRTVmVUdnFkTDJfR2U5cl9TeHZoYnQtX3BGR0JrNm5ZTTNfeFdEY1lPLW5qTlk2V1ltVEg0c2NVRjRfMUd0OGJjWWFYRWJubU5tSG1RSmw4cEpPUFNhbg?oc=5",
+    "urlSlug": null,
+    "title": "Florim USA earns B Corp recertification under rigorous new standards",
+    "summary": "",
+    "publishedAt": "2026-11-17T16:54:00.000Z",
+    "categories": [],
+    "guid": "CBMipAFBVV95cUxPLTdoNkF1RGozM2RQV1ZHQ1NxOHRLSElFcXFaUWFkOGktdUptNTVCM1VIbF9YckVqZHAzMEtNNFhFZEpCUi05bHowN2NVRVRTVmVUdnFkTDJfR2U5cl9TeHZoYnQtX3BGR0JrNm5ZTTNfeFdEY1lPLW5qTlk2V1ltVEg0c2NVRjRfMUd0OGJjWWFYRWJubU5tSG1RSmw4cEpPUFNhbg",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-11-18T15:55:27.235Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "PR Newswire",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZU4yMzdCUE0zVWhCbXh2VG1QRENFUm5JMXo0eDVCLXdPU3BWajJfd3RPWTlxYVYycVhWNVFmbmR6VWVCYmlZNzRTUkhBNXI4c1U0YnpTZ2RJVlZtVkFnLTMydHV4eVIxSjQwSzNMQ29wZjY3TVZCdzlXVDA5QjJzT2IzM0NDc2JZYV9UQ3BtQl9zbk04UGx4RkxfcWpxb3lZOHdBZU15SzlFSDBnMUhrYm8zTm9paV9PV0pjMg?oc=5",
+    "urlSlug": null,
+    "title": "TerraCycle US Reaches $10 Million Raised in Regulation A Offering",
+    "summary": "",
+    "publishedAt": "2026-11-17T16:49:00.000Z",
+    "categories": [],
+    "guid": "CBMivAFBVV95cUxQZU4yMzdCUE0zVWhCbXh2VG1QRENFUm5JMXo0eDVCLXdPU3BWajJfd3RPWTlxYVYycVhWNVFmbmR6VWVCYmlZNzRTUkhBNXI4c1U0YnpTZ2RJVlZtVkFnLTMydHV4eVIxSjQwSzNMQ29wZjY3TVZCdzlXVDA5QjJzT2IzM0NDc2JZYV9UQ3BtQl9zbk04UGx4RkxfcWpxb3lZOHdBZU15SzlFSDBnMUhrYm8zTm9paV9PV0pjMg",
+    "searchedLabel": "terracycle",
+    "matches": [
+      {
+        "labelId": "terracycle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "TerraCycle"
+      }
+    ],
+    "fetchedAt": "2026-11-18T15:55:27.235Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "REMI Network - Real Estate Management Industry Network",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1Sd2s0dGtIMTBBSGRKWUs4YTZJMk02VFZQeXY1TTR4cU9BUUJFazd3blpPdFZ3VFMwdndGSjlGSjFJdldELVVsNTFhM2xrN3FwYWxvZFpCS3JQZDVJcWthWU5Dc3dnRFczM1dCMjhJMGZnN1RteTgxWm5xLTd4NEJ6OUZnblN1eDZ3aGZ1NWR1UWV6SGp5Vg?oc=5",
@@ -44,6 +205,29 @@
       }
     ],
     "fetchedAt": "2026-11-17T16:23:21.665Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "DairyNews.today",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTElQVWR1QTJwZ095WUdjazd2SjJXOVBCdGxiWmpFSU5ZVjdHUDFRNE1wVW1CdG9obm1PVlF4VENjWWFCX2xLeklka3Jkc3V5QWhnZHJSN2pINXA3RDhaaVFKUjY5aElFUmNtZVloZzNpNmVaVlVCcDB5VTJSZDBJdndFaDV4SWxNVGQ4U01YeU1UX1FNSWVod2diLVpMRHhITjVscmM1YTJsRTN5cXNXaQ?oc=5",
+    "urlSlug": null,
+    "title": "Danone Brasil gains B Corp recertification with 101 points, up from 84",
+    "summary": "",
+    "publishedAt": "2026-11-17T14:03:58.000Z",
+    "categories": [],
+    "guid": "CBMisAFBVV95cUxQTElQVWR1QTJwZ095WUdjazd2SjJXOVBCdGxiWmpFSU5ZVjdHUDFRNE1wVW1CdG9obm1PVlF4VENjWWFCX2xLeklka3Jkc3V5QWhnZHJSN2pINXA3RDhaaVFKUjY5aElFUmNtZVloZzNpNmVaVlVCcDB5VTJSZDBJdndFaDV4SWxNVGQ4U01YeU1UX1FNSWVod2diLVpMRHhITjVscmM1YTJsRTN5cXNXaQ",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-11-18T15:55:27.235Z"
   },
   {
     "outletId": "google-news",
@@ -136,6 +320,29 @@
       }
     ],
     "fetchedAt": "2026-11-17T16:23:21.665Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "EIN Presswire",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTViTlEzQklYMUVYS1NWZ0dOam9BS2h4VkFfUlI1VTQxRXF6R1JFMXpzN01oSFF0UjZrUGVXNVBEa010a0VGeHBNdkphWDV2ZHAweUxMcDFGTm01VXhhUF9mMmFuRWRZcml6VWUtRGRvNUg4dGlfN0FxZ29IbEtnM05nV09LZ1JWVTRoUzdQc0lSMDJtY2dIdA?oc=5",
+    "urlSlug": null,
+    "title": "Antarctic krill fishery recertified by the MSC",
+    "summary": "",
+    "publishedAt": "2026-11-17T05:00:00.000Z",
+    "categories": [],
+    "guid": "CBMimAFBVV95cUxQSTViTlEzQklYMUVYS1NWZ0dOam9BS2h4VkFfUlI1VTQxRXF6R1JFMXpzN01oSFF0UjZrUGVXNVBEa010a0VGeHBNdkphWDV2ZHAweUxMcDFGTm01VXhhUF9mMmFuRWRZcml6VWUtRGRvNUg4dGlfN0FxZ29IbEtnM05nV09LZ1JWVTRoUzdQc0lSMDJtY2dIdA",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-11-18T15:55:27.235Z"
   },
   {
     "outletId": "google-news",
@@ -552,6 +759,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Bergen Record",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdkF2MVZITVFfMEdWaUthTWlJczhtS1hQckozRFZ3MVduSGJubWZNaDA5Z2tnRDJZMFZfZGZiQm1rZTBCNEtXZVhTX3o1NFg2S093OVQ3bGs1eFVBQlIwRjR5eUhWdF8yQ3ZJRGZYVF9DVHNpVUdveG1fY3I5aGlEOVN2VWhnVWtDZmd5Wk9LQ0NFVVV1SGJQbXZteUxIMVJzMFhvM1lQSGRZcmRFY1VHMk9VM3FXd0hFUTlnOW5CRENuODhLNHJtZzhmZkxEUVJaTDdWcGlyQ2k3NzNmSjkwT05maUNpdw?oc=5",
+    "urlSlug": null,
+    "title": "OEKO-TEX Certified Supplier of High-Quality Antibacterial Cotton Quilts: The Cozytact Standard",
+    "summary": "",
+    "publishedAt": "2026-11-13T18:10:14.000Z",
+    "categories": [],
+    "guid": "CBMi5gFBVV95cUxNdkF2MVZITVFfMEdWaUthTWlJczhtS1hQckozRFZ3MVduSGJubWZNaDA5Z2tnRDJZMFZfZGZiQm1rZTBCNEtXZVhTX3o1NFg2S093OVQ3bGs1eFVBQlIwRjR5eUhWdF8yQ3ZJRGZYVF9DVHNpVUdveG1fY3I5aGlEOVN2VWhnVWtDZmd5Wk9LQ0NFVVV1SGJQbXZteUxIMVJzMFhvM1lQSGRZcmRFY1VHMk9VM3FXd0hFUTlnOW5CRENuODhLNHJtZzhmZkxEUVJaTDdWcGlyQ2k3NzNmSjkwT05maUNpdw",
+    "searchedLabel": "oeko-tex",
+    "matches": [
+      {
+        "labelId": "oeko-tex",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Oeko-Tex"
+      }
+    ],
+    "fetchedAt": "2026-11-18T15:55:27.235Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "officeinsight",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaW9TNWgxUlJhMjJsS3Z4TUFsVEtZMlhiNnZpcVlueDc1UU9YblJjN2ZuaW9FZFBza3pCZHF5RG1zdG5fQlVZWDFCNXlPVTJGSHYwV1g1RlZGN1hQVnJ0Yzd6QlE5V2tpU05EakhZZHZLOWpFcWM0V2JPTzI0VmZEQzFyazJTYjNoMjZWc212R010Y2xoTXpCWTl1WVZIdWJBdEtvZ2cwSl9QeGcxUlhkLUYyWjdhUjhvc0ZoNXVXQVVBMHVKVF9TUGhOc3padw?oc=5",
@@ -756,6 +986,29 @@
       }
     ],
     "fetchedAt": "2026-11-13T14:49:38.464Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Lohud",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdzhrdWEyUmdSb3V4VWxEdjRLZjBjeVJTWGl4djhkM1VGc2pEbkpUNkd3VGthR1RyMnJudnNNX2pHd29TUjRZaDg4VVFueWw3czZjRDBJUXh2d1Fma3cwSVJNMDlIeTNWSEZpenNrQ281d3Yzb2NEOEp2Y2ZLcHduUWd5bFZHMEVvVW1seEVjUlRWb0trQTY4RUdkYXFxV0ZfV3BTaXBOSzhQUUU0Q2VESXN1R0U4amtCc2FSRjd4elJ2WFVqdEZrendxS1J0Zw?oc=5",
+    "urlSlug": null,
+    "title": "Mövenpick Hotel Tallinn: First Hotel in Estonia To Achieve Green Globe Certification",
+    "summary": "",
+    "publishedAt": "2026-11-12T19:43:23.000Z",
+    "categories": [],
+    "guid": "CBMizgFBVV95cUxQdzhrdWEyUmdSb3V4VWxEdjRLZjBjeVJTWGl4djhkM1VGc2pEbkpUNkd3VGthR1RyMnJudnNNX2pHd29TUjRZaDg4VVFueWw3czZjRDBJUXh2d1Fma3cwSVJNMDlIeTNWSEZpenNrQ281d3Yzb2NEOEp2Y2ZLcHduUWd5bFZHMEVvVW1seEVjUlRWb0trQTY4RUdkYXFxV0ZfV3BTaXBOSzhQUUU0Q2VESXN1R0U4amtCc2FSRjd4elJ2WFVqdEZrendxS1J0Zw",
+    "searchedLabel": "green-globe",
+    "matches": [
+      {
+        "labelId": "green-globe",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Globe"
+      }
+    ],
+    "fetchedAt": "2026-11-18T15:55:27.235Z"
   },
   {
     "outletId": "google-news",
@@ -9080,258 +9333,5 @@
       }
     ],
     "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Traders Union",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2dzZGZKYmFOeUdnVENrZFNHZ29jYU5zb0E4VmJuV2hqYlFoMDlzLVlWRHhSdm14c2IyQUJQZkwtczZ3ejFmS2dOb0s5a1U2S1B5WUJObU9Hc2xwTmFzWHl2NzZ3OXhxX3VzaTFLU05hQ1I3QzBpRTUtNmt0bGkyZHpyZTdWUzVOd3Q0N3hCVUZlZWRpT0RoZjRR?oc=5",
-    "urlSlug": null,
-    "title": "EU Ecolabel trust and product uptake rise across Europe",
-    "summary": "",
-    "publishedAt": "2026-10-08T10:24:56.000Z",
-    "categories": [],
-    "guid": "CBMimgFBVV95cUxPT2dzZGZKYmFOeUdnVENrZFNHZ29jYU5zb0E4VmJuV2hqYlFoMDlzLVlWRHhSdm14c2IyQUJQZkwtczZ3ejFmS2dOb0s5a1U2S1B5WUJObU9Hc2xwTmFzWHl2NzZ3OXhxX3VzaTFLU05hQ1I3QzBpRTUtNmt0bGkyZHpyZTdWUzVOd3Q0N3hCVUZlZWRpT0RoZjRR",
-    "searchedLabel": "eu-ecolabel",
-    "matches": [
-      {
-        "labelId": "eu-ecolabel",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "EU Ecolabel"
-      }
-    ],
-    "fetchedAt": "2026-10-08T13:53:03.033Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Onrec",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa1pmcTF1LUQwR3diazBSaE9yTjFDMWI2dzFfNEZ2dmxFa08xZzU0V0lOWXRjYXJLOG5QR0ZLdGhhOEczNEdkYU5QVFpyVWo1Y2pub052VUhYNFFRNnJTd3NnaW0wUGVxRlctOGpnc0RRRzZ3OHlKRjVYdXB0eW9uRDVCWnFmUVZEWVZkRDVTcmV0QU15ZUVLRG5VOHJhMkN3bFBIT0pIZVZENWdhSU1r?oc=5",
-    "urlSlug": null,
-    "title": "Deerfoot marks 29th anniversary following B Corp certification",
-    "summary": "",
-    "publishedAt": "2026-10-08T08:54:33.000Z",
-    "categories": [],
-    "guid": "CBMirwFBVV95cUxQa1pmcTF1LUQwR3diazBSaE9yTjFDMWI2dzFfNEZ2dmxFa08xZzU0V0lOWXRjYXJLOG5QR0ZLdGhhOEczNEdkYU5QVFpyVWo1Y2pub052VUhYNFFRNnJTd3NnaW0wUGVxRlctOGpnc0RRRzZ3OHlKRjVYdXB0eW9uRDVCWnFmUVZEWVZkRDVTcmV0QU15ZUVLRG5VOHJhMkN3bFBIT0pIZVZENWdhSU1r",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Knitting Industry",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12dDJxTllsblItcEc2dTEwZ1lXRjNFVHFIQWthQTdGdHBBVmNkb3FaZUpaTU1WdEh1bWMwblNMWV9PcDdoQlNOQWlMSzhwLXFpRUJjbGtPUGdMS2lQLUVqd3pQSC1aSVByY1NLNzQwOGFrMHBON2NQSjBPRFo?oc=5",
-    "urlSlug": null,
-    "title": "BCI reports progress in sustainable cotton",
-    "summary": "",
-    "publishedAt": "2026-10-08T08:01:25.000Z",
-    "categories": [],
-    "guid": "CBMifEFVX3lxTE12dDJxTllsblItcEc2dTEwZ1lXRjNFVHFIQWthQTdGdHBBVmNkb3FaZUpaTU1WdEh1bWMwblNMWV9PcDdoQlNOQWlMSzhwLXFpRUJjbGtPUGdMS2lQLUVqd3pQSC1aSVByY1NLNzQwOGFrMHBON2NQSjBPRFo",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BCI"
-      }
-    ],
-    "fetchedAt": "2026-10-08T13:53:03.033Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "TECHNOLOGY RESELLER",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTERteFlSenRoX0lSRXN0Yi1EUjVqMzZBOXBHTlhMelI0RFplQk45SU1hQW5hMmQyUERuSHZYbEhTY0VZdnFydzlNNEQtdVlINHpiNkpvYy1Tb2pkRXVUb1FMREdyWDVoTVdZWGM1WlVueXVEZzdYc2dsTUFPVGpMRA?oc=5",
-    "urlSlug": null,
-    "title": "Infinity Group achieves B Corp certification",
-    "summary": "",
-    "publishedAt": "2026-10-08T07:40:23.000Z",
-    "categories": [],
-    "guid": "CBMigAFBVV95cUxNTERteFlSenRoX0lSRXN0Yi1EUjVqMzZBOXBHTlhMelI0RFplQk45SU1hQW5hMmQyUERuSHZYbEhTY0VZdnFydzlNNEQtdVlINHpiNkpvYy1Tb2pkRXVUb1FMREdyWDVoTVdZWGM1WlVueXVEZzdYc2dsTUFPVGpMRA",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-08T13:53:03.033Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Agence Europe",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXpNbkRoa2tHbVVVeDhabEc5MDR0QmpyMEJfa1BHR1IyWFdIbEhXckRZeVZDUzVzTVRISno5SDBTd1ptdW1qd3hjXzZ6UzJFaExoVXI1YndIbldLY0M4UTBKallEN3czdHY3bVlHdjRPb2NxSW5wb1hyRnZGeHBFN3lPOUZOYUpxRW96aERjY19PUWUxcktvMURDd0JvdFVZdTVMNFFVanFoMnNFbTdJ?oc=5",
-    "urlSlug": null,
-    "title": "81% of Europeans trust EU Ecolabel , says European Commission",
-    "summary": "",
-    "publishedAt": "2026-10-07T23:00:00.000Z",
-    "categories": [],
-    "guid": "CBMirwFBVV95cUxPWXpNbkRoa2tHbVVVeDhabEc5MDR0QmpyMEJfa1BHR1IyWFdIbEhXckRZeVZDUzVzTVRISno5SDBTd1ptdW1qd3hjXzZ6UzJFaExoVXI1YndIbldLY0M4UTBKallEN3czdHY3bVlHdjRPb2NxSW5wb1hyRnZGeHBFN3lPOUZOYUpxRW96aERjY19PUWUxcktvMURDd0JvdFVZdTVMNFFVanFoMnNFbTdJ",
-    "searchedLabel": "eu-ecolabel",
-    "matches": [
-      {
-        "labelId": "eu-ecolabel",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "EU Ecolabel"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "fiskerforum.com",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdmZmY1E0S1dXakxzNjVCOHBGRkpyaHJ3VE5ycGhVZGxySzhXa3JBb0RTZE9vX3pKbkZZZkVoQWd2UGNmZWpRcG1VOG5YWkF3UC1zUFlSeWE2QnNEaUVoay1PSnlRdVlpdzFoRDFZcGdkc0N5a183Unl0cmE0MlRaNFFNWTNEalBo?oc=5",
-    "urlSlug": null,
-    "title": "First salmon producer certified to new ASC Farm Standard",
-    "summary": "",
-    "publishedAt": "2026-10-07T22:01:18.000Z",
-    "categories": [],
-    "guid": "CBMiiAFBVV95cUxNdmZmY1E0S1dXakxzNjVCOHBGRkpyaHJ3VE5ycGhVZGxySzhXa3JBb0RTZE9vX3pKbkZZZkVoQWd2UGNmZWpRcG1VOG5YWkF3UC1zUFlSeWE2QnNEaUVoay1PSnlRdVlpdzFoRDFZcGdkc0N5a183Unl0cmE0MlRaNFFNWTNEalBo",
-    "searchedLabel": "asc",
-    "matches": [
-      {
-        "labelId": "asc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ASC"
-      }
-    ],
-    "fetchedAt": "2026-10-14T12:15:33.792Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Seafoodnews",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRlk5eXpPTWtJNnFJVy15eENPeWJwaDhwYTMwckg0dHZia3lITU16Nll5SUNWZWpxajdWYi1INFgtb1Jlck1zZWlZalhub2RJNDBtY1dST19JQmtGYmhJMmJqbEV6SVJYLUtFYi1CTWE2SWZNQ24tZVJNQWxyM3RhSkNaYXNLZWFNVVZtQTdFNEdTZVNLblFYd1F3X3dxVWJmVnNjdk5xSG0yQmRmZUItM1UxOV9nYS1GbnNNekR3?oc=5",
-    "urlSlug": null,
-    "title": "Friend of the Sea Updates Labels to Meet Tougher EU Sustainability Claims Rules",
-    "summary": "",
-    "publishedAt": "2026-10-07T13:40:07.000Z",
-    "categories": [],
-    "guid": "CBMivgFBVV95cUxPRlk5eXpPTWtJNnFJVy15eENPeWJwaDhwYTMwckg0dHZia3lITU16Nll5SUNWZWpxajdWYi1INFgtb1Jlck1zZWlZalhub2RJNDBtY1dST19JQmtGYmhJMmJqbEV6SVJYLUtFYi1CTWE2SWZNQ24tZVJNQWxyM3RhSkNaYXNLZWFNVVZtQTdFNEdTZVNLblFYd1F3X3dxVWJmVnNjdk5xSG0yQmRmZUItM1UxOV9nYS1GbnNNekR3",
-    "searchedLabel": "friend-of-the-sea",
-    "matches": [
-      {
-        "labelId": "friend-of-the-sea",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Friend of the Sea"
-      }
-    ],
-    "fetchedAt": "2026-10-08T13:53:03.033Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Fresh Plaza",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGZ6NHN4cGVBMVBVU3V3RlRNcDV0eEw3RF9KTHRaMnAyQm0xRmItWnRaSEpCYldjeWx1bXdxZXJndnp6cnF4ZHZMSnVnMTd5XzI3QUtid0RlYkEzbHVFUTAzdFh3NDh4VFhLSVdMS09HU0ZwQW0zTDFKYjV0bEVIUUhSb3B2cGhITVBWaE5Oc0ZmNkhDdlh0N3QzcUoteXRyZHJxajlrUHh0eFFkRFdxTkt3V1Z1NGVqVGpGRkJWbF80UQ?oc=5",
-    "urlSlug": null,
-    "title": "Fair Trade Certified avocado program expands following acquisition",
-    "summary": "",
-    "publishedAt": "2026-10-07T12:27:25.000Z",
-    "categories": [],
-    "guid": "CBMiwgFBVV95cUxPdGZ6NHN4cGVBMVBVU3V3RlRNcDV0eEw3RF9KTHRaMnAyQm0xRmItWnRaSEpCYldjeWx1bXdxZXJndnp6cnF4ZHZMSnVnMTd5XzI3QUtid0RlYkEzbHVFUTAzdFh3NDh4VFhLSVdMS09HU0ZwQW0zTDFKYjV0bEVIUUhSb3B2cGhITVBWaE5Oc0ZmNkhDdlh0N3QzcUoteXRyZHJxajlrUHh0eFFkRFdxTkt3V1Z1NGVqVGpGRkJWbF80UQ",
-    "searchedLabel": "fair-trade",
-    "matches": [
-      {
-        "labelId": "fair-trade",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Fair Trade Certified"
-      }
-    ],
-    "fetchedAt": "2026-10-07T13:44:39.251Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Yahoo",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDV3Zmk5NFl0bnZEY05ienlxVVlHVUNmRGdKRUctYkdyaHpGeDFkbzZjRnZ3Rmd0OEh2Y1R5TllUQ2xzTjYyT2VMTlpWSWg0dFA4emhZeXJWb0RrTmYyeUxzYjlVREJ0ckw5LXNVQ2p5UGNRZ1dCUWIteWVzV3N6czh4UldMcC0zR05tZFBZcUtxNWhEVGRZ?oc=5",
-    "urlSlug": null,
-    "title": "‘Majority of’ BCI cotton growers slash chemical use, carbon footprint",
-    "summary": "",
-    "publishedAt": "2026-10-07T10:52:53.000Z",
-    "categories": [],
-    "guid": "CBMilwFBVV95cUxNNDV3Zmk5NFl0bnZEY05ienlxVVlHVUNmRGdKRUctYkdyaHpGeDFkbzZjRnZ3Rmd0OEh2Y1R5TllUQ2xzTjYyT2VMTlpWSWg0dFA4emhZeXJWb0RrTmYyeUxzYjlVREJ0ckw5LXNVQ2p5UGNRZ1dCUWIteWVzV3N6czh4UldMcC0zR05tZFBZcUtxNWhEVGRZ",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BCI"
-      }
-    ],
-    "fetchedAt": "2026-10-11T13:17:55.803Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "WWD",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON3d5ampMWXRkZW9YQWZFZC0yMjFYbDRoRGZWN21MblhCQlh6U2J6aktMNWEzazdDSzh6N3Y1TVpPekV6T0pXOHhhcURYV1RqcEVRdlA2cWJiY0Z0OHBoWjhNQ01FVU5KRktoTTZDSWRxU0dHcEtGQ1VBODBmeWNNMlR1TUFaR0twUDYzMGxZb2FzQzFuZl92dWwyS0RvN0FrdEt3bUttT05EbGNFaExKQk1CMTlfODI5?oc=5",
-    "urlSlug": null,
-    "title": "Better Cotton Initiative Touts Gains in Global Impact Report",
-    "summary": "",
-    "publishedAt": "2026-10-07T10:04:45.000Z",
-    "categories": [],
-    "guid": "CBMiuAFBVV95cUxON3d5ampMWXRkZW9YQWZFZC0yMjFYbDRoRGZWN21MblhCQlh6U2J6aktMNWEzazdDSzh6N3Y1TVpPekV6T0pXOHhhcURYV1RqcEVRdlA2cWJiY0Z0OHBoWjhNQ01FVU5KRktoTTZDSWRxU0dHcEtGQ1VBODBmeWNNMlR1TUFaR0twUDYzMGxZb2FzQzFuZl92dWwyS0RvN0FrdEt3bUttT05EbGNFaExKQk1CMTlfODI5",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Better Cotton"
-      }
-    ],
-    "fetchedAt": "2026-10-07T13:44:39.251Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Just Style",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PWENzNnZCYWdDdlZXNmVVMWlxQXRXdTVUNWlQcmtjWFV2MXlRVlRpODdoYm56dmY0YmtRSWpxbXg4dDNqdjI4WUFkNDVYWWdyOEpRcVhDRUR5NDVCTE84Zk45T3hka001Snc?oc=5",
-    "urlSlug": null,
-    "title": "‘Majority of’ BCI cotton growers slash chemical use, carbon footprint",
-    "summary": "",
-    "publishedAt": "2026-10-07T09:53:12.000Z",
-    "categories": [],
-    "guid": "CBMiakFVX3lxTE5PWENzNnZCYWdDdlZXNmVVMWlxQXRXdTVUNWlQcmtjWFV2MXlRVlRpODdoYm56dmY0YmtRSWpxbXg4dDNqdjI4WUFkNDVYWWdyOEpRcVhDRUR5NDVCTE84Zk45T3hka001Snc",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BCI"
-      }
-    ],
-    "fetchedAt": "2026-10-07T13:44:39.251Z"
   }
 ]
