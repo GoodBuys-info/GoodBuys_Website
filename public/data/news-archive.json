@@ -1,6 +1,312 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "thetraveler.org",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFRYcDRnemN2RE9XS0tweHBWdVdlWGRNbWZUV2tYeU41aXlnTEpYTk1Vbkx2YTdQRnlGdUxsc1BBY0VkOWwwMl9kbERIZWpvUTRqT3BhQlNsUUdmOS1Fem1SbHZUalQ3aTZUOV9tNXpua19ZQU43X1VUckZHSVI4RzlGc1hYcGJZQkxndVpaYm5tZw?oc=5",
+    "urlSlug": null,
+    "title": "Martinhal Expands Green Key Status, Targets Green Globe Next",
+    "summary": "",
+    "publishedAt": "2026-11-19T14:41:05.000Z",
+    "categories": [],
+    "guid": "CBMikgFBVV95cUxQNFRYcDRnemN2RE9XS0tweHBWdVdlWGRNbWZUV2tYeU41aXlnTEpYTk1Vbkx2YTdQRnlGdUxsc1BBY0VkOWwwMl9kbERIZWpvUTRqT3BhQlNsUUdmOS1Fem1SbHZUalQ3aTZUOV9tNXpua19ZQU43X1VUckZHSVI4RzlGc1hYcGJZQkxndVpaYm5tZw",
+    "searchedLabel": "green-globe",
+    "matches": [
+      {
+        "labelId": "green-globe",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Globe"
+      },
+      {
+        "labelId": "green-key",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Key"
+      }
+    ],
+    "fetchedAt": "2026-11-19T15:59:16.842Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Recycling Today",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnBwZFdwRHZBMXBZYkZoMzRMN3h4Z1JiVldsQ3lrdUctUDRYT3ltdTdyWnRfMnFvd1VWdDVYV1MxWENUV09vZVJiNUNZelhBVHozRzI1XzRxQ3Y2allwQ0ljdmt4Z21rZ0NER05QMHVMSm9vS3RfMUp5ZE5GeXFkZnhaMmhHQnMyQ3FBUEhmeUJQd2hsWmc?oc=5",
+    "urlSlug": null,
+    "title": "Green Seal announces inaugural leadership award winners",
+    "summary": "",
+    "publishedAt": "2026-11-19T14:30:00.000Z",
+    "categories": [],
+    "guid": "CBMilgFBVV95cUxNQnBwZFdwRHZBMXBZYkZoMzRMN3h4Z1JiVldsQ3lrdUctUDRYT3ltdTdyWnRfMnFvd1VWdDVYV1MxWENUV09vZVJiNUNZelhBVHozRzI1XzRxQ3Y2allwQ0ljdmt4Z21rZ0NER05QMHVMSm9vS3RfMUp5ZE5GeXFkZnhaMmhHQnMyQ3FBUEhmeUJQd2hsWmc",
+    "searchedLabel": "green-seal",
+    "matches": [
+      {
+        "labelId": "green-seal",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Seal"
+      }
+    ],
+    "fetchedAt": "2026-11-19T15:59:16.842Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Exhibition News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0NTdTTnc3bF9vRDJ5VGpWd2FZMGRhTnNFb0dlaTdPdTBVVWpLV0wtS0VfbWJpWjN3X2s1bmZveHU2akhkekRaNHhqYmJXQi1Ja1piLUREUm9TS3l1dlgwSzdleTE0dERaaHNJUS1Oc2RRM1liT2YwcmpSdzZLQ2s?oc=5",
+    "urlSlug": null,
+    "title": "Business Design Centre renews its B Corp status",
+    "summary": "",
+    "publishedAt": "2026-11-19T11:03:53.000Z",
+    "categories": [],
+    "guid": "CBMif0FVX3lxTFB0NTdTTnc3bF9vRDJ5VGpWd2FZMGRhTnNFb0dlaTdPdTBVVWpLV0wtS0VfbWJpWjN3X2s1bmZveHU2akhkekRaNHhqYmJXQi1Ja1piLUREUm9TS3l1dlgwSzdleTE0dERaaHNJUS1Oc2RRM1liT2YwcmpSdzZLQ2s",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-11-19T15:59:16.842Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "News24",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa0hYclNqcHNCVGNSQWFka1pqZ1ZRTkZGRk1kOVZLblpBYVZ6d3RVMnp1M29KR1NQZ3BMMFdUeWc0ZEdJVEJmd2lXLW5wZ3MzdTcyTVJrVVRzYW02ZE44VENMSjgwMTVCNlNFZXgtdTBoMkJOeW5OVzFCOHhMc1dKZ1hKSnJscVZTeGdSeDJWcw?oc=5",
+    "urlSlug": null,
+    "title": "Blue Angel: A journey of music, loss, healing and faith",
+    "summary": "",
+    "publishedAt": "2026-11-19T06:29:37.000Z",
+    "categories": [],
+    "guid": "CBMijwFBVV95cUxQa0hYclNqcHNCVGNSQWFka1pqZ1ZRTkZGRk1kOVZLblpBYVZ6d3RVMnp1M29KR1NQZ3BMMFdUeWc0ZEdJVEJmd2lXLW5wZ3MzdTcyTVJrVVRzYW02ZE44VENMSjgwMTVCNlNFZXgtdTBoMkJOeW5OVzFCOHhMc1dKZ1hKSnJscVZTeGdSeDJWcw",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-11-19T15:59:16.842Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Textile Today",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUWdDMWF3MkhQcGpjdFpSMV9xRTE1NjZJWU5meF9OcVdfd1d5Q2tPQU5qQW9JVm80YlQzVmZiWDB2UWdJSnhUX0pBNm51ZFJiWXZPMndhM0k2OFBnLWNDbFVjR0NyTTY4VjFoeE1XSW11cThyMHNuVDAzZ3RhUEN6VHZjLVA2TFVYa3lNMU9wbVd6T3lPUmhZTEM4VkNKWFpqYk80TmxR?oc=5",
+    "urlSlug": null,
+    "title": "Global brands source a record 33,000 metric tons of traceable BCI cotton",
+    "summary": "",
+    "publishedAt": "2026-11-19T03:31:36.000Z",
+    "categories": [],
+    "guid": "CBMipgFBVV95cUxOUWdDMWF3MkhQcGpjdFpSMV9xRTE1NjZJWU5meF9OcVdfd1d5Q2tPQU5qQW9JVm80YlQzVmZiWDB2UWdJSnhUX0pBNm51ZFJiWXZPMndhM0k2OFBnLWNDbFVjR0NyTTY4VjFoeE1XSW11cThyMHNuVDAzZ3RhUEN6VHZjLVA2TFVYa3lNMU9wbVd6T3lPUmhZTEM4VkNKWFpqYk80TmxR",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BCI"
+      }
+    ],
+    "fetchedAt": "2026-11-19T15:59:16.842Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "TipRanks",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFJtNjQ4dTlxa1B5MjJxN21MWmVYaU9ocGxSSk43eWFnb1VMMzlPdG9XZVpaY3JvX0p5THh4Wl91MGNKMzJZRkhlMThEbTVGS19NTVlvMEVwMkxMWEF5NVBWdThTMG5Mc0lfQndlbUJuWGlJXzR1VGRmU214ODF6dExDZ3lvNlV2dXJkU0tSaEFhamFTX1VZdEdTNGRpclZL?oc=5",
+    "urlSlug": null,
+    "title": "BLIS Technologies achieves B Corp certification",
+    "summary": "",
+    "publishedAt": "2026-11-19T03:26:11.000Z",
+    "categories": [],
+    "guid": "CBMioAFBVV95cUxPTFJtNjQ4dTlxa1B5MjJxN21MWmVYaU9ocGxSSk43eWFnb1VMMzlPdG9XZVpaY3JvX0p5THh4Wl91MGNKMzJZRkhlMThEbTVGS19NTVlvMEVwMkxMWEF5NVBWdThTMG5Mc0lfQndlbUJuWGlJXzR1VGRmU214ODF6dExDZ3lvNlV2dXJkU0tSaEFhamFTX1VZdEdTNGRpclZL",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-19T15:59:16.842Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "BusinessDesk",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94ejloT2oxMWJaYWl0Q0JtRmNCeWV1aHhha2wtdG9hak9XSHh3dDA0TmpQS3dwUUgwbVQyTnVxd0Z5WGFDelpHYjhNdXEydkVHZGNJR2R4UGxsdGM2cWpITEVaRUpqczVpS3dVVXU4Z2dQaXMySE04Ny1Ya1U5ZWM?oc=5",
+    "urlSlug": null,
+    "title": "B Corp certification achieved",
+    "summary": "",
+    "publishedAt": "2026-11-19T03:03:31.000Z",
+    "categories": [],
+    "guid": "CBMif0FVX3lxTE94ejloT2oxMWJaYWl0Q0JtRmNCeWV1aHhha2wtdG9hak9XSHh3dDA0TmpQS3dwUUgwbVQyTnVxd0Z5WGFDelpHYjhNdXEydkVHZGNJR2R4UGxsdGM2cWpITEVaRUpqczVpS3dVVXU4Z2dQaXMySE04Ny1Ya1U5ZWM",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-19T15:59:16.842Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Kalkine Media",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDEtblVGY2xGaDdtWnFkYUlTYmVCNUhIUFRWM0VqYUJwSDJzcDI0T1p0U2JmNGp2LVRsR0dRb0hEbldsTEFGM2pDVkdibWJhT3d4djg3NDZyekpDbDlqcER2UF9kTXhCalZ1N1BfOGJhS0xVWXhXdkdudXgyRkRjTlozUEIzZVVmWUxLMmctRXBhOXRPeHBreGpsUnoyWjRMY3dVYXByMlE?oc=5",
+    "urlSlug": null,
+    "title": "BLIS Technologies Secures Prestigious B Corp Certification",
+    "summary": "",
+    "publishedAt": "2026-11-19T02:50:53.000Z",
+    "categories": [],
+    "guid": "CBMiqAFBVV95cUxQdDEtblVGY2xGaDdtWnFkYUlTYmVCNUhIUFRWM0VqYUJwSDJzcDI0T1p0U2JmNGp2LVRsR0dRb0hEbldsTEFGM2pDVkdibWJhT3d4djg3NDZyekpDbDlqcER2UF9kTXhCalZ1N1BfOGJhS0xVWXhXdkdudXgyRkRjTlozUEIzZVVmWUxLMmctRXBhOXRPeHBreGpsUnoyWjRMY3dVYXByMlE",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-19T15:59:16.842Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Books+Publishing",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVjlMT2IteXVtZmFCWlJwZTNxM2VGV01VY25ZdHVzY3dtODRNblNfWklaT1hMM2lncUJVVVdicUpqdEZYWUNNWDJxMjBMUV9NTEdYTnR3eE92THVEX054NFNZVjlzbkdqWHREMmpFWDNSdjhRd0w3TDZhOVYxcUViQWhQQzgzMGpWU0NOY1hVY0tvZ19hS1MyVk5ERlF1NUt1VjEwS3RuajkyaFAy?oc=5",
+    "urlSlug": null,
+    "title": "Hardie Grant achieves B Corp certification",
+    "summary": "",
+    "publishedAt": "2026-11-18T23:39:57.000Z",
+    "categories": [],
+    "guid": "CBMirAFBVV95cUxQVjlMT2IteXVtZmFCWlJwZTNxM2VGV01VY25ZdHVzY3dtODRNblNfWklaT1hMM2lncUJVVVdicUpqdEZYWUNNWDJxMjBMUV9NTEdYTnR3eE92THVEX054NFNZVjlzbkdqWHREMmpFWDNSdjhRd0w3TDZhOVYxcUViQWhQQzgzMGpWU0NOY1hVY0tvZ19hS1MyVk5ERlF1NUt1VjEwS3RuajkyaFAy",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-19T15:59:16.842Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Mediaweek",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSjhCcDMzWHh4NUwwXzVleFNMamtXU3V3c2plcDRmenN1ZjlwZ21sdnlVVlJPRWNqY3hmQkRDeEdlalNXdUZTNVRwUTZrdElyb3E2OV9qZFlwNGVWcFZ4U1plTWNGYmszdXo5T3c2bmxHaW1OM1lwZDUwSnlyYzhnWUNmY3RtNUwzeEtnLQ?oc=5",
+    "urlSlug": null,
+    "title": "Hardie Grant achieves B Corp certification across group",
+    "summary": "",
+    "publishedAt": "2026-11-18T22:11:21.000Z",
+    "categories": [],
+    "guid": "CBMijAFBVV95cUxOSjhCcDMzWHh4NUwwXzVleFNMamtXU3V3c2plcDRmenN1ZjlwZ21sdnlVVlJPRWNqY3hmQkRDeEdlalNXdUZTNVRwUTZrdElyb3E2OV9qZFlwNGVWcFZ4U1plTWNGYmszdXo5T3c2bmxHaW1OM1lwZDUwSnlyYzhnWUNmY3RtNUwzeEtnLQ",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-19T15:59:16.842Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Prestige Events Magazine",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSjRJYUNVV0RzUGRpRHUwSGlUQ2gtaTJtQ0hwQnozelliYmJYSkNMRC0tR1hRYVBkY21fZ1BIOXp4YnNzaGNmMDM3WElrajItZlBSQlM0RVR3V2VSY0poa2daaHF3RGctbWZ0NVc4ckY3WUFSNEJsNzRpNzAwLTdZemktVi1FcWZIdGYtMy1MMWNYTVpMbE14eDYyY2RBS0JINm51NkRpOWlFNlhaZ2tvSDBFZTRmN0JSdUJGbDZBcmN3MzBvRkw3YlE2dGtMVy0wM0RwLUNTdGdteWhaWUJoS2UzRGJLYlJqWlJjVGh2dlVPc3dFd25yQmt3X3E2X3BJUTZORGRYcDdUQkNmbW9v?oc=5",
+    "urlSlug": null,
+    "title": "Business Design Centre reinforces commitment to responsible business with B Corp recertification and Dementia Friendly Venue accreditation",
+    "summary": "",
+    "publishedAt": "2026-11-18T18:26:06.000Z",
+    "categories": [],
+    "guid": "CBMijwJBVV95cUxNSjRJYUNVV0RzUGRpRHUwSGlUQ2gtaTJtQ0hwQnozelliYmJYSkNMRC0tR1hRYVBkY21fZ1BIOXp4YnNzaGNmMDM3WElrajItZlBSQlM0RVR3V2VSY0poa2daaHF3RGctbWZ0NVc4ckY3WUFSNEJsNzRpNzAwLTdZemktVi1FcWZIdGYtMy1MMWNYTVpMbE14eDYyY2RBS0JINm51NkRpOWlFNlhaZ2tvSDBFZTRmN0JSdUJGbDZBcmN3MzBvRkw3YlE2dGtMVy0wM0RwLUNTdGdteWhaWUJoS2UzRGJLYlJqWlJjVGh2dlVPc3dFd25yQmt3X3E2X3BJUTZORGRYcDdUQkNmbW9v",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-11-19T15:59:16.842Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Pulse 2.0",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUJWcDB4aTh5cF8tTVpZak1BSU1pX04xUmdXYWloMGtTbGRSdWJiSEl6anhaMThtZjY4M1k5VjlILVdkbUZRdmxwMEpScDFjUnBsc1hMQk9GZDUxbWpWa2R3ck05LWlIWVRsc2dOejlHem1Jdm9GbjhUZEE2VGhzLUlRQTBiR0JH?oc=5",
+    "urlSlug": null,
+    "title": "TerraCycle US Raises $10 Million Through Regulation A Offering",
+    "summary": "",
+    "publishedAt": "2026-11-18T18:23:43.000Z",
+    "categories": [],
+    "guid": "CBMiiAFBVV95cUxQNUJWcDB4aTh5cF8tTVpZak1BSU1pX04xUmdXYWloMGtTbGRSdWJiSEl6anhaMThtZjY4M1k5VjlILVdkbUZRdmxwMEpScDFjUnBsc1hMQk9GZDUxbWpWa2R3ck05LWlIWVRsc2dOejlHem1Jdm9GbjhUZEE2VGhzLUlRQTBiR0JH",
+    "searchedLabel": "terracycle",
+    "matches": [
+      {
+        "labelId": "terracycle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "TerraCycle"
+      }
+    ],
+    "fetchedAt": "2026-11-19T15:59:16.842Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The New Indian Express",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ0Zma0pVRENyaGo0Q0xGQkhGcEMteXJpeGdjVjVQVzM4bEdpajRMY1cxMWo4T0pSU1VFSVdONzBkQjNja3JWbkNpcWR3Xy1KRG5XY091TEFac1RLbmR6MU14ZnNDVG1xbl9ONFZLeG5sbDI3LWgwLUNYVzVGT0V1SlV3NGpneTE5MkprSFBEUkRPOWRfRngxTmhqbFVvOVcxVlZobFl6a9IBtAFBVV95cUxOSmEtYllLWWRkZ0tJNDd5WVNjTVhYTDhWNVBPV2p5VWU0ZWxfekRMa3dmajlGSGVHYlpzNjFGMnVuWEZRbEF4UGlweHJpSk9HYm9hOXlDazRZcWpGOGJFU0J2R3gzbk4zQzFwaERaWFNWTXAtN0NLWHlOMTJrNDNaWHhqSmF1d0Vudnh6U3ZWdHZjeUtHN2g5bEtabnRkNzFDdm0wS2hPM05qdktCaV9aS2F6Y3U?oc=5",
+    "urlSlug": null,
+    "title": "Maharashtra joins the Blue Flag beach list",
+    "summary": "",
+    "publishedAt": "2026-11-18T18:03:49.000Z",
+    "categories": [],
+    "guid": "CBMipwFBVV95cUxNZ0Zma0pVRENyaGo0Q0xGQkhGcEMteXJpeGdjVjVQVzM4bEdpajRMY1cxMWo4T0pSU1VFSVdONzBkQjNja3JWbkNpcWR3Xy1KRG5XY091TEFac1RLbmR6MU14ZnNDVG1xbl9ONFZLeG5sbDI3LWgwLUNYVzVGT0V1SlV3NGpneTE5MkprSFBEUkRPOWRfRngxTmhqbFVvOVcxVlZobFl6a9IBtAFBVV95cUxOSmEtYllLWWRkZ0tJNDd5WVNjTVhYTDhWNVBPV2p5VWU0ZWxfekRMa3dmajlGSGVHYlpzNjFGMnVuWEZRbEF4UGlweHJpSk9HYm9hOXlDazRZcWpGOGJFU0J2R3gzbk4zQzFwaERaWFNWTXAtN0NLWHlOMTJrNDNaWHhqSmF1d0Vudnh6U3ZWdHZjeUtHN2g5bEtabnRkNzFDdm0wS2hPM05qdktCaV9aS2F6Y3U",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-11-19T15:59:16.842Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "FinSMEs",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTUp1NHN2SlRqbmhoVElwR202R3lTdnMxNURDSDNQWHU2eHhVMHVsQmZVcnllWWt0a21icDhsd1ZKSWNlZi1LUk0zWklVdmpFSEtmZWdBWlJDd0gzRHRPc1RGbTFnbVZ4eTZHb0NTX0RpSXhKajNtSUVoNzFXZkxadFNCTUNCaUE4WFNMSTVmMDVKaGdwc1V5eEFR?oc=5",
@@ -366,6 +672,29 @@
       }
     ],
     "fetchedAt": "2026-11-17T16:23:21.665Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Swanage News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVFpbXkzY3lnUUp6QTdRT285YWRvNkEyRzdyckFPelhGcThCcTZtVzRaYjA5SXBRSjFGV1IyTHpuOFd4V1ZhOERmWFVRMElfdnBKR2VkeGNad3BVN1VDdUt3SWFxYTFYZ3pxRUQtLXBCY0xkTDZiRUVkenJZRjNsaExwUjNCQ2c?oc=5",
+    "urlSlug": null,
+    "title": "Swanage hoists the Blue Flag for 25th consecutive year",
+    "summary": "",
+    "publishedAt": "2026-11-17T01:15:59.000Z",
+    "categories": [],
+    "guid": "CBMihwFBVV95cUxNYVFpbXkzY3lnUUp6QTdRT285YWRvNkEyRzdyckFPelhGcThCcTZtVzRaYjA5SXBRSjFGV1IyTHpuOFd4V1ZhOERmWFVRMElfdnBKR2VkeGNad3BVN1VDdUt3SWFxYTFYZ3pxRUQtLXBCY0xkTDZiRUVkenJZRjNsaExwUjNCQ2c",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-11-19T15:59:16.842Z"
   },
   {
     "outletId": "google-news",
@@ -9008,328 +9337,6 @@
         "tier": "text-substring",
         "where": "title",
         "matchedText": "Aquaculture Stewardship Council"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Naples Daily News",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeHJPdDlVTEJMdVVMUmNrU2FMRXNNa1MzbkpSbVA4STBkRjhVNW5mdVlUZ2xmblFSb19JTkxWSEYyZGFhVjg0c3BPTU5JU0NNUTdYQUw1N0pmWkhIZHJfb2owdng2V0syTUQ3SEpDUWR2dlJXak1ZMXAzOG9zamtOaDJGOS12S19uWk9ac3RReHF6djQ3dmtyUkNRVmZtUnJ4VDBNbmZHcWZoTk5qZmxXdi0tT2RpOVdndnctNjZ3U3R3bEQ0OHNubE41RQ?oc=5",
-    "urlSlug": null,
-    "title": "Why former Blue Angel Ray Sandelli wants your vote in Bonita Springs",
-    "summary": "",
-    "publishedAt": "2026-10-09T09:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiywFBVV95cUxPeHJPdDlVTEJMdVVMUmNrU2FMRXNNa1MzbkpSbVA4STBkRjhVNW5mdVlUZ2xmblFSb19JTkxWSEYyZGFhVjg0c3BPTU5JU0NNUTdYQUw1N0pmWkhIZHJfb2owdng2V0syTUQ3SEpDUWR2dlJXak1ZMXAzOG9zamtOaDJGOS12S19uWk9ac3RReHF6djQ3dmtyUkNRVmZtUnJ4VDBNbmZHcWZoTk5qZmxXdi0tT2RpOVdndnctNjZ3U3R3bEQ0OHNubE41RQ",
-    "searchedLabel": "blue-angel",
-    "matches": [
-      {
-        "labelId": "blue-angel",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Angel"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "The News-Press",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVnFLaWtNU2hsbXprRWE5TzZNSVBFcHNUd29HMVl0Zktid0lfRkphT1JtcEdqOGtSWW83QjUteXV4S3RHRERuUEF4aGdKLUwzTkNrTDVOa3FBLUZ2OUlXZW9aQjBzbGt1ZU1WTlVVc2Z2VUpzdHhQUVA5WHkxaEtKanVVdWlMWDdBVzdnM2lrMHdhdGNZVmZkMlI1Ym9VZkE0R0tlbWlNRml3OUtrd29pS3kyc2NsM1JfelJIOWIzWGtlaUZubGhPalJ3aw?oc=5",
-    "urlSlug": null,
-    "title": "Why former Blue Angel Ray Sandelli wants your vote in Bonita Springs",
-    "summary": "",
-    "publishedAt": "2026-10-09T09:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiywFBVV95cUxPVnFLaWtNU2hsbXprRWE5TzZNSVBFcHNUd29HMVl0Zktid0lfRkphT1JtcEdqOGtSWW83QjUteXV4S3RHRERuUEF4aGdKLUwzTkNrTDVOa3FBLUZ2OUlXZW9aQjBzbGt1ZU1WTlVVc2Z2VUpzdHhQUVA5WHkxaEtKanVVdWlMWDdBVzdnM2lrMHdhdGNZVmZkMlI1Ym9VZkE0R0tlbWlNRml3OUtrd29pS3kyc2NsM1JfelJIOWIzWGtlaUZubGhPalJ3aw",
-    "searchedLabel": "blue-angel",
-    "matches": [
-      {
-        "labelId": "blue-angel",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Angel"
-      }
-    ],
-    "fetchedAt": "2026-10-10T12:53:50.050Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "The Brussels Times",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1FfNEhNUldYU2M5dm8zWFdYOWQ2Nk1HNmRQZ1ZsUXZGX042d2hXYXRyOGNjaHZpX2NIN0NBZG0zRGpscHdVcXNjUG9OaTdSU3U5RnNxN3dVUlNveWU2NXhmRDA3d0stWThEZHhrUGx0SzhCTHlVc3ZNMklDWkxGMmZGLWg2bjVXU0dqbzJ3Xzk4SlNyM0NJN0taWU1iMHVtbEhNOHkzX2RSVTQ3UWVFWWJKTmI5Z3Yt?oc=5",
-    "urlSlug": null,
-    "title": "EU Ecolabel recognition surges as more consumers link it to eco-friendly impact",
-    "summary": "",
-    "publishedAt": "2026-10-09T08:37:30.000Z",
-    "categories": [],
-    "guid": "CBMiuAFBVV95cUxPX1FfNEhNUldYU2M5dm8zWFdYOWQ2Nk1HNmRQZ1ZsUXZGX042d2hXYXRyOGNjaHZpX2NIN0NBZG0zRGpscHdVcXNjUG9OaTdSU3U5RnNxN3dVUlNveWU2NXhmRDA3d0stWThEZHhrUGx0SzhCTHlVc3ZNMklDWkxGMmZGLWg2bjVXU0dqbzJ3Xzk4SlNyM0NJN0taWU1iMHVtbEhNOHkzX2RSVTQ3UWVFWWJKTmI5Z3Yt",
-    "searchedLabel": "eu-ecolabel",
-    "matches": [
-      {
-        "labelId": "eu-ecolabel",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "EU Ecolabel"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Grande Consumo",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80YjNXQzBZZ2IwVHptTlk0LVg5b2lmVVVYZDg1MFdFa2dCLS1sNTZrVTlSX3FMaV93V01vOFFJaEt3M2hRNzNlRlBJLXEzb2o2V2xKV2lvSFRZTXpBa2J6Mg?oc=5",
-    "urlSlug": null,
-    "title": "EU Ecolabel gains trust",
-    "summary": "",
-    "publishedAt": "2026-10-09T08:34:51.000Z",
-    "categories": [],
-    "guid": "CBMiYEFVX3lxTE80YjNXQzBZZ2IwVHptTlk0LVg5b2lmVVVYZDg1MFdFa2dCLS1sNTZrVTlSX3FMaV93V01vOFFJaEt3M2hRNzNlRlBJLXEzb2o2V2xKV2lvSFRZTXpBa2J6Mg",
-    "searchedLabel": "eu-ecolabel",
-    "matches": [
-      {
-        "labelId": "eu-ecolabel",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "EU Ecolabel"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Insider Media Ltd",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0FER1JBdW1wUmJoeHBhV0gwN3AydjdSVHV0WTFnWjN1QUgyTnJWSUxlR1NMVG5hTHhKVkpEXzZBZU96NEQwUDU2MThsX0NoNFBlLXB4SUZmeDAwR0taRmZQVlVQdkw3OUk3NkMybExnZzJMZ1B1bzdHTmRuMDVDNVFzanUxYWlJNTZrMm03VnNsb2IyVDZJWW1qSWxMY1A5UTdFWVlGeXY?oc=5",
-    "urlSlug": null,
-    "title": "Microsoft partner goes B Corp - “proud moment for everyone here”",
-    "summary": "",
-    "publishedAt": "2026-10-09T05:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiqAFBVV95cUxNR0FER1JBdW1wUmJoeHBhV0gwN3AydjdSVHV0WTFnWjN1QUgyTnJWSUxlR1NMVG5hTHhKVkpEXzZBZU96NEQwUDU2MThsX0NoNFBlLXB4SUZmeDAwR0taRmZQVlVQdkw3OUk3NkMybExnZzJMZ1B1bzdHTmRuMDVDNVFzanUxYWlJNTZrMm03VnNsb2IyVDZJWW1qSWxMY1A5UTdFWVlGeXY",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "environment coastal & offshore",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWDFNSndUQUhVSGR4WFpta0pRQ1NoZ21ROVJRYVJfV3l5bnRnLU5tbUdwcEx6R3dqTXFfTFA2aXBWaHdJRHkzS0UzbXU5aF9vZHdkNUFKdFZNdjdXa0V5TUJQQUk3ZVFHVzMxUGpMblE4ZllfaG1maVI5VEtCcGl5ajBidFE1Tkxn?oc=5",
-    "urlSlug": null,
-    "title": "Ocean Career: MSC Geospatial Data Science Manager",
-    "summary": "",
-    "publishedAt": "2026-10-09T01:33:39.000Z",
-    "categories": [],
-    "guid": "CBMiiAFBVV95cUxQWDFNSndUQUhVSGR4WFpta0pRQ1NoZ21ROVJRYVJfV3l5bnRnLU5tbUdwcEx6R3dqTXFfTFA2aXBWaHdJRHkzS0UzbXU5aF9vZHdkNUFKdFZNdjdXa0V5TUJQQUk3ZVFHVzMxUGpMblE4ZllfaG1maVI5VEtCcGl5ajBidFE1Tkxn",
-    "searchedLabel": "msc",
-    "matches": [
-      {
-        "labelId": "msc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "MSC"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Cantech Letter",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNREU4M2dNSUw2Yl9Fb201Q1ZVZkNtLWtTeHNkTUhpRm10VjUtR1dFODBVOXNvUC1CQkx5Z25iVHJSaUQ3Q0tUWk9iWUdMdjBzR2Rjd2VibGVjY201MVZNOEdKZWlaQXlkYWFZQS1FZUQwRFB1WjdhTWh0S0hFWndjVlRXc1UzYzFxTWJkTU5pU0VUQXRwOVZpS3BxMU56QQ?oc=5",
-    "urlSlug": null,
-    "title": "Bimbo Canada Sweeps 2026 ENERGY STAR® Awards for Industry",
-    "summary": "",
-    "publishedAt": "2026-10-08T23:24:00.000Z",
-    "categories": [],
-    "guid": "CBMingFBVV95cUxNREU4M2dNSUw2Yl9Fb201Q1ZVZkNtLWtTeHNkTUhpRm10VjUtR1dFODBVOXNvUC1CQkx5Z25iVHJSaUQ3Q0tUWk9iWUdMdjBzR2Rjd2VibGVjY201MVZNOEdKZWlaQXlkYWFZQS1FZUQwRFB1WjdhTWh0S0hFWndjVlRXc1UzYzFxTWJkTU5pU0VUQXRwOVZpS3BxMU56QQ",
-    "searchedLabel": "energy-star",
-    "matches": [
-      {
-        "labelId": "energy-star",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ENERGY STAR"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Panasonic",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZFVzbGNEVjd2TzdNVHlGS0doTmpSZk1vZ0ktemFFdVl1ODdUZl9nLXBoVE9sclgzMGdvdlFkMUZXQXRpRUNrQkh2VHBPaV9tSy01RnVXNFFGY3pTcHlzX3BWZ1I4cjFwc3dCR1hnSXprazVYR2R5MmJkLW9UYnFZeUxjSHdpVDhF?oc=5",
-    "urlSlug": null,
-    "title": "Panasonic Canada Earns 2026 ENERGY STAR® Canada Award for Manufacturer of the Year – Heating, Ventilation and Air Conditioning Products",
-    "summary": "",
-    "publishedAt": "2026-10-08T21:07:31.000Z",
-    "categories": [],
-    "guid": "CBMiiAFBVV95cUxOZFVzbGNEVjd2TzdNVHlGS0doTmpSZk1vZ0ktemFFdVl1ODdUZl9nLXBoVE9sclgzMGdvdlFkMUZXQXRpRUNrQkh2VHBPaV9tSy01RnVXNFFGY3pTcHlzX3BWZ1I4cjFwc3dCR1hnSXprazVYR2R5MmJkLW9UYnFZeUxjSHdpVDhF",
-    "searchedLabel": "energy-star",
-    "matches": [
-      {
-        "labelId": "energy-star",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ENERGY STAR"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "micebook.",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVhPYmpPdzhzV05wakRxSGpaNHJPcFFYRmlUX0U3ZFMyVWZkd1NZWjhWd1VGY2dYYzdFRVBlZTcxVmFxVGh1V1FhQ3pkOUlhRWFybFFBeDVkakJuaE1FWm8yZVBGU0RFaEZqdk1jcU84UmNRdWN1LWhldFkzNmJuSXZVazI2WXpoWVdncm1VNnpCZDVNMXNFZlVidXZmUHREOUE?oc=5",
-    "urlSlug": null,
-    "title": "Sledge and SWM Partners achieve B Corp as Sarah Yeats promoted",
-    "summary": "",
-    "publishedAt": "2026-10-08T18:57:06.000Z",
-    "categories": [],
-    "guid": "CBMiogFBVV95cUxNVVhPYmpPdzhzV05wakRxSGpaNHJPcFFYRmlUX0U3ZFMyVWZkd1NZWjhWd1VGY2dYYzdFRVBlZTcxVmFxVGh1V1FhQ3pkOUlhRWFybFFBeDVkakJuaE1FWm8yZVBGU0RFaEZqdk1jcU84UmNRdWN1LWhldFkzNmJuSXZVazI2WXpoWVdncm1VNnpCZDVNMXNFZlVidXZmUHREOUE",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "OdishaBytes",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHczMUtEUktSMGtobkZOSGYwa1hOYmR0S0Q2am9iSXJMRWJKR0pIeW9qeTluNEVKLVNZXzA0V3BZd2ZHS0UtSzlGRWNucDY4Wl9TWVhsYUxkYTJvVE9vVzNZSUNFSnJmdWNRVVlVNm05Njk3ZVNpZEx0SnNZd1FmR0xfakFBU2lGdjZDeDRJUnpMZUMxbWJtbTdObVBWTjFY0gGmAUFVX3lxTE81NjR4ZjEyZ0oxVHFOR3BFY0l3em5CRzRkS0VjWjNGZzRxZHh2SDEwNzFjQWtkeDhZTzVEaEY3VHNpVDZFZFA1N3RUUjlpWnhmNmkwblIxZnNBLUdnVTcxRmNQLU9qV3lEd29ubUdReXU0OW00WS11UDcxMVVVQnJZN29yNkdYNUJEcVpvdGpvSEtwZmxWcm8xdS1EaU1fRkF0ZHZKM3c?oc=5",
-    "urlSlug": null,
-    "title": "Beyond Blue Flag: Odisha’s Ganjam Coast Prepares For Homestay Transformation",
-    "summary": "",
-    "publishedAt": "2026-10-08T17:23:00.000Z",
-    "categories": [],
-    "guid": "CBMioAFBVV95cUxNTHczMUtEUktSMGtobkZOSGYwa1hOYmR0S0Q2am9iSXJMRWJKR0pIeW9qeTluNEVKLVNZXzA0V3BZd2ZHS0UtSzlGRWNucDY4Wl9TWVhsYUxkYTJvVE9vVzNZSUNFSnJmdWNRVVlVNm05Njk3ZVNpZEx0SnNZd1FmR0xfakFBU2lGdjZDeDRJUnpMZUMxbWJtbTdObVBWTjFY0gGmAUFVX3lxTE81NjR4ZjEyZ0oxVHFOR3BFY0l3em5CRzRkS0VjWjNGZzRxZHh2SDEwNzFjQWtkeDhZTzVEaEY3VHNpVDZFZFA1N3RUUjlpWnhmNmkwblIxZnNBLUdnVTcxRmNQLU9qV3lEd29ubUdReXU0OW00WS11UDcxMVVVQnJZN29yNkdYNUJEcVpvdGpvSEtwZmxWcm8xdS1EaU1fRkF0ZHZKM3c",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "elkintribune.com",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc1YwX25xWHFkUGpPQjZkSDNPQUEyMjBMTHQyaGxKQm9SZ2pmS29fNWdPM3FEMGJkbUd1WjFrekdTa2txbl9PNDZ5dUo2REJpTEczbUt4YURpb3dYRV9ScDlRUmRQTC02NEFRSEhvUEoxV2w0aUx5RXFCRm1sVGpSaWRGOEpzenB5MU9ad2t4MUVqRE9uNGR2eTBNOW9xVVJOX0NCbjJYOFZIRVZ5RWI1ODN5c0MyWjhQSDdjMndMSnJ5X1prVXRfV0ZOcFBCelZHS1pURjNR?oc=5",
-    "urlSlug": null,
-    "title": "Hugh Chatham Health earns ENERGY STAR certification",
-    "summary": "",
-    "publishedAt": "2026-10-08T16:57:00.000Z",
-    "categories": [],
-    "guid": "CBMi1gFBVV95cUxQc1YwX25xWHFkUGpPQjZkSDNPQUEyMjBMTHQyaGxKQm9SZ2pmS29fNWdPM3FEMGJkbUd1WjFrekdTa2txbl9PNDZ5dUo2REJpTEczbUt4YURpb3dYRV9ScDlRUmRQTC02NEFRSEhvUEoxV2w0aUx5RXFCRm1sVGpSaWRGOEpzenB5MU9ad2t4MUVqRE9uNGR2eTBNOW9xVVJOX0NCbjJYOFZIRVZ5RWI1ODN5c0MyWjhQSDdjMndMSnJ5X1prVXRfV0ZOcFBCelZHS1pURjNR",
-    "searchedLabel": "energy-star",
-    "matches": [
-      {
-        "labelId": "energy-star",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ENERGY STAR"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Eunews",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX3kzQV90TDl5NTk4ckl2cjJ3NnlkRW5XX2VmeEdERWptbHkyRkdzZWUxV3BhZGRkVHhlWDlsbWJaRmVMeURLSlpoQUc5SzRFV3NkM0s1bWNLamE5RVRjd2hWNVBNeWszZ3ktZGU3VWZqOEIwY1pDUmxxeURyWDJyci1uVVNNWlVUWTFhTlMtaEd1TUREbXJVeG9fRFpSUEFZMGJDWnkwdUlta2YwNG9JcDZUakd5Z051aGRURjRCalpPZDA?oc=5",
-    "urlSlug": null,
-    "title": "The EU Ecolabel is winning over consumers: 81 per cent consider it to be more sustainable",
-    "summary": "",
-    "publishedAt": "2026-10-08T16:22:12.000Z",
-    "categories": [],
-    "guid": "CBMiwwFBVV95cUxOX3kzQV90TDl5NTk4ckl2cjJ3NnlkRW5XX2VmeEdERWptbHkyRkdzZWUxV3BhZGRkVHhlWDlsbWJaRmVMeURLSlpoQUc5SzRFV3NkM0s1bWNLamE5RVRjd2hWNVBNeWszZ3ktZGU3VWZqOEIwY1pDUmxxeURyWDJyci1uVVNNWlVUWTFhTlMtaEd1TUREbXJVeG9fRFpSUEFZMGJDWnkwdUlta2YwNG9JcDZUakd5Z051aGRURjRCalpPZDA",
-    "searchedLabel": "eu-ecolabel",
-    "matches": [
-      {
-        "labelId": "eu-ecolabel",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "EU Ecolabel"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Comms Business",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQU9ETERRN2VhcF9KNGE4VEFCeGg4aEpKamNlR0k2TzJZTERxRVd4R2Yyc09lNDZTenVzdEhQMUlyN0wtbzNxY01kZk9ILWFpcFlJZjAwVDhCcGVVYjNiQkd3cHZkUFZSX0FwQXctNVBsT080d21KclFVYXIyVjhDa2FtWUhHbS10RVE?oc=5",
-    "urlSlug": null,
-    "title": "Infinity Group achieves B Corp status",
-    "summary": "",
-    "publishedAt": "2026-10-08T14:39:51.000Z",
-    "categories": [],
-    "guid": "CBMiigFBVV95cUxNQU9ETERRN2VhcF9KNGE4VEFCeGg4aEpKamNlR0k2TzJZTERxRVd4R2Yyc09lNDZTenVzdEhQMUlyN0wtbzNxY01kZk9ILWFpcFlJZjAwVDhCcGVVYjNiQkd3cHZkUFZSX0FwQXctNVBsT080d21KclFVYXIyVjhDa2FtWUhHbS10RVE",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-11T13:17:55.803Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Représentation de la Commission Européenne au Luxembourg",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNHVIRmJEamRpOGFIalQ0eTE0SWlkUHFtLU9oYVoyczJsWUpoVWxUOW15cFRsVU54TTNqQ0RLeHJMeGZLem8zNUdjVzZXbF9LVmJacDlmbm5YWjNTaGU4T3ZJYlM1MnVnZV94N0syYlNMUU9UVVNRSE5DSjgwZzFjSW44VzRMdlR4eXBrSVJhTWdRRHZneW1OTGVIRjlQeGt2M1B2NWhGY3duYVYtdkxUMWdpNnVpSjFXc2JCaFlPeF9LMHI4RzdabDFQZjBLNXUybEYtRU00cE40VlNxbnNjSXlzTnFpdEk?oc=5",
-    "urlSlug": null,
-    "title": "Eurobarometer shows consumers' growing trust in EU Ecolabel",
-    "summary": "",
-    "publishedAt": "2026-10-08T12:35:31.000Z",
-    "categories": [],
-    "guid": "CBMi5wFBVV95cUxPNHVIRmJEamRpOGFIalQ0eTE0SWlkUHFtLU9oYVoyczJsWUpoVWxUOW15cFRsVU54TTNqQ0RLeHJMeGZLem8zNUdjVzZXbF9LVmJacDlmbm5YWjNTaGU4T3ZJYlM1MnVnZV94N0syYlNMUU9UVVNRSE5DSjgwZzFjSW44VzRMdlR4eXBrSVJhTWdRRHZneW1OTGVIRjlQeGt2M1B2NWhGY3duYVYtdkxUMWdpNnVpSjFXc2JCaFlPeF9LMHI4RzdabDFQZjBLNXUybEYtRU00cE40VlNxbnNjSXlzTnFpdEk",
-    "searchedLabel": "eu-ecolabel",
-    "matches": [
-      {
-        "labelId": "eu-ecolabel",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "EU Ecolabel"
       }
     ],
     "fetchedAt": "2026-10-09T13:37:51.813Z"
