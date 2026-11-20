@@ -1,6 +1,236 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "IntraFish",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDh4OHB3aEhCZ1pwTnJNTWhOcWozVE5pSVItOXhaazRHV1V1TlE4RC1NSTNYWGJhV3JSVGxrdGNzNUlLdk51Ynl0V1M3WWFKbmozWU94T0l0aTk1NDYwcVkwQjgtSmRBOUR5Yi14VVJMVy0zOW5QcE4wU0NoT3JTQ2YwVmhCcHFu?oc=5",
+    "urlSlug": null,
+    "title": "Jason Clay, key architect of ASC, dies",
+    "summary": "",
+    "publishedAt": "2026-11-20T10:36:59.000Z",
+    "categories": [],
+    "guid": "CBMiiAFBVV95cUxOaDh4OHB3aEhCZ1pwTnJNTWhOcWozVE5pSVItOXhaazRHV1V1TlE4RC1NSTNYWGJhV3JSVGxrdGNzNUlLdk51Ynl0V1M3WWFKbmozWU94T0l0aTk1NDYwcVkwQjgtSmRBOUR5Yi14VVJMVy0zOW5QcE4wU0NoT3JTQ2YwVmhCcHFu",
+    "searchedLabel": "asc",
+    "matches": [
+      {
+        "labelId": "asc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ASC"
+      }
+    ],
+    "fetchedAt": "2026-11-20T15:42:33.449Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Financial Express",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOS12TEZ3UGJncnRZS1hRYTFmSlNyLVZ1YzFPSDdjeThmQldDSGxRYlFySVl2Z050RExPbFNnQTFhTGVaZjhwc0FSRE4xVHlPTzdqUlgyNmxVeU9Xc0pYQksyWjhvWmw2bGV6NzlWZGp2SS1ic0pOaW10VXlBc05JRllNOHU1VVhzLWoxbXdieF93ZTNWd3NiWGlzNUg?oc=5",
+    "urlSlug": null,
+    "title": "Bangladesh’s LEED-certified green factories surpass 300",
+    "summary": "",
+    "publishedAt": "2026-11-20T10:35:56.000Z",
+    "categories": [],
+    "guid": "CBMinAFBVV95cUxOOS12TEZ3UGJncnRZS1hRYTFmSlNyLVZ1YzFPSDdjeThmQldDSGxRYlFySVl2Z050RExPbFNnQTFhTGVaZjhwc0FSRE4xVHlPTzdqUlgyNmxVeU9Xc0pYQksyWjhvWmw2bGV6NzlWZGp2SS1ic0pOaW10VXlBc05JRllNOHU1VVhzLWoxbXdieF93ZTNWd3NiWGlzNUg",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-20T15:42:33.449Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Views Bangladesh",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajlaTGtTalE5a1piMWRjN3lKeU16aHplOGg5T2tILWNhZUI1S3E4RjRlSkZjU1d2OUJfUnZZWVhmMWRrdFJFVzF0V01tNW5QNzZ0Ym5WTktGYnFzRU9VeEUzLTd5UGJoaUw1RXVtN1psVGJyVnlKbFFXU2xyZ2c0dEFtYVZrdlB3NnNJQjZRZjFUQjl0ckZFd2lQX3drTVdidzN0Mw?oc=5",
+    "urlSlug": null,
+    "title": "Bangladesh tops global ranking in number of LEED-certified green factories",
+    "summary": "",
+    "publishedAt": "2026-11-20T08:55:19.000Z",
+    "categories": [],
+    "guid": "CBMipAFBVV95cUxPajlaTGtTalE5a1piMWRjN3lKeU16aHplOGg5T2tILWNhZUI1S3E4RjRlSkZjU1d2OUJfUnZZWVhmMWRrdFJFVzF0V01tNW5QNzZ0Ym5WTktGYnFzRU9VeEUzLTd5UGJoaUw1RXVtN1psVGJyVnlKbFFXU2xyZ2c0dEFtYVZrdlB3NnNJQjZRZjFUQjl0ckZFd2lQX3drTVdidzN0Mw",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-20T15:42:33.449Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Perishable News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWtaV2xvdUtZVF96Nl9EQUNKTl9GRDNzRXg3WnZUQlpkTXkydjhtb0RGSEQ4LUljeEdSeUV6cjBqSlpzaE1JUGlRLUw3dkdRdWNLOVExVUVac2U1NkwtNmp0bE9ralZablZYSHJGYnhuUXU1bHllZ1lUazluVEZrd3JVR2JRUjdUWk5FYTlWdkVzZDhfemNTWUFUVjBiZHBMSjVhNjQxQ0FveFdNTHByVlRob2JleUo4WkNrRXVPenk?oc=5",
+    "urlSlug": null,
+    "title": "Antarctic Krill Fishery Behind Aker BioMarine’s Krill Ingredients Recertified by the MSC",
+    "summary": "",
+    "publishedAt": "2026-11-20T08:00:35.000Z",
+    "categories": [],
+    "guid": "CBMiwAFBVV95cUxOUWtaV2xvdUtZVF96Nl9EQUNKTl9GRDNzRXg3WnZUQlpkTXkydjhtb0RGSEQ4LUljeEdSeUV6cjBqSlpzaE1JUGlRLUw3dkdRdWNLOVExVUVac2U1NkwtNmp0bE9ralZablZYSHJGYnhuUXU1bHllZ1lUazluVEZrd3JVR2JRUjdUWk5FYTlWdkVzZDhfemNTWUFUVjBiZHBMSjVhNjQxQ0FveFdNTHByVlRob2JleUo4WkNrRXVPenk",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-11-20T15:42:33.449Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Bangladesh Sangbad Sangstha (BSS)",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44dl9kanVQOTFFX3BzQkEtb1JOb3djRnpfRUhZTW1YZGxsY05Ma0c5dk1xTVB0eVQxZ1RpOTRSc3JuRmFINXRNVFZDZw?oc=5",
+    "urlSlug": null,
+    "title": "Bangladesh attains historic milestone of crossing 300 LEED-certified green factories",
+    "summary": "",
+    "publishedAt": "2026-11-20T07:11:16.000Z",
+    "categories": [],
+    "guid": "CBMiS0FVX3lxTE44dl9kanVQOTFFX3BzQkEtb1JOb3djRnpfRUhZTW1YZGxsY05Ma0c5dk1xTVB0eVQxZ1RpOTRSc3JuRmFINXRNVFZDZw",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-20T15:42:33.449Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Daily Sun",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUNPVU9IZFp2RzVnZExGMk5XdzdEajRyYWc1OXlaOHJiS21ZZWROM1ZfdXVGa2RETlpNMVpfV0QtMUlMX1ZkU3o2SkhiVHdsR0tNR3hjaGU0MXk5ajNjMEliLUVTMm9CVGFXWE4xZzhrZ3RWYkpkM3JrU3NycnQxeWxQSFo1Zk1ZNGNPSWJIdnpLazZqYUZISE9IZw?oc=5",
+    "urlSlug": null,
+    "title": "Bangladesh crosses 300 LEED-certified green factories",
+    "summary": "",
+    "publishedAt": "2026-11-20T07:08:08.000Z",
+    "categories": [],
+    "guid": "CBMimwFBVV95cUxNZUNPVU9IZFp2RzVnZExGMk5XdzdEajRyYWc1OXlaOHJiS21ZZWROM1ZfdXVGa2RETlpNMVpfV0QtMUlMX1ZkU3o2SkhiVHdsR0tNR3hjaGU0MXk5ajNjMEliLUVTMm9CVGFXWE4xZzhrZ3RWYkpkM3JrU3NycnQxeWxQSFo1Zk1ZNGNPSWJIdnpLazZqYUZISE9IZw",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-20T15:42:33.449Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "SeafoodSource",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdFNrZmVvQnhaY19uNlh0QVY0X3ZWVk1yNmY0WUJiZmdnZU9DRjdkZWJRZllPTl9wbm5hZjZncWp0R0RLVXFBYl9RdTFhQTFtZHdfMXkxaVBHQmlPX0ExSXBYZzlfS2FIZ3dRNnpOTVRuaUFWODJNbUdFTkU1OHJjdGlPQ194Wk5DRFExbVlSaVdSU2hKeUk2NWFzbS1fSkxaMlRPOHNIVE9MbEFLUFN4YjJCaDBrUVVmSzk2cTVfLUlwVllLSGI2cm0ySGFxYjFYWDZFa3lRRWNfQklvcHhxWFd6ZnE?oc=5",
+    "urlSlug": null,
+    "title": "Chinese distant-water firm previously linked to labor abuse, wildlife poaching allegations certified to MSC standard",
+    "summary": "",
+    "publishedAt": "2026-11-19T19:26:15.000Z",
+    "categories": [],
+    "guid": "CBMi5AFBVV95cUxOdFNrZmVvQnhaY19uNlh0QVY0X3ZWVk1yNmY0WUJiZmdnZU9DRjdkZWJRZllPTl9wbm5hZjZncWp0R0RLVXFBYl9RdTFhQTFtZHdfMXkxaVBHQmlPX0ExSXBYZzlfS2FIZ3dRNnpOTVRuaUFWODJNbUdFTkU1OHJjdGlPQ194Wk5DRFExbVlSaVdSU2hKeUk2NWFzbS1fSkxaMlRPOHNIVE9MbEFLUFN4YjJCaDBrUVVmSzk2cTVfLUlwVllLSGI2cm0ySGFxYjFYWDZFa3lRRWNfQklvcHhxWFd6ZnE",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-11-20T15:42:33.449Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Wisevoter",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11cDB2V3A5UzRuWUFOX0Uzb0djZFJNQXE0OEZqcXpSaHh4Unp0cEFtRXZ2MnNrLXNUN0FxS1lzUzJxZHM0anRkOUJBNTRiWTZRZm1mQl8tOGRDMTVULXBGbnlFX2pDUE9taThLSHdtelFIZlZ3Q2ZESFZEVWc?oc=5",
+    "urlSlug": null,
+    "title": "Black Tomato Earns B Corp Certification",
+    "summary": "",
+    "publishedAt": "2026-11-19T16:57:33.000Z",
+    "categories": [],
+    "guid": "CBMifEFVX3lxTE11cDB2V3A5UzRuWUFOX0Uzb0djZFJNQXE0OEZqcXpSaHh4Unp0cEFtRXZ2MnNrLXNUN0FxS1lzUzJxZHM0anRkOUJBNTRiWTZRZm1mQl8tOGRDMTVULXBGbnlFX2pDUE9taThLSHdtelFIZlZ3Q2ZESFZEVWc",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-20T15:42:33.449Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "London Daily News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUTlBZVhqS2RTSGpMemVhVDdfVXBRZGF6eHA5QXY3a2E1bkVUMnMwVlZJekxVWGRSaExLNFhIdUtYRWpHNUhyamR1UGZ6T2RhRFdQeE5oaWt5WG5jNk1QRlVIWTBGRXVSYXZVV2hyay1TUEdlWnBzVmNpalBCWEluRjdpX1dDUGJBaHhwMjBTSGIwYnVjT3ItVlUzQkotOG8xSzhsMm53WC1zLXFoc19DTFAxbFRlbk1FY19uRFFwTzJEbGF6ODc3QzBWd1BXX3c0anFZUnpJdXdmaGlSN3A4YTZvUEtiUFNOdmxR?oc=5",
+    "urlSlug": null,
+    "title": "Lancashire entrepreneur Celia Gaze becomes a B Corp Consultant as the wellbeing farm reveals more than 45,000 positive impacts",
+    "summary": "",
+    "publishedAt": "2026-11-19T16:42:56.000Z",
+    "categories": [],
+    "guid": "CBMi6wFBVV95cUxQUTlBZVhqS2RTSGpMemVhVDdfVXBRZGF6eHA5QXY3a2E1bkVUMnMwVlZJekxVWGRSaExLNFhIdUtYRWpHNUhyamR1UGZ6T2RhRFdQeE5oaWt5WG5jNk1QRlVIWTBGRXVSYXZVV2hyay1TUEdlWnBzVmNpalBCWEluRjdpX1dDUGJBaHhwMjBTSGIwYnVjT3ItVlUzQkotOG8xSzhsMm53WC1zLXFoc19DTFAxbFRlbk1FY19uRFFwTzJEbGF6ODc3QzBWd1BXX3c0anFZUnpJdXdmaGlSN3A4YTZvUEtiUFNOdmxR",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-11-20T15:42:33.449Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Manila Times",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSEpTcDdZcnFsNXV2VzlCTWVVS1Y3bV9MUDk2X2N2c1lXSHo4b2FZNDNPSDctdnpOc3JPYVktaUJzUkdfejh5a2hpbGN4Tm9MMTVRby1VVHkyRU92QkgxOXBQQWxUN0FSaWUwWU1uZ0dOSUp6NHQ1enFMY1dXWXoxVEk0SlVmSVdnX2hZVTQwdGdIbE5sYkE5bWMwSUw5NnJCSUd2VWZXcHBNYWpFRVo5Ui02bjY5d0FQ0gG-AUFVX3lxTE5UTndsY2V1TER3b0tNeTZkcVRibmtaNTNxejhMZ1dHV01JNkZFLWI2cXIzYjZoR3lGNm5BLVNNc1pZWDFWZVEya0tFdVhDMkF0bEFVUDNvczdEbDByWnBGaU5oc0p4N0ZmeU1RclQ1c25xSklmZ1M2WU83NFoxUDZEeHZWejM0SjVBelk4WjZOSWpDYVRmcFEtaHM2UlNld2pTQ1JWZXM3ZGRjMy1GLUYwenJfbDdBeHVUdTlfZ1E?oc=5",
+    "urlSlug": null,
+    "title": "BLACK TOMATO ANNOUNCES B CORP CERTIFICATION",
+    "summary": "",
+    "publishedAt": "2026-11-19T16:04:34.000Z",
+    "categories": [],
+    "guid": "CBMiuAFBVV95cUxOSEpTcDdZcnFsNXV2VzlCTWVVS1Y3bV9MUDk2X2N2c1lXSHo4b2FZNDNPSDctdnpOc3JPYVktaUJzUkdfejh5a2hpbGN4Tm9MMTVRby1VVHkyRU92QkgxOXBQQWxUN0FSaWUwWU1uZ0dOSUp6NHQ1enFMY1dXWXoxVEk0SlVmSVdnX2hZVTQwdGdIbE5sYkE5bWMwSUw5NnJCSUd2VWZXcHBNYWpFRVo5Ui02bjY5d0FQ0gG-AUFVX3lxTE5UTndsY2V1TER3b0tNeTZkcVRibmtaNTNxejhMZ1dHV01JNkZFLWI2cXIzYjZoR3lGNm5BLVNNc1pZWDFWZVEya0tFdVhDMkF0bEFVUDNvczdEbDByWnBGaU5oc0p4N0ZmeU1RclQ1c25xSklmZ1M2WU83NFoxUDZEeHZWejM0SjVBelk4WjZOSWpDYVRmcFEtaHM2UlNld2pTQ1JWZXM3ZGRjMy1GLUYwenJfbDdBeHVUdTlfZ1E",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-20T15:42:33.449Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "thetraveler.org",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFRYcDRnemN2RE9XS0tweHBWdVdlWGRNbWZUV2tYeU41aXlnTEpYTk1Vbkx2YTdQRnlGdUxsc1BBY0VkOWwwMl9kbERIZWpvUTRqT3BhQlNsUUdmOS1Fem1SbHZUalQ3aTZUOV9tNXpua19ZQU43X1VUckZHSVI4RzlGc1hYcGJZQkxndVpaYm5tZw?oc=5",
@@ -189,6 +419,29 @@
       }
     ],
     "fetchedAt": "2026-11-19T15:59:16.842Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Wisevoter",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmMteGs0UllybXBSUzZ2aWU1bVN6RTFzUi16SHpkN3c5WDZTcl8wbkRfSEhRMlRTNTBlZ1BTRFZoYkVUZW9RUG1VRk5RRXJzSXJ3N1VWbW5hSEVLbk03Rk9fUFZEejVaNW5MR2R2amtNUDZpZGhia195WE1MLVFobUlNLXRUa0ZsYVgxNTlCYXFvY3N6VEF5YnBn?oc=5",
+    "urlSlug": null,
+    "title": "TerraCycle US Completes Four Acquisitions to Expand",
+    "summary": "",
+    "publishedAt": "2026-11-19T01:24:15.000Z",
+    "categories": [],
+    "guid": "CBMimgFBVV95cUxNZmMteGs0UllybXBSUzZ2aWU1bVN6RTFzUi16SHpkN3c5WDZTcl8wbkRfSEhRMlRTNTBlZ1BTRFZoYkVUZW9RUG1VRk5RRXJzSXJ3N1VWbW5hSEVLbk03Rk9fUFZEejVaNW5MR2R2amtNUDZpZGhia195WE1MLVFobUlNLXRUa0ZsYVgxNTlCYXFvY3N6VEF5YnBn",
+    "searchedLabel": "terracycle",
+    "matches": [
+      {
+        "labelId": "terracycle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "TerraCycle"
+      }
+    ],
+    "fetchedAt": "2026-11-20T15:42:33.449Z"
   },
   {
     "outletId": "google-news",
@@ -1157,6 +1410,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "CRN UK",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVhhTVNMMU12d1JTZlFUbkFYQzhxdGk1UlJSMnZXcWtXYjlxRUVJbGliaW5RNnhCMjB0VU5ZdmdSMFpvZy0xNGp4U2hmVFAtYWZhb0paN3dwYkhHOUVGMHFMVzMySGZ2UmpJbFBxckx6WnpYWVpoclEzVjJGS053NHMxVi0yMUZ6Y1pNRk9NazFRV3I1bU1SYjBPbUpsdjVmYml1WktqbERpSTVr?oc=5",
+    "urlSlug": null,
+    "title": "Rejoose hooks up with EPEAT to give channel a concrete sustainability stamp",
+    "summary": "",
+    "publishedAt": "2026-11-13T11:46:38.000Z",
+    "categories": [],
+    "guid": "CBMirAFBVV95cUxQLVhhTVNMMU12d1JTZlFUbkFYQzhxdGk1UlJSMnZXcWtXYjlxRUVJbGliaW5RNnhCMjB0VU5ZdmdSMFpvZy0xNGp4U2hmVFAtYWZhb0paN3dwYkhHOUVGMHFMVzMySGZ2UmpJbFBxckx6WnpYWVpoclEzVjJGS053NHMxVi0yMUZ6Y1pNRk9NazFRV3I1bU1SYjBPbUpsdjVmYml1WktqbERpSTVr",
+    "searchedLabel": "epeat",
+    "matches": [
+      {
+        "labelId": "epeat",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "EPEAT"
+      }
+    ],
+    "fetchedAt": "2026-11-20T15:42:33.449Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Aquafeed.com",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUEVzSU5SMkxXUTFHMzR3cjZDVG9ZYlpleS1fcHUzNUI3WVFnZDBkMVRUZUZYSjUxc01NeVg4YzlNaUN6aXEwTFVkeGFMNWN3eTA5Tjlndl84R1gyZDdDaVk5RmlUek92b2dLM3Q5U21GQXl4N2VyLUM3bzE1akFyWUhEUlNVV2lQYmc?oc=5",
@@ -1506,6 +1782,29 @@
       }
     ],
     "fetchedAt": "2026-11-12T15:31:41.510Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Daily Mail",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUzRiMXFRUUh2alZxUmpIb2NXWVA4RWNYdVQybW4wY3NEblhXQWxlczdSQTV1OU95ZzhCQXl4VDJORFNIQWpOV1djWko3YXVJaDF6T09DQTJXWXFuQkdvZndfMllmMHRHejJPYXo0aUNOZjk3bjc0NXM3SjNhZG8tTW9GaVRSd2V6M25CTGtyTXM4MjFwcjZUUUt2YXZ4ZDRGLWxuV29B?oc=5",
+    "urlSlug": null,
+    "title": "There are 45 beaches in Malaga with 'Blue Flag' status - these are the perfect ones for early winter sun",
+    "summary": "",
+    "publishedAt": "2026-11-12T11:37:26.000Z",
+    "categories": [],
+    "guid": "CBMipgFBVV95cUxOUzRiMXFRUUh2alZxUmpIb2NXWVA4RWNYdVQybW4wY3NEblhXQWxlczdSQTV1OU95ZzhCQXl4VDJORFNIQWpOV1djWko3YXVJaDF6T09DQTJXWXFuQkdvZndfMllmMHRHejJPYXo0aUNOZjk3bjc0NXM3SjNhZG8tTW9GaVRSd2V6M25CTGtyTXM4MjFwcjZUUUt2YXZ4ZDRGLWxuV29B",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-11-20T15:42:33.449Z"
   },
   {
     "outletId": "google-news",
@@ -9041,304 +9340,5 @@
       }
     ],
     "fetchedAt": "2026-10-12T15:54:42.985Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "The Sydenham Current",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWjYxYk9aOV9Lcjl1RkVXc0NEUkJHUGFvSFcyZ29Od1VJR3JfYzZlbEZTeEZjN3dDTERXdThncTE4N1pjNE5Ea2xVUXBJQ3lOMy1Qd1k2NEVpakR2Mm4ybmFqbmhQem9maDJMZWlEUEJQdk92OHktaEROeXFOMU9BMHJlbHJXUEhYNzg5S0JuMldBT0wxdV9NdG9HOGtxX01iNHZuVEt0VXotRjYt?oc=5",
-    "urlSlug": null,
-    "title": "Maple City Homes named ENERGY STAR builder of the year for small size",
-    "summary": "",
-    "publishedAt": "2026-10-12T05:59:00.000Z",
-    "categories": [],
-    "guid": "CBMirAFBVV95cUxNWjYxYk9aOV9Lcjl1RkVXc0NEUkJHUGFvSFcyZ29Od1VJR3JfYzZlbEZTeEZjN3dDTERXdThncTE4N1pjNE5Ea2xVUXBJQ3lOMy1Qd1k2NEVpakR2Mm4ybmFqbmhQem9maDJMZWlEUEJQdk92OHktaEROeXFOMU9BMHJlbHJXUEhYNzg5S0JuMldBT0wxdV9NdG9HOGtxX01iNHZuVEt0VXotRjYt",
-    "searchedLabel": "energy-star",
-    "matches": [
-      {
-        "labelId": "energy-star",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ENERGY STAR"
-      }
-    ],
-    "fetchedAt": "2026-10-12T15:54:42.985Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "ET HospitalityWorld",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZkNyemN6SHphYVQ2ZlplQVA3SWI3TkR5RndOcTE5SVBWMGViaHNsR1V6UGxoQXJZY2dtdWJUMG9MX2ZTaXNOZjUxRkMzeGZIS1V2cTFCR3U5TjdrcGhoY2lJTGtfRS0xbnhVSlI5bjg4OHcwOHp3SnhXZjZ5cEg4TDJlV29CSTdsMUhpSnlvOXhwOEp1RElkSHlYSzNXWDhHR0xNdzZXTmRYSHhCX3doVUVnOUtZNk1Tb3Zmc1ozMDRvcW13ZHhWWG43RThjVUlqLWNSYUVR0gHaAUFVX3lxTE1ROE9YMTdtSXV6ZDlzUmNEZ09sRHZnYVZhaVBUck45aHpFSVpud1cxbzR0TGJJbUlGcF9xTVN0MXVMU0FwNmhFRTN6OGFYcHdVXzJBT3ZGU1FfX3lQYTIzWkdjeVlwVW9BamJjUGFFRV9iLUdCaDJZLUJSeU1tTDlOdjBKVW1Relhwa0pHN21NVzE4eWg4YVVfTGJnYlFic1F5ZTM5NTdQTkxaOTJDbDIzSENJdUZ2V1otcmtQRmotcTF2M3UwZXhIMHZNazhyR2F1dzQ0SVJwMlRR?oc=5",
-    "urlSlug": null,
-    "title": "Mercure Kathmandu Sukedhara Heights achieves Green Key Certification",
-    "summary": "",
-    "publishedAt": "2026-10-11T06:42:03.000Z",
-    "categories": [],
-    "guid": "CBMi1gFBVV95cUxPZkNyemN6SHphYVQ2ZlplQVA3SWI3TkR5RndOcTE5SVBWMGViaHNsR1V6UGxoQXJZY2dtdWJUMG9MX2ZTaXNOZjUxRkMzeGZIS1V2cTFCR3U5TjdrcGhoY2lJTGtfRS0xbnhVSlI5bjg4OHcwOHp3SnhXZjZ5cEg4TDJlV29CSTdsMUhpSnlvOXhwOEp1RElkSHlYSzNXWDhHR0xNdzZXTmRYSHhCX3doVUVnOUtZNk1Tb3Zmc1ozMDRvcW13ZHhWWG43RThjVUlqLWNSYUVR0gHaAUFVX3lxTE1ROE9YMTdtSXV6ZDlzUmNEZ09sRHZnYVZhaVBUck45aHpFSVpud1cxbzR0TGJJbUlGcF9xTVN0MXVMU0FwNmhFRTN6OGFYcHdVXzJBT3ZGU1FfX3lQYTIzWkdjeVlwVW9BamJjUGFFRV9iLUdCaDJZLUJSeU1tTDlOdjBKVW1Relhwa0pHN21NVzE4eWg4YVVfTGJnYlFic1F5ZTM5NTdQTkxaOTJDbDIzSENJdUZ2V1otcmtQRmotcTF2M3UwZXhIMHZNazhyR2F1dzQ0SVJwMlRR",
-    "searchedLabel": "green-key",
-    "matches": [
-      {
-        "labelId": "green-key",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Green Key"
-      }
-    ],
-    "fetchedAt": "2026-10-11T13:17:55.803Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "The South African",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVNmX05VamVlcjVHNUtfUVhrc1FlRXFPc1NUM1l5Zl9LN1NodW1JQ3U2OEQ1YWtYVnFrcFNSLVZzWW5FSXhIdVg2cnpwc0VFR1JZWW4zLVBSYTJBSGlCSUQxZWNhQnZLSTQ5bGEySFVKTHFIV1gzS0YxdnMwemYtZVlTVFctOUE3SnZpRlA4U1ZTTE1GMlROZU8tQlcxZk5LYTVQekdn?oc=5",
-    "urlSlug": null,
-    "title": "Four more Cape Town beaches in line to earn Blue Flag status",
-    "summary": "",
-    "publishedAt": "2026-10-10T12:49:51.000Z",
-    "categories": [],
-    "guid": "CBMipgFBVV95cUxOLVNmX05VamVlcjVHNUtfUVhrc1FlRXFPc1NUM1l5Zl9LN1NodW1JQ3U2OEQ1YWtYVnFrcFNSLVZzWW5FSXhIdVg2cnpwc0VFR1JZWW4zLVBSYTJBSGlCSUQxZWNhQnZLSTQ5bGEySFVKTHFIV1gzS0YxdnMwemYtZVlTVFctOUE3SnZpRlA4U1ZTTE1GMlROZU8tQlcxZk5LYTVQekdn",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-10T12:53:50.050Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "BusinessTech",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDF3dXNSUElZeU1GbjlVOWhjTW5iMy00aDJFWEc3RmM5dzlHTVlpQnBfazljMnBQWUUzZTNkY2pIUjZQSUd4MHdXbW1rdlE5ejJKaUZaT1A2MVBLQTFWbXJ3Y3p0YXF2SklfazgtcThwM2JLUy12WkNQMDNZV0xfMFdQcHVoOEdUWlV0WGc1QVE4cmZKNU9zMF85V2NWWDdCNGtzcTVqVnI2NkJ6bUdLRkR2VGhtM3pkMnZEYWNR?oc=5",
-    "urlSlug": null,
-    "title": "Eight Blue Flag beaches for Cape Town in 2026, with four more on the way",
-    "summary": "",
-    "publishedAt": "2026-10-10T11:01:13.000Z",
-    "categories": [],
-    "guid": "CBMivgFBVV95cUxOdDF3dXNSUElZeU1GbjlVOWhjTW5iMy00aDJFWEc3RmM5dzlHTVlpQnBfazljMnBQWUUzZTNkY2pIUjZQSUd4MHdXbW1rdlE5ejJKaUZaT1A2MVBLQTFWbXJ3Y3p0YXF2SklfazgtcThwM2JLUy12WkNQMDNZV0xfMFdQcHVoOEdUWlV0WGc1QVE4cmZKNU9zMF85V2NWWDdCNGtzcTVqVnI2NkJ6bUdLRkR2VGhtM3pkMnZEYWNR",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-10T12:53:50.050Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "BW Hotelier",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT3BsZUtpSDdoTkQxVmFHalNTRGpNUHR0UmtEQ2dMaDNmc2NLaGJKTHhBUnhyQmRCWVgwbDIyc1NQd3E4Vm04ZlBIR1Z1LTJnc2x1XzdXUEVmaE81UmN5MDZSMzZhRGhaQlRic3NTclB1cmJqSFZ3V0QxYUNoY09fQVF4dDR4blhKYXRxdS1JQVBHMHVwMWFVdjd6VU90bVBUWGNiX0VHNzA0dkNXRTJhcDFJN1h5VnFSQVlIenpBLUsyS3M?oc=5",
-    "urlSlug": null,
-    "title": "Mercure Kathmandu Sukedhara Heights becomes Nepal's first Green Key-certified hotel",
-    "summary": "",
-    "publishedAt": "2026-10-10T07:16:19.000Z",
-    "categories": [],
-    "guid": "CBMiwwFBVV95cUxPT3BsZUtpSDdoTkQxVmFHalNTRGpNUHR0UmtEQ2dMaDNmc2NLaGJKTHhBUnhyQmRCWVgwbDIyc1NQd3E4Vm04ZlBIR1Z1LTJnc2x1XzdXUEVmaE81UmN5MDZSMzZhRGhaQlRic3NTclB1cmJqSFZ3V0QxYUNoY09fQVF4dDR4blhKYXRxdS1JQVBHMHVwMWFVdjd6VU90bVBUWGNiX0VHNzA0dkNXRTJhcDFJN1h5VnFSQVlIenpBLUsyS3M",
-    "searchedLabel": "green-key",
-    "matches": [
-      {
-        "labelId": "green-key",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Green Key"
-      }
-    ],
-    "fetchedAt": "2026-10-10T12:53:50.050Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Edition.mv",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkODJlMmpSdTNOemJwTkJ4Q2M4dm1hQXZfTk9EcDZ3OGlvaUtocDFqZzRTUWVfYUF3M2s0N0hiTk1PYm1XRU90X1I3bFBuaG02OUNjZkNn?oc=5",
-    "urlSlug": null,
-    "title": "Sun Siyam achieves Green Globe certification across all resorts",
-    "summary": "",
-    "publishedAt": "2026-10-09T13:15:58.000Z",
-    "categories": [],
-    "guid": "CBMiVkFVX3lxTFBkODJlMmpSdTNOemJwTkJ4Q2M4dm1hQXZfTk9EcDZ3OGlvaUtocDFqZzRTUWVfYUF3M2s0N0hiTk1PYm1XRU90X1I3bFBuaG02OUNjZkNn",
-    "searchedLabel": "green-globe",
-    "matches": [
-      {
-        "labelId": "green-globe",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Green Globe"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "The Fishing Daily",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0lBd0lpZWVzN3o0TTJmMzNZZ09TMU81ZnpLblRLWGFHeVJxOTY2WG9NV0hxbjQ4R28yMDgyTFBpaGFzY3h4b2U5QUhaMkpKQ3BnSHREZ2ZGekp6NjR2aFdFbkQwaTBRcV9xdnBEU25XRkRDNkJMYmVFYTNHT3ZwMmVabGhfWTc4QVV6eVUwa1MwdUtaekdoM3NzazVYY2sxMHVEalI3aVNSWEU1a2M0Ug?oc=5",
-    "urlSlug": null,
-    "title": "MSC Launches Consultation on Fisheries Standard Reforms",
-    "summary": "",
-    "publishedAt": "2026-10-09T10:50:33.000Z",
-    "categories": [],
-    "guid": "CBMisAFBVV95cUxNb0lBd0lpZWVzN3o0TTJmMzNZZ09TMU81ZnpLblRLWGFHeVJxOTY2WG9NV0hxbjQ4R28yMDgyTFBpaGFzY3h4b2U5QUhaMkpKQ3BnSHREZ2ZGekp6NjR2aFdFbkQwaTBRcV9xdnBEU25XRkRDNkJMYmVFYTNHT3ZwMmVabGhfWTc4QVV6eVUwa1MwdUtaekdoM3NzazVYY2sxMHVEalI3aVNSWEU1a2M0Ug",
-    "searchedLabel": "msc",
-    "matches": [
-      {
-        "labelId": "msc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "MSC"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Bristol24/7",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2NQbkIyNXZ0MkpzejVmdzBWZllPWGRzNG0wRHBidlllcGZDU3lKVFFkUnBWby1MbGVTamYxSkllT0dkbTZyUVlaTmc3WDRRdGVGTjVOZVVuSFRjcWNzeFh4Z19pV0h3M2I3Rkh5WjhQZFRZQUMycDQtRHNSdlR6eHdMdzlUTHVNUlNLRWxhTlBONkNMNWUwU09pTE0wdHRNbnQ4WUJzZ3V5YWVxTzItNldxY1VBelBxNGtwNWREQVNEcWxBM1E?oc=5",
-    "urlSlug": null,
-    "title": "Michelin-recommended ‘farm-to-table’ restaurant wins B-Corp status",
-    "summary": "",
-    "publishedAt": "2026-10-09T10:34:19.000Z",
-    "categories": [],
-    "guid": "CBMixgFBVV95cUxNd2NQbkIyNXZ0MkpzejVmdzBWZllPWGRzNG0wRHBidlllcGZDU3lKVFFkUnBWby1MbGVTamYxSkllT0dkbTZyUVlaTmc3WDRRdGVGTjVOZVVuSFRjcWNzeFh4Z19pV0h3M2I3Rkh5WjhQZFRZQUMycDQtRHNSdlR6eHdMdzlUTHVNUlNLRWxhTlBONkNMNWUwU09pTE0wdHRNbnQ4WUJzZ3V5YWVxTzItNldxY1VBelBxNGtwNWREQVNEcWxBM1E",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-10T12:53:50.050Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "openPR.com",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUldTYzNPNmU4cnYwR2szVW42Um5Gb0pqb2FKRWQtZnVDUmpISWVXS2hsN2hoU21qYVViTUlDSnFveW1LdFV6M2xIWDZldzRxaktwMzBJVHVSanAzNUlYUF90MkJhbFB2OEZfSTdsc3ktZXBIT2N2ejBKSHBDS1k2UUlZTk5iSmtrYldCZUJlR1VwSFlObGlz?oc=5",
-    "urlSlug": null,
-    "title": "How B Corp Certification Is Reshaping Business Education -",
-    "summary": "",
-    "publishedAt": "2026-10-09T09:46:09.000Z",
-    "categories": [],
-    "guid": "CBMilwFBVV95cUxNUldTYzNPNmU4cnYwR2szVW42Um5Gb0pqb2FKRWQtZnVDUmpISWVXS2hsN2hoU21qYVViTUlDSnFveW1LdFV6M2xIWDZldzRxaktwMzBJVHVSanAzNUlYUF90MkJhbFB2OEZfSTdsc3ktZXBIT2N2ejBKSHBDS1k2UUlZTk5iSmtrYldCZUJlR1VwSFlObGlz",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Retail News Asia",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50eUh5N1g5NkQ1dXBMNDk2ejBMeHhaelpmQUV5bEZLTTltaHVpaGRMWHNrNmNSYlVlT3kyR0dHZ1lFX3RTS3I5TDl2WFNYVU8tang0MzFuRFYxRW1TeHdONGZFR2d2bHRtN2VjZ0RB?oc=5",
-    "urlSlug": null,
-    "title": "China BCI Cotton Prices Fall 0.96%",
-    "summary": "",
-    "publishedAt": "2026-10-09T09:41:43.000Z",
-    "categories": [],
-    "guid": "CBMibkFVX3lxTE50eUh5N1g5NkQ1dXBMNDk2ejBMeHhaelpmQUV5bEZLTTltaHVpaGRMWHNrNmNSYlVlT3kyR0dHZ1lFX3RTS3I5TDl2WFNYVU8tang0MzFuRFYxRW1TeHdONGZFR2d2bHRtN2VjZ0RB",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BCI"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Retail News Asia",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4X0NXcWtMNks3UkIxSVF2WUY0ZVktbVZ2ay1zU3Jnc3NzTjJnVDhzNDJGS1NuMlhTcHAwdzJBNzZ1b1Faa2xoYW1wSFlBbmhhRHNxdVlER1E0NGZlREh1ZFlYY1l3VDZm?oc=5",
-    "urlSlug": null,
-    "title": "China BCI Cotton Prices Fall 0.96%",
-    "summary": "",
-    "publishedAt": "2026-10-09T09:41:43.000Z",
-    "categories": [],
-    "guid": "CBMiaEFVX3lxTFA4X0NXcWtMNks3UkIxSVF2WUY0ZVktbVZ2ay1zU3Jnc3NzTjJnVDhzNDJGS1NuMlhTcHAwdzJBNzZ1b1Faa2xoYW1wSFlBbmhhRHNxdVlER1E0NGZlREh1ZFlYY1l3VDZm",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BCI"
-      }
-    ],
-    "fetchedAt": "2026-10-10T12:53:50.050Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Atuna",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjZoU3hvQ0s2TVUzQnJGeUY1ODRmMGlta2RPdjAyUml2S0U3LVBlRGRPRzhoZnNZbVR0azdKU29BWm8tQXhFZzkxYkw1c0huZVQtbjNSWW50NXRSckxSaHdabkZuV1hib3hUNEpHcTBvc3AzNkhEcEg0cktubmJQdEYtMmJLWm5DejNJZHZR?oc=5",
-    "urlSlug": null,
-    "title": "MSC Seeks Feedback on Proposed Fisheries Standard Changes",
-    "summary": "",
-    "publishedAt": "2026-10-09T09:15:40.000Z",
-    "categories": [],
-    "guid": "CBMijgFBVV95cUxNTjZoU3hvQ0s2TVUzQnJGeUY1ODRmMGlta2RPdjAyUml2S0U3LVBlRGRPRzhoZnNZbVR0azdKU29BWm8tQXhFZzkxYkw1c0huZVQtbjNSWW50NXRSckxSaHdabkZuV1hib3hUNEpHcTBvc3AzNkhEcEg0cktubmJQdEYtMmJLWm5DejNJZHZR",
-    "searchedLabel": "msc",
-    "matches": [
-      {
-        "labelId": "msc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "MSC"
-      }
-    ],
-    "fetchedAt": "2026-10-16T11:47:00.147Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Perishable News",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbGJYU2NCZG1qLTZBOG9Zdm5NeUlFS3BtOHhhZkFqWlNucGFleUhXbXlQVWdDNXd6RHRmU3kwWkE5aUZqbHpRczkwZUdHOGtvRmJidlRqZFZKMmd0NjEzenlERmF3ZERMUXljLWs5QVJuZ2dwNmhmU3pnUkNPX0FjSW00V1Q1Rkt0NGFPenNWUllaTHg4SFFjTjF2bkRRUm5xNGhLZklVQUE3Z2oweWhiaGZMVlFjeGF3eG1RU25qc1FtSThCSkpYOGpxaDBncmFGRkY4WE9RaUVUQ3dzdzNja1lrYnZqWk1PLTR3UDlSd1dzMDJTNGZlQkM3UQ?oc=5",
-    "urlSlug": null,
-    "title": "Aquaculture Stewardship Council Highlights Certified Seafood Role in Building More Resilient Food Systems at Climate Week",
-    "summary": "",
-    "publishedAt": "2026-10-09T09:02:01.000Z",
-    "categories": [],
-    "guid": "CBMi-wFBVV95cUxNbGJYU2NCZG1qLTZBOG9Zdm5NeUlFS3BtOHhhZkFqWlNucGFleUhXbXlQVWdDNXd6RHRmU3kwWkE5aUZqbHpRczkwZUdHOGtvRmJidlRqZFZKMmd0NjEzenlERmF3ZERMUXljLWs5QVJuZ2dwNmhmU3pnUkNPX0FjSW00V1Q1Rkt0NGFPenNWUllaTHg4SFFjTjF2bkRRUm5xNGhLZklVQUE3Z2oweWhiaGZMVlFjeGF3eG1RU25qc1FtSThCSkpYOGpxaDBncmFGRkY4WE9RaUVUQ3dzdzNja1lrYnZqWk1PLTR3UDlSd1dzMDJTNGZlQkM3UQ",
-    "searchedLabel": "asc",
-    "matches": [
-      {
-        "labelId": "asc",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Aquaculture Stewardship Council"
-      }
-    ],
-    "fetchedAt": "2026-10-09T13:37:51.813Z"
   }
 ]
