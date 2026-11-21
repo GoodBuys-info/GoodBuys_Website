@@ -1,6 +1,236 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "Daily Observer",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBXX1htQ1Nxbkl0R0p2SUZGTkJ2Zm00bm9UeFNNbkwtb3o5MVBfd29yR1RBWkc0MUFaZlNaWG1oY2hQQzFFdnlJRkpB?oc=5",
+    "urlSlug": null,
+    "title": "B'desh's green factories reach 302 as 12 more earn LEED certification",
+    "summary": "",
+    "publishedAt": "2026-11-21T12:29:19.000Z",
+    "categories": [],
+    "guid": "CBMiSkFVX3lxTFBXX1htQ1Nxbkl0R0p2SUZGTkJ2Zm00bm9UeFNNbkwtb3o5MVBfd29yR1RBWkc0MUFaZlNaWG1oY2hQQzFFdnlJRkpB",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-21T14:53:32.492Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "IndulgExpress",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXhDUFI2Q1owc3lncHVWbGFKUWRBclE5dkl2VW56Q1A1NjNXUm12Q01faXp1Rnh3OXpVSm1JbXY0dG42bEFpNFIxUjROVDlfZ3dqTUxRVWhKM2pTSk5wMW1jQ0hvWVRjZlNTMC1RVFBCVlZrQWdtQi1HQ1RfbUR3M0x4cWM3M1ZEZ1kxdV9tbE5ja0tpTG9BRU12ZWtvT0V6cC10YWdoVE52SzZ5UmRQRkpwX3oybzdZZTlj0gHIAUFVX3lxTE5Uby1UdmNxQjVlUS1fa1BxZnhDQVc5VFNHOXpldlpfNGlSZE5wZ3ZaZFA2cUJVWElfVktXbFl6MDFBbVB1QlgzNHpzVW05T1NkQ3ZVUzJWaER4SjlkRldvWWRuMkNKTW5lZEM0eUEzNVVxUDVHaXotWDVtdnVPMk82N3RpbkI1Q0x0NURfNV9rdzNSMEtFNTB0czVVNFFoR3d6c1ZFNWI0VmY1VnE2cU5xZUtGUllZVUVVbXpsNlNDcV9sMmFCMkdE?oc=5",
+    "urlSlug": null,
+    "title": "Tamil Nadu now has four Blue Flag beaches: Meet the three new additions",
+    "summary": "",
+    "publishedAt": "2026-11-21T07:55:23.000Z",
+    "categories": [],
+    "guid": "CBMiuwFBVV95cUxNLXhDUFI2Q1owc3lncHVWbGFKUWRBclE5dkl2VW56Q1A1NjNXUm12Q01faXp1Rnh3OXpVSm1JbXY0dG42bEFpNFIxUjROVDlfZ3dqTUxRVWhKM2pTSk5wMW1jQ0hvWVRjZlNTMC1RVFBCVlZrQWdtQi1HQ1RfbUR3M0x4cWM3M1ZEZ1kxdV9tbE5ja0tpTG9BRU12ZWtvT0V6cC10YWdoVE52SzZ5UmRQRkpwX3oybzdZZTlj0gHIAUFVX3lxTE5Uby1UdmNxQjVlUS1fa1BxZnhDQVc5VFNHOXpldlpfNGlSZE5wZ3ZaZFA2cUJVWElfVktXbFl6MDFBbVB1QlgzNHpzVW05T1NkQ3ZVUzJWaER4SjlkRldvWWRuMkNKTW5lZEM0eUEzNVVxUDVHaXotWDVtdnVPMk82N3RpbkI1Q0x0NURfNV9rdzNSMEtFNTB0czVVNFFoR3d6c1ZFNWI0VmY1VnE2cU5xZUtGUllZVUVVbXpsNlNDcV9sMmFCMkdE",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-11-21T14:53:32.492Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "New Age BD",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON080Y1l6N1FfSE5hOThPZ3VGT2lMMDRWbE5OS1UwWU9ScThZcWlxZXNMRjRJUjQ0VGtxdDcxY2toWDh1X0kyTVZIcER4XzhnWkNEbHVUemhxS3NjNTB4UFVWVDNGZVhlU29rTy1MQWtYb05XbHNWWjF6elE5Q3BNbFBtN1E5eS1iVHlNMXN4a3hnMWtEMk1NUnlnV0lzeHE5cm1DR1MtQU9wMHdNbHVxdA?oc=5",
+    "urlSlug": null,
+    "title": "Adzi Trims scores 97 in LEED, claims world’s highest in trims sector",
+    "summary": "",
+    "publishedAt": "2026-11-20T23:28:00.000Z",
+    "categories": [],
+    "guid": "CBMisAFBVV95cUxON080Y1l6N1FfSE5hOThPZ3VGT2lMMDRWbE5OS1UwWU9ScThZcWlxZXNMRjRJUjQ0VGtxdDcxY2toWDh1X0kyTVZIcER4XzhnWkNEbHVUemhxS3NjNTB4UFVWVDNGZVhlU29rTy1MQWtYb05XbHNWWjF6elE5Q3BNbFBtN1E5eS1iVHlNMXN4a3hnMWtEMk1NUnlnV0lzeHE5cm1DR1MtQU9wMHdNbHVxdA",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-21T14:53:32.492Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Textile Today",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2w4eUhzQkV3Ykk0ZFZYbjFkZTdXbG94UzhKWUl2dUpCU1dsMExUa3ZTRXdoZ3Nzdm9SdXFLM1JHMXYyRW5Nekhrd21ER0VlcElqOTk3N3NGeVFKell0RUprX243OTJQZHhUOUtTeUt6Q2JSWUV5SU9heWpnVmp2aTFoR3RUb1NhdC11QnpjaW1HaFh3WUN6eHRBczgyZ2l2YUNya1RvYzBMZFU?oc=5",
+    "urlSlug": null,
+    "title": "Adzi Trims achieves world’s highest LEED score in trims and packaging sector",
+    "summary": "",
+    "publishedAt": "2026-11-20T20:35:59.000Z",
+    "categories": [],
+    "guid": "CBMiqwFBVV95cUxOZ2w4eUhzQkV3Ykk0ZFZYbjFkZTdXbG94UzhKWUl2dUpCU1dsMExUa3ZTRXdoZ3Nzdm9SdXFLM1JHMXYyRW5Nekhrd21ER0VlcElqOTk3N3NGeVFKell0RUprX243OTJQZHhUOUtTeUt6Q2JSWUV5SU9heWpnVmp2aTFoR3RUb1NhdC11QnpjaW1HaFh3WUN6eHRBczgyZ2l2YUNya1RvYzBMZFU",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-21T14:53:32.492Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "openclassactions.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmdsX2ItRmxrcS1MRGxjeDI5VERkTmFkUEVTWlVMdGMtQ1JNOFZ1V3IyU0p4YXhWUFNLNkRrZEEtelUxRkZNTjdTRVV4NmFxWmJsSk9lbHd4ZFdnNE4tekw2MHl0c2JUeTRkQWJuYmR2cWJhSzFEYnVWdHFHMHV2T081ZGxrR1dLYXBQcllSUlVWSTVXTzlJZlNYT0RMaThSOGVNb2ZTdVlQRjdTS3lxOUotOUVpZ0pqeDVibA?oc=5",
+    "urlSlug": null,
+    "title": "Amazon Sued Over ‘Sustainable’ and ‘MSC Certified’ Claims on Tuna, Salmon and Other Seafood It Sells",
+    "summary": "",
+    "publishedAt": "2026-11-20T19:39:07.000Z",
+    "categories": [],
+    "guid": "CBMivAFBVV95cUxNUmdsX2ItRmxrcS1MRGxjeDI5VERkTmFkUEVTWlVMdGMtQ1JNOFZ1V3IyU0p4YXhWUFNLNkRrZEEtelUxRkZNTjdTRVV4NmFxWmJsSk9lbHd4ZFdnNE4tekw2MHl0c2JUeTRkQWJuYmR2cWJhSzFEYnVWdHFHMHV2T081ZGxrR1dLYXBQcllSUlVWSTVXTzlJZlNYT0RMaThSOGVNb2ZTdVlQRjdTS3lxOUotOUVpZ0pqeDVibA",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-11-21T14:53:32.492Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Source - Bend, Oregon",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlRaX3VSdzZwUjZLOGZVU0FmSzNaS1g1MzFVVGpNU0xiMzJBOFNwdE1FTy1zakROMlFRZk0wR3Z2ZWh0ZVo0ZGJ5T1pKVHlGUDQ3LVVSWnZjbjViVXhIczU2N3hqOUZfSTdSYjNWNm5Eb0V5N3ZJMnZSVFZLRllpYXFoa09sT1BYSVJnaTZZVmNDTWNIQzMyZmJ5dmRCRHotYjBuUw?oc=5",
+    "urlSlug": null,
+    "title": "Central Library Achieves LEED Platinum Certification - The Source - Bend, Oregon",
+    "summary": "",
+    "publishedAt": "2026-11-20T19:05:28.000Z",
+    "categories": [],
+    "guid": "CBMipAFBVV95cUxQVlRaX3VSdzZwUjZLOGZVU0FmSzNaS1g1MzFVVGpNU0xiMzJBOFNwdE1FTy1zakROMlFRZk0wR3Z2ZWh0ZVo0ZGJ5T1pKVHlGUDQ3LVVSWnZjbjViVXhIczU2N3hqOUZfSTdSYjNWNm5Eb0V5N3ZJMnZSVFZLRllpYXFoa09sT1BYSVJnaTZZVmNDTWNIQzMyZmJ5dmRCRHotYjBuUw",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-21T14:53:32.492Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Daily Star",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXZKTzRGaEVBemF5dUk2T2FJeGJyeEg1WjVxazQwTEVXY3VOa2Z0WG9kV2h2MkJCTno2bEZiSENfLWs1TFV2Vl9pQ1ZEblRvWk0zdXk5WGxFU1l1SWdGTWFqa25DWU9wdFhuVnFpb191TzcxQTZLX2ZoTWRvUGNBRzl0dHJYN1NQVmFJVy1IZmNLeVg4d0EwcTE1ZFI3cnpDcEhNVHVIMG9CUFMtZmpOcnRlNDZ1S09fNUpDZU1pbnE?oc=5",
+    "urlSlug": null,
+    "title": "Bangladesh now has 302 LEED-certified green factories, the most in the world",
+    "summary": "",
+    "publishedAt": "2026-11-20T18:31:26.000Z",
+    "categories": [],
+    "guid": "CBMiwAFBVV95cUxPTXZKTzRGaEVBemF5dUk2T2FJeGJyeEg1WjVxazQwTEVXY3VOa2Z0WG9kV2h2MkJCTno2bEZiSENfLWs1TFV2Vl9pQ1ZEblRvWk0zdXk5WGxFU1l1SWdGTWFqa25DWU9wdFhuVnFpb191TzcxQTZLX2ZoTWRvUGNBRzl0dHJYN1NQVmFJVy1IZmNLeVg4d0EwcTE1ZFI3cnpDcEhNVHVIMG9CUFMtZmpOcnRlNDZ1S09fNUpDZU1pbnE",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-21T14:53:32.492Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "New Age BD",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFdZU1o1NGpOcmtZUHdNTTVpeHZwOHZnRmdkNmg0bDFucXlMak13N1BERWNkcWNLMW1WQ19Cb1k3SVpfRDNpV0ZiMnR1Z0xjVTBXRk0zWGZWVHV1UlBpalZtQVlHWW5jQk0xZWphYzQxcEJIYnVrTlRpd1dmXzFyVW45cmplbHZnckhKQlVQT2dPVlNmUWlqVUZsaTJDcGFSN0hmOWpGMnhZR3VzUFMzZA?oc=5",
+    "urlSlug": null,
+    "title": "Bangladesh attains milestone as LEED-certified factories cross 300",
+    "summary": "",
+    "publishedAt": "2026-11-20T18:00:00.000Z",
+    "categories": [],
+    "guid": "CBMisAFBVV95cUxPeFdZU1o1NGpOcmtZUHdNTTVpeHZwOHZnRmdkNmg0bDFucXlMak13N1BERWNkcWNLMW1WQ19Cb1k3SVpfRDNpV0ZiMnR1Z0xjVTBXRk0zWGZWVHV1UlBpalZtQVlHWW5jQk0xZWphYzQxcEJIYnVrTlRpd1dmXzFyVW45cmplbHZnckhKQlVQT2dPVlNmUWlqVUZsaTJDcGFSN0hmOWpGMnhZR3VzUFMzZA",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-21T14:53:32.492Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Daily Observer",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4ZHlZU3hWQXM3d3JsZnA3amt2NzlXTkpBb3VOczlpNEc2ZVhleVVESHhybWVoOG5oT3hHLTB1WU4yZTMydmRDREtB?oc=5",
+    "urlSlug": null,
+    "title": "Local LEED-certified green factories top 300",
+    "summary": "",
+    "publishedAt": "2026-11-20T18:00:00.000Z",
+    "categories": [],
+    "guid": "CBMiSkFVX3lxTFA4ZHlZU3hWQXM3d3JsZnA3amt2NzlXTkpBb3VOczlpNEc2ZVhleVVESHhybWVoOG5oT3hHLTB1WU4yZTMydmRDREtB",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-21T14:53:32.492Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "SeafoodSource",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXYwcW5Pc3VlUzhndVh5VWd5MnBhYkdpMWRncjl2YXhIM3BBZVZEZGJSb3FsRFFCLUpzRkNmd1Q1ZXgyb1NnLW5rUUZDY2ZJVjh0TmVlLTNMelJvNXJqZUcwUWU4cEd2eHdyOFdUcEh1QWdvR1k4bldxbm1COGFxNGZrY2xFa2ZsWXRFOVJTR1J6eGJXMXJWTmlqdkZlZXFQMWYzRUxteEM0aW92RlE?oc=5",
+    "urlSlug": null,
+    "title": "MSC survey: Singapore consumers want traceable, sustainable seafood products",
+    "summary": "",
+    "publishedAt": "2026-11-20T16:53:23.000Z",
+    "categories": [],
+    "guid": "CBMirgFBVV95cUxOSXYwcW5Pc3VlUzhndVh5VWd5MnBhYkdpMWRncjl2YXhIM3BBZVZEZGJSb3FsRFFCLUpzRkNmd1Q1ZXgyb1NnLW5rUUZDY2ZJVjh0TmVlLTNMelJvNXJqZUcwUWU4cEd2eHdyOFdUcEh1QWdvR1k4bldxbm1COGFxNGZrY2xFa2ZsWXRFOVJTR1J6eGJXMXJWTmlqdkZlZXFQMWYzRUxteEM0aW92RlE",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-11-21T14:53:32.492Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "IntraFish",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDh4OHB3aEhCZ1pwTnJNTWhOcWozVE5pSVItOXhaazRHV1V1TlE4RC1NSTNYWGJhV3JSVGxrdGNzNUlLdk51Ynl0V1M3WWFKbmozWU94T0l0aTk1NDYwcVkwQjgtSmRBOUR5Yi14VVJMVy0zOW5QcE4wU0NoT3JTQ2YwVmhCcHFu?oc=5",
@@ -1481,6 +1711,29 @@
     "outletId": "google-news",
     "outletName": "Deccan Chronicle",
     "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmFpR3hGS1N2NVdrUU9vUXZVQzJLdVdLOFhrblk1OVZGcXVOUmVZczZiNGJzR1JqeVZOWEZjb3prby1EUVNIWnhSdWZyWW5QU3ZZVHFsNW11YlU3RmdiYU10UzVWSEFVakRPMXFMYVBtVFFuMVk4UmdDLTRxRFY4Vkt4SmRQQi1oTXA0VW5uTnQ5XzdTVVk4SHZCUmZoeTluZWtkSkh4UUtiYXh2bEl2emwzUmJWVkNYUWFsMFNpeFLSAcYBQVVfeXFMTlNrWG5tc2xiWHliNVlRNVNlTXJmb0taUUlNTWxLSFhUZFBfZ1htdkFmTDk2VDNvSnJDQTc5Vk9FV0xnNHRkOVV3WkptSnpkNjdWZnMtSDQtaExCMnJHRWhCbEh2SnRobl9IZ3VjeFlzNGJLNFdBN3NCR1Z5dlFrMVY0clE2NjRJSnYzVUtoTS1NU2g1UHhBZXNtUmNNVWtXckp5MUxKR1ZuMWZYbHhLRV9KMk1PQm9YUVpWTGRLX1hyVDJJdm5R?oc=5",
+    "urlSlug": null,
+    "title": "3 More Beaches Get Blue Flag Certification in Tamil Nadu",
+    "summary": "",
+    "publishedAt": "2026-11-13T08:00:00.000Z",
+    "categories": [],
+    "guid": "CBMiwAFBVV95cUxPNmFpR3hGS1N2NVdrUU9vUXZVQzJLdVdLOFhrblk1OVZGcXVOUmVZczZiNGJzR1JqeVZOWEZjb3prby1EUVNIWnhSdWZyWW5QU3ZZVHFsNW11YlU3RmdiYU10UzVWSEFVakRPMXFMYVBtVFFuMVk4UmdDLTRxRFY4Vkt4SmRQQi1oTXA0VW5uTnQ5XzdTVVk4SHZCUmZoeTluZWtkSkh4UUtiYXh2bEl2emwzUmJWVkNYUWFsMFNpeFLSAcYBQVVfeXFMTlNrWG5tc2xiWHliNVlRNVNlTXJmb0taUUlNTWxLSFhUZFBfZ1htdkFmTDk2VDNvSnJDQTc5Vk9FV0xnNHRkOVV3WkptSnpkNjdWZnMtSDQtaExCMnJHRWhCbEh2SnRobl9IZ3VjeFlzNGJLNFdBN3NCR1Z5dlFrMVY0clE2NjRJSnYzVUtoTS1NU2g1UHhBZXNtUmNNVWtXckp5MUxKR1ZuMWZYbHhLRV9KMk1PQm9YUVpWTGRLX1hyVDJJdm5R",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-11-21T14:53:32.492Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Deccan Chronicle",
+    "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU2tYbm1zbGJYeWI1WVE1U2VNcmZvS1pRSU1NbEtIWFRkUF9nWG12QWZMOTZUM29KckNBNzlWT0VXTGc0dGQ5VXdaSm1KemQ2N1Zmcy1INC1oTEIyckdFaEJsSHZKdGhuX0hndWN4WXM0Yks0V0E3c0JHVnl2UWsxVjRyUTY2NElKdjNVS2hNLU1TaDVQeEFlc21SY01Va1dySnkxTEpHVm4xZlhseEtFX0oyTU9Cb1hRWlZMZEtfWHJUMkl2blHSAcYBQVVfeXFMTlNrWG5tc2xiWHliNVlRNVNlTXJmb0taUUlNTWxLSFhUZFBfZ1htdkFmTDk2VDNvSnJDQTc5Vk9FV0xnNHRkOVV3WkptSnpkNjdWZnMtSDQtaExCMnJHRWhCbEh2SnRobl9IZ3VjeFlzNGJLNFdBN3NCR1Z5dlFrMVY0clE2NjRJSnYzVUtoTS1NU2g1UHhBZXNtUmNNVWtXckp5MUxKR1ZuMWZYbHhLRV9KMk1PQm9YUVpWTGRLX1hyVDJJdm5R?oc=5",
     "urlSlug": null,
     "title": "3 More Beaches Get Blue Flag Certification in Tamil Nadu",
@@ -1989,6 +2242,29 @@
       }
     ],
     "fetchedAt": "2026-11-12T15:31:41.510Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "RGE (Royal Golden Eagle) Group",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmZYeHhMMnpsY3htdXRQLUhNUGtpTFVRQ1VJODRlQWItNTF3SGJHSVd4UnNaa0FkcHFjVENJQm9ESnpXd0hTSTVPT09URTE2TzNac1JudDNSVDZmN3pqOUt1M2VJQ3RmaVNKZjVOYloyLXd0bGYtQmgyMVNqdjFrR0ZpVVhCZmE4SFFXdXdULWhaNGQwckxVQ0FlcklTcjlkeDhiOTFSRzBmRGp3RVRvTjlGZk94R0RWcU5RRQ?oc=5",
+    "urlSlug": null,
+    "title": "Asia Symbol’s PaperOne copy paper gets world’s first CFCC and PEFC certification logos",
+    "summary": "",
+    "publishedAt": "2026-11-11T16:23:48.000Z",
+    "categories": [],
+    "guid": "CBMivAFBVV95cUxNMmZYeHhMMnpsY3htdXRQLUhNUGtpTFVRQ1VJODRlQWItNTF3SGJHSVd4UnNaa0FkcHFjVENJQm9ESnpXd0hTSTVPT09URTE2TzNac1JudDNSVDZmN3pqOUt1M2VJQ3RmaVNKZjVOYloyLXd0bGYtQmgyMVNqdjFrR0ZpVVhCZmE4SFFXdXdULWhaNGQwckxVQ0FlcklTcjlkeDhiOTFSRzBmRGp3RVRvTjlGZk94R0RWcU5RRQ",
+    "searchedLabel": "pefc",
+    "matches": [
+      {
+        "labelId": "pefc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "PEFC"
+      }
+    ],
+    "fetchedAt": "2026-11-21T14:53:32.492Z"
   },
   {
     "outletId": "google-news",
@@ -9031,314 +9307,5 @@
       }
     ],
     "fetchedAt": "2026-10-15T11:55:47.659Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "FashionNetwork USA",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUktCWGtORXFiU3BBaUFmNzF6NGgzR09CZU14RXBqeWd2a0FTU00yMGRBYS1Sd3dpTmNIUjY1TWNmQXoyb2tjNWQ3alh3Ri1WS0pPVnF5SjJtRy13bk8tZVY4ak4tZGFTdllsYjFvTkxTNjFSa1lPbWRheWktWkZ2TkJWMHpZaEwtdU4yQTZhWTBkaERidVFOVWVMZ1NtQ0FoVzF2VnVncEVkNWRCaHJVQmNtXzNNZU5WUkwydld0VVBsdXNUSFhBc3FaMmp5dklFOEl2TVVOZi1VM1Q1Sk56X2lEd1U1VGtaaUVKVkhDbmxJd1FJZHc?oc=5",
-    "urlSlug": null,
-    "title": "The Better Cotton Initiative is reshaping its model to establish itself as a benchmark for regenerative agriculture",
-    "summary": "",
-    "publishedAt": "2026-10-12T17:22:29.000Z",
-    "categories": [],
-    "guid": "CBMi9gFBVV95cUxPUktCWGtORXFiU3BBaUFmNzF6NGgzR09CZU14RXBqeWd2a0FTU00yMGRBYS1Sd3dpTmNIUjY1TWNmQXoyb2tjNWQ3alh3Ri1WS0pPVnF5SjJtRy13bk8tZVY4ak4tZGFTdllsYjFvTkxTNjFSa1lPbWRheWktWkZ2TkJWMHpZaEwtdU4yQTZhWTBkaERidVFOVWVMZ1NtQ0FoVzF2VnVncEVkNWRCaHJVQmNtXzNNZU5WUkwydld0VVBsdXNUSFhBc3FaMmp5dklFOEl2TVVOZi1VM1Q1Sk56X2lEd1U1VGtaaUVKVkhDbmxJd1FJZHc",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Better Cotton"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Retail News Asia",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORW1oY3B5allOSWxZdUMxR0pTQUVFSm9qMUdSTWRxUUdoNExYbjZkblAwUF91OXhPZ1M0TlI5ZWFqZ3NkTjlSUnR2WGNXQzNjLTgtR2JNLTRXWEwxWWRwLTRuUkZrN2lhN0ZuM3g4Nk5DcnpxYjNXRlNrU2J0Xy12cUFFMGJYRXM?oc=5",
-    "urlSlug": null,
-    "title": "Oeko-Tex Records 13 Percent Rise in Made in Green Demand",
-    "summary": "",
-    "publishedAt": "2026-10-12T17:14:23.000Z",
-    "categories": [],
-    "guid": "CBMihwFBVV95cUxORW1oY3B5allOSWxZdUMxR0pTQUVFSm9qMUdSTWRxUUdoNExYbjZkblAwUF91OXhPZ1M0TlI5ZWFqZ3NkTjlSUnR2WGNXQzNjLTgtR2JNLTRXWEwxWWRwLTRuUkZrN2lhN0ZuM3g4Nk5DcnpxYjNXRlNrU2J0Xy12cUFFMGJYRXM",
-    "searchedLabel": "gots",
-    "matches": [
-      {
-        "labelId": "oeko-tex",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Oeko-Tex"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Forest Stewardship Council (FSC)",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORjdFU2VFLVRoSjZFbUhSQmxod1MtTFg5T3RYeTN6Uk9aSGlIZ09WTFlXSWNoUkJGN1lkVU1QbXpNd1VwRHZCeHFoX0toellNQkxzTFdURmR0NzE1SEFFcl9peE40UWU1TzFCMU1ObmkwRW1GckE5MHc4aGhpZGotVV9lVkh2cmRsV0paQ2M2dXZXZ0xoX1RoRmI4UDFzRjdTbmt2bzBmeG1qM1U?oc=5",
-    "urlSlug": null,
-    "title": "FSC welcomes Claudiu Luntraru as Country Manager for FSC Romania",
-    "summary": "",
-    "publishedAt": "2026-10-12T13:07:30.000Z",
-    "categories": [],
-    "guid": "CBMiqwFBVV95cUxORjdFU2VFLVRoSjZFbUhSQmxod1MtTFg5T3RYeTN6Uk9aSGlIZ09WTFlXSWNoUkJGN1lkVU1QbXpNd1VwRHZCeHFoX0toellNQkxzTFdURmR0NzE1SEFFcl9peE40UWU1TzFCMU1ObmkwRW1GckE5MHc4aGhpZGotVV9lVkh2cmRsV0paQ2M2dXZXZ0xoX1RoRmI4UDFzRjdTbmt2bzBmeG1qM1U",
-    "searchedLabel": "fsc",
-    "matches": [
-      {
-        "labelId": "fsc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "FSC"
-      }
-    ],
-    "fetchedAt": "2026-10-12T15:54:42.985Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Cape Town ETC",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVTR6dEhxbGVCOTljalNJTm56OHk1dFdlQVNFRnZScldDdWdXMjFhOEYySkZKSk1mUTlCNU83MVRabENWRUdPLUF6VzNwR29UTkYxLVhCU2NvbmFxQXRVMWExOWNWYjFCWTdUcUZhdVpJblB4NHNtY2Z6RHZTT2JFUTBYN2g3RTdDeElGazlJc05IcUlEU3pzbE9DaUlRRFk?oc=5",
-    "urlSlug": null,
-    "title": "8 Cape Town beaches retain blue flag status, with more on the way",
-    "summary": "",
-    "publishedAt": "2026-10-12T13:00:47.000Z",
-    "categories": [],
-    "guid": "CBMinwFBVV95cUxOVTR6dEhxbGVCOTljalNJTm56OHk1dFdlQVNFRnZScldDdWdXMjFhOEYySkZKSk1mUTlCNU83MVRabENWRUdPLUF6VzNwR29UTkYxLVhCU2NvbmFxQXRVMWExOWNWYjFCWTdUcUZhdVpJblB4NHNtY2Z6RHZTT2JFUTBYN2g3RTdDeElGazlJc05IcUlEU3pzbE9DaUlRRFk",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-12T15:54:42.985Z"
-  },
-  {
-    "outletId": "edie",
-    "outletName": "Edie",
-    "url": "https://www.edie.net/wrap-launches-uk-textile-collection-and-recycling-programme/",
-    "urlSlug": "wrap-launches-uk-textile-collection-and-recycling-programme",
-    "title": "WRAP launches UK textile collection and recycling programme",
-    "summary": "WRAP has launched a programme to redesign the UK’s post-consumer textile collection system, as falling prices for used clothing and rising collection and sorting costs put pressure on the sector.",
-    "publishedAt": "2026-10-12T10:28:28.000Z",
-    "categories": [
-      "Circular economy",
-      "Circular supply chains",
-      "Climate & nature",
-      "Collaboration and partnerships",
-      "Strategy and delivery",
-      "Waste Management",
-      "Circular Economy",
-      "climate action",
-      "collaboration",
-      "fashion",
-      "Primark",
-      "supply chains",
-      "tesco",
-      "textiles",
-      "textiles recycling",
-      "waste management",
-      "WRAP"
-    ],
-    "guid": "https://www.edie.net/?p=304590",
-    "sourceName": null,
-    "sourceUrl": null,
-    "matches": [
-      {
-        "labelId": "wrap",
-        "bucket": "ACRONYM",
-        "tier": "structured-field",
-        "where": "category",
-        "matchedText": "WRAP",
-        "sourceText": "WRAP"
-      },
-      {
-        "labelId": "wrap",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "WRAP"
-      },
-      {
-        "labelId": "wrap",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "summary",
-        "matchedText": "WRAP"
-      }
-    ],
-    "fetchedAt": "2026-10-12T15:54:42.985Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "SeafoodSource",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX3NXNnJydlhHZU1vWWlHX2hHSzZ1OEhkN3R3dUs0WHp4RW84emZTM1FXWFJUakZkQnFfMWctbUpMWGdKRkRuUG1ucmFTQnV0M2FCSTVCMDBYSkcwUVRtWS1HbDZfdFR1d2lrSVRsLUlMejVzdmlYeDJrWldhLUg2UEtaVndCRDZOMzBNb2o2Z1NpbGZMWTY3d0kwdENxRGRybm5XTHdYd0FKek5mbFYycGtxQm5FX1IybHhCVmg4U3Z4NDFORzJ6ZWFKUnVwcmdaU1ZUSUVzYzAtVE5hbG1GNXpsZzZuSnZNd2NoR0ZiVQ?oc=5",
-    "urlSlug": null,
-    "title": "ASC reveals strong year of farm-level improvements in latest Impact Report, targets deeper aquaculture impact moving forward",
-    "summary": "",
-    "publishedAt": "2026-10-12T10:01:49.000Z",
-    "categories": [],
-    "guid": "CBMi7wFBVV95cUxPX3NXNnJydlhHZU1vWWlHX2hHSzZ1OEhkN3R3dUs0WHp4RW84emZTM1FXWFJUakZkQnFfMWctbUpMWGdKRkRuUG1ucmFTQnV0M2FCSTVCMDBYSkcwUVRtWS1HbDZfdFR1d2lrSVRsLUlMejVzdmlYeDJrWldhLUg2UEtaVndCRDZOMzBNb2o2Z1NpbGZMWTY3d0kwdENxRGRybm5XTHdYd0FKek5mbFYycGtxQm5FX1IybHhCVmg4U3Z4NDFORzJ6ZWFKUnVwcmdaU1ZUSUVzYzAtVE5hbG1GNXpsZzZuSnZNd2NoR0ZiVQ",
-    "searchedLabel": "asc",
-    "matches": [
-      {
-        "labelId": "asc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ASC"
-      }
-    ],
-    "fetchedAt": "2026-10-12T15:54:42.985Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Fibre2Fashion",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUlYxLTRuUm1TNWZwM00zQ0JvcS1XbXVsZ0FDaUk5Sl9TcVVMRVVDQ191ZzE5TGdIRHZVVWQzX0diV3JJWHl1enhRT01ELXVoOUh6elA3WklVdXFVVVNPNTdmVXBtMjd2ZU5ubjROaC1FcGFMRHp0QmpWM0ZWY0daLUU0d1hVOUI1eGxpZTdfZXpMRGFHNm5UZWNHMEQ3VVJvSVE3MXhQc2RIeE55ODd1aUVBS0RzdjdfNy1QWmkwVGFCdw?oc=5",
-    "urlSlug": null,
-    "title": "OEKO-TEX launches 'Trust in Every Thread' campaign film",
-    "summary": "",
-    "publishedAt": "2026-10-12T09:27:18.000Z",
-    "categories": [],
-    "guid": "CBMiwgFBVV95cUxPUlYxLTRuUm1TNWZwM00zQ0JvcS1XbXVsZ0FDaUk5Sl9TcVVMRVVDQ191ZzE5TGdIRHZVVWQzX0diV3JJWHl1enhRT01ELXVoOUh6elA3WklVdXFVVVNPNTdmVXBtMjd2ZU5ubjROaC1FcGFMRHp0QmpWM0ZWY0daLUU0d1hVOUI1eGxpZTdfZXpMRGFHNm5UZWNHMEQ3VVJvSVE3MXhQc2RIeE55ODd1aUVBS0RzdjdfNy1QWmkwVGFCdw",
-    "searchedLabel": "oeko-tex",
-    "matches": [
-      {
-        "labelId": "oeko-tex",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Oeko-Tex"
-      }
-    ],
-    "fetchedAt": "2026-10-17T11:04:57.945Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "False Bay Echo",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONXNhYjkwTU5aUmlVMWhWLTdzeDVfbUR1VnRFU3dvSDI3ZkRmN25ndnd4RG1SWWlCbU1hbkxpUEYwTE5iTWhhcEIyVDlITU1lUFNLQ1lzZi16a1IySWtfYjJzSzZoNDA4TnVHd0RrSmtTLVNBMzFOVnAtSVJFc0dXM2RfVzR0d1RDSGR3eWRZVUhQUVFFeVd0Qmw5R0otS29sRGc?oc=5",
-    "urlSlug": null,
-    "title": "Muizenberg and Fish Hoek beaches retain Blue Flag status",
-    "summary": "",
-    "publishedAt": "2026-10-12T09:21:15.000Z",
-    "categories": [],
-    "guid": "CBMiogFBVV95cUxONXNhYjkwTU5aUmlVMWhWLTdzeDVfbUR1VnRFU3dvSDI3ZkRmN25ndnd4RG1SWWlCbU1hbkxpUEYwTE5iTWhhcEIyVDlITU1lUFNLQ1lzZi16a1IySWtfYjJzSzZoNDA4TnVHd0RrSmtTLVNBMzFOVnAtSVJFc0dXM2RfVzR0d1RDSGR3eWRZVUhQUVFFeVd0Qmw5R0otS29sRGc",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-12T15:54:42.985Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Global Sources",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxONExkMUxlMHVmV1VzV2xlanYtYThxZjBqaVl1N21GbVlFbWRWRFA3ZGRNZ3NKcHBzYVJvTDdmSjZpUUZmaWJ0Q1VGSUU5V3pUTEZIdXJFUW1pQ2oxWFRiSVhLendFZ3dDSFJySW5jN3RqZmo1MHBWeF9zUmNZUzlTVUx5UTFhc3NzTVZZZWZ6c1FtNnM3V2FhQlZ6cklpNndDMk9rckt5WFB0RHZTNHBjaTFydmNzN3dSa0hKellVTkdWdjJRRE81U2tYMUY3b051RENfUWZSR0E5UGxzV25HMTJlNkFEUVdWZGdER2Y5bWh5TDhpX3JCSEI4eFBWUzhuUE9DR0thN0ZUQQ?oc=5",
-    "urlSlug": null,
-    "title": "Cradle to Cradle and Boston Consulting Group study highlights economic potential of unused European smartphones",
-    "summary": "",
-    "publishedAt": "2026-10-12T08:55:42.000Z",
-    "categories": [],
-    "guid": "CBMiigJBVV95cUxONExkMUxlMHVmV1VzV2xlanYtYThxZjBqaVl1N21GbVlFbWRWRFA3ZGRNZ3NKcHBzYVJvTDdmSjZpUUZmaWJ0Q1VGSUU5V3pUTEZIdXJFUW1pQ2oxWFRiSVhLendFZ3dDSFJySW5jN3RqZmo1MHBWeF9zUmNZUzlTVUx5UTFhc3NzTVZZZWZ6c1FtNnM3V2FhQlZ6cklpNndDMk9rckt5WFB0RHZTNHBjaTFydmNzN3dSa0hKellVTkdWdjJRRE81U2tYMUY3b051RENfUWZSR0E5UGxzV25HMTJlNkFEUVdWZGdER2Y5bWh5TDhpX3JCSEI4eFBWUzhuUE9DR0thN0ZUQQ",
-    "searchedLabel": "cradle-to-cradle",
-    "matches": [
-      {
-        "labelId": "cradle-to-cradle",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Cradle to Cradle"
-      }
-    ],
-    "fetchedAt": "2026-10-12T15:54:42.985Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Fibre2Fashion",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS1RkUE00YjQ0eERrUEZEU3pyNEdPNHRLS1drcW00c2hsNlQwRVltcV9SbTkwZXRqVkxZd2JOMVp3bUEyc1FTRXlNQWpiN3Z0bUNXd2xlenoxaThhU093OWpzSVhUUlR3LVBIVW1QSXVvNk5FUXF5Rk9tbG9HRHp3emdKaXhPaWZOR1VIM3lKcWhfT0kzUDI5bC1sOVhaeUc0Z3A2YkxPSVdKVlU5MXR5eWtRenBsUnRtV3h4RzEwRGFIdGNiVWRIMEg4bURiMWl6dlhlN0JnZw?oc=5",
-    "urlSlug": null,
-    "title": "OEKO-TEX launches 'Trust in Every Thread' campaign film",
-    "summary": "",
-    "publishedAt": "2026-10-12T08:44:52.000Z",
-    "categories": [],
-    "guid": "CBMi1wFBVV95cUxNS1RkUE00YjQ0eERrUEZEU3pyNEdPNHRLS1drcW00c2hsNlQwRVltcV9SbTkwZXRqVkxZd2JOMVp3bUEyc1FTRXlNQWpiN3Z0bUNXd2xlenoxaThhU093OWpzSVhUUlR3LVBIVW1QSXVvNk5FUXF5Rk9tbG9HRHp3emdKaXhPaWZOR1VIM3lKcWhfT0kzUDI5bC1sOVhaeUc0Z3A2YkxPSVdKVlU5MXR5eWtRenBsUnRtV3h4RzEwRGFIdGNiVWRIMEg4bURiMWl6dlhlN0JnZw",
-    "searchedLabel": "oeko-tex",
-    "matches": [
-      {
-        "labelId": "oeko-tex",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Oeko-Tex"
-      }
-    ],
-    "fetchedAt": "2026-10-12T15:54:42.985Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Fibre2Fashion",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb3V5Y2JuYUU0X1ZrVGhpVnhJQ2s4cjA5ZjJ3NTYtTVVuRVVaZnMtdFJQRTViX3FEQk9GYTZOMFRfa182SG02U1ota0ltRmdBYy1YdWVKc0J1NkN0SC1RM3pqUDNRbVZVUnl6MFhtTjFSSG1YTnhJSU12NmxQOXRNVTJraVJQUnBLUUdoMUVseFhGc2haX0YxRVVfOWt1d3Z5ZGpNbG5NNE5od1h4bzhDN1g3VXplOTgwRGY1X2RVQWt6XzgtdUhVUEtEcw?oc=5",
-    "urlSlug": null,
-    "title": "OEKO-TEX launches 'Trust in Every Thread' campaign film",
-    "summary": "",
-    "publishedAt": "2026-10-12T08:27:55.000Z",
-    "categories": [],
-    "guid": "CBMiywFBVV95cUxPb3V5Y2JuYUU0X1ZrVGhpVnhJQ2s4cjA5ZjJ3NTYtTVVuRVVaZnMtdFJQRTViX3FEQk9GYTZOMFRfa182SG02U1ota0ltRmdBYy1YdWVKc0J1NkN0SC1RM3pqUDNRbVZVUnl6MFhtTjFSSG1YTnhJSU12NmxQOXRNVTJraVJQUnBLUUdoMUVseFhGc2haX0YxRVVfOWt1d3Z5ZGpNbG5NNE5od1h4bzhDN1g3VXplOTgwRGY1X2RVQWt6XzgtdUhVUEtEcw",
-    "searchedLabel": "oeko-tex",
-    "matches": [
-      {
-        "labelId": "oeko-tex",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Oeko-Tex"
-      }
-    ],
-    "fetchedAt": "2026-10-24T11:25:45.503Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "2oceansvibe News",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGpuZjVuM3kwMUQ2V0k5S0NiWDFpMm1fdkUtMHZrMEgzZDZXZ3JubzN3OWNWLUkyb0poT1FyMl8tZkttdmNYVENsc0hXc1FYRDhQNUJBYnptbnE0d2hQajdTLXpxd3g2UWNIR3ZfcFBaY2Q5VkNCMDYwLUZYck5VdVpCVVZYT3FURHZrSU0zbGY0UXJmS2xFTEV0UWVaN0R5dU9uT2JtLWhCVDVhaUE?oc=5",
-    "urlSlug": null,
-    "title": "4 More Cape Town Beaches Edge Closer To Blue Flag Status",
-    "summary": "",
-    "publishedAt": "2026-10-12T08:13:25.000Z",
-    "categories": [],
-    "guid": "CBMirgFBVV95cUxNdGpuZjVuM3kwMUQ2V0k5S0NiWDFpMm1fdkUtMHZrMEgzZDZXZ3JubzN3OWNWLUkyb0poT1FyMl8tZkttdmNYVENsc0hXc1FYRDhQNUJBYnptbnE0d2hQajdTLXpxd3g2UWNIR3ZfcFBaY2Q5VkNCMDYwLUZYck5VdVpCVVZYT3FURHZrSU0zbGY0UXJmS2xFTEV0UWVaN0R5dU9uT2JtLWhCVDVhaUE",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-12T15:54:42.985Z"
   }
 ]
