@@ -1,6 +1,75 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "High Plains Journal",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhZ2pIVHV5WjNFd0RMVVJ2X2tmVklFNGo0S29rU3VydzRCX3JIS0owVWZZSTBfd1ZUb2kzUWhzNFZ0N1RYRFRCZU1BZUZZWWZyYmJmSUFqWnhlbUtCMHJ5Nk9lOF9uZEpHQmE3cXI5SzUxVGc?oc=5",
+    "urlSlug": null,
+    "title": "Better Cotton Initiative partners with FarmRaise to simplify U.S. growers’ experience",
+    "summary": "",
+    "publishedAt": "2026-11-22T14:31:24.000Z",
+    "categories": [],
+    "guid": "CBMic0FVX3lxTFBhZ2pIVHV5WjNFd0RMVVJ2X2tmVklFNGo0S29rU3VydzRCX3JIS0owVWZZSTBfd1ZUb2kzUWhzNFZ0N1RYRFRCZU1BZUZZWWZyYmJmSUFqWnhlbUtCMHJ5Nk9lOF9uZEpHQmE3cXI5SzUxVGc",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Better Cotton"
+      }
+    ],
+    "fetchedAt": "2026-11-22T14:49:32.802Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Paris Select Book",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQMk5SeC1YajdwdEdTU0JZekk3QU0wdWhiNi1vdXNUSlFPeG5aU0hOT1NCejBkQTIyRmZidHNoTjlfVlBQa0c3ZFBCeW5wMXI0dzdIX0FyZzRlOW9VcmdhZDMwSEFDOFAzVW1sd2MySTJJaEFaMlYzb1hXRlJQblJhQXhxX0RFT0o4OGVDRGRreUNyOE9RbUhiMVVBSzJYMHdRWGNMTldOS0ZPSDZlZ3h4TkltYjluV2pTbm1iUE5CTTlsYWxYRkV5NHVzcnJIWVdqOTRNNTR6VGVkNXJpd2FmeW1jYmc2Y3U1OWY1REZLZkZucU81NUptSUoxMDMtS1RDOW5fRkRaLTUtV1RGY0Q4aUhKYU90dw?oc=5",
+    "urlSlug": null,
+    "title": "The Stella McCartney x Yoshitomo Nara collaboration brings together RWS-certified wool and organic cotton in a capsule fronted by Ryo Ryusei",
+    "summary": "",
+    "publishedAt": "2026-11-21T21:40:51.000Z",
+    "categories": [],
+    "guid": "CBMilgJBVV95cUxQMk5SeC1YajdwdEdTU0JZekk3QU0wdWhiNi1vdXNUSlFPeG5aU0hOT1NCejBkQTIyRmZidHNoTjlfVlBQa0c3ZFBCeW5wMXI0dzdIX0FyZzRlOW9VcmdhZDMwSEFDOFAzVW1sd2MySTJJaEFaMlYzb1hXRlJQblJhQXhxX0RFT0o4OGVDRGRreUNyOE9RbUhiMVVBSzJYMHdRWGNMTldOS0ZPSDZlZ3h4TkltYjluV2pTbm1iUE5CTTlsYWxYRkV5NHVzcnJIWVdqOTRNNTR6VGVkNXJpd2FmeW1jYmc2Y3U1OWY1REZLZkZucU81NUptSUoxMDMtS1RDOW5fRkRaLTUtV1RGY0Q4aUhKYU90dw",
+    "searchedLabel": "rws",
+    "matches": [
+      {
+        "labelId": "rws",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "RWS"
+      }
+    ],
+    "fetchedAt": "2026-11-22T14:49:32.802Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Daily Times Of Bangladesh",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZbHV6NXlNeF9IOE1yR3ktS21XcG5VcGhkcHlwRVBnUm03bFNfWm1kYndSclZXNzFrYnZYX1I5bXdLSTlibGhuS0pfRHZEaktsQTFnN3hDQXpKUm11VDU3aEplOGZsUnFicjNaTnN6cGg3a2NhM2hMQlV3?oc=5",
+    "urlSlug": null,
+    "title": "Bangladesh’s LEED-certified green factories cross 300",
+    "summary": "",
+    "publishedAt": "2026-11-21T17:04:21.000Z",
+    "categories": [],
+    "guid": "CBMiekFVX3lxTE1ZbHV6NXlNeF9IOE1yR3ktS21XcG5VcGhkcHlwRVBnUm03bFNfWm1kYndSclZXNzFrYnZYX1I5bXdLSTlibGhuS0pfRHZEaktsQTFnN3hDQXpKUm11VDU3aEplOGZsUnFicjNaTnN6cGg3a2NhM2hMQlV3",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-22T14:49:32.802Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Daily Observer",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBXX1htQ1Nxbkl0R0p2SUZGTkJ2Zm00bm9UeFNNbkwtb3o5MVBfd29yR1RBWkc0MUFaZlNaWG1oY2hQQzFFdnlJRkpB?oc=5",
@@ -458,6 +527,29 @@
       }
     ],
     "fetchedAt": "2026-11-20T15:42:33.449Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Yahoo Finance",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSVMyZ2tST2JmbGhiSy1RS1lNZFBEOGhUNTRHWWpUaFFyS1BEUVc1RU1EcXE2WHlxNmpQOWlQYmVRUGFaeTNJYkxYaFZjWnhlSFJQemtVbzhvbzlndU1HaG9HVm1kbVIwVWVpSmhzWGIwbHZRT0VDVU5fUVRabUtKT0U3RW83LXROVW9pclVOTGM1ZW1pamlQVXZ3?oc=5",
+    "urlSlug": null,
+    "title": "BLACK TOMATO ANNOUNCES B CORP CERTIFICATION",
+    "summary": "",
+    "publishedAt": "2026-11-19T16:00:00.000Z",
+    "categories": [],
+    "guid": "CBMimgFBVV95cUxOSVMyZ2tST2JmbGhiSy1RS1lNZFBEOGhUNTRHWWpUaFFyS1BEUVc1RU1EcXE2WHlxNmpQOWlQYmVRUGFaeTNJYkxYaFZjWnhlSFJQemtVbzhvbzlndU1HaG9HVm1kbVIwVWVpSmhzWGIwbHZRT0VDVU5fUVRabUtKT0U3RW83LXROVW9pclVOTGM1ZW1pamlQVXZ3",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-22T14:49:32.802Z"
   },
   {
     "outletId": "google-news",
@@ -1411,6 +1503,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "elkintribune.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTkxqRjlhQjZpdFUxNVpPcG1UV2VhaGQyTDVPdFQ3WmtXcXVUeUFxZURiUDRBN2lJdnd2VWxmWEdkaHR6Qm41ZU15cWVDdkphUVJZa25OT1k2ME1IS1AwaFlQRHRidHBmaWR4Ynh4dHBRMGFLbmtqV0Uza1U5UXNRQkpJOWlWOGlQYjVCNEFyRUdyUG5PYXhhcHdrSGtJOWVmOURRZ0VUeG5SMl9KRWdFWGRoVkZZYTdWbFJXYTZxUWlZamhRcWF3X1h6LS1NWnJ6?oc=5",
+    "urlSlug": null,
+    "title": "Hugh Chatham Health earns ENERGY STAR certification",
+    "summary": "",
+    "publishedAt": "2026-11-14T16:08:00.000Z",
+    "categories": [],
+    "guid": "CBMi0AFBVV95cUxPTkxqRjlhQjZpdFUxNVpPcG1UV2VhaGQyTDVPdFQ3WmtXcXVUeUFxZURiUDRBN2lJdnd2VWxmWEdkaHR6Qm41ZU15cWVDdkphUVJZa25OT1k2ME1IS1AwaFlQRHRidHBmaWR4Ynh4dHBRMGFLbmtqV0Uza1U5UXNRQkpJOWlWOGlQYjVCNEFyRUdyUG5PYXhhcHdrSGtJOWVmOURRZ0VUeG5SMl9KRWdFWGRoVkZZYTdWbFJXYTZxUWlZamhRcWF3X1h6LS1NWnJ6",
+    "searchedLabel": "energy-star",
+    "matches": [
+      {
+        "labelId": "energy-star",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ENERGY STAR"
+      }
+    ],
+    "fetchedAt": "2026-11-22T14:49:32.802Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Urban Acres",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObHRZak5wc1EzeF9aOHdyUjVNb21ZaU1qT2pPWWwtaUhaVjhQeUZid05QcHFCYnZhcGRJcXNIdGdZbTNhM1haYlk2YlRlbUdxLW1DUm4zWV9ad2JpbG1rYUd5enZEeG56MURNeU5WbWhnRUthdGpOV3l1b2VTMU11TmVzOGRwMjBnbTdKRHZxYUVNSnc?oc=5",
@@ -1729,6 +1844,29 @@
       }
     ],
     "fetchedAt": "2026-11-21T14:53:32.492Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Modern Ghana",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa3hNREg5XzVHdVZybV93QU80a1dndkc2Qmd3bDluZHA0QzNkX3NacVhnZm9Md0lFY1VzWG85eF9jWUNkNWhSY1pTT0diVHhMS2J6ZWJPdFV5Y01YUUtSR0Vpa2RDTlFrem5wOTdCQWJaNVNuckpscmVvZUNyV3dUUkdlaXdxczRaSmNTTldfR0lBbU5RUlduQtIBmAFBVV95cUxQa3hNREg5XzVHdVZybV93QU80a1dndkc2Qmd3bDluZHA0QzNkX3NacVhnZm9Md0lFY1VzWG85eF9jWUNkNWhSY1pTT0diVHhMS2J6ZWJPdFV5Y01YUUtSR0Vpa2RDTlFrem5wOTdCQWJaNVNuckpscmVvZUNyV3dUUkdlaXdxczRaSmNTTldfR0lBbU5RUlduQg?oc=5",
+    "urlSlug": null,
+    "title": "Rainforest Alliance engages partners on evolving sustainability standards",
+    "summary": "",
+    "publishedAt": "2026-11-13T08:00:00.000Z",
+    "categories": [],
+    "guid": "CBMimAFBVV95cUxQa3hNREg5XzVHdVZybV93QU80a1dndkc2Qmd3bDluZHA0QzNkX3NacVhnZm9Md0lFY1VzWG85eF9jWUNkNWhSY1pTT0diVHhMS2J6ZWJPdFV5Y01YUUtSR0Vpa2RDTlFrem5wOTdCQWJaNVNuckpscmVvZUNyV3dUUkdlaXdxczRaSmNTTldfR0lBbU5RUlduQtIBmAFBVV95cUxQa3hNREg5XzVHdVZybV93QU80a1dndkc2Qmd3bDluZHA0QzNkX3NacVhnZm9Md0lFY1VzWG85eF9jWUNkNWhSY1pTT0diVHhMS2J6ZWJPdFV5Y01YUUtSR0Vpa2RDTlFrem5wOTdCQWJaNVNuckpscmVvZUNyV3dUUkdlaXdxczRaSmNTTldfR0lBbU5RUlduQg",
+    "searchedLabel": "rainforest-alliance",
+    "matches": [
+      {
+        "labelId": "rainforest-alliance",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Rainforest Alliance"
+      }
+    ],
+    "fetchedAt": "2026-11-22T14:49:32.802Z"
   },
   {
     "outletId": "google-news",
@@ -2199,6 +2337,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "CropGPT",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlUtX3pvQWFlUEpNVzVPMHVaZl9UdU0yb01OWHRlVXFvaXgxZ1dTeEZ0eXotRGpacjFNYlphZjlyRXpaRXBxR2xhcTMxd0dQVmx5ckNOYzd4d09mUDczX2lLaEd3NDQtbkVVNzBGRzVUcXItX1podFhhMEtab2JJWDJPZEsyZ2dmZHpvejhmN2YtSmJmQ00teEpRYmVJWk9Vb2I5cF91MA?oc=5",
+    "urlSlug": null,
+    "title": "Rainforest Alliance Urges Ghanaian Cocoa Farmers to Plant Trees Against El Niño Risks",
+    "summary": "",
+    "publishedAt": "2026-11-12T08:00:00.000Z",
+    "categories": [],
+    "guid": "CBMipwFBVV95cUxPNlUtX3pvQWFlUEpNVzVPMHVaZl9UdU0yb01OWHRlVXFvaXgxZ1dTeEZ0eXotRGpacjFNYlphZjlyRXpaRXBxR2xhcTMxd0dQVmx5ckNOYzd4d09mUDczX2lLaEd3NDQtbkVVNzBGRzVUcXItX1podFhhMEtab2JJWDJPZEsyZ2dmZHpvejhmN2YtSmJmQ00teEpRYmVJWk9Vb2I5cF91MA",
+    "searchedLabel": "rainforest-alliance",
+    "matches": [
+      {
+        "labelId": "rainforest-alliance",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Rainforest Alliance"
+      }
+    ],
+    "fetchedAt": "2026-11-22T14:49:32.802Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "DD News",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDlHcXNweTV0NHYzV0FoQ0dXRFkxWGM5UHR5QlV6VGxoZ3hacno0NmpwV0gtZmtma2VINWx4b0JfX1NPU3pzMm5CWVJIZVY3VTExekdUTWFMYXJHS0FJQTY0eW9jVWt6MUJTampUVUdPUkUtSFQyTU8yODJsbFR4VVdXdlkxLWxlQ19lUzhmTWh6SW1pb29mNk1WY2hSQzJZZzg4Sjhjcw?oc=5",
@@ -2242,6 +2403,29 @@
       }
     ],
     "fetchedAt": "2026-11-12T15:31:41.510Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "RGE (Royal Golden Eagle) Group",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFRCTVlYaU96UU9OczlMWTlwR2twRjBsVFRwY3VuQUdUUEd4ZFZZUVZZanVVWHpldkQyc0d5NWhwUkNYc3NEWG9GR3ZVTWxweXhHTnFKNnRVNF9XMW15ZmNla21fYWYwOTU3aDNIZFY5LUJUQ3VGdWRQLVUzdWZRM1dFcG9YNFVVd3pQTHRaeVhVOEZINzNZTVhrbXlEaFkyeVJBNjV1QVk?oc=5",
+    "urlSlug": null,
+    "title": "APRIL Group achieves PEFC Sustainable Forest Management Certification",
+    "summary": "",
+    "publishedAt": "2026-11-11T18:42:57.000Z",
+    "categories": [],
+    "guid": "CBMiqAFBVV95cUxQdFRCTVlYaU96UU9OczlMWTlwR2twRjBsVFRwY3VuQUdUUEd4ZFZZUVZZanVVWHpldkQyc0d5NWhwUkNYc3NEWG9GR3ZVTWxweXhHTnFKNnRVNF9XMW15ZmNla21fYWYwOTU3aDNIZFY5LUJUQ3VGdWRQLVUzdWZRM1dFcG9YNFVVd3pQTHRaeVhVOEZINzNZTVhrbXlEaFkyeVJBNjV1QVk",
+    "searchedLabel": "pefc",
+    "matches": [
+      {
+        "labelId": "pefc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "PEFC"
+      }
+    ],
+    "fetchedAt": "2026-11-22T14:49:32.802Z"
   },
   {
     "outletId": "google-news",
@@ -9123,189 +9307,5 @@
       }
     ],
     "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Home Textiles Today",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFgyempidjhXd29CNlJTMEJ4Nnc5MjZyRVF5MjNVUFRUVFZMRGFlS0ZidlBIeGxjY05ySUdDRTZJUkljLWtvS0JhYlpmSDJhMVFfYjJic1Z6X1VhMlYwSDZvSEk3SXVYVEhUQWI1cnFLR3lZQWxQYjJoNHM4TC0yaWN4ZmZGWXctaWhaVHR4cmZfRXZlUWliTHBYTnRMVGRyTFE?oc=5",
-    "urlSlug": null,
-    "title": "BCI shifts status from ‘sustainable’ to ‘regenerative’",
-    "summary": "",
-    "publishedAt": "2026-10-13T05:09:24.000Z",
-    "categories": [],
-    "guid": "CBMiogFBVV95cUxPeFgyempidjhXd29CNlJTMEJ4Nnc5MjZyRVF5MjNVUFRUVFZMRGFlS0ZidlBIeGxjY05ySUdDRTZJUkljLWtvS0JhYlpmSDJhMVFfYjJic1Z6X1VhMlYwSDZvSEk3SXVYVEhUQWI1cnFLR3lZQWxQYjJoNHM4TC0yaWN4ZmZGWXctaWhaVHR4cmZfRXZlUWliTHBYTnRMVGRyTFE",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BCI"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Insider Media Ltd",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX1BEOHRVdUJMX29ZWDE1cjU4OWMxZ1hzejBMZ25xUDFjVlE0SW5uMnV1YlV3UnNidnhJeDVCdjNBcnVITEFRSUZ6dDBjOFUzMDBpME80bWZqWl9vMXdLMnlyRzZKaVhRWWVLQ3JQY3lURG1fNU1JRkFuZXlkd0VwckJqMEtxR1k3N2VCMXRrZ25vYlE3VUl1QmlwX3BoZw?oc=5",
-    "urlSlug": null,
-    "title": "Social enterprise brewery gains B Corp certification",
-    "summary": "",
-    "publishedAt": "2026-10-13T05:00:00.000Z",
-    "categories": [],
-    "guid": "CBMingFBVV95cUxQX1BEOHRVdUJMX29ZWDE1cjU4OWMxZ1hzejBMZ25xUDFjVlE0SW5uMnV1YlV3UnNidnhJeDVCdjNBcnVITEFRSUZ6dDBjOFUzMDBpME80bWZqWl9vMXdLMnlyRzZKaVhRWWVLQ3JQY3lURG1fNU1JRkFuZXlkd0VwckJqMEtxR1k3N2VCMXRrZ25vYlE3VUl1QmlwX3BoZw",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Wood Central",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XOGdYTVMxXzh1OWdzSmMtX210MHc5ci1aUmEtckIwLTd2cGZIejh1VDhRbUNPZGRXUng4MGJ5RTU3ZE9SemJKMGFhYlBnektCbzZLU1RvOUpUenQzMTF6RW5XTksxOEw1QVE?oc=5",
-    "urlSlug": null,
-    "title": "PEFC Urges the UN to Help Build Demand for Sustainable Timber",
-    "summary": "",
-    "publishedAt": "2026-10-13T03:06:36.000Z",
-    "categories": [],
-    "guid": "CBMiakFVX3lxTE1XOGdYTVMxXzh1OWdzSmMtX210MHc5ci1aUmEtckIwLTd2cGZIejh1VDhRbUNPZGRXUng4MGJ5RTU3ZE9SemJKMGFhYlBnektCbzZLU1RvOUpUenQzMTF6RW5XTksxOEw1QVE",
-    "searchedLabel": "pefc",
-    "matches": [
-      {
-        "labelId": "pefc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "PEFC"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "WWD",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQME5ETUdWREkwXzF4aXRsaTRQbk1TdGo3bnNvNGNEWTVaaG9TSk5RRGVsUUs1Y0FCRWlERVdzNExkUjBMNy1SSGxadE92TnpkRE1rUzdpVjFBbXljQkJKQm95ODBEVVhKYzNubDRPQlNNcl9hZUNUQi1YREN0V0FKNFA5c3lZR2tGajlpZFNXRS1Kd0lpbWVVSDlsUWFsbnl3RTdacDRub0tEUU5ERmlyS2RfRFNicU1rZmZ1Zg?oc=5",
-    "urlSlug": null,
-    "title": "Oeko-Tex Launches ‘Trust in Every Thread’ as EU Rules Tighten",
-    "summary": "",
-    "publishedAt": "2026-10-13T00:00:05.000Z",
-    "categories": [],
-    "guid": "CBMivAFBVV95cUxQME5ETUdWREkwXzF4aXRsaTRQbk1TdGo3bnNvNGNEWTVaaG9TSk5RRGVsUUs1Y0FCRWlERVdzNExkUjBMNy1SSGxadE92TnpkRE1rUzdpVjFBbXljQkJKQm95ODBEVVhKYzNubDRPQlNNcl9hZUNUQi1YREN0V0FKNFA5c3lZR2tGajlpZFNXRS1Kd0lpbWVVSDlsUWFsbnl3RTdacDRub0tEUU5ERmlyS2RfRFNicU1rZmZ1Zg",
-    "searchedLabel": "oeko-tex",
-    "matches": [
-      {
-        "labelId": "oeko-tex",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Oeko-Tex"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "FashionNetwork - The World's Fashion Business News",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRVhfVEdGWlZfcVZzZ3B1UjVIcklveWZZdmlENGxGdUNBRFJUSHlDTk1qaXdZbEd2Z2ZfckhZRlVWY3UyeDFNdUhFUUZIYVN1eXI1NU1QcHVuX19mRWZVMURxb05kUkIyMzJPNDVtVDYySGdvQ2lEdnNmSXRYQ2xJclktckdHQklXeGhrQkVZQ1BKMk42WDZUNkRlOWtMUkZsa0ZQdXotc0NPZnBYa2w4aUFRbFlDTjZwLTFPTWlGUnJILXQ2dWw2Z1ZhcTV4Zi1NSFR2R1VHYVRHTmVfaXJrUGpONGhMbXFzaUh5ZjRUdmtGU1FFdGc?oc=5",
-    "urlSlug": null,
-    "title": "The Better Cotton Initiative is reshaping its model to establish itself as a benchmark for regenerative agriculture",
-    "summary": "",
-    "publishedAt": "2026-10-12T21:59:00.000Z",
-    "categories": [],
-    "guid": "CBMi9gFBVV95cUxNRVhfVEdGWlZfcVZzZ3B1UjVIcklveWZZdmlENGxGdUNBRFJUSHlDTk1qaXdZbEd2Z2ZfckhZRlVWY3UyeDFNdUhFUUZIYVN1eXI1NU1QcHVuX19mRWZVMURxb05kUkIyMzJPNDVtVDYySGdvQ2lEdnNmSXRYQ2xJclktckdHQklXeGhrQkVZQ1BKMk42WDZUNkRlOWtMUkZsa0ZQdXotc0NPZnBYa2w4aUFRbFlDTjZwLTFPTWlGUnJILXQ2dWw2Z1ZhcTV4Zi1NSFR2R1VHYVRHTmVfaXJrUGpONGhMbXFzaUh5ZjRUdmtGU1FFdGc",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Better Cotton"
-      }
-    ],
-    "fetchedAt": "2026-10-26T13:27:44.944Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Golfdom magazine",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUEtTnJwNGs4N2E2YVVMajNzb01iYk9VX0NPNHNLWEdKbUwtdGc4TG5yNko3S2xOSlEtVTdWOHlJRGdNbDVLTGtCRkxuQVJtb1NpMm1FZW1CS0tEYkdNVi1NcWN3VE5nVnNLczZ0RkJFX2c0RDZvdlVoeGhocGJHemVfN3BPQW9vZ1RXRGZia05CZEswb1BPaldZWnU?oc=5",
-    "urlSlug": null,
-    "title": "Audubon International launches new Club Amenities certification program",
-    "summary": "",
-    "publishedAt": "2026-10-12T18:33:24.000Z",
-    "categories": [],
-    "guid": "CBMinAFBVV95cUxNMUEtTnJwNGs4N2E2YVVMajNzb01iYk9VX0NPNHNLWEdKbUwtdGc4TG5yNko3S2xOSlEtVTdWOHlJRGdNbDVLTGtCRkxuQVJtb1NpMm1FZW1CS0tEYkdNVi1NcWN3VE5nVnNLczZ0RkJFX2c0RDZvdlVoeGhocGJHemVfN3BPQW9vZ1RXRGZia05CZEswb1BPaldZWnU",
-    "searchedLabel": "audubon-international",
-    "matches": [
-      {
-        "labelId": "audubon-international",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Audubon International"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "CapeTowner",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXJwVEZrR21yYTY0eHNsaDZUWlZjM1VxUkxzUi1sWTNxZ2ZtcFp6cFF5M3hjYkxtMUlJRDhCRlRnSkdsQXVoYU9BYk9QQm1KN0k1UlBrRTVlcXIzMFVXOTFFbnFQVTFNakZ3ZVluNHhaek81bjEtTXR2aU1OVkVsMU8tTTVVb0tlNGtJbklDM1dzUk5rVUhzaU5oTTBEMFdDOFY2em1UcmlhSVVkbmpZTmxsaDRhZ3Y2?oc=5",
-    "urlSlug": null,
-    "title": "8 Cape Town beaches retain Blue Flag status as four join pilot programme",
-    "summary": "",
-    "publishedAt": "2026-10-12T18:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiuAFBVV95cUxQOXJwVEZrR21yYTY0eHNsaDZUWlZjM1VxUkxzUi1sWTNxZ2ZtcFp6cFF5M3hjYkxtMUlJRDhCRlRnSkdsQXVoYU9BYk9QQm1KN0k1UlBrRTVlcXIzMFVXOTFFbnFQVTFNakZ3ZVluNHhaek81bjEtTXR2aU1OVkVsMU8tTTVVb0tlNGtJbklDM1dzUk5rVUhzaU5oTTBEMFdDOFY2em1UcmlhSVVkbmpZTmxsaDRhZ3Y2",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Atlantic Sun",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFBoRmI4aXFwOHpnZ2F5dXc3OWU5QXktcS0zYU9sQ0ZNQWF0MWhYTE9QeVJhUVBwSmpON3NmRWd4eWw0Z1VpbDJldG9wN0ZiSWRDM21wbUl0cHhUX1E2M2NUc0RUTmFkT3QtOEhFRUk3d2RkMDBzRXNjMjBqMndCdWthUmVfcWRsOTZ1YW01bmpKdGk1TGt2Q2hwOWtLSDhkTzI0bmhGZFVwQ0RNRjFBRlNEQmdDdw?oc=5",
-    "urlSlug": null,
-    "title": "8 Cape Town beaches retain Blue Flag status as four join pilot programme",
-    "summary": "",
-    "publishedAt": "2026-10-12T18:00:00.000Z",
-    "categories": [],
-    "guid": "CBMitgFBVV95cUxOVFBoRmI4aXFwOHpnZ2F5dXc3OWU5QXktcS0zYU9sQ0ZNQWF0MWhYTE9QeVJhUVBwSmpON3NmRWd4eWw0Z1VpbDJldG9wN0ZiSWRDM21wbUl0cHhUX1E2M2NUc0RUTmFkT3QtOEhFRUk3d2RkMDBzRXNjMjBqMndCdWthUmVfcWRsOTZ1YW01bmpKdGk1TGt2Q2hwOWtLSDhkTzI0bmhGZFVwQ0RNRjFBRlNEQmdDdw",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-15T11:55:47.659Z"
   }
 ]
