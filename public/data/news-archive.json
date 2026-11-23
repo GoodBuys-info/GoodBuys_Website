@@ -1,6 +1,75 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "IndexBox",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemtTd05pRTdwbVFGcEpXaDQtbk9mSEoxMmxidGZtLVA4US1VTlgyVmZyTjFCRGZPQ3JNV1BqaU96bHQ1d0laVE5wU09jajNpMDM5NnB0MkpVMk4yZmo3SEZseGxWREZ1R3h6OXZ2cHJ1ZmFEQmg1cVlrNE0xNmk1eXBETFJpaEtxWmxzbGt2ZXI0cHZaMExrUQ?oc=5",
+    "urlSlug": null,
+    "title": "USDA Organic Poultry and Eggs Report: November 23, 2026 Market Conditions - News and Statistics",
+    "summary": "",
+    "publishedAt": "2026-11-23T14:10:20.000Z",
+    "categories": [],
+    "guid": "CBMimAFBVV95cUxPemtTd05pRTdwbVFGcEpXaDQtbk9mSEoxMmxidGZtLVA4US1VTlgyVmZyTjFCRGZPQ3JNV1BqaU96bHQ1d0laVE5wU09jajNpMDM5NnB0MkpVMk4yZmo3SEZseGxWREZ1R3h6OXZ2cHJ1ZmFEQmg1cVlrNE0xNmk1eXBETFJpaEtxWmxzbGt2ZXI0cHZaMExrUQ",
+    "searchedLabel": "usda-organic",
+    "matches": [
+      {
+        "labelId": "usda-organic",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "USDA Organic"
+      }
+    ],
+    "fetchedAt": "2026-11-23T18:37:47.336Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Apparel Views",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSktxbDN4amF1YWg3Uk0wUlUxZ2hPR2VpZkNuUUNxYkFqeDR2LXk3LVlkQTVnNXhMNmV3MkF2M1BSQnlKUjJEU1B4azJaaW0temFxVFdpT2hRZDNLRmJSUUVheUxsNnhxLWp5b0VqaWtCMHN0eW0xQUdLbmlTSlg5TE1uaXBOVDdnTWc?oc=5",
+    "urlSlug": null,
+    "title": "Bangladesh crosses 300 LEED-certified green factories",
+    "summary": "",
+    "publishedAt": "2026-11-23T12:34:04.000Z",
+    "categories": [],
+    "guid": "CBMiigFBVV95cUxQSktxbDN4amF1YWg3Uk0wUlUxZ2hPR2VpZkNuUUNxYkFqeDR2LXk3LVlkQTVnNXhMNmV3MkF2M1BSQnlKUjJEU1B4azJaaW0temFxVFdpT2hRZDNLRmJSUUVheUxsNnhxLWp5b0VqaWtCMHN0eW0xQUdLbmlTSlg5TE1uaXBOVDdnTWc",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-23T18:37:47.336Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "EIN Presswire",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT1RGeUJZdE5GTV93R3VNRkJQUzVFdW9RbkJqUlU1WmlWQUdVLUM1XzRFUFRLXzNUbUxfUTAwemdPa2RpbXlfQmFXam1pWGk2aDlnZHBzRUlZMzZDTUJVTGltbGlaNVQ2ZDd6elM0SVBwOFl5WnRKc3Z0T2NkV2ZWLW8xLXBOdE9wMi1OWEgzYkRUckswQ0M1UVlkQ3dDZjkxTGZ6YzVpUWtRRVBtdkZyWGJ0cXM3b1F4ODFlVV9RTllacVBhV0hrRGdyRDAzOG5LUWlTOHpDUQ?oc=5",
+    "urlSlug": null,
+    "title": "The Importance of OEKO-TEX 100 Standards in an OEM Portable Sauna Box Factory Production Line",
+    "summary": "",
+    "publishedAt": "2026-11-23T06:49:00.000Z",
+    "categories": [],
+    "guid": "CBMi1wFBVV95cUxOT1RGeUJZdE5GTV93R3VNRkJQUzVFdW9RbkJqUlU1WmlWQUdVLUM1XzRFUFRLXzNUbUxfUTAwemdPa2RpbXlfQmFXam1pWGk2aDlnZHBzRUlZMzZDTUJVTGltbGlaNVQ2ZDd6elM0SVBwOFl5WnRKc3Z0T2NkV2ZWLW8xLXBOdE9wMi1OWEgzYkRUckswQ0M1UVlkQ3dDZjkxTGZ6YzVpUWtRRVBtdkZyWGJ0cXM3b1F4ODFlVV9RTllacVBhV0hrRGdyRDAzOG5LUWlTOHpDUQ",
+    "searchedLabel": "oeko-tex",
+    "matches": [
+      {
+        "labelId": "oeko-tex",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Oeko-Tex"
+      }
+    ],
+    "fetchedAt": "2026-11-23T18:37:47.336Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "High Plains Journal",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhZ2pIVHV5WjNFd0RMVVJ2X2tmVklFNGo0S29rU3VydzRCX3JIS0owVWZZSTBfd1ZUb2kzUWhzNFZ0N1RYRFRCZU1BZUZZWWZyYmJmSUFqWnhlbUtCMHJ5Nk9lOF9uZEpHQmE3cXI5SzUxVGc?oc=5",
@@ -629,6 +698,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "StreetInsider",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUJ2Wkl0M0p6aGJnN00tU0lrbFdNZUpudnVTaDA5ZEl6U2FtZldxVXBoaXdadlo0aWdXM0syamVxXzVUMzA3VHlPN2pWakZvSmhXZFNxMF9oVDJhQTVqdS1ka2J4UDRSSXR6RmpHbHhWTkloVlppSjVpM1IxazhRLXZlUS1CVXdCaVZuSXFBYjRON3I0NDFNNDd5dTl5eEtxQ0ZHVQ?oc=5",
+    "urlSlug": null,
+    "title": "BLACK TOMATO ANNOUNCES B CORP CERTIFICATION",
+    "summary": "",
+    "publishedAt": "2026-11-19T08:00:00.000Z",
+    "categories": [],
+    "guid": "CBMipAFBVV95cUxNUUJ2Wkl0M0p6aGJnN00tU0lrbFdNZUpudnVTaDA5ZEl6U2FtZldxVXBoaXdadlo0aWdXM0syamVxXzVUMzA3VHlPN2pWakZvSmhXZFNxMF9oVDJhQTVqdS1ka2J4UDRSSXR6RmpHbHhWTkloVlppSjVpM1IxazhRLXZlUS1CVXdCaVZuSXFBYjRON3I0NDFNNDd5dTl5eEtxQ0ZHVQ",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-23T18:37:47.336Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "News24",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa0hYclNqcHNCVGNSQWFka1pqZ1ZRTkZGRk1kOVZLblpBYVZ6d3RVMnp1M29KR1NQZ3BMMFdUeWc0ZEdJVEJmd2lXLW5wZ3MzdTcyTVJrVVRzYW02ZE44VENMSjgwMTVCNlNFZXgtdTBoMkJOeW5OVzFCOHhMc1dKZ1hKSnJscVZTeGdSeDJWcw?oc=5",
@@ -951,6 +1043,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Sustain Europe",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX3NJaTljUlczbVlEak15ZF9zNWhsLVFLaHFmc3lqTl9jb3RaUV9UMENhRXBMNzZyTmZDOThjU1ZKUTBpN1FGby1hTVI5UXNWcHJiYVRDVVFTa3l1QVl5Ym9nMjZzZ1lnVml1b3k3SFBGR2IzWUttbFhtUW1pcG9taldtckxRZEJldXQwVWc0Z0o0STQ?oc=5",
+    "urlSlug": null,
+    "title": "Eurobarometer shows consumers’ growing trust in EU Ecolabel",
+    "summary": "",
+    "publishedAt": "2026-11-17T22:25:51.000Z",
+    "categories": [],
+    "guid": "CBMikwFBVV95cUxOX3NJaTljUlczbVlEak15ZF9zNWhsLVFLaHFmc3lqTl9jb3RaUV9UMENhRXBMNzZyTmZDOThjU1ZKUTBpN1FGby1hTVI5UXNWcHJiYVRDVVFTa3l1QVl5Ym9nMjZzZ1lnVml1b3k3SFBGR2IzWUttbFhtUW1pcG9taldtckxRZEJldXQwVWc0Z0o0STQ",
+    "searchedLabel": "eu-ecolabel",
+    "matches": [
+      {
+        "labelId": "eu-ecolabel",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "EU Ecolabel"
+      }
+    ],
+    "fetchedAt": "2026-11-23T18:37:47.336Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "CSRwire",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdno0WGFMSGJrOURhdzZsREkwYTRfbUppVGxJdWdyazA3ZkhydjZvTkRRaUtKVllnOXk5d0dnS0JMb1hLNmRTLWlfOUlfZS15M3dIWW5ram5uemphcng4b0xXT1k4eGhZdU1GVVFyX2M5emtTY2FoVEp3YzJXdklVczhrYlBOTERNVWt0eEZmdFFxMWR1d2tHUmdsRi1MU19ESmlqU1R6S0ZlSHJYaG55eHlCRWQ?oc=5",
@@ -1178,6 +1293,29 @@
       }
     ],
     "fetchedAt": "2026-11-17T16:23:21.665Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The National Law Review",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHR5V0ZBZzVEaWM2RVRFdWpsdUJ2T2N2SnNNcjNma2F6TXY1d25PLVcwUUVaYXVxQ0lTOHpxRmRqeUg0enhERlB4clpNNlhoTE5DWXhuUXhubGtXSkxVbDhiREhTTnNWTmg2bzYybE5ZcEZxMENLUHkwZUhGLVRHMHM2SS1udw?oc=5",
+    "urlSlug": null,
+    "title": "Antarctic krill fishery recertified by the MSC",
+    "summary": "",
+    "publishedAt": "2026-11-17T06:03:49.000Z",
+    "categories": [],
+    "guid": "CBMihgFBVV95cUxQOHR5V0ZBZzVEaWM2RVRFdWpsdUJ2T2N2SnNNcjNma2F6TXY1d25PLVcwUUVaYXVxQ0lTOHpxRmRqeUg0enhERlB4clpNNlhoTE5DWXhuUXhubGtXSkxVbDhiREhTTnNWTmg2bzYybE5ZcEZxMENLUHkwZUhGLVRHMHM2SS1udw",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-11-23T18:37:47.336Z"
   },
   {
     "outletId": "google-news",
@@ -9166,144 +9304,6 @@
         "tier": "text-acronym",
         "where": "title",
         "matchedText": "PEFC"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "- Beer Today",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wclRiUkhLaktBeTA4LUZCUVlEV2pzS0xvNldWM2JCSVBSV3IzTXAzRVRsRl9oRkxTeEprZlMwOXhkUVR5QWt1TV9xSUVzSU0tWU9PWDJSRWNWWkpLLUVfRkZ6MTl5RXQ4YWc?oc=5",
-    "urlSlug": null,
-    "title": "B Corp certification for Tap Social Movement",
-    "summary": "",
-    "publishedAt": "2026-10-13T07:51:28.000Z",
-    "categories": [],
-    "guid": "CBMiakFVX3lxTE8wclRiUkhLaktBeTA4LUZCUVlEV2pzS0xvNldWM2JCSVBSV3IzTXAzRVRsRl9oRkxTeEprZlMwOXhkUVR5QWt1TV9xSUVzSU0tWU9PWDJSRWNWWkpLLUVfRkZ6MTl5RXQ4YWc",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Modaes",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWF92a0FSZENmcmdSSlVKbUZ0cEJYNy1EN1FTZHRFU095RE1CS0xtYmFLQV9veTE3N08xM2tDNThKV01PVzd6VzFUb2RtOFNXWkZmQWdTa3dVX0ZsV2RlSGoycTVoWjFEbENsbDljdnE1MmgtbmVBM0pMeWZMTXNqUlE4NGY1UlBMcVIyQ1dKenA4TkhpTTNGQlVTMVdmVlVSY0FLcGNDdWdNV3lJQzI5NTRDSW1LYVJC?oc=5",
-    "urlSlug": null,
-    "title": "Better Cotton Completes Transition to Regenerative Agriculture Standard",
-    "summary": "",
-    "publishedAt": "2026-10-13T07:36:00.000Z",
-    "categories": [],
-    "guid": "CBMiuAFBVV95cUxNWF92a0FSZENmcmdSSlVKbUZ0cEJYNy1EN1FTZHRFU095RE1CS0xtYmFLQV9veTE3N08xM2tDNThKV01PVzd6VzFUb2RtOFNXWkZmQWdTa3dVX0ZsV2RlSGoycTVoWjFEbENsbDljdnE1MmgtbmVBM0pMeWZMTXNqUlE4NGY1UlBMcVIyQ1dKenA4TkhpTTNGQlVTMVdmVlVSY0FLcGNDdWdNV3lJQzI5NTRDSW1LYVJC",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Better Cotton"
-      }
-    ],
-    "fetchedAt": "2026-10-14T12:15:33.792Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Fashion United",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNak1yeE0wNGIwczg2dWs5N0hENTdoZ3pDcVNJcHZZdVc2TXZFSXR6QU9idUxldndYOExXeVdPX0xacTVsbUNMNlhsV2p1R2RNV214Y2dLYVlGV3ZJdURTa3hJN1NwWHM4NVVoNmZZNnJxM0x6dndiaU1vTEsxdld6eDRiYUhTYlZVdkF6MmU1R0RzZGt0c19FMlRfNUF2WVFWQ0VZWHZoelhFSlZvRVY0Q0lJRQ?oc=5",
-    "urlSlug": null,
-    "title": "Better Cotton Initiative is now regenerative standard system",
-    "summary": "",
-    "publishedAt": "2026-10-13T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiswFBVV95cUxNak1yeE0wNGIwczg2dWs5N0hENTdoZ3pDcVNJcHZZdVc2TXZFSXR6QU9idUxldndYOExXeVdPX0xacTVsbUNMNlhsV2p1R2RNV214Y2dLYVlGV3ZJdURTa3hJN1NwWHM4NVVoNmZZNnJxM0x6dndiaU1vTEsxdld6eDRiYUhTYlZVdkF6MmU1R0RzZGt0c19FMlRfNUF2WVFWQ0VZWHZoelhFSlZvRVY0Q0lJRQ",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Better Cotton"
-      }
-    ],
-    "fetchedAt": "2026-10-26T13:27:44.944Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Fashion United",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa1NtaS1oVld6LVV4c3BpYktqVWJOUVhWVUlJY1NfVHBNMHdfdmg2bEVEQjlkS3ZmMWgzLXdyakV5azdFU05Ja3JWV2otZDhMUmxkTzhhcVNVTVVzWU5ENWtEQ3F3Y0lJTU1ubzZkcDhUYzBKMkdEY1lhVWhYbjdlVmlQenQ3NUZid3hmTTZEQ28zeHZMb24wajRGaU1HTGltR2ZBVDAyMUM1M3R5eVBNb1JDTGc?oc=5",
-    "urlSlug": null,
-    "title": "Better Cotton Initiative is now regenerative standard system",
-    "summary": "",
-    "publishedAt": "2026-10-13T06:43:58.000Z",
-    "categories": [],
-    "guid": "CBMitAFBVV95cUxPa1NtaS1oVld6LVV4c3BpYktqVWJOUVhWVUlJY1NfVHBNMHdfdmg2bEVEQjlkS3ZmMWgzLXdyakV5azdFU05Ja3JWV2otZDhMUmxkTzhhcVNVTVVzWU5ENWtEQ3F3Y0lJTU1ubzZkcDhUYzBKMkdEY1lhVWhYbjdlVmlQenQ3NUZid3hmTTZEQ28zeHZMb24wajRGaU1HTGltR2ZBVDAyMUM1M3R5eVBNb1JDTGc",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Better Cotton"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "WWD",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQczNEMV9PdFlEY2IwazdnQmNqc3U3eVEzenVzY18wb2R6Uzh5MXpUT0dmVzJ6UEF0QmJPQmJwTVNrMzF5empDX0RVM0ZRYWQxTWhKdjdJcjRFMEF6cUwzNWtjNHBuYlRnOGl4cnN2Ym1ZakxHdXB1ZUpDZkhnVXU0T0J0UXd0Zmw5eTYybjFEZFNfSGpCR0E3V1JvU0JNSnVDa3hiNFl2RmtZRWlkblpYOGpsZVk?oc=5",
-    "urlSlug": null,
-    "title": "Better Cotton Initiative Becomes a Regenerative Standards System",
-    "summary": "",
-    "publishedAt": "2026-10-13T06:02:13.000Z",
-    "categories": [],
-    "guid": "CBMitAFBVV95cUxQczNEMV9PdFlEY2IwazdnQmNqc3U3eVEzenVzY18wb2R6Uzh5MXpUT0dmVzJ6UEF0QmJPQmJwTVNrMzF5empDX0RVM0ZRYWQxTWhKdjdJcjRFMEF6cUwzNWtjNHBuYlRnOGl4cnN2Ym1ZakxHdXB1ZUpDZkhnVXU0T0J0UXd0Zmw5eTYybjFEZFNfSGpCR0E3V1JvU0JNSnVDa3hiNFl2RmtZRWlkblpYOGpsZVk",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Better Cotton"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Ecotextile News",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk1XX1h4RXVoWHFJRTNqTkliZkxWQVpoNnFFTzloRExxY1lRblNLZTlpSzZXeEUxQlBPMFo0eU1lSDlHZzRyRW9SSVoyR2VKOWVTamxJQkx6cE5CdlBwaE12X2VENUVMd1JselNqTzRGOUlJVHEzWmVIRFlhQ0p6ME1PY3dycHlfWC0xZk0xZTNUOEt6MkFUYk82NUFWZ2hNUy1XWG9MWkp2M014?oc=5",
-    "urlSlug": null,
-    "title": "Better Cotton Initiative adopts regenerative system",
-    "summary": "",
-    "publishedAt": "2026-10-13T05:20:06.000Z",
-    "categories": [],
-    "guid": "CBMirAFBVV95cUxPNk1XX1h4RXVoWHFJRTNqTkliZkxWQVpoNnFFTzloRExxY1lRblNLZTlpSzZXeEUxQlBPMFo0eU1lSDlHZzRyRW9SSVoyR2VKOWVTamxJQkx6cE5CdlBwaE12X2VENUVMd1JselNqTzRGOUlJVHEzWmVIRFlhQ0p6ME1PY3dycHlfWC0xZk0xZTNUOEt6MkFUYk82NUFWZ2hNUy1XWG9MWkp2M014",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Better Cotton"
       }
     ],
     "fetchedAt": "2026-10-13T14:30:06.577Z"
