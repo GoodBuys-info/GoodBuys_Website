@@ -1,6 +1,121 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "pan african visions",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0NzUTJCbURMcTl5N0kxNUJDbkNuWVNkV2xyQnhkN3NwbHBrSEhjRmgwQUN2eXFHZUVhWTJ5Q09DSkRiX1Vab1lNZUVrSkVHdnUwSXFHalc2UUFwMFltNXE1UkdOcHBJVUtfY19hQklzRnhiVFN3bjhLM2ZvajBfVEpuZ0FLLWw0N0d0V29ucHpxa1FFM0xSczRkVFBROGVTenp0dHh4S01XbXo2TzQwbmVhYU5RRUFIRWJDQXVLelVoSlU?oc=5",
+    "urlSlug": null,
+    "title": "Beyond Forest Conservation: Why Elements of Decent Work Belong in FSC’s Standards Review",
+    "summary": "",
+    "publishedAt": "2026-11-24T15:46:35.000Z",
+    "categories": [],
+    "guid": "CBMiwwFBVV95cUxOT0NzUTJCbURMcTl5N0kxNUJDbkNuWVNkV2xyQnhkN3NwbHBrSEhjRmgwQUN2eXFHZUVhWTJ5Q09DSkRiX1Vab1lNZUVrSkVHdnUwSXFHalc2UUFwMFltNXE1UkdOcHBJVUtfY19hQklzRnhiVFN3bjhLM2ZvajBfVEpuZ0FLLWw0N0d0V29ucHpxa1FFM0xSczRkVFBROGVTenp0dHh4S01XbXo2TzQwbmVhYU5RRUFIRWJDQXVLelVoSlU",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-11-24T18:07:57.779Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Fashion United",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdUtWeW10ZTgwUFA2ZllsN3YxeWplTUtKdFhydXEtV3J6NzFKZ3MxVTdlel9tSk1ESHV1U0dLVWoxak9hWnRFX2lPUmZsQ3czNDROdUw3QTlydjZ0NGxCNWNDVTktTDdnY3Y5eGdEdlRLS2k4X3pTMFR4a2Y2VkpYMmNnSnNXUXQtNFhibkhobVJ1VUlJeDl2bkljU0tGMHZiUzJfVnk2V3lLRzFaa1ZNVmlfMXd5eXJ1dU5jYVlSTUU2R0ZWOGc?oc=5",
+    "urlSlug": null,
+    "title": "Better Cotton takes flagship conference to Africa, announces keynote lineup",
+    "summary": "",
+    "publishedAt": "2026-11-24T10:19:47.000Z",
+    "categories": [],
+    "guid": "CBMixgFBVV95cUxOdUtWeW10ZTgwUFA2ZllsN3YxeWplTUtKdFhydXEtV3J6NzFKZ3MxVTdlel9tSk1ESHV1U0dLVWoxak9hWnRFX2lPUmZsQ3czNDROdUw3QTlydjZ0NGxCNWNDVTktTDdnY3Y5eGdEdlRLS2k4X3pTMFR4a2Y2VkpYMmNnSnNXUXQtNFhibkhobVJ1VUlJeDl2bkljU0tGMHZiUzJfVnk2V3lLRzFaa1ZNVmlfMXd5eXJ1dU5jYVlSTUU2R0ZWOGc",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "Better Cotton"
+      }
+    ],
+    "fetchedAt": "2026-11-24T18:07:57.779Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "KCCI",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQm5qZWtVXzdsZHBfcTF4QWRKLUxDaWVFaXFuWmZHcC1WMmQ5emRJdDJjMGZMc1BXNXl3OGlFbE1TVjhyTUwtMm5oNFFvQ3RzZmFuemNHWlktY1R1VkRfWXVtSjFZaXdpWTVYOGtGNUNWcVJCbG1lWmV6X2F0Rl9MY05kY2dxQ2Nma0dVREVqMDE?oc=5",
+    "urlSlug": null,
+    "title": "Blue Angel pilots land in Des Moines to preview 2027 Iowa Air Show",
+    "summary": "",
+    "publishedAt": "2026-11-24T01:27:00.000Z",
+    "categories": [],
+    "guid": "CBMikAFBVV95cUxPQm5qZWtVXzdsZHBfcTF4QWRKLUxDaWVFaXFuWmZHcC1WMmQ5emRJdDJjMGZMc1BXNXl3OGlFbE1TVjhyTUwtMm5oNFFvQ3RzZmFuemNHWlktY1R1VkRfWXVtSjFZaXdpWTVYOGtGNUNWcVJCbG1lWmV6X2F0Rl9MY05kY2dxQ2Nma0dVREVqMDE",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-11-24T18:07:57.779Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "primetimer.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZnZ4MGY2dUhNdDJPYk1uTzNnMUFMS1BrYi1MOU53czRyVVdZckZfWnhpekFWU21neldHVDV3ejc4eFhZbU5iaXQ4cUV5MUxnRllWbmVteVdrdDJ0MHE4Q2hBNm11aUN4Ul9aRFljRVloMElTUDAyd0M1ejFTSVhrMzRuNkhMOXQ1c3U1bmJpRk45VkdUYVA3V1N1MFBfVTVoRkJFR19Bbk5hVGJGWmNPRE9pRUhXc0VGRzg1bDVzZF9IV1llMFh0SkJ2aEhZazFhZkhWQXJCMDNkN3JPNTJQNEJQY1dsWU5KVVhRQ0NJWjhPdnpDM2dFN0tPRQ?oc=5",
+    "urlSlug": null,
+    "title": "Spencer Pratt calls Mamdani \"100% fair-trade USDA organic stupid\" after NYC mayor dismisses claims about vacant rent-stabilized apartments",
+    "summary": "",
+    "publishedAt": "2026-11-23T21:43:00.000Z",
+    "categories": [],
+    "guid": "CBMi-wFBVV95cUxPZnZ4MGY2dUhNdDJPYk1uTzNnMUFMS1BrYi1MOU53czRyVVdZckZfWnhpekFWU21neldHVDV3ejc4eFhZbU5iaXQ4cUV5MUxnRllWbmVteVdrdDJ0MHE4Q2hBNm11aUN4Ul9aRFljRVloMElTUDAyd0M1ejFTSVhrMzRuNkhMOXQ1c3U1bmJpRk45VkdUYVA3V1N1MFBfVTVoRkJFR19Bbk5hVGJGWmNPRE9pRUhXc0VGRzg1bDVzZF9IV1llMFh0SkJ2aEhZazFhZkhWQXJCMDNkN3JPNTJQNEJQY1dsWU5KVVhRQ0NJWjhPdnpDM2dFN0tPRQ",
+    "searchedLabel": "usda-organic",
+    "matches": [
+      {
+        "labelId": "usda-organic",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "USDA Organic"
+      }
+    ],
+    "fetchedAt": "2026-11-24T18:07:57.779Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Wood Central",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtN3YxQXZhNHVmQ1hfaHpSY1AzalBLcGZzUzNwZUczTTg4MTg1SEk5YUhsNXRiY242SjdyOUtQdk5LUlZ2QWhRV2huYTV3SWtBRlZlNzdkZWh6VGFGSVFsWGRCMmU?oc=5",
+    "urlSlug": null,
+    "title": "NZ’s Largest Mechanical Pulp Mill Brings 36,000 Hectares Into PEFC",
+    "summary": "",
+    "publishedAt": "2026-11-23T20:36:03.000Z",
+    "categories": [],
+    "guid": "CBMiZEFVX3lxTFBtN3YxQXZhNHVmQ1hfaHpSY1AzalBLcGZzUzNwZUczTTg4MTg1SEk5YUhsNXRiY242SjdyOUtQdk5LUlZ2QWhRV2huYTV3SWtBRlZlNzdkZWh6VGFGSVFsWGRCMmU",
+    "searchedLabel": "pefc",
+    "matches": [
+      {
+        "labelId": "pefc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "PEFC"
+      }
+    ],
+    "fetchedAt": "2026-11-24T18:07:57.779Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "IndexBox",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemtTd05pRTdwbVFGcEpXaDQtbk9mSEoxMmxidGZtLVA4US1VTlgyVmZyTjFCRGZPQ3JNV1BqaU96bHQ1d0laVE5wU09jajNpMDM5NnB0MkpVMk4yZmo3SEZseGxWREZ1R3h6OXZ2cHJ1ZmFEQmg1cVlrNE0xNmk1eXBETFJpaEtxWmxzbGt2ZXI0cHZaMExrUQ?oc=5",
@@ -412,6 +527,29 @@
       }
     ],
     "fetchedAt": "2026-11-20T15:42:33.449Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Financial Express",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGQ5Q214aEhCOVVwUS1FXzhSS09fQlhFU1dDa3FveGxlZVBodDlQOEN0WmRRS1EwcW55TU9RTy0tSmcyQ0diWUY2eHFwTnU1NldtSVNHY1Z6SHR6T0JsQmZRNm9TU0NiZDh4M0c3WGw1SXhuM0VQS3dZWXE5am8tTDRmVHJUUFBxY1VLOWVrTWJCdEUwNC03bVA4MlNoZw?oc=5",
+    "urlSlug": null,
+    "title": "Bangladesh’s LEED-certified green factories surpass 300",
+    "summary": "",
+    "publishedAt": "2026-11-20T10:35:56.000Z",
+    "categories": [],
+    "guid": "CBMingFBVV95cUxOOGQ5Q214aEhCOVVwUS1FXzhSS09fQlhFU1dDa3FveGxlZVBodDlQOEN0WmRRS1EwcW55TU9RTy0tSmcyQ0diWUY2eHFwTnU1NldtSVNHY1Z6SHR6T0JsQmZRNm9TU0NiZDh4M0c3WGw1SXhuM0VQS3dZWXE5am8tTDRmVHJUUFBxY1VLOWVrTWJCdEUwNC03bVA4MlNoZw",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-24T18:07:57.779Z"
   },
   {
     "outletId": "google-news",
@@ -974,6 +1112,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Ecotextile News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVNaZGJaSFZ5TkhURlFFODZEQWpDZXloSHg4TC1RMzdsSU41Mnp1c3hsVFA0YUVDZk9pZmVjSkhrbTRyUEszTExiSzlCVUJKeTNkMXVwWm94d2lMNExDT1FodDVkamNiSXdRQ19NTWN4Z0RpNzUySzVjUWdiRnowNG0tXzg0SG1tYlM5N3lRWUVqTkxiMm1TYVJhUndLb093?oc=5",
+    "urlSlug": null,
+    "title": "Traceable BCI cotton sourcing jumps 43.5%",
+    "summary": "",
+    "publishedAt": "2026-11-18T16:53:15.000Z",
+    "categories": [],
+    "guid": "CBMioAFBVV95cUxPNVNaZGJaSFZ5TkhURlFFODZEQWpDZXloSHg4TC1RMzdsSU41Mnp1c3hsVFA0YUVDZk9pZmVjSkhrbTRyUEszTExiSzlCVUJKeTNkMXVwWm94d2lMNExDT1FodDVkamNiSXdRQ19NTWN4Z0RpNzUySzVjUWdiRnowNG0tXzg0SG1tYlM5N3lRWUVqTkxiMm1TYVJhUndLb093",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BCI"
+      }
+    ],
+    "fetchedAt": "2026-11-24T18:07:57.779Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "FinSMEs",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTUp1NHN2SlRqbmhoVElwR202R3lTdnMxNURDSDNQWHU2eHhVMHVsQmZVcnllWWt0a21icDhsd1ZKSWNlZi1LUk0zWklVdmpFSEtmZWdBWlJDd0gzRHRPc1RGbTFnbVZ4eTZHb0NTX0RpSXhKajNtSUVoNzFXZkxadFNCTUNCaUE4WFNMSTVmMDVKaGdwc1V5eEFR?oc=5",
@@ -1017,6 +1178,29 @@
       }
     ],
     "fetchedAt": "2026-11-18T15:55:27.235Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "RuralVoice",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGU5RS1LbFhoa2UzSV82OHRod1FJSEhOSk1fZWJESHNhOGlWcHRBZ3R2S0otbVo5anoxUk90ZzdRUUZ2b09VbEFEQlBwaS1YVDVKSF9ld0NFRUNxZlVJWUJQSElKYkJVbHIyaldOeFRSeU9VajMxd2dELVFMZkF4TGRnZGMtOHc3NndBTnJ6bmhyYXh3a1pZa1NUTjVFTUkyZllRTzJ3SjhqRFJ5MGJqZFdQZVlRbk3SAbwBQVVfeXFMTXdMVFJtcE1Lb2JzQnMxeWNyb2VhRk52dmdJcmlpZ3F2UFh2MUw2VFVXOW5DUWp2T1lFRldNVUQ4WjBrNGFSOGk0VzJJcVVmR2dfaUoxQU1vV0wwVmppV1NFNUtCanFIWTJKbUFTQ2Q3Z1NvUEd3amdIejVyNVhkQTVMM1lscTFON3NvOVVHTWxuLXlhQlpBSmdTRzgtZWtQUU1rcUdKWGFSTDlDa3lIRnBKcDl5RmtyelR2eXM?oc=5",
+    "urlSlug": null,
+    "title": "Traceable BCI Cotton Sourcing Rises 43.5% to Record 33,000 Tonnes",
+    "summary": "",
+    "publishedAt": "2026-11-18T08:40:00.000Z",
+    "categories": [],
+    "guid": "CBMitwFBVV95cUxOOGU5RS1LbFhoa2UzSV82OHRod1FJSEhOSk1fZWJESHNhOGlWcHRBZ3R2S0otbVo5anoxUk90ZzdRUUZ2b09VbEFEQlBwaS1YVDVKSF9ld0NFRUNxZlVJWUJQSElKYkJVbHIyaldOeFRSeU9VajMxd2dELVFMZkF4TGRnZGMtOHc3NndBTnJ6bmhyYXh3a1pZa1NUTjVFTUkyZllRTzJ3SjhqRFJ5MGJqZFdQZVlRbk3SAbwBQVVfeXFMTXdMVFJtcE1Lb2JzQnMxeWNyb2VhRk52dmdJcmlpZ3F2UFh2MUw2VFVXOW5DUWp2T1lFRldNVUQ4WjBrNGFSOGk0VzJJcVVmR2dfaUoxQU1vV0wwVmppV1NFNUtCanFIWTJKbUFTQ2Q3Z1NvUEd3amdIejVyNVhkQTVMM1lscTFON3NvOVVHTWxuLXlhQlpBSmdTRzgtZWtQUU1rcUdKWGFSTDlDa3lIRnBKcDl5RmtyelR2eXM",
+    "searchedLabel": "better-cotton",
+    "matches": [
+      {
+        "labelId": "better-cotton",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BCI"
+      }
+    ],
+    "fetchedAt": "2026-11-24T18:07:57.779Z"
   },
   {
     "outletId": "google-news",
@@ -9123,189 +9307,5 @@
       }
     ],
     "fetchedAt": "2026-10-14T12:15:33.792Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Commercial Baking",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PU19IMmhlU1dqaDJmOGpVRnVIcTJiM0xXYUMzVy1tVXZVT3pWdm9iQVRZelRtMFlUTnE3VEQzdVB4NDZDNlhFSGNmT25LVW5fN1luNE1kNWY2YjIwdHlHRERMeHMxR3Y2bVNlaW55akZ3ZHIzOVBQLWNVdEZJUQ?oc=5",
-    "urlSlug": null,
-    "title": "Bimbo Canada sweeps 2026 ENERGY STAR awards",
-    "summary": "",
-    "publishedAt": "2026-10-13T20:38:08.000Z",
-    "categories": [],
-    "guid": "CBMifkFVX3lxTE5PU19IMmhlU1dqaDJmOGpVRnVIcTJiM0xXYUMzVy1tVXZVT3pWdm9iQVRZelRtMFlUTnE3VEQzdVB4NDZDNlhFSGNmT25LVW5fN1luNE1kNWY2YjIwdHlHRERMeHMxR3Y2bVNlaW55akZ3ZHIzOVBQLWNVdEZJUQ",
-    "searchedLabel": "energy-star",
-    "matches": [
-      {
-        "labelId": "energy-star",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ENERGY STAR"
-      }
-    ],
-    "fetchedAt": "2026-10-14T12:15:33.792Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "IndexBox",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnlnZWExLVNUTW5yamV0MDZGVlJCejJwUlMxdjJUM3BuM2FTcjFqZXVhS3diN1EycHVFUHM1U2UxU3ROM2Vrc3lPQnV0N0F4eUZPTE11NXdKd0owMHhtdFRiMVFKcUZOc1c0VkxwakVNYU8yODF6SkZPRURwWjY2VzhUNF9XNzFEeWV6aFFFVGxzTFVwZlFUMmNSTlduU1UwTTd4cXZYbw?oc=5",
-    "urlSlug": null,
-    "title": "USDA Organic Poultry & Eggs Report October 13, 2026: Egg Prices, Chicken Prices, Production - News and Statistics",
-    "summary": "",
-    "publishedAt": "2026-10-13T14:30:31.000Z",
-    "categories": [],
-    "guid": "CBMipwFBVV95cUxPMnlnZWExLVNUTW5yamV0MDZGVlJCejJwUlMxdjJUM3BuM2FTcjFqZXVhS3diN1EycHVFUHM1U2UxU3ROM2Vrc3lPQnV0N0F4eUZPTE11NXdKd0owMHhtdFRiMVFKcUZOc1c0VkxwakVNYU8yODF6SkZPRURwWjY2VzhUNF9XNzFEeWV6aFFFVGxzTFVwZlFUMmNSTlduU1UwTTd4cXZYbw",
-    "searchedLabel": "usda-organic",
-    "matches": [
-      {
-        "labelId": "usda-organic",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "USDA Organic"
-      }
-    ],
-    "fetchedAt": "2026-10-14T12:15:33.792Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Fashion United",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3R2d3NXYjEzelZaTDhIZ1V3ZWRaSDBESFRKcWo5ekZ6a2stdHc1MVcxTjVMV202dDJSRUlscmdRVC1XX0RJWi13cXg1eE1FZEFNMjdCNUEyckpmM0F1ckxUOUl2ZWlneFk4OGxPN3dOb1dIS3kySUt1M2tjRlBEcDgxclVxQ2J2eWVJcFFqU0NBOFNlLV9DUGY5TXViS3pKdFRIU1A1R0g4cjh1czVQUms4Yw?oc=5",
-    "urlSlug": null,
-    "title": "Better Cotton Initiative is now regenerative standard system",
-    "summary": "",
-    "publishedAt": "2026-10-13T13:55:17.000Z",
-    "categories": [],
-    "guid": "CBMiswFBVV95cUxPb3R2d3NXYjEzelZaTDhIZ1V3ZWRaSDBESFRKcWo5ekZ6a2stdHc1MVcxTjVMV202dDJSRUlscmdRVC1XX0RJWi13cXg1eE1FZEFNMjdCNUEyckpmM0F1ckxUOUl2ZWlneFk4OGxPN3dOb1dIS3kySUt1M2tjRlBEcDgxclVxQ2J2eWVJcFFqU0NBOFNlLV9DUGY5TXViS3pKdFRIU1A1R0g4cjh1czVQUms4Yw",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "Better Cotton"
-      }
-    ],
-    "fetchedAt": "2026-10-16T11:47:00.147Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Seafoodnews",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUtYU1YtVVIzTFNiWmFFTjlyQWZTa2ZBT0doc2doeTdWLVV6S2ZQYzZTbUtoZk1SUzdaZFlrZENORjAtLVR4YXFXeGRaZ3FqeUJxTTFOTU5qSXdkRjd1TXZKZ3g3NHpjNlpPd0VIalZXWUtlWkxOWlIyYU9mTWJ5bGU2LVZjSHFPazBUQzliS1RSeEVmdDN0YXJUQ2x4VElDQWstTGoxNTJFeVl2MVVERmo4WDZtQ1poWHowOF9hQXp0bzJIcElBaw?oc=5",
-    "urlSlug": null,
-    "title": "ASC Makes the Case for Certified Farmed Seafood as Climate Solution at Climate Week NYC",
-    "summary": "",
-    "publishedAt": "2026-10-13T12:45:58.000Z",
-    "categories": [],
-    "guid": "CBMiyAFBVV95cUxObUtYU1YtVVIzTFNiWmFFTjlyQWZTa2ZBT0doc2doeTdWLVV6S2ZQYzZTbUtoZk1SUzdaZFlrZENORjAtLVR4YXFXeGRaZ3FqeUJxTTFOTU5qSXdkRjd1TXZKZ3g3NHpjNlpPd0VIalZXWUtlWkxOWlIyYU9mTWJ5bGU2LVZjSHFPazBUQzliS1RSeEVmdDN0YXJUQ2x4VElDQWstTGoxNTJFeVl2MVVERmo4WDZtQ1poWHowOF9hQXp0bzJIcElBaw",
-    "searchedLabel": "asc",
-    "matches": [
-      {
-        "labelId": "asc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ASC"
-      }
-    ],
-    "fetchedAt": "2026-10-14T12:15:33.792Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Gulf News",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSENSRFQ5MFhlTVFsZ0Z1cGQ2a3RfU0dDM3JJSzhtQmxUandSVlBwYUpQN2ptWW5BQjVqLXIwenV6R3hRMVl6bG1VSHlKLV9jWVRQWGZLMlZ2Tm1iaUdma0N0VGRqa1FxTl93V2tMc29welVmYjJNSWRvRkVLVHhIaXlGUUJCT1lwRVl4TGRxYVp0Q2dOS2ozZVFOSDM5TE4wLWUtWFdtXzhiODktVGhWamFod21RVTZvdERHTkJsNG5xalB3dE1mb3IxNUxMRzNsNjhGUm9qNmNMaW5JM0syMjZPTEVUZ1RWYXdKLdIB7AFBVV95cUxOSENSRFQ5MFhlTVFsZ0Z1cGQ2a3RfU0dDM3JJSzhtQmxUandSVlBwYUpQN2ptWW5BQjVqLXIwenV6R3hRMVl6bG1VSHlKLV9jWVRQWGZLMlZ2Tm1iaUdma0N0VGRqa1FxTl93V2tMc29welVmYjJNSWRvRkVLVHhIaXlGUUJCT1lwRVl4TGRxYVp0Q2dOS2ozZVFOSDM5TE4wLWUtWFdtXzhiODktVGhWamFod21RVTZvdERHTkJsNG5xalB3dE1mb3IxNUxMRzNsNjhGUm9qNmNMaW5JM0syMjZPTEVUZ1RWYXdKLQ?oc=5",
-    "urlSlug": null,
-    "title": "Abu Dhabi school achieves historic LEED platinum certification, setting sustainability benchmark",
-    "summary": "",
-    "publishedAt": "2026-10-13T10:09:06.000Z",
-    "categories": [],
-    "guid": "CBMi7AFBVV95cUxOSENSRFQ5MFhlTVFsZ0Z1cGQ2a3RfU0dDM3JJSzhtQmxUandSVlBwYUpQN2ptWW5BQjVqLXIwenV6R3hRMVl6bG1VSHlKLV9jWVRQWGZLMlZ2Tm1iaUdma0N0VGRqa1FxTl93V2tMc29welVmYjJNSWRvRkVLVHhIaXlGUUJCT1lwRVl4TGRxYVp0Q2dOS2ozZVFOSDM5TE4wLWUtWFdtXzhiODktVGhWamFod21RVTZvdERHTkJsNG5xalB3dE1mb3IxNUxMRzNsNjhGUm9qNmNMaW5JM0syMjZPTEVUZ1RWYXdKLdIB7AFBVV95cUxOSENSRFQ5MFhlTVFsZ0Z1cGQ2a3RfU0dDM3JJSzhtQmxUandSVlBwYUpQN2ptWW5BQjVqLXIwenV6R3hRMVl6bG1VSHlKLV9jWVRQWGZLMlZ2Tm1iaUdma0N0VGRqa1FxTl93V2tMc29welVmYjJNSWRvRkVLVHhIaXlGUUJCT1lwRVl4TGRxYVp0Q2dOS2ozZVFOSDM5TE4wLWUtWFdtXzhiODktVGhWamFod21RVTZvdERHTkJsNG5xalB3dE1mb3IxNUxMRzNsNjhGUm9qNmNMaW5JM0syMjZPTEVUZ1RWYXdKLQ",
-    "searchedLabel": "leed",
-    "matches": [
-      {
-        "labelId": "leed",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "LEED"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Gulf News",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTnZ1alNjTU1GTUc0Z0FmOHZhZ0tyV1pFZ0p2TWZnVGlOU0JMeElaRWxseDIyRDM1dW05bXZpNHU0VVF2TDF0VUhKaFpNQWs4NlVVV1ZONGlRX3ZCTUxUT0xFNWtrZlZfcHIzWFFQSkdwZExYNExMU25SMUJjVzktZTRicGNYMTB6UHoyTXNGS2tEQ2ZPMjhRNHA1ZGdBa3hXWGJERjZfbXZwM2JXU3djQTVSS0dvNkE1d3paemtEc1lSMGV3OHcwOWR0VWZ4S2xnbFNiTV92V2tkUQ?oc=5",
-    "urlSlug": null,
-    "title": "Abu Dhabi school achieves historic LEED platinum certification, setting sustainability benchmark",
-    "summary": "",
-    "publishedAt": "2026-10-13T10:09:06.000Z",
-    "categories": [],
-    "guid": "CBMi2gFBVV95cUxOTnZ1alNjTU1GTUc0Z0FmOHZhZ0tyV1pFZ0p2TWZnVGlOU0JMeElaRWxseDIyRDM1dW05bXZpNHU0VVF2TDF0VUhKaFpNQWs4NlVVV1ZONGlRX3ZCTUxUT0xFNWtrZlZfcHIzWFFQSkdwZExYNExMU25SMUJjVzktZTRicGNYMTB6UHoyTXNGS2tEQ2ZPMjhRNHA1ZGdBa3hXWGJERjZfbXZwM2JXU3djQTVSS0dvNkE1d3paemtEc1lSMGV3OHcwOWR0VWZ4S2xnbFNiTV92V2tkUQ",
-    "searchedLabel": "leed",
-    "matches": [
-      {
-        "labelId": "leed",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "LEED"
-      }
-    ],
-    "fetchedAt": "2026-10-17T11:04:57.945Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "WWD",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE1yeXB0THpwNVd0ZWZMLWtCbFZIbXVjR0RuMFBMWUNnbnNDNlpfQ0dvWHlIbU5ST2RrN0U5TzhkRlRreTVXWkNpOE84NmNhXzhVNlBueTh5cDAxU0NPTFQ1MVNaMUlBbVUwbFhob1p5RmNPRTd3T1d4eF9Ta1l3VUVkLTNDcW1tRVFPc1pmRFA2YVV3TlByOUd2OS1ONGZyMlVnSWkyWnhiV3A2QWFZVWNRMzU?oc=5",
-    "urlSlug": null,
-    "title": "How People and Planet Intersect in BCI’s Regenerative Standards System",
-    "summary": "",
-    "publishedAt": "2026-10-13T09:02:30.000Z",
-    "categories": [],
-    "guid": "CBMitAFBVV95cUxOZE1yeXB0THpwNVd0ZWZMLWtCbFZIbXVjR0RuMFBMWUNnbnNDNlpfQ0dvWHlIbU5ST2RrN0U5TzhkRlRreTVXWkNpOE84NmNhXzhVNlBueTh5cDAxU0NPTFQ1MVNaMUlBbVUwbFhob1p5RmNPRTd3T1d4eF9Ta1l3VUVkLTNDcW1tRVFPc1pmRFA2YVV3TlByOUd2OS1ONGZyMlVnSWkyWnhiV3A2QWFZVWNRMzU",
-    "searchedLabel": "better-cotton",
-    "matches": [
-      {
-        "labelId": "better-cotton",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BCI"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Fordaq",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HNU1UMzVuV1J0UkhZbEcyZC16aEhkMVhieWoxWDc2TDRFR3Z3QXBkSUF6aTdKWDA1T0M0REtGc3hjQzMzTDFvMVJjRmhRM2h6SDJaXzRJVUhrU1J0MHB5bDNhQVZiYnNER0VocHBrYmEyNGpuSGc1LXVB?oc=5",
-    "urlSlug": null,
-    "title": "PEFC amends trademark rules to align with EU EmpCo requirements",
-    "summary": "",
-    "publishedAt": "2026-10-13T08:07:44.000Z",
-    "categories": [],
-    "guid": "CBMiekFVX3lxTE9HNU1UMzVuV1J0UkhZbEcyZC16aEhkMVhieWoxWDc2TDRFR3Z3QXBkSUF6aTdKWDA1T0M0REtGc3hjQzMzTDFvMVJjRmhRM2h6SDJaXzRJVUhrU1J0MHB5bDNhQVZiYnNER0VocHBrYmEyNGpuSGc1LXVB",
-    "searchedLabel": "pefc",
-    "matches": [
-      {
-        "labelId": "pefc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "PEFC"
-      }
-    ],
-    "fetchedAt": "2026-10-13T14:30:06.577Z"
   }
 ]
