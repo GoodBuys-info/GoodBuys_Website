@@ -1,5 +1,357 @@
 [
   {
+    "outletId": "google-news",
+    "outletName": "Tech Funding News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbGhyajM3UmlpMzBfMjNpZTFDV1FvQ0hJbGpPWmJCU2VPdGZlLWhpLUhSOHdHdFZXQWY2NVJuUS13WnlFTFoxcldIQ1VhNVR4TDVWN2xMdWNPejBQTXBKYVNSVi04MzFmOU1ueUlaaXpfQmFTOGg1UXFmSVVJWjVZM0RGUQ?oc=5",
+    "urlSlug": null,
+    "title": "Exclusive: WaterSense raises €5.7M to predict water pollution 72 hours ahead",
+    "summary": "",
+    "publishedAt": "2026-11-26T12:58:36.000Z",
+    "categories": [],
+    "guid": "CBMigwFBVV95cUxPbGhyajM3UmlpMzBfMjNpZTFDV1FvQ0hJbGpPWmJCU2VPdGZlLWhpLUhSOHdHdFZXQWY2NVJuUS13WnlFTFoxcldIQ1VhNVR4TDVWN2xMdWNPejBQTXBKYVNSVi04MzFmOU1ueUlaaXpfQmFTOGg1UXFmSVVJWjVZM0RGUQ",
+    "searchedLabel": "watersense",
+    "matches": [
+      {
+        "labelId": "watersense",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "WaterSense"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Fishfarming expert",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeVRGV3lzQVkxOFNaeXJueVl3YUQ4WVRVbm9KOWd0UmRNenZGd2RlZFNQMXo5aTFMN0tkRE02T1FxYW5sTXNFLUFoLUg3ZlhqbGdWSVhkV3pORzFocEI5TDNoaTJ4LUlfU0g3MnVOeE1zQmtKLUNObEFhZXhjLUE4SHh5T3BqWHpMN0Q1MExKeksyaXBSSm5JY014OU1ON20wbk01LXFOWFFkWVNmQU9SaktTVHU2RFlCNVp2QjJwZzFfMEFRTEctYmM2c3RaMHA4OHI0YnBYVFBJN3dSM3J6N0J0Q1NkWjVLc1ZlV2ZXdFliWDZiXy10b0E5ZXNIMnkzU1Nn?oc=5",
+    "urlSlug": null,
+    "title": "Sustainability-focused cruise company brings ASC on board",
+    "summary": "",
+    "publishedAt": "2026-11-26T10:31:11.000Z",
+    "categories": [],
+    "guid": "CBMigwJBVV95cUxPeVRGV3lzQVkxOFNaeXJueVl3YUQ4WVRVbm9KOWd0UmRNenZGd2RlZFNQMXo5aTFMN0tkRE02T1FxYW5sTXNFLUFoLUg3ZlhqbGdWSVhkV3pORzFocEI5TDNoaTJ4LUlfU0g3MnVOeE1zQmtKLUNObEFhZXhjLUE4SHh5T3BqWHpMN0Q1MExKeksyaXBSSm5JY014OU1ON20wbk01LXFOWFFkWVNmQU9SaktTVHU2RFlCNVp2QjJwZzFfMEFRTEctYmM2c3RaMHA4OHI0YnBYVFBJN3dSM3J6N0J0Q1NkWjVLc1ZlV2ZXdFliWDZiXy10b0E5ZXNIMnkzU1Nn",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "asc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ASC"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Oxford Mail",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nOFdMMUN6Nkh6OE02cUZrY0ZLanVWNXE2X2dXMG5KbWVQbkZaWVpsVUd5Q1hqMmtaN2ZlR2s4MXdKc2YyV1NLRzI4ZmljMHFwMXcxNVBEMUNlbklXdnJaVzRmTUdpS2tvS2dFNVBSa2Z4RHlyZ3F1OTdPMG8?oc=5",
+    "urlSlug": null,
+    "title": "Beyond profit — the B Corp journey",
+    "summary": "",
+    "publishedAt": "2026-11-26T10:00:00.000Z",
+    "categories": [],
+    "guid": "CBMifEFVX3lxTE9nOFdMMUN6Nkh6OE02cUZrY0ZLanVWNXE2X2dXMG5KbWVQbkZaWVpsVUd5Q1hqMmtaN2ZlR2s4MXdKc2YyV1NLRzI4ZmljMHFwMXcxNVBEMUNlbklXdnJaVzRmTUdpS2tvS2dFNVBSa2Z4RHlyZ3F1OTdPMG8",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Unite.AI",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWU9BWVM0Uk91NV9EdGltcXk2YTRKUzhZblFydzlndFJuTmhfLVp3bGVzcEJqY1haMWFTRWMxdFE1SmF5VmdaMUh2cW5qSkV4OTFyOXdIZnoyQzB6RGVTQTZub0dwZXdiYTdWM3lwTGpXTk1HTzJBTWdkRDk5MkpIb0l5STM2N2F2VWhqVzhJdjhpSEpaNjBJ?oc=5",
+    "urlSlug": null,
+    "title": "WaterSense Raises €5.75M in Pre-Seed and Grants for AI Water Monitoring",
+    "summary": "",
+    "publishedAt": "2026-11-26T09:51:03.000Z",
+    "categories": [],
+    "guid": "CBMilwFBVV95cUxNWU9BWVM0Uk91NV9EdGltcXk2YTRKUzhZblFydzlndFJuTmhfLVp3bGVzcEJqY1haMWFTRWMxdFE1SmF5VmdaMUh2cW5qSkV4OTFyOXdIZnoyQzB6RGVTQTZub0dwZXdiYTdWM3lwTGpXTk1HTzJBTWdkRDk5MkpIb0l5STM2N2F2VWhqVzhJdjhpSEpaNjBJ",
+    "searchedLabel": "watersense",
+    "matches": [
+      {
+        "labelId": "watersense",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "WaterSense"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Recursive",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTlQxbXh3V3NXMXg0SXZBVTlaQk9BYkF1c0l2T2pzdGhselhlZVVVUlRCTWtkc19rRU1oY210ZVdweGJEMzBuUmt2WDNyTDExX0dRbUJ6WmZIMGRnLW52QlZSSEZYZzhoZGZleTZ5UGdGN3JWa0R3M1l0Wm9VdjFGb25pcmFQRi1XNlI5Vk1rYnUwRWxhdkFTaVB1YjNqS3lENnhMNUdZQzJxeEtQMU5kU0FfMlBNS3BE?oc=5",
+    "urlSlug": null,
+    "title": "Warsaw-based WaterSense Raises €5.75M to Predict Water Pollution up to 72 Hours Ahead",
+    "summary": "",
+    "publishedAt": "2026-11-26T09:30:31.000Z",
+    "categories": [],
+    "guid": "CBMiuAFBVV95cUxQTlQxbXh3V3NXMXg0SXZBVTlaQk9BYkF1c0l2T2pzdGhselhlZVVVUlRCTWtkc19rRU1oY210ZVdweGJEMzBuUmt2WDNyTDExX0dRbUJ6WmZIMGRnLW52QlZSSEZYZzhoZGZleTZ5UGdGN3JWa0R3M1l0Wm9VdjFGb25pcmFQRi1XNlI5Vk1rYnUwRWxhdkFTaVB1YjNqS3lENnhMNUdZQzJxeEtQMU5kU0FfMlBNS3BE",
+    "searchedLabel": "watersense",
+    "matches": [
+      {
+        "labelId": "watersense",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "WaterSense"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Dealroom",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdnJfRTRRcUNTVlBwOWFnVklKaDdzbjZDZ2doTnJoX3lWcDlQay1qZHRJSXdZTE5xOTRvLWZTbzZhWHVRbndZQW81NTlaMkIzVS1sWWhmaWZLWDZkend0TFdlQ2RZSTBLVDVpcWIxdVZWZm9vaVMtV1BQSmRoN3NLSFBpQVhCV2Vhdk9BTg?oc=5",
+    "urlSlug": null,
+    "title": "WaterSense raises €5.75M to monitor Europe's rivers",
+    "summary": "",
+    "publishedAt": "2026-11-26T09:13:22.000Z",
+    "categories": [],
+    "guid": "CBMijAFBVV95cUxOdnJfRTRRcUNTVlBwOWFnVklKaDdzbjZDZ2doTnJoX3lWcDlQay1qZHRJSXdZTE5xOTRvLWZTbzZhWHVRbndZQW81NTlaMkIzVS1sWWhmaWZLWDZkend0TFdlQ2RZSTBLVDVpcWIxdVZWZm9vaVMtV1BQSmRoN3NLSFBpQVhCV2Vhdk9BTg",
+    "searchedLabel": "watersense",
+    "matches": [
+      {
+        "labelId": "watersense",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "WaterSense"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "HospiBuz",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbnV6MXZzajAzVUh4ZEVwYWdvV29Sa04zUU5ZN05ZUHlJWl9yN2RIbXJqZjBZaXJLNjV0Sm53QzBCeVczVjZ1ODZpVUN1NFRFeEpaazcwY1FCUHREWVJFTm5hY253WlpZbkMyZEdnV0lWM1oyZklEb29UZUNxcThLOTNKTDE1TUs2WGNOcG1ZOFBNeW84NEEyd3M1LW1DQ09vZkxSVHFfbERWVTh4WmZLRFdiZExXVFh2Y3dmS0k0dDhubTdRSWhSUVdQbU9QVVHSAc8BQVVfeXFMUG51ejF2c2owM1VIeGRFcGFnb1dvUmtOM1FOWTdOWVB5SVpfcjdkSG1yamYwWWlySzY1dEpud0MwQnlXM1Y2dTg2aVVDdTRURXhKWms3MGNRQlB0RFlSRU5uYWNud1paWW5DMmRHZ1dJVjNaMmZJRG9vVGVDcXE4SzkzSkwxNU1LNlhjTnBtWThQTXlvODRBMndzNS1tQ0NPb2ZMUlRxX2xEVlU4eFpmS0RXYmRMV1RYdmN3ZktJNHQ4bm03UUloUlFXUG1PUFVR?oc=5",
+    "urlSlug": null,
+    "title": "DS Group's Renaissance Bengaluru Race Course Hotel Achieves LEED Platinum Certification",
+    "summary": "",
+    "publishedAt": "2026-11-26T09:03:48.000Z",
+    "categories": [],
+    "guid": "CBMizwFBVV95cUxQbnV6MXZzajAzVUh4ZEVwYWdvV29Sa04zUU5ZN05ZUHlJWl9yN2RIbXJqZjBZaXJLNjV0Sm53QzBCeVczVjZ1ODZpVUN1NFRFeEpaazcwY1FCUHREWVJFTm5hY253WlpZbkMyZEdnV0lWM1oyZklEb29UZUNxcThLOTNKTDE1TUs2WGNOcG1ZOFBNeW84NEEyd3M1LW1DQ09vZkxSVHFfbERWVTh4WmZLRFdiZExXVFh2Y3dmS0k0dDhubTdRSWhSUVdQbU9QVVHSAc8BQVVfeXFMUG51ejF2c2owM1VIeGRFcGFnb1dvUmtOM1FOWTdOWVB5SVpfcjdkSG1yamYwWWlySzY1dEpud0MwQnlXM1Y2dTg2aVVDdTRURXhKWms3MGNRQlB0RFlSRU5uYWNud1paWW5DMmRHZ1dJVjNaMmZJRG9vVGVDcXE4SzkzSkwxNU1LNlhjTnBtWThQTXlvODRBMndzNS1tQ0NPb2ZMUlRxX2xEVlU4eFpmS0RXYmRMV1RYdmN3ZktJNHQ4bm03UUloUlFXUG1PUFVR",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Mynewsdesk",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObkpEM0NPYV9YQ3ZVTUJiaEdSdl9fdUpoUms4MUdYWG5fT1o5bExnTzJNVXRqNUc4TlY2VWRQRzFody01aUhHeFJkNTVXbjAyT1Y5WDhjb3BpLURQRkM2eTF5dHN1WUtvVDlheUJaQ29yTEZ2dDhoX29mNDB6M1FSeWxWWFFCQXg2LUxBZXREc1ZQM1FlSHNXcjR3MGxkNWhDNEdWZ25FQUoyZk1FaGtyYTJYcVpkcmZHRmJxU2JRejJuTGVRS3dnbnhoUG95SUpnaWhCbU5oNzZKTDlza3drNmNBSk1QSmFOTnNNVE0xOThjcnVMclNHaFZBaC0xNHh2VW5sb3FQRzFBT2VJdmdiN2FUWnU0ZTQ?oc=5",
+    "urlSlug": null,
+    "title": "HX Expeditions Becomes First Expedition Cruise Company to Achieve Fleet-Wide MSC & ASC Certification for Sustainable Seafood",
+    "summary": "",
+    "publishedAt": "2026-11-26T09:00:00.000Z",
+    "categories": [],
+    "guid": "CBMilwJBVV95cUxObkpEM0NPYV9YQ3ZVTUJiaEdSdl9fdUpoUms4MUdYWG5fT1o5bExnTzJNVXRqNUc4TlY2VWRQRzFody01aUhHeFJkNTVXbjAyT1Y5WDhjb3BpLURQRkM2eTF5dHN1WUtvVDlheUJaQ29yTEZ2dDhoX29mNDB6M1FSeWxWWFFCQXg2LUxBZXREc1ZQM1FlSHNXcjR3MGxkNWhDNEdWZ25FQUoyZk1FaGtyYTJYcVpkcmZHRmJxU2JRejJuTGVRS3dnbnhoUG95SUpnaWhCbU5oNzZKTDlza3drNmNBSk1QSmFOTnNNVE0xOThjcnVMclNHaFZBaC0xNHh2VW5sb3FQRzFBT2VJdmdiN2FUWnU0ZTQ",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      },
+      {
+        "labelId": "asc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "ASC"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Tech.eu",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmNsM1ctOFFVTWJxYlRLQW5FWHRhR2ExanVMR0Z4dHFFMEpQVzR5MEZfeDVNaXVINUZxSTY5Vm0xaVZ6UkJodENOOUlLMlF0eGRYWWlTcWl5UDlZYnljajR4TmFia3EzUnBVVXBHSk1uNGJpcXpRY0hIbnIzT2lLQTdYR1A1R3BFM0p4VXJ0dVJNdl9TRVlsV0o2emRuRkplTDNLaGJDVQ?oc=5",
+    "urlSlug": null,
+    "title": "WaterSense raises €5.75M to build Europe's water intelligence infrastructure",
+    "summary": "",
+    "publishedAt": "2026-11-26T08:49:44.000Z",
+    "categories": [],
+    "guid": "CBMipwFBVV95cUxOWmNsM1ctOFFVTWJxYlRLQW5FWHRhR2ExanVMR0Z4dHFFMEpQVzR5MEZfeDVNaXVINUZxSTY5Vm0xaVZ6UkJodENOOUlLMlF0eGRYWWlTcWl5UDlZYnljajR4TmFia3EzUnBVVXBHSk1uNGJpcXpRY0hIbnIzT2lLQTdYR1A1R3BFM0p4VXJ0dVJNdl9TRVlsV0o2emRuRkplTDNLaGJDVQ",
+    "searchedLabel": "watersense",
+    "matches": [
+      {
+        "labelId": "watersense",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "WaterSense"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Analytics Insight",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQlI3eTcxVTNXSGRUTW9WaEhweElRVnRQYXFxaFVMdmdkUTBWbEVUTFpHblctTk0tb0RrYUY2QTNUSnA2Z29ad21RNEZSeW5QTV9oSHB2UEFKcGh2OXhhMTNMTjRESHZMdVg5aVBKN29nQ18xZE9Kbkl2aHYxcDlvcl9ibnB2WnZ1SVZaV3pKRVZCb3FKT1pySU9EMUcxRVhYOG03WFNucE9UZ1d3NE5RLXNHMl9ib1FWMmMzNGluV0hRVk1zQWRZTTRSM00xZ0dRbWNkcHphLW1DYWZuNEM40gHfAUFVX3lxTE9CUjd5NzFVM1dIZFRNb1ZoSHB4SVFWdFBhcXFoVUx2Z2RRMFZsRVRMWkduVy1OTS1vRGthRjZBM1RKcDZnb1p3bVE0RlJ5blBNX2hIcHZQQUpwaHY5eGExM0xONERIdkx1WDlpUEo3b2dDXzFkT0puSXZodjFwOW9yX2JucHZadnVJVlpXekpFVkJvcUpPWnJJT0QxRzFFWFg4bTdYU25wT1RnV3c0TlEtc0cyX2JvUVYyYzM0aW5XSFFWTXNBZFlNNFIzTTFnR1FtY2RwemEtbUNhZm40Qzg?oc=5",
+    "urlSlug": null,
+    "title": "Top News Today: MeitY on Chips, WaterSense Funding, Japan AI Hiring, Bitcoin & Claude Duet in India",
+    "summary": "",
+    "publishedAt": "2026-11-26T08:47:51.000Z",
+    "categories": [],
+    "guid": "CBMi3wFBVV95cUxPQlI3eTcxVTNXSGRUTW9WaEhweElRVnRQYXFxaFVMdmdkUTBWbEVUTFpHblctTk0tb0RrYUY2QTNUSnA2Z29ad21RNEZSeW5QTV9oSHB2UEFKcGh2OXhhMTNMTjRESHZMdVg5aVBKN29nQ18xZE9Kbkl2aHYxcDlvcl9ibnB2WnZ1SVZaV3pKRVZCb3FKT1pySU9EMUcxRVhYOG03WFNucE9UZ1d3NE5RLXNHMl9ib1FWMmMzNGluV0hRVk1zQWRZTTRSM00xZ0dRbWNkcHphLW1DYWZuNEM40gHfAUFVX3lxTE9CUjd5NzFVM1dIZFRNb1ZoSHB4SVFWdFBhcXFoVUx2Z2RRMFZsRVRMWkduVy1OTS1vRGthRjZBM1RKcDZnb1p3bVE0RlJ5blBNX2hIcHZQQUpwaHY5eGExM0xONERIdkx1WDlpUEo3b2dDXzFkT0puSXZodjFwOW9yX2JucHZadnVJVlpXekpFVkJvcUpPWnJJT0QxRzFFWFg4bTdYU25wT1RnV3c0TlEtc0cyX2JvUVYyYzM0aW5XSFFWTXNBZFlNNFIzTTFnR1FtY2RwemEtbUNhZm40Qzg",
+    "searchedLabel": "watersense",
+    "matches": [
+      {
+        "labelId": "watersense",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "WaterSense"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "EU-Startups",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcGFCam14Yl82T2wxb25TcTFIS0dFaGxHWXJoaFlOdzV5UElPWTB2SVRaZHhkWlZ4anEwUllXMkMwSnE4MVZzaHZfMkp5c3RKVTVBcG9CQmg0SC1DS2VGc0ZpelJZak1udXdkU2N2ZEZjOHc1U3Q3OVNzZHhaVFRUbUJYSlFTb3BfVG5HN0ktbjRuV3kxU01vNDcwODFpS3ZYck1odVlvOV9FNElwUlVlMTVZLV9HTTNPSElSdEFmQ1hZaVFJZkQxNVY1anBWZmoyMkhKMEM0XzhDb0c3djFPT0txMA?oc=5",
+    "urlSlug": null,
+    "title": "Warsaw-based WaterSense secures €5.75 million to make sense of Europe’s water using AI and satellite data",
+    "summary": "",
+    "publishedAt": "2026-11-26T08:32:22.000Z",
+    "categories": [],
+    "guid": "CBMi4wFBVV95cUxQcGFCam14Yl82T2wxb25TcTFIS0dFaGxHWXJoaFlOdzV5UElPWTB2SVRaZHhkWlZ4anEwUllXMkMwSnE4MVZzaHZfMkp5c3RKVTVBcG9CQmg0SC1DS2VGc0ZpelJZak1udXdkU2N2ZEZjOHc1U3Q3OVNzZHhaVFRUbUJYSlFTb3BfVG5HN0ktbjRuV3kxU01vNDcwODFpS3ZYck1odVlvOV9FNElwUlVlMTVZLV9HTTNPSElSdEFmQ1hZaVFJZkQxNVY1anBWZmoyMkhKMEM0XzhDb0c3djFPT0txMA",
+    "searchedLabel": "watersense",
+    "matches": [
+      {
+        "labelId": "watersense",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "WaterSense"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "www.trendingtopics.eu",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LZnNqc1ZOMkFmbERFeFJ2TWt3WnFWcW1CMWFrcnVWUEh0VWlzbTY1QlY0OWV1X2N1bUItSGZZUHJsaUVFQWR0dE84aUwxSXBQcWNXVjk4ZDNwMjFLN0hMNjZ4YXYtSGx4dEUxMzhsejk?oc=5",
+    "urlSlug": null,
+    "title": "WaterSense Raises €5.75 Million for Real-Time Data From Rivers and Lakes",
+    "summary": "",
+    "publishedAt": "2026-11-26T08:00:00.000Z",
+    "categories": [],
+    "guid": "CBMicEFVX3lxTE5LZnNqc1ZOMkFmbERFeFJ2TWt3WnFWcW1CMWFrcnVWUEh0VWlzbTY1QlY0OWV1X2N1bUItSGZZUHJsaUVFQWR0dE84aUwxSXBQcWNXVjk4ZDNwMjFLN0hMNjZ4YXYtSGx4dEUxMzhsejk",
+    "searchedLabel": "watersense",
+    "matches": [
+      {
+        "labelId": "watersense",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "WaterSense"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Wood Central",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56SmVZSW1PNEQ3andiZ2Q5NHMtVUcyUmdENERfMzIzdzBKSWMzcnAzaHdUZTR6eTU3eEZtOWRfeENQSGdrRjZxM1RqT3E4QzRDcDhNVVZUSGJTMkZMbHFQbEwxYVN4YkE?oc=5",
+    "urlSlug": null,
+    "title": "FSC Rejects Pristine Forest Claim Over Bunnings Merbau Supplier",
+    "summary": "",
+    "publishedAt": "2026-11-25T21:59:51.000Z",
+    "categories": [],
+    "guid": "CBMiZ0FVX3lxTE56SmVZSW1PNEQ3andiZ2Q5NHMtVUcyUmdENERfMzIzdzBKSWMzcnAzaHdUZTR6eTU3eEZtOWRfeENQSGdrRjZxM1RqT3E4QzRDcDhNVVZUSGJTMkZMbHFQbEwxYVN4YkE",
+    "searchedLabel": "fsc",
+    "matches": [
+      {
+        "labelId": "fsc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "FSC"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Lesprom Network",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbFo2MTcxVUJGOFJHN1RmdnhWODlWd3NFbUhwem5HaWJjcDEtbV9IMjhmN2R1Wm1hT2FaaFR6THhMcEZ1UnJFeHNpZ2QyUERhS3oyZGEwRGg1U0paTFRfMVdxWUx3bGhGVE96ZXE5ZVprZFdJTXY1VERNeDU0Q2x4bXE0T3hQUGdraW9jbzVIcHhZUkhqSzFQbHhNQlFPZjk2eWx0SkJsbm1QcVFUMHYxUElXSHZkSHZYM243MmllNHREUnJfOV9v?oc=5",
+    "urlSlug": null,
+    "title": "PEFC Austria launches digital forest owner database to simplify EU deforestation filings",
+    "summary": "",
+    "publishedAt": "2026-11-25T18:25:36.000Z",
+    "categories": [],
+    "guid": "CBMixwFBVV95cUxQbFo2MTcxVUJGOFJHN1RmdnhWODlWd3NFbUhwem5HaWJjcDEtbV9IMjhmN2R1Wm1hT2FaaFR6THhMcEZ1UnJFeHNpZ2QyUERhS3oyZGEwRGg1U0paTFRfMVdxWUx3bGhGVE96ZXE5ZVprZFdJTXY1VERNeDU0Q2x4bXE0T3hQUGdraW9jbzVIcHhZUkhqSzFQbHhNQlFPZjk2eWx0SkJsbm1QcVFUMHYxUElXSHZkSHZYM243MmllNHREUnJfOV9v",
+    "searchedLabel": "pefc",
+    "matches": [
+      {
+        "labelId": "pefc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "PEFC"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "edie",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWTllRTRpY3RITE9Ub3oyY0h1YjdkNHNubW95dTNRbUtLblpzeVc5MzF1cHJ0ZVBYNlZNRmFndVVYMXhNa0dOSHJsaDNwSUwxRk1kX29zdXlZNV91Znl6UU9OeTVENGY2Nk9XcHVDZHd0SmlKYmk1cEE2cWlmQVhCOTBWVGt3NmJkUnlja1BWejluVnk0WFJadjJvLUpoTTIyRmdHY1RuU3dMREJDQllhdTlTVdIBvwFBVV95cUxNN0dNOUtveGEwd1RZQUtmbUwxS3JaSlFNYlNhc1U5eEk0cUJvZm1QRklfYzNsaVhUVEdFU3o3RDRRV252M3R0cFNiM1hrMVV1TWVMNUxVNTZlUUdiMGtRbGE3WmhYWXlCMUJPa2hOMmI1RVI2N3RxSGYtMmc5WGxGek1WUW4zMWt1Z3lJcU5RaGtFTENtYUEzRE9Damtwa0VLb1g0NTZRY3VHM0NkM2JLR0dhRkZqODJ0ZVp3ZGpNaw?oc=5",
+    "urlSlug": null,
+    "title": "Bob W makes energy a KPI for managers as it secures B Corp status",
+    "summary": "",
+    "publishedAt": "2026-11-25T16:59:02.000Z",
+    "categories": [],
+    "guid": "CBMiswFBVV95cUxNWTllRTRpY3RITE9Ub3oyY0h1YjdkNHNubW95dTNRbUtLblpzeVc5MzF1cHJ0ZVBYNlZNRmFndVVYMXhNa0dOSHJsaDNwSUwxRk1kX29zdXlZNV91Znl6UU9OeTVENGY2Nk9XcHVDZHd0SmlKYmk1cEE2cWlmQVhCOTBWVGt3NmJkUnlja1BWejluVnk0WFJadjJvLUpoTTIyRmdHY1RuU3dMREJDQllhdTlTVdIBvwFBVV95cUxNN0dNOUtveGEwd1RZQUtmbUwxS3JaSlFNYlNhc1U5eEk0cUJvZm1QRklfYzNsaVhUVEdFU3o3RDRRV252M3R0cFNiM1hrMVV1TWVMNUxVNTZlUUdiMGtRbGE3WmhYWXlCMUJPa2hOMmI1RVI2N3RxSGYtMmc5WGxGek1WUW4zMWt1Z3lJcU5RaGtFTENtYUEzRE9Damtwa0VLb1g0NTZRY3VHM0NkM2JLR0dhRkZqODJ0ZVp3ZGpNaw",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
     "outletId": "edie",
     "outletName": "Edie",
     "url": "https://www.edie.net/bob-w-makes-energy-efficiency-a-kpi-for-general-managers-as-it-secures-b-corp-certification/",
@@ -122,6 +474,36 @@
       }
     ],
     "fetchedAt": "2026-11-25T17:32:18.704Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Moeve Global",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHFKbTZVV01KOHV4UkhSdXFZVS1oQzVOb0dkdDY2NWNXOFRiSEJKZE5OcGg0TFpSUEJLMlZxWlFBZUtRX00wb2NFZkVDY1FtWW91TzBuaU1oVm50aEM0YUN4aTBYZkhGVHlLUk9CVks0T3JXbWdWLVd3b3ZURXVJUXB2UTJ1dEg4S3B5aW1qcXlJU1dEZ2hSQTVYMzNfTHVlcXBLUjN3?oc=5",
+    "urlSlug": null,
+    "title": "LEED and BREEAM: green building certifications",
+    "summary": "",
+    "publishedAt": "2026-11-25T12:38:36.000Z",
+    "categories": [],
+    "guid": "CBMipgFBVV95cUxQcHFKbTZVV01KOHV4UkhSdXFZVS1oQzVOb0dkdDY2NWNXOFRiSEJKZE5OcGg0TFpSUEJLMlZxWlFBZUtRX00wb2NFZkVDY1FtWW91TzBuaU1oVm50aEM0YUN4aTBYZkhGVHlLUk9CVks0T3JXbWdWLVd3b3ZURXVJUXB2UTJ1dEg4S3B5aW1qcXlJU1dEZ2hSQTVYMzNfTHVlcXBLUjN3",
+    "searchedLabel": "leed",
+    "matches": [
+      {
+        "labelId": "leed",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "LEED"
+      },
+      {
+        "labelId": "breeam",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "BREEAM"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
   },
   {
     "outletId": "google-news",
@@ -286,6 +668,29 @@
   },
   {
     "outletId": "google-news",
+    "outletName": "Nicobar Times",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajdjc2h4V0pmVXp6RnVLUWhHVkdxb1dLdE4wLUY0VGtyZ2ZNcHktTXhQYmJzN1FCcmYwUnVWNDBCT25uSFc5a05JRjRFZ3FBUDZoSmN5WEt2YzdZZWZEdWJlblY3dkRoTjdvWG1tQzBwUzgxdlc1ZGNIOC1mR1RWVGl5UEJTYmViRXRsXzh4UnhyVURmLS10cTRsMk5qZHJPY2RjMG5IMC1WcVA3UWg1ZG5WQzlVVHNIUjI4VllVMkZMVjQ4WWljTklIOHZXaUxpekpZ0gHTAUFVX3lxTE9qN2NzaHhXSmZVenpGdUtRaEdWR3FvV0t0TjAtRjRUa3JnZk1weS1NeFBiYnM3UUJyZjBSdVY0MEJPbm5IVzlrTklGNEVncUFQNmhKY3lYS3ZjN1llZkR1YmVuVjd2RGhON29YbW1DMHBTODF2VzVkY0g4LWZHVFZUaXlQQlNiZWJFdGxfOHhSeHJVRGYtLXRxNGwyTmpkck9jZGMwbkgwLVZxUDdRaDVkblZDOVVUc0hSMjhWWVUyRkxWNDhZaWNOSUg4dldpTGl6Slk?oc=5",
+    "urlSlug": null,
+    "title": "Ramnagar Pradhan Seeks Road Repair, Bus Service Extension and Better Connectivity for Blue Flag Beach -",
+    "summary": "",
+    "publishedAt": "2026-11-24T19:53:03.000Z",
+    "categories": [],
+    "guid": "CBMi0wFBVV95cUxPajdjc2h4V0pmVXp6RnVLUWhHVkdxb1dLdE4wLUY0VGtyZ2ZNcHktTXhQYmJzN1FCcmYwUnVWNDBCT25uSFc5a05JRjRFZ3FBUDZoSmN5WEt2YzdZZWZEdWJlblY3dkRoTjdvWG1tQzBwUzgxdlc1ZGNIOC1mR1RWVGl5UEJTYmViRXRsXzh4UnhyVURmLS10cTRsMk5qZHJPY2RjMG5IMC1WcVA3UWg1ZG5WQzlVVHNIUjI4VllVMkZMVjQ4WWljTklIOHZXaUxpekpZ0gHTAUFVX3lxTE9qN2NzaHhXSmZVenpGdUtRaEdWR3FvV0t0TjAtRjRUa3JnZk1weS1NeFBiYnM3UUJyZjBSdVY0MEJPbm5IVzlrTklGNEVncUFQNmhKY3lYS3ZjN1llZkR1YmVuVjd2RGhON29YbW1DMHBTODF2VzVkY0g4LWZHVFZUaXlQQlNiZWJFdGxfOHhSeHJVRGYtLXRxNGwyTmpkck9jZGMwbkgwLVZxUDdRaDVkblZDOVVUc0hSMjhWWVUyRkxWNDhZaWNOSUg4dldpTGl6Slk",
+    "searchedLabel": "blue-flag",
+    "matches": [
+      {
+        "labelId": "blue-flag",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Flag"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "pan african visions",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0NzUTJCbURMcTl5N0kxNUJDbkNuWVNkV2xyQnhkN3NwbHBrSEhjRmgwQUN2eXFHZUVhWTJ5Q09DSkRiX1Vab1lNZUVrSkVHdnUwSXFHalc2UUFwMFltNXE1UkdOcHBJVUtfY19hQklzRnhiVFN3bjhLM2ZvajBfVEpuZ0FLLWw0N0d0V29ucHpxa1FFM0xSczRkVFBROGVTenp0dHh4S01XbXo2TzQwbmVhYU5RRUFIRWJDQXVLelVoSlU?oc=5",
@@ -352,6 +757,29 @@
       }
     ],
     "fetchedAt": "2026-11-24T18:07:57.779Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Yahoo",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQms5QjNBSHh5TklkTlRHOVdTTGxlUUdSZndRWUIxMlhRV3V2WFc0Z0llZ0FZVnVUNXRpUXZ0ankweS1fZ1MxOXU3THU1X2hOUXJob2w4MUZfMnVadXdSYjdGM2FqaTRLb2tRZThYYnVDOFJOTTVoYkJmSDFWYnJwZA?oc=5",
+    "urlSlug": null,
+    "title": "Blue Angel pilots land in Des Moines to preview 2027 Iowa Air Show",
+    "summary": "",
+    "publishedAt": "2026-11-24T00:43:00.000Z",
+    "categories": [],
+    "guid": "CBMigAFBVV95cUxQQms5QjNBSHh5TklkTlRHOVdTTGxlUUdSZndRWUIxMlhRV3V2WFc0Z0llZ0FZVnVUNXRpUXZ0ankweS1fZ1MxOXU3THU1X2hOUXJob2w4MUZfMnVadXdSYjdGM2FqaTRLb2tRZThYYnVDOFJOTTVoYkJmSDFWYnJwZA",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
   },
   {
     "outletId": "google-news",
@@ -1762,6 +2190,29 @@
       }
     ],
     "fetchedAt": "2026-11-17T16:23:21.665Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Yahoo Finance",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejhTQnJ0OWZ6QjY4eXNiOHd5cUFKdWNmZHdBYWVOTnNJRVpUSVlSSVdDT3NaMXQxdlU4NHQwZnExZEsxUWRYTkhsM3M5QlFMdlJVbERSZGMyWmlDcXNyYjhEMU9PNmU5WHlFeXJBRkotN285VGhHbHczTmliN1pkZXV5aTg1Ni10MFBHTGIwOEdEYmNKT1VTYm1Uc3Etdw?oc=5",
+    "urlSlug": null,
+    "title": "TerraCycle US Reaches $10 Million Raised in Regulation A Offering",
+    "summary": "",
+    "publishedAt": "2026-11-17T08:00:00.000Z",
+    "categories": [],
+    "guid": "CBMingFBVV95cUxQejhTQnJ0OWZ6QjY4eXNiOHd5cUFKdWNmZHdBYWVOTnNJRVpUSVlSSVdDT3NaMXQxdlU4NHQwZnExZEsxUWRYTkhsM3M5QlFMdlJVbERSZGMyWmlDcXNyYjhEMU9PNmU5WHlFeXJBRkotN285VGhHbHczTmliN1pkZXV5aTg1Ni10MFBHTGIwOEdEYmNKT1VTYm1Uc3Etdw",
+    "searchedLabel": "terracycle",
+    "matches": [
+      {
+        "labelId": "terracycle",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "TerraCycle"
+      }
+    ],
+    "fetchedAt": "2026-11-26T17:13:51.598Z"
   },
   {
     "outletId": "google-news",
@@ -8899,443 +9350,6 @@
         "tier": "text-substring",
         "where": "title",
         "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-16T11:47:00.147Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Issuewire.com",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbVNDNFZKekpGdFBfMUlUQnhzMFY3eEZtTkFuLVlWb0RHODlfTEJ5bTVGLVpHXzRaU0hVZ2pVMmVDM3ZVRTlTbTRLRWxHbFg5QjNfMGlHdkZQRFZWem14cmF6SGF6NjlodTY4UUZXTkx3eVA5dzFTbUlQZTNxWlRkdGpSZ25uRUdYT3M2aHpJdEd6cTdhUFVmd0FHRHFORk5PdW9SbHFiVmdsajBabXdrSnZ6cF9zM3E5TlNhcE9mWkRoNUZ6TzZvRFFyX1pUc0hvSXFOelJUN0dqdldSMXZR?oc=5",
-    "urlSlug": null,
-    "title": "BRC, BSCI, BPI and OK Compost: What Foodservice Packaging Buyers Need to Know and What Grizzlies Can Offer",
-    "summary": "",
-    "publishedAt": "2026-10-15T16:33:16.000Z",
-    "categories": [],
-    "guid": "CBMi3wFBVV95cUxPbVNDNFZKekpGdFBfMUlUQnhzMFY3eEZtTkFuLVlWb0RHODlfTEJ5bTVGLVpHXzRaU0hVZ2pVMmVDM3ZVRTlTbTRLRWxHbFg5QjNfMGlHdkZQRFZWem14cmF6SGF6NjlodTY4UUZXTkx3eVA5dzFTbUlQZTNxWlRkdGpSZ25uRUdYT3M2aHpJdEd6cTdhUFVmd0FHRHFORk5PdW9SbHFiVmdsajBabXdrSnZ6cF9zM3E5TlNhcE9mWkRoNUZ6TzZvRFFyX1pUc0hvSXFOelJUN0dqdldSMXZR",
-    "searchedLabel": "ok-compost",
-    "matches": [
-      {
-        "labelId": "ok-compost",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "OK Compost"
-      }
-    ],
-    "fetchedAt": "2026-10-16T11:47:00.147Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "eTNW",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeTMtdzRnamEyMU1rYzBBMU1HcC1nWThoMVRDd3RBeVh6V0lnblhXYTlDaHRST3dfdkpvblhmeFJjbkJBbHNtdEtYWGZzWFJVWEF3R0tZVm92clJDaF95SVJHVGw3VWx1STVYeEU2QzdoS0xKc011RGlDbnJJekN3TVhn?oc=5",
-    "urlSlug": null,
-    "title": "Eight CPT beaches earn Blue Flag status",
-    "summary": "",
-    "publishedAt": "2026-10-15T16:10:00.000Z",
-    "categories": [],
-    "guid": "CBMiggFBVV95cUxPeTMtdzRnamEyMU1rYzBBMU1HcC1nWThoMVRDd3RBeVh6V0lnblhXYTlDaHRST3dfdkpvblhmeFJjbkJBbHNtdEtYWGZzWFJVWEF3R0tZVm92clJDaF95SVJHVGw3VWx1STVYeEU2QzdoS0xKc011RGlDbnJJekN3TVhn",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-16T11:47:00.147Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "citybuzz -",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXFSN2J0SmJzYTgxOUljWkhmZ3VpcjRLaF9tQ1ptelRmeEx2blFrOVFLLVp2SkZiTFRnV2tpYTI4TVdfR3YzNmxuVUdzalhJNXpIQnZDZ29QYl9Ma0tzZVF2aUdVY2xoV0wtOHM0NVFUcXAzSzVHN1U1bEdYNlBkd2lhazFOWGJIVG9TWWRfc1RCUjBaNkdEVUh5MmxGZ0xCT0puNlg5b3N6THFyYnpzRXFwcUc3dDl4YTdvemtIRmZiTXN5ZE9NbV9UNmg5OFk?oc=5",
-    "urlSlug": null,
-    "title": "Scottsdale Bathroom Remodels Offer a Chance to Cut Household Water Use, EPA WaterSense Figures Show",
-    "summary": "",
-    "publishedAt": "2026-10-15T16:03:08.000Z",
-    "categories": [],
-    "guid": "CBMizwFBVV95cUxNYXFSN2J0SmJzYTgxOUljWkhmZ3VpcjRLaF9tQ1ptelRmeEx2blFrOVFLLVp2SkZiTFRnV2tpYTI4TVdfR3YzNmxuVUdzalhJNXpIQnZDZ29QYl9Ma0tzZVF2aUdVY2xoV0wtOHM0NVFUcXAzSzVHN1U1bEdYNlBkd2lhazFOWGJIVG9TWWRfc1RCUjBaNkdEVUh5MmxGZ0xCT0puNlg5b3N6THFyYnpzRXFwcUc3dDl4YTdvemtIRmZiTXN5ZE9NbV9UNmg5OFk",
-    "searchedLabel": "watersense",
-    "matches": [
-      {
-        "labelId": "watersense",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "WaterSense"
-      }
-    ],
-    "fetchedAt": "2026-10-16T11:47:00.147Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Seafoodnews",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejcyeUY5OFc0cnVId1BfSXEwa05rc0pBYVFqSXJXdVFJZVMzV1hVemU4bUxfbFo2U25FeHZ4YnhaTmkyaHQyNHp2LUlRRFd3UjJ6MUVjXy1ueHNiaG1WRG5KbTVKdXNyV2ZwNk9EdlFJS0Q1LXc3dHFtVUZZY2trN2RRcU5Tekduc3B2WUc4UWZVRnpGZUtmaGllS2t4U3V0WU9LaWN4YlVXejZVR2VlM1dxbw?oc=5",
-    "urlSlug": null,
-    "title": "MSC begins 60-day consultation on improvements to its Fisheries Program",
-    "summary": "",
-    "publishedAt": "2026-10-15T14:08:06.000Z",
-    "categories": [],
-    "guid": "CBMiswFBVV95cUxOejcyeUY5OFc0cnVId1BfSXEwa05rc0pBYVFqSXJXdVFJZVMzV1hVemU4bUxfbFo2U25FeHZ4YnhaTmkyaHQyNHp2LUlRRFd3UjJ6MUVjXy1ueHNiaG1WRG5KbTVKdXNyV2ZwNk9EdlFJS0Q1LXc3dHFtVUZZY2trN2RRcU5Tekduc3B2WUc4UWZVRnpGZUtmaGllS2t4U3V0WU9LaWN4YlVXejZVR2VlM1dxbw",
-    "searchedLabel": "msc",
-    "matches": [
-      {
-        "labelId": "msc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "MSC"
-      }
-    ],
-    "fetchedAt": "2026-10-16T11:47:00.147Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Tourism Update",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMm56QXMydlAwR3c1Qld3UXJoMWpDYXlGaG9FcHRVOG1pT0Vra3k4YXo0RWlYOTZsdG96SmF1QTlhcGRKT2pVckdMTlBhdWJLN2xvV0plSTNBWTJRQXZGMmtsWEFPRGo1R3NPRS0wczF4WXItVWdGcjJvU1NJNkN3VFBqNA?oc=5",
-    "urlSlug": null,
-    "title": "Eight CPT beaches earn Blue Flag status",
-    "summary": "",
-    "publishedAt": "2026-10-15T13:40:00.000Z",
-    "categories": [],
-    "guid": "CBMigwFBVV95cUxOMm56QXMydlAwR3c1Qld3UXJoMWpDYXlGaG9FcHRVOG1pT0Vra3k4YXo0RWlYOTZsdG96SmF1QTlhcGRKT2pVckdMTlBhdWJLN2xvV0plSTNBWTJRQXZGMmtsWEFPRGo1R3NPRS0wczF4WXItVWdGcjJvU1NJNkN3VFBqNA",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-23T11:57:04.879Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "openPR.com",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbHZXZ0IwMG1La2dVdDYtQmJfLS1UbnpUdi13QWJKQWJoUnI4WFFaR3FveE1maC1iWnBKMUlmV083azVsZ0EzbjJrbTNLa1lZcVNkRzRrMG1jYkZ3SDNteVk3M2NRWkVRd21JaHpaQ3pFa1NaMTNjMlIxOGgxVGJlS3RmeU5NNjlhbU1qd0VTclhHRmd5WXgtUGQxajl0UQ?oc=5",
-    "urlSlug": null,
-    "title": "BRC, BSCI, BPI and OK Compost: What Foodservice Packaging Buyers Need to Know and What Grizzlies Can Offer",
-    "summary": "",
-    "publishedAt": "2026-10-15T10:20:26.000Z",
-    "categories": [],
-    "guid": "CBMingFBVV95cUxNbHZXZ0IwMG1La2dVdDYtQmJfLS1UbnpUdi13QWJKQWJoUnI4WFFaR3FveE1maC1iWnBKMUlmV083azVsZ0EzbjJrbTNLa1lZcVNkRzRrMG1jYkZ3SDNteVk3M2NRWkVRd21JaHpaQ3pFa1NaMTNjMlIxOGgxVGJlS3RmeU5NNjlhbU1qd0VTclhHRmd5WXgtUGQxajl0UQ",
-    "searchedLabel": "ok-compost",
-    "matches": [
-      {
-        "labelId": "ok-compost",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "OK Compost"
-      }
-    ],
-    "fetchedAt": "2026-10-15T11:55:47.659Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Forest Stewardship Council (FSC)",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lUi1iSHN1NVhkcDRTNlNxMVhGeE9XSXBoVjlSY3VaTGNpUy1ydTFyTzBLY2h5VmI2eTFad0lxTGJtNXZJRWg5dEdfVFppNENIQ0NnZXZ6dG9ucFpuajdwYUhkdjFab2x5QTZv?oc=5",
-    "urlSlug": null,
-    "title": "FSC at the Global Bioeconomy Summit 2026",
-    "summary": "",
-    "publishedAt": "2026-10-15T09:41:52.000Z",
-    "categories": [],
-    "guid": "CBMia0FVX3lxTE1lUi1iSHN1NVhkcDRTNlNxMVhGeE9XSXBoVjlSY3VaTGNpUy1ydTFyTzBLY2h5VmI2eTFad0lxTGJtNXZJRWg5dEdfVFppNENIQ0NnZXZ6dG9ucFpuajdwYUhkdjFab2x5QTZv",
-    "searchedLabel": "fsc",
-    "matches": [
-      {
-        "labelId": "fsc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "FSC"
-      }
-    ],
-    "fetchedAt": "2026-10-15T11:55:47.659Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Forest Stewardship Council (FSC)",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjlKWlVITE5wVEw1UFNCLVBSOTZqY0ZRWF9KYkZKREhDNnBDWkt4TXZPemZ4WjZISE5uaFpzTUZlcEU3Slh3djBPT0wxNElMWV81eFVxNG4xR2kxZUIxWnZNbHNTLXhRaGFOb0FBRkhWdkttUk03ZmZna05mcUFoMGNxN0FEYVBGNEJYSTJQQ3lwZWhtbFJsQ0RhWlk4Q3dFYnk5SjZadmRIZ0RILU9SMm9iQXYzMEd3N3Y0djVIRVA?oc=5",
-    "urlSlug": null,
-    "title": "FSC International addresses concerns over forest management and certification in Europe",
-    "summary": "",
-    "publishedAt": "2026-10-15T09:33:45.000Z",
-    "categories": [],
-    "guid": "CBMiwAFBVV95cUxQYjlKWlVITE5wVEw1UFNCLVBSOTZqY0ZRWF9KYkZKREhDNnBDWkt4TXZPemZ4WjZISE5uaFpzTUZlcEU3Slh3djBPT0wxNElMWV81eFVxNG4xR2kxZUIxWnZNbHNTLXhRaGFOb0FBRkhWdkttUk03ZmZna05mcUFoMGNxN0FEYVBGNEJYSTJQQ3lwZWhtbFJsQ0RhWlk4Q3dFYnk5SjZadmRIZ0RILU9SMm9iQXYzMEd3N3Y0djVIRVA",
-    "searchedLabel": "fsc",
-    "matches": [
-      {
-        "labelId": "fsc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "FSC"
-      }
-    ],
-    "fetchedAt": "2026-10-15T11:55:47.659Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "SeafoodSource",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTktFcDl5Q1FIbHBEM3pCTXkzU21NSldVS3lfOEpUTUxlSjJqek5ReUdobGRqYjJWcjhRVmQ2XzQ4a2xLU3A0MS1SYTQ1cEk3UnVCZ25WRFZSdC1DanMxd2xFeVlxdXU0cWpyQ0F5V2ZhMWp6WVRNNUtOSWlUZzMxdHNuMFljTUY2U3pENlRlQW8xUHN0c0hCak5DTUhHV1plT3hZeUdVUUpZYUJxZGtMb3hhNHp1OWt1MVpySWhwMjdpc3l2YlhZalduaEVDak04NFpyaGJjcUdSZjBCdUlGRnJ0VF8?oc=5",
-    "urlSlug": null,
-    "title": "MSC report finds structural shifts in market as sustainability, supply constraints reshaping Nordic seafood sourcing",
-    "summary": "",
-    "publishedAt": "2026-10-15T09:00:00.000Z",
-    "categories": [],
-    "guid": "CBMi5AFBVV95cUxQTktFcDl5Q1FIbHBEM3pCTXkzU21NSldVS3lfOEpUTUxlSjJqek5ReUdobGRqYjJWcjhRVmQ2XzQ4a2xLU3A0MS1SYTQ1cEk3UnVCZ25WRFZSdC1DanMxd2xFeVlxdXU0cWpyQ0F5V2ZhMWp6WVRNNUtOSWlUZzMxdHNuMFljTUY2U3pENlRlQW8xUHN0c0hCak5DTUhHV1plT3hZeUdVUUpZYUJxZGtMb3hhNHp1OWt1MVpySWhwMjdpc3l2YlhZalduaEVDak04NFpyaGJjcUdSZjBCdUlGRnJ0VF8",
-    "searchedLabel": "msc",
-    "matches": [
-      {
-        "labelId": "msc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "MSC"
-      }
-    ],
-    "fetchedAt": "2026-10-15T11:55:47.659Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "헤럴드경제",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXdFRYNzUwYm9lc2FMU2JmZ1Y4czJEakxrdVBCQm16SzFvUmJWM3c1YjYxTjZXMTRJaGpoNTh1V2ZMV3Frb05zbzdyZWxxZjBORk45SmF3?oc=5",
-    "urlSlug": null,
-    "title": "Aromatica becomes first listed Korean company to earn B Corp certification",
-    "summary": "",
-    "publishedAt": "2026-10-15T07:53:58.000Z",
-    "categories": [],
-    "guid": "CBMiVkFVX3lxTFBXdFRYNzUwYm9lc2FMU2JmZ1Y4czJEakxrdVBCQm16SzFvUmJWM3c1YjYxTjZXMTRJaGpoNTh1V2ZMV3Frb05zbzdyZWxxZjBORk45SmF3",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-17T11:04:57.945Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "HKTDC Research",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UR1VxVjlEX1FwcU9kVXI0S3U1alE3QTBtQjdsRFlMS0M1ZHA2VEpENC1MN051SkEtQXpROHVibWdySV9nN3IzMVVBazlmVm1rcHdHUVc2SWhuQnNNbVFKS1F3?oc=5",
-    "urlSlug": null,
-    "title": "Eurobarometer Survey Reveals Growing Consumer Trust in EU Ecolabel",
-    "summary": "",
-    "publishedAt": "2026-10-15T07:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiYkFVX3lxTE9UR1VxVjlEX1FwcU9kVXI0S3U1alE3QTBtQjdsRFlMS0M1ZHA2VEpENC1MN051SkEtQXpROHVibWdySV9nN3IzMVVBazlmVm1rcHdHUVc2SWhuQnNNbVFKS1F3",
-    "searchedLabel": "eu-ecolabel",
-    "matches": [
-      {
-        "labelId": "eu-ecolabel",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "EU Ecolabel"
-      }
-    ],
-    "fetchedAt": "2026-10-28T13:22:51.482Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Chosunbiz",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVFNNbV9nQnFJNTI1UmoyX1ZZbFRJYlRCeXNJUEZuTF82Rk04M0RHenpNYzZIQ2x3TG1UUnpweXdmRUlaZmkzR3lhcUdhdnRhbG50bGNIa0VhQmR3ZTBuMFo1YmhLa19HdG4tYVRYbDJISFI0T1NMZmJiN044dWVtRXdieU9EUlVRY0RtYWpPWjhKcVXSAZMBQVVfeXFMTlRTTW1fZ0JxSTUyNVJqMl9WWWxUSWJUQnlzSVBGbkxfNkZNODNER3p6TWM2SENsd0xtVFJ6cHl3ZkVJWmZpM0d5YXFHYXZ0YWxudGxjSGtFYUJkd2UwbjBaNWJoS2tfR3RuLWFUWGwySEhSNE9TTGZiYjdOOHVlbUV3YnlPRFJVUWNEbWFqT1o4SnFV?oc=5",
-    "urlSlug": null,
-    "title": "Aromatica becomes first Korea-listed firm to earn global B Corp - CHOSUNBIZ",
-    "summary": "",
-    "publishedAt": "2026-10-15T06:57:00.000Z",
-    "categories": [],
-    "guid": "CBMikwFBVV95cUxOVFNNbV9nQnFJNTI1UmoyX1ZZbFRJYlRCeXNJUEZuTF82Rk04M0RHenpNYzZIQ2x3TG1UUnpweXdmRUlaZmkzR3lhcUdhdnRhbG50bGNIa0VhQmR3ZTBuMFo1YmhLa19HdG4tYVRYbDJISFI0T1NMZmJiN044dWVtRXdieU9EUlVRY0RtYWpPWjhKcVXSAZMBQVVfeXFMTlRTTW1fZ0JxSTUyNVJqMl9WWWxUSWJUQnlzSVBGbkxfNkZNODNER3p6TWM2SENsd0xtVFJ6cHl3ZkVJWmZpM0d5YXFHYXZ0YWxudGxjSGtFYUJkd2UwbjBaNWJoS2tfR3RuLWFUWGwySEhSNE9TTGZiYjdOOHVlbUV3YnlPRFJVUWNEbWFqT1o4SnFV",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-15T11:55:47.659Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Chosunbiz",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zRndKNkdyTXk5T044aVZmNnBybjVtR0tPUFhxQ3ROanlIa0dzM0gtb2doMklGWlpDNzBrRlBhM3lkdnMxLTBjbkdOcTJUdGVHNFQyMXc2R05CRHBvUUdiTHNWOGZPMk5KeUJSalBzNkloODlDQXNtZlpBZy1VUk3SAZMBQVVfeXFMTlRTTW1fZ0JxSTUyNVJqMl9WWWxUSWJUQnlzSVBGbkxfNkZNODNER3p6TWM2SENsd0xtVFJ6cHl3ZkVJWmZpM0d5YXFHYXZ0YWxudGxjSGtFYUJkd2UwbjBaNWJoS2tfR3RuLWFUWGwySEhSNE9TTGZiYjdOOHVlbUV3YnlPRFJVUWNEbWFqT1o4SnFV?oc=5",
-    "urlSlug": null,
-    "title": "Aromatica becomes first Korea-listed firm to earn global B Corp - CHOSUNBIZ",
-    "summary": "",
-    "publishedAt": "2026-10-15T06:57:00.000Z",
-    "categories": [],
-    "guid": "CBMif0FVX3lxTE9zRndKNkdyTXk5T044aVZmNnBybjVtR0tPUFhxQ3ROanlIa0dzM0gtb2doMklGWlpDNzBrRlBhM3lkdnMxLTBjbkdOcTJUdGVHNFQyMXc2R05CRHBvUUdiTHNWOGZPMk5KeUJSalBzNkloODlDQXNtZlpBZy1VUk3SAZMBQVVfeXFMTlRTTW1fZ0JxSTUyNVJqMl9WWWxUSWJUQnlzSVBGbkxfNkZNODNER3p6TWM2SENsd0xtVFJ6cHl3ZkVJWmZpM0d5YXFHYXZ0YWxudGxjSGtFYUJkd2UwbjBaNWJoS2tfR3RuLWFUWGwySEhSNE9TTGZiYjdOOHVlbUV3YnlPRFJVUWNEbWFqT1o4SnFV",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp"
-      }
-    ],
-    "fetchedAt": "2026-10-16T11:47:00.147Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Insider Media Ltd",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSGU5ZzRaWndOYzJ3Tm9QRzNmMVFiV2ZXbjd3cFpSWWkzazNxc3l1TTBzR1BCOVBKeE5nRmVSM2l3ajROc0NBbEdpaE5CYUVENUREOGZHci0zVkRVblo5QXFndXJCZ1U2NUxLOGhYUm05aXc3Qmo1QjFUYnh3bm5la1JVSzZOSFYyUDVOSUQwdXN2NmF0LUE?oc=5",
-    "urlSlug": null,
-    "title": "Lodestar Accounting secures B Corp certification",
-    "summary": "",
-    "publishedAt": "2026-10-15T05:00:00.000Z",
-    "categories": [],
-    "guid": "CBMilgFBVV95cUxPSGU5ZzRaWndOYzJ3Tm9QRzNmMVFiV2ZXbjd3cFpSWWkzazNxc3l1TTBzR1BCOVBKeE5nRmVSM2l3ajROc0NBbEdpaE5CYUVENUREOGZHci0zVkRVblo5QXFndXJCZ1U2NUxLOGhYUm05aXc3Qmo1QjFUYnh3bm5la1JVSzZOSFYyUDVOSUQwdXN2NmF0LUE",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-15T11:55:47.659Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Time Out Worldwide",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pXzNDUk81aUFxMWl1Nk95RmRfWnM1dzd6TUxCMlEwLThSNDN6SXhiQnBCb3VjMzVlNFR0VlNOU0dCcmdPSnBHR0g2RFdXbnNTZVNuY0tFalJ3VmlNU3FOajlaRnJLU1AwUlE?oc=5",
-    "urlSlug": null,
-    "title": "Blue Flag beaches in Durban for 2026/27",
-    "summary": "",
-    "publishedAt": "2026-10-14T22:00:00.000Z",
-    "categories": [],
-    "guid": "CBMiakFVX3lxTE9pXzNDUk81aUFxMWl1Nk95RmRfWnM1dzd6TUxCMlEwLThSNDN6SXhiQnBCb3VjMzVlNFR0VlNOU0dCcmdPSnBHR0g2RFdXbnNTZVNuY0tFalJ3VmlNU3FOajlaRnJLU1AwUlE",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-16T11:47:00.147Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "C2C Journal",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTNlblpuTDUxYnh0VEdZYkhfWlU3bHVrSWRiUTJUUUtwNlVwdFMzYXVYaVdRR1AyVE0zd0ItNnJaVFVfV3htNGtSTWJTOGFGWm42QmJ6Q01ubFFaOTEtZDJRYnhFOV9lNWw0a2stNkkzLVBoZ0NHUWZ6QW9CaUpkalFETUFZR2FQcm9SNG9mdmllcFpPMnFTVWN4ekY?oc=5",
-    "urlSlug": null,
-    "title": "The Ultimate Green-Washing: The False Promise of LEED Certification",
-    "summary": "",
-    "publishedAt": "2026-10-14T18:56:13.000Z",
-    "categories": [],
-    "guid": "CBMinAFBVV95cUxPMTNlblpuTDUxYnh0VEdZYkhfWlU3bHVrSWRiUTJUUUtwNlVwdFMzYXVYaVdRR1AyVE0zd0ItNnJaVFVfV3htNGtSTWJTOGFGWm42QmJ6Q01ubFFaOTEtZDJRYnhFOV9lNWw0a2stNkkzLVBoZ0NHUWZ6QW9CaUpkalFETUFZR2FQcm9SNG9mdmllcFpPMnFTVWN4ekY",
-    "searchedLabel": "leed",
-    "matches": [
-      {
-        "labelId": "leed",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "LEED"
-      }
-    ],
-    "fetchedAt": "2026-10-15T11:55:47.659Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Laundry & Cleaning Today",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcmk3WmFMZUlHbmRrdEtZWTE4UGVHTmI4RXA3LWNENFZ2ZjRVbUU2cmFaX0pZdXc5MXNVcndhZ25pVFYtNHd4RGQ2OVJMbWNfUDNrLTRUdFZHZXhLRkpRTUdLcEFVaDNQWmM4OWlkaWRfZUxsQmtpb0NnRmQzOWlHOHAyU0RJdkFucEE?oc=5",
-    "urlSlug": null,
-    "title": "Project Re:claim gains GRS certification for UK polyester textile recycling",
-    "summary": "",
-    "publishedAt": "2026-10-14T18:31:05.000Z",
-    "categories": [],
-    "guid": "CBMiigFBVV95cUxQcmk3WmFMZUlHbmRrdEtZWTE4UGVHTmI4RXA3LWNENFZ2ZjRVbUU2cmFaX0pZdXc5MXNVcndhZ25pVFYtNHd4RGQ2OVJMbWNfUDNrLTRUdFZHZXhLRkpRTUdLcEFVaDNQWmM4OWlkaWRfZUxsQmtpb0NnRmQzOWlHOHAyU0RJdkFucEE",
-    "searchedLabel": "global-recycled-standard",
-    "matches": [
-      {
-        "labelId": "global-recycled-standard",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "GRS"
-      }
-    ],
-    "fetchedAt": "2026-10-15T11:55:47.659Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Seafoodnews",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOalZtSUQxeW9ldEh3WlQ5ckpCQjJZa2s0ODZXbzBVZlRoSjdMdExobWtha012aFdLTVhzY3FuQUY4cy11TDdCT0xQcnJSZUdSUk0zMjJGWVJGSzFTc2NwNmZxaFFtTFpEQkZVRGNUb0RHbk13ZV9CZjFIV3N3bmFaaTZtRjlRLVNmdWc0QVd4Nk8zUDdGVFBwSnNJdUFuMGtiYldFblFB?oc=5",
-    "urlSlug": null,
-    "title": "ASC Steps up Vietnam Support Ahead of New Farm Standard Shift",
-    "summary": "",
-    "publishedAt": "2026-10-14T14:27:43.000Z",
-    "categories": [],
-    "guid": "CBMipgFBVV95cUxOalZtSUQxeW9ldEh3WlQ5ckpCQjJZa2s0ODZXbzBVZlRoSjdMdExobWtha012aFdLTVhzY3FuQUY4cy11TDdCT0xQcnJSZUdSUk0zMjJGWVJGSzFTc2NwNmZxaFFtTFpEQkZVRGNUb0RHbk13ZV9CZjFIV3N3bmFaaTZtRjlRLVNmdWc0QVd4Nk8zUDdGVFBwSnNJdUFuMGtiYldFblFB",
-    "searchedLabel": "asc",
-    "matches": [
-      {
-        "labelId": "asc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "ASC"
-      }
-    ],
-    "fetchedAt": "2026-10-15T11:55:47.659Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "FRY Magazine",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDAzMmdBV3k0Z293dEtKVldKaW5uNHdaWHFMN2VGNGhzX0hnaWgwRGZlUDVFVkhNai1BQmNHXzFpYlc5OFlxTUwtRmFpdG84VW1meUc5a0FlcGoyUDUwbnpBczNvdmtNM25Nd1dTRjk0bkRKaWVldjlKaVdlX1VnelJyekNnRUoxZkdUMDZTVGM2OGduNWZ6UmZ4UHFsRUFqOHg4WkFXSXI0aHBQZ0E?oc=5",
-    "urlSlug": null,
-    "title": "Rockall MSC recertification brings 8,600 tonnes of sustainable haddock to market",
-    "summary": "",
-    "publishedAt": "2026-10-14T14:26:15.000Z",
-    "categories": [],
-    "guid": "CBMirgFBVV95cUxQNDAzMmdBV3k0Z293dEtKVldKaW5uNHdaWHFMN2VGNGhzX0hnaWgwRGZlUDVFVkhNai1BQmNHXzFpYlc5OFlxTUwtRmFpdG84VW1meUc5a0FlcGoyUDUwbnpBczNvdmtNM25Nd1dTRjk0bkRKaWVldjlKaVdlX1VnelJyekNnRUoxZkdUMDZTVGM2OGduNWZ6UmZ4UHFsRUFqOHg4WkFXSXI0aHBQZ0E",
-    "searchedLabel": "msc",
-    "matches": [
-      {
-        "labelId": "msc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "MSC"
       }
     ],
     "fetchedAt": "2026-10-16T11:47:00.147Z"
