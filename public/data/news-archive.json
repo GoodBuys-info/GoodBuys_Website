@@ -1,6 +1,121 @@
 [
   {
     "outletId": "google-news",
+    "outletName": "The Journal News | lohud.com",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOE1HOC1xTUZFVXVWaGRrNkpWeUpZNVRMSVRBbXhUUEVjMk1MTFJ2ZHUzWTItSkJzUURsZ0pzenZLT1VzRHBLSWhNRExqZHpIUVlpTHZVWjluX2ZxZ2UwaHJrckZkeVY3NjJiNFZubkEyaDBadWo5a1Ztbm9ZbmZPeFRubmF4QWliNFItejhRZWl5VDJBYXJDOHF3ZE9lVU5MX3k3eW9ITW5MaUVBb1RmczZ1T0REVlNPdVA5VkpqMXE4NGVLMll2VGtFVkZvcVA5UHFrQjNrRFE5YmdHajVGQV9OU0pySXJVX2xUdkVLdko1V2ZZajFFaVozZzU?oc=5",
+    "urlSlug": null,
+    "title": "Grand Mercure Medan Angkasa Celebrates Inaugural Green Globe Certification with Meaningful Sustainability Achievements",
+    "summary": "",
+    "publishedAt": "2026-11-27T14:40:08.000Z",
+    "categories": [],
+    "guid": "CBMi_AFBVV95cUxPOE1HOC1xTUZFVXVWaGRrNkpWeUpZNVRMSVRBbXhUUEVjMk1MTFJ2ZHUzWTItSkJzUURsZ0pzenZLT1VzRHBLSWhNRExqZHpIUVlpTHZVWjluX2ZxZ2UwaHJrckZkeVY3NjJiNFZubkEyaDBadWo5a1Ztbm9ZbmZPeFRubmF4QWliNFItejhRZWl5VDJBYXJDOHF3ZE9lVU5MX3k3eW9ITW5MaUVBb1RmczZ1T0REVlNPdVA5VkpqMXE4NGVLMll2VGtFVkZvcVA5UHFrQjNrRFE5YmdHajVGQV9OU0pySXJVX2xUdkVLdko1V2ZZajFFaVozZzU",
+    "searchedLabel": "green-globe",
+    "matches": [
+      {
+        "labelId": "green-globe",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Green Globe"
+      }
+    ],
+    "fetchedAt": "2026-11-27T16:55:44.570Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "The Fishing Daily",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGhqbnNqWWZYR2ZNNVpfT2RhR19pUDgxSmR6ZDdXamdycXZ2SGlYUHVaMDcyMTJjeFpLME9Qdm1rZFp4QkxjSG1scHY5em5GOE9PR1A0RGxVREFzLXEwbmx4LTRIRjNTdlFZVW9na0NaRjRCSV9PSHBLV3dKSXlHVmdTMUR6dWR3YlFkQ1E2TFBCd2luZWVZUmI0SEdVOE9YSmZnMS0xbHhGaVpaSmpzWWE5Vmg?oc=5",
+    "urlSlug": null,
+    "title": "IFSA Chair Challenges MSC Over Blue Whiting Certification",
+    "summary": "",
+    "publishedAt": "2026-11-27T14:05:36.000Z",
+    "categories": [],
+    "guid": "CBMitAFBVV95cUxPRGhqbnNqWWZYR2ZNNVpfT2RhR19pUDgxSmR6ZDdXamdycXZ2SGlYUHVaMDcyMTJjeFpLME9Qdm1rZFp4QkxjSG1scHY5em5GOE9PR1A0RGxVREFzLXEwbmx4LTRIRjNTdlFZVW9na0NaRjRCSV9PSHBLV3dKSXlHVmdTMUR6dWR3YlFkQ1E2TFBCd2luZWVZUmI0SEdVOE9YSmZnMS0xbHhGaVpaSmpzWWE5Vmg",
+    "searchedLabel": "msc",
+    "matches": [
+      {
+        "labelId": "msc",
+        "bucket": "ACRONYM",
+        "tier": "text-acronym",
+        "where": "title",
+        "matchedText": "MSC"
+      }
+    ],
+    "fetchedAt": "2026-11-27T16:55:44.570Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Breaking Travel News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV2ZsbGZrMkJoMkJMbkc1dS1GcWZWeVNnbGRENVViTVJKR3dxNGRkQjJFTG1sQjJQLVF6UVJtMEhtdHhEMXBObk9BYXlhNXYwdWtQZ2lGOVA5cWRrR2MtVnJqWmtfY0k4eHlLNTkxVEV6Vmo5UmJuVHozaWF4d0FseUhKMDZfcUE?oc=5",
+    "urlSlug": null,
+    "title": "Bob W Achieves B Corp Certification News",
+    "summary": "",
+    "publishedAt": "2026-11-27T09:45:37.000Z",
+    "categories": [],
+    "guid": "CBMihwFBVV95cUxPV2ZsbGZrMkJoMkJMbkc1dS1GcWZWeVNnbGRENVViTVJKR3dxNGRkQjJFTG1sQjJQLVF6UVJtMEhtdHhEMXBObk9BYXlhNXYwdWtQZ2lGOVA5cWRrR2MtVnJqWmtfY0k4eHlLNTkxVEV6Vmo5UmJuVHozaWF4d0FseUhKMDZfcUE",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-27T16:55:44.570Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "FinSMEs",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWFNeUozS2xzZXc0UV9uYklXQjQ0Zzh3MEp4NllUdjlqY01PS3Z5ZzJOVHNCZHJwLWFYVXRMejhtMnhFWnJFWjhYRGZrc3ZPMHNoeTJIdXp6TDUwdDd4czZQdGZvd3FsNVNpaW9xc1ZVNXdqN3M1TTl4b1QtUE93Q1NmT2J3VEdw?oc=5",
+    "urlSlug": null,
+    "title": "WaterSense Raises €5.75M in Pre-Seed Funding",
+    "summary": "",
+    "publishedAt": "2026-11-27T09:38:34.000Z",
+    "categories": [],
+    "guid": "CBMiiAFBVV95cUxOZWFNeUozS2xzZXc0UV9uYklXQjQ0Zzh3MEp4NllUdjlqY01PS3Z5ZzJOVHNCZHJwLWFYVXRMejhtMnhFWnJFWjhYRGZrc3ZPMHNoeTJIdXp6TDUwdDd4czZQdGZvd3FsNVNpaW9xc1ZVNXdqN3M1TTl4b1QtUE93Q1NmT2J3VEdw",
+    "searchedLabel": "watersense",
+    "matches": [
+      {
+        "labelId": "watersense",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "WaterSense"
+      }
+    ],
+    "fetchedAt": "2026-11-27T16:55:44.570Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "Breaking Travel News",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVhXUkxkclZKdzlvSTJIenlodkFmYVJyQ3dtM2RMV2lUdDNxS3g2Mi13RS03S0VHaE0wQzNqWi0zTXNTSHVXeWkzMjM5Q3NrUkViVjNNTEFFVWt4LTR2VEJJb0NtUHAzOXo4dGREZk9UYTY5OW5PLVJkZWV4cFgweWxWbUY4S01zVTJjZ0hKT19WQXBwV0Z5Ty1FY0FZZ3ppbngxNnB3TW5JMzhGSVRBSA?oc=5",
+    "urlSlug": null,
+    "title": "Bob W achieves B Corp certification with 93.5 assessment score",
+    "summary": "",
+    "publishedAt": "2026-11-27T09:37:05.000Z",
+    "categories": [],
+    "guid": "CBMisAFBVV95cUxNQVhXUkxkclZKdzlvSTJIenlodkFmYVJyQ3dtM2RMV2lUdDNxS3g2Mi13RS03S0VHaE0wQzNqWi0zTXNTSHVXeWkzMjM5Q3NrUkViVjNNTEFFVWt4LTR2VEJJb0NtUHAzOXo4dGREZk9UYTY5OW5PLVJkZWV4cFgweWxWbUY4S01zVTJjZ0hKT19WQXBwV0Z5Ty1FY0FZZ3ppbngxNnB3TW5JMzhGSVRBSA",
+    "searchedLabel": "b-corp",
+    "matches": [
+      {
+        "labelId": "b-corp",
+        "bucket": "SAFE",
+        "tier": "text-substring",
+        "where": "title",
+        "matchedText": "B Corp Certification"
+      }
+    ],
+    "fetchedAt": "2026-11-27T16:55:44.570Z"
+  },
+  {
+    "outletId": "google-news",
     "outletName": "Tech Funding News",
     "aggregator": "Google News",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbGhyajM3UmlpMzBfMjNpZTFDV1FvQ0hJbGpPWmJCU2VPdGZlLWhpLUhSOHdHdFZXQWY2NVJuUS13WnlFTFoxcldIQ1VhNVR4TDVWN2xMdWNPejBQTXBKYVNSVi04MzFmOU1ueUlaaXpfQmFTOGg1UXFmSVVJWjVZM0RGUQ?oc=5",
@@ -711,6 +826,29 @@
       }
     ],
     "fetchedAt": "2026-11-24T18:07:57.779Z"
+  },
+  {
+    "outletId": "google-news",
+    "outletName": "KDSM",
+    "aggregator": "Google News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON1lTbWQ0VXlCbFlMWWZQRldxeFlJbm9nUVVSelVJT3UxXzVYT2RsNlNIZG5seW9QeU8wVUpsRlpTS3pUZmJPQ2RxWjdqd09LMnhhcDFsWVF6M2pxS1h4ZlpFMVBKZERnWHR0dTAzUFZHQ1VhT19wUEpFb2g4eXNVRjFkMmljZjBpWGNVNFYyUmhLN2VMV2RSZVlHSkU?oc=5",
+    "urlSlug": null,
+    "title": "Blue Angel pilots land in Des Moines to preview 2027 Iowa Air Show",
+    "summary": "",
+    "publishedAt": "2026-11-24T15:02:09.000Z",
+    "categories": [],
+    "guid": "CBMinAFBVV95cUxON1lTbWQ0VXlCbFlMWWZQRldxeFlJbm9nUVVSelVJT3UxXzVYT2RsNlNIZG5seW9QeU8wVUpsRlpTS3pUZmJPQ2RxWjdqd09LMnhhcDFsWVF6M2pxS1h4ZlpFMVBKZERnWHR0dTAzUFZHQ1VhT19wUEpFb2g4eXNVRjFkMmljZjBpWGNVNFYyUmhLN2VMV2RSZVlHSkU",
+    "searchedLabel": "blue-angel",
+    "matches": [
+      {
+        "labelId": "blue-angel",
+        "bucket": "AMBIGUOUS",
+        "tier": "text-canonical",
+        "where": "title",
+        "matchedText": "Blue Angel"
+      }
+    ],
+    "fetchedAt": "2026-11-27T16:55:44.570Z"
   },
   {
     "outletId": "google-news",
@@ -9215,143 +9353,5 @@
       }
     ],
     "fetchedAt": "2026-10-29T13:32:23.296Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Wood Central",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45R1R1eV8xLXNaWU5vQVFaN0llVWJLY3BYUklVMGJ5cTJBNms1RkZaVDVVV1pydVJlUWFHYzBnU3Y3UnVIeDFjR1BTNm9xZlJHUFk0ZUVmeFdkbUVyRzFvNW9XU0U?oc=5",
-    "urlSlug": null,
-    "title": "FSC Backs On-Site Check of IKEA-Linked Forest Felled in Romania",
-    "summary": "",
-    "publishedAt": "2026-10-16T06:41:06.000Z",
-    "categories": [],
-    "guid": "CBMiZEFVX3lxTE45R1R1eV8xLXNaWU5vQVFaN0llVWJLY3BYUklVMGJ5cTJBNms1RkZaVDVVV1pydVJlUWFHYzBnU3Y3UnVIeDFjR1BTNm9xZlJHUFk0ZUVmeFdkbUVyRzFvNW9XU0U",
-    "searchedLabel": "fsc",
-    "matches": [
-      {
-        "labelId": "fsc",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "FSC"
-      }
-    ],
-    "fetchedAt": "2026-10-16T11:47:00.147Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "newsroom.ing.be",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWDA0eVVTQWJMdkFORHFPYm5xVWFvTlBwMTBOaEcxNnM4VkhUa3VrUzVzaHFiTWdtZzRGd0o0S2k2UW1URm9FVzNaNGZYQlhJRWtXNkdta2lWNEFwaW5tcExXaWpNbDI3TVdqeUZmajlCUkFxRU9YeGtCd3dKVHJUbEotNE13cktLQXc?oc=5",
-    "urlSlug": null,
-    "title": "The Marnix receives final BREEAM Outstanding certification",
-    "summary": "",
-    "publishedAt": "2026-10-16T06:30:00.000Z",
-    "categories": [],
-    "guid": "CBMiigFBVV95cUxPWDA0eVVTQWJMdkFORHFPYm5xVWFvTlBwMTBOaEcxNnM4VkhUa3VrUzVzaHFiTWdtZzRGd0o0S2k2UW1URm9FVzNaNGZYQlhJRWtXNkdta2lWNEFwaW5tcExXaWpNbDI3TVdqeUZmajlCUkFxRU9YeGtCd3dKVHJUbEotNE13cktLQXc",
-    "searchedLabel": "breeam",
-    "matches": [
-      {
-        "labelId": "breeam",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "BREEAM"
-      }
-    ],
-    "fetchedAt": "2026-10-17T11:04:57.945Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "FTN news",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWhGbkhlZnFGSzBnS3ZndUMzWFMyVUJVOGgzOXNhMkhaWjhhMjNTekwycXhhYWFEVDNldkZHOUZaSjh3U0hKWnRSa1lmbDR6R0FjTmJJYnV5Qnp0MVBjRk1rcmZVaTRTYzBrUzl6RmJxSURqTVZNUm9tdG9qcWZYVzZnT0l6Z2dk?oc=5",
-    "urlSlug": null,
-    "title": "Brazil Approves 75 Blue Flag Beaches and Marinas for 2027",
-    "summary": "",
-    "publishedAt": "2026-10-16T05:54:35.000Z",
-    "categories": [],
-    "guid": "CBMiiAFBVV95cUxPdWhGbkhlZnFGSzBnS3ZndUMzWFMyVUJVOGgzOXNhMkhaWjhhMjNTekwycXhhYWFEVDNldkZHOUZaSjh3U0hKWnRSa1lmbDR6R0FjTmJJYnV5Qnp0MVBjRk1rcmZVaTRTYzBrUzl6RmJxSURqTVZNUm9tdG9qcWZYVzZnT0l6Z2dk",
-    "searchedLabel": "blue-flag",
-    "matches": [
-      {
-        "labelId": "blue-flag",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Flag"
-      }
-    ],
-    "fetchedAt": "2026-10-16T11:47:00.147Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "DragCoverage",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1XNDJFMkRsYVU2SWZnZGJ5SDBlazhScUpwWjY0bHBrMW05QkNOdHk2Z0FQWmNlOFRlSDFOLUl2R2IzVWZKc0VF?oc=5",
-    "urlSlug": null,
-    "title": "Meet “Blue Angel” our $4,500 Barn Find",
-    "summary": "",
-    "publishedAt": "2026-10-15T22:29:50.000Z",
-    "categories": [],
-    "guid": "CBMiR0FVX3lxTE1XNDJFMkRsYVU2SWZnZGJ5SDBlazhScUpwWjY0bHBrMW05QkNOdHk2Z0FQWmNlOFRlSDFOLUl2R2IzVWZKc0VF",
-    "searchedLabel": "blue-angel",
-    "matches": [
-      {
-        "labelId": "blue-angel",
-        "bucket": "AMBIGUOUS",
-        "tier": "text-canonical",
-        "where": "title",
-        "matchedText": "Blue Angel"
-      }
-    ],
-    "fetchedAt": "2026-10-16T11:47:00.147Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Grand Rapids Magazine",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1RDSnVSQ3Z4OEFoSTRlaFc4V3c4QVJTRnpNcGJYVmhGSnhkR21HblNVejFoODFiREtjNThDSHVqTW55dGpuTmRRclc0ZG1ZZS1sb2RMQ2t5c3JScjJCMzY1NnF4SGtjejFxRWxSX25fTTRCdXhQWUM1XzJESFQ1R3pEWGpWdkYxRzVSSmVDRm9BWFA4eTRudURRbUdDZ05N?oc=5",
-    "urlSlug": null,
-    "title": "MLK Park Community Center Earns LEED Silver Certification",
-    "summary": "",
-    "publishedAt": "2026-10-15T21:45:22.000Z",
-    "categories": [],
-    "guid": "CBMioAFBVV95cUxPb1RDSnVSQ3Z4OEFoSTRlaFc4V3c4QVJTRnpNcGJYVmhGSnhkR21HblNVejFoODFiREtjNThDSHVqTW55dGpuTmRRclc0ZG1ZZS1sb2RMQ2t5c3JScjJCMzY1NnF4SGtjejFxRWxSX25fTTRCdXhQWUM1XzJESFQ1R3pEWGpWdkYxRzVSSmVDRm9BWFA4eTRudURRbUdDZ05N",
-    "searchedLabel": "leed",
-    "matches": [
-      {
-        "labelId": "leed",
-        "bucket": "ACRONYM",
-        "tier": "text-acronym",
-        "where": "title",
-        "matchedText": "LEED"
-      }
-    ],
-    "fetchedAt": "2026-10-16T11:47:00.147Z"
-  },
-  {
-    "outletId": "google-news",
-    "outletName": "Seoul Economic Daily",
-    "aggregator": "Google News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONWNPOEpVV2Q0NUhEbFpLbXBCeGJWdVN2Y202aTBFMU5LaThPOE52YnR3ZjdtMHByS1hvd0owUG92XzNhZXh5eDAya3pBRS1IMzRMVkNZN0t3WVhGVlM1Q3Y4eFNtcnhMTUhaaVcxa0ZDVUo0LVBQa2cwYWQ3d3ExR0xFYnpSdzRuaWl5WW5JUU9HV01QallreXZ2aUhaMUU?oc=5",
-    "urlSlug": null,
-    "title": "Aromatica Becomes First Listed Korean Firm to Win B Corp Certification",
-    "summary": "",
-    "publishedAt": "2026-10-15T21:04:05.000Z",
-    "categories": [],
-    "guid": "CBMinwFBVV95cUxONWNPOEpVV2Q0NUhEbFpLbXBCeGJWdVN2Y202aTBFMU5LaThPOE52YnR3ZjdtMHByS1hvd0owUG92XzNhZXh5eDAya3pBRS1IMzRMVkNZN0t3WVhGVlM1Q3Y4eFNtcnhMTUhaaVcxa0ZDVUo0LVBQa2cwYWQ3d3ExR0xFYnpSdzRuaWl5WW5JUU9HV01QallreXZ2aUhaMUU",
-    "searchedLabel": "b-corp",
-    "matches": [
-      {
-        "labelId": "b-corp",
-        "bucket": "SAFE",
-        "tier": "text-substring",
-        "where": "title",
-        "matchedText": "B Corp Certification"
-      }
-    ],
-    "fetchedAt": "2026-10-16T11:47:00.147Z"
   }
 ]
